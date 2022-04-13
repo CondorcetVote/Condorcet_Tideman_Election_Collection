@@ -21,7 +21,7 @@ ini_set('memory_limit', '4096M');
 
     $tideman_collection_list = [];
 
-    $dir = __DIR__.'/../tideman_collection/';
+    $dir = __DIR__.'/../Input_Tideman_Election_Collection/';
     foreach (\array_diff(\scandir($dir), ['.', '..']) as $fileName) :
         $tideman_collection_list[\str_replace('.HIL', '', $fileName)] = $dir.$fileName;
     endforeach;
@@ -71,7 +71,6 @@ ini_set('memory_limit', '4096M');
                 $create_dir($dir);
 
                 $path = "$dir/$name-$mode-$methodName.json";
-                var_dump($path);
 
                 file_put_contents($path, $json);
 
