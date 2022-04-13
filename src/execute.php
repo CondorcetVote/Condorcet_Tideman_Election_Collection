@@ -58,12 +58,13 @@ ini_set('memory_limit', '4096M');
                 echo 'Write Result: '.$name.' - '.$mode.' - '.$methodName."\n";
 
                 $json = json_encode([
-                        'Ranking'   => $oneResult['ranking'],
-                        'Stats'     => $oneResult['stats']
+                        'Ranking'           => $oneResult['ranking'],
+                        'Number Of Seats'   => $oneResult['number_of_seats'],
+                        'Stats'             => $oneResult['stats']
                     ],
                     \JSON_PRETTY_PRINT);
 
-                $dir = __DIR__."/../Results_Output/$name";
+                $dir = $base_dir = __DIR__."/../Results_Output/$name";
                 $create_dir($dir);
 
                 $dir .= "/$mode";
@@ -73,6 +74,9 @@ ini_set('memory_limit', '4096M');
                 var_dump($path);
 
                 file_put_contents($path, $json);
+
+                // Condorcet Format
+                file_put_contents("$base_dir/$name-aggregated_votes.cvotes", $oneResult['votes_aggregated_condorcetFormat']);
             endforeach;
         endforeach;
     endforeach;
@@ -90,7 +94,9 @@ ini_set('memory_limit', '4096M');
                 echo 'Compute method: '.$name.' - '.$index.' - '.$method."\n";
                 $results[$method][$index] = [
                     'ranking' => $election->getResult($method)->getResultAsString(),
-                    'stats'   => $election->getResult($method)->getStats()
+                    'stats'   => $election->getResult($method)->getStats(),
+                    'number_of_seats'       => $election->getNumberOfSeats(),
+                    'votes_aggregated_condorcetFormat' => $election->getVotesListAsString()
                 ];
             } catch (CondorcetPublicApiException $e) {
                 echo $e->getMessage();
