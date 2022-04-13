@@ -1,0 +1,116 @@
+{
+    "Ranking": "Candidate  1 > Candidate  9 > Candidate  3 > Candidate  8 > Candidate  7 > Candidate  4 > Candidate  2 > Candidate 10 > Candidate  6 > Candidate  5",
+    "Number Of Seats": 3,
+    "Stats": {
+        "Candidate  1": {
+            "Candidate  2": 226,
+            "Candidate  3": 192,
+            "Candidate  4": 201,
+            "Candidate  5": 229,
+            "Candidate  6": 230,
+            "Candidate  7": 214,
+            "Candidate  8": 204,
+            "Candidate  9": 201,
+            "Candidate 10": 215
+        },
+        "Candidate  2": {
+            "Candidate  1": 0,
+            "Candidate  3": 0,
+            "Candidate  4": 105,
+            "Candidate  5": 123,
+            "Candidate  6": 121,
+            "Candidate  7": 105,
+            "Candidate  8": 0,
+            "Candidate  9": 0,
+            "Candidate 10": 111
+        },
+        "Candidate  3": {
+            "Candidate  1": 0,
+            "Candidate  2": 164,
+            "Candidate  4": 154,
+            "Candidate  5": 190,
+            "Candidate  6": 181,
+            "Candidate  7": 160,
+            "Candidate  8": 156,
+            "Candidate  9": 0,
+            "Candidate 10": 171
+        },
+        "Candidate  4": {
+            "Candidate  1": 0,
+            "Candidate  2": 115,
+            "Candidate  3": 0,
+            "Candidate  5": 146,
+            "Candidate  6": 141,
+            "Candidate  7": 105,
+            "Candidate  8": 0,
+            "Candidate  9": 0,
+            "Candidate 10": 127
+        },
+        "Candidate  5": {
+            "Candidate  1": 0,
+            "Candidate  2": 0,
+            "Candidate  3": 0,
+            "Candidate  4": 0,
+            "Candidate  6": 0,
+            "Candidate  7": 0,
+            "Candidate  8": 0,
+            "Candidate  9": 0,
+            "Candidate 10": 0
+        },
+        "Candidate  6": {
+            "Candidate  1": 0,
+            "Candidate  2": 0,
+            "Candidate  3": 0,
+            "Candidate  4": 0,
+            "Candidate  5": 73,
+            "Candidate  7": 0,
+            "Candidate  8": 0,
+            "Candidate  9": 0,
+            "Candidate 10": 0
+        },
+        "Candidate  7": {
+            "Candidate  1": 0,
+            "Candidate  2": 115,
+            "Candidate  3": 0,
+            "Candidate  4": 124,
+            "Candidate  5": 137,
+            "Candidate  6": 130,
+            "Candidate  8": 0,
+            "Candidate  9": 0,
+            "Candidate 10": 136
+        },
+        "Candidate  8": {
+            "Candidate  1": 0,
+            "Candidate  2": 139,
+            "Candidate  3": 0,
+            "Candidate  4": 143,
+            "Candidate  5": 169,
+            "Candidate  6": 167,
+            "Candidate  7": 140,
+            "Candidate  9": 0,
+            "Candidate 10": 169
+        },
+        "Candidate  9": {
+            "Candidate  1": 0,
+            "Candidate  2": 193,
+            "Candidate  3": 182,
+            "Candidate  4": 193,
+            "Candidate  5": 216,
+            "Candidate  6": 219,
+            "Candidate  7": 183,
+            "Candidate  8": 191,
+            "Candidate 10": 210
+        },
+        "Candidate 10": {
+            "Candidate  1": 0,
+            "Candidate  2": 0,
+            "Candidate  3": 0,
+            "Candidate  4": 0,
+            "Candidate  5": 95,
+            "Candidate  6": 94,
+            "Candidate  7": 0,
+            "Candidate  8": 0,
+            "Candidate  9": 0
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Ranking": "4 > 1 > 6 > 5 > 3 > 2",
+    "Number Of Seats": 3,
+    "Stats": {
+        "1": {
+            "sum_defeat_margin": 5
+        },
+        "2": {
+            "sum_defeat_margin": 30
+        },
+        "3": {
+            "sum_defeat_margin": 20
+        },
+        "4": {
+            "sum_defeat_margin": 0
+        },
+        "5": {
+            "sum_defeat_margin": 14
+        },
+        "6": {
+            "sum_defeat_margin": 10
+        }
+    }
+}

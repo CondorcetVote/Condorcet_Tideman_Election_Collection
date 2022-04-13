@@ -1,0 +1,45 @@
+{
+    "Ranking": "A > M > F > J > B > D > C > G > K > H > E > L > I",
+    "Number Of Seats": 8,
+    "Stats": {
+        "A": {
+            "worst_pairwise_opposition": 147
+        },
+        "B": {
+            "worst_pairwise_opposition": 171
+        },
+        "C": {
+            "worst_pairwise_opposition": 185
+        },
+        "D": {
+            "worst_pairwise_opposition": 174
+        },
+        "E": {
+            "worst_pairwise_opposition": 220
+        },
+        "F": {
+            "worst_pairwise_opposition": 166
+        },
+        "G": {
+            "worst_pairwise_opposition": 200
+        },
+        "H": {
+            "worst_pairwise_opposition": 216
+        },
+        "I": {
+            "worst_pairwise_opposition": 227
+        },
+        "J": {
+            "worst_pairwise_opposition": 169
+        },
+        "K": {
+            "worst_pairwise_opposition": 209
+        },
+        "L": {
+            "worst_pairwise_opposition": 223
+        },
+        "M": {
+            "worst_pairwise_opposition": 148
+        }
+    }
+}

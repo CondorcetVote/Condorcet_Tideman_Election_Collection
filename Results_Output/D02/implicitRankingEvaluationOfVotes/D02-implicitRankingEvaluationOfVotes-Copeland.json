@@ -1,0 +1,18 @@
+{
+    "Ranking": "Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Branden Robinson": {
+            "balance": 1
+        },
+        "Raphael Hertzog": {
+            "balance": -1
+        },
+        "Bdale Garbee": {
+            "balance": 3
+        },
+        "None Of The Above": {
+            "balance": -3
+        }
+    }
+}

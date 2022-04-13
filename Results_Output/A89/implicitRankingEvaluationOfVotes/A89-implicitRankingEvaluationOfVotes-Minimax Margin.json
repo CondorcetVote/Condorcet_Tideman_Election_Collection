@@ -1,0 +1,21 @@
+{
+    "Ranking": "5 > 4 > 1 > 2 > 3",
+    "Number Of Seats": 3,
+    "Stats": {
+        "1": {
+            "worst_pairwise_defeat_margin": 73
+        },
+        "2": {
+            "worst_pairwise_defeat_margin": 107
+        },
+        "3": {
+            "worst_pairwise_defeat_margin": 126
+        },
+        "4": {
+            "worst_pairwise_defeat_margin": 28
+        },
+        "5": {
+            "worst_pairwise_defeat_margin": -28
+        }
+    }
+}

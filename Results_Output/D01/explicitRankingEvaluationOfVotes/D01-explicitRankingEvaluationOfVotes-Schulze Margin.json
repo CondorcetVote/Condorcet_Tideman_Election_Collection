@@ -1,0 +1,36 @@
+{
+    "Ranking": "Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Branden Robinson": {
+            "Anand Kumria": 134,
+            "Ben Collins": 0,
+            "Bdale Garbee": 15,
+            "None Of The Above": 133
+        },
+        "Anand Kumria": {
+            "Branden Robinson": 0,
+            "Ben Collins": 0,
+            "Bdale Garbee": 0,
+            "None Of The Above": 39
+        },
+        "Ben Collins": {
+            "Branden Robinson": 37,
+            "Anand Kumria": 151,
+            "Bdale Garbee": 31,
+            "None Of The Above": 142
+        },
+        "Bdale Garbee": {
+            "Branden Robinson": 0,
+            "Anand Kumria": 158,
+            "Ben Collins": 0,
+            "None Of The Above": 169
+        },
+        "None Of The Above": {
+            "Branden Robinson": 0,
+            "Anand Kumria": 0,
+            "Ben Collins": 0,
+            "Bdale Garbee": 0
+        }
+    }
+}

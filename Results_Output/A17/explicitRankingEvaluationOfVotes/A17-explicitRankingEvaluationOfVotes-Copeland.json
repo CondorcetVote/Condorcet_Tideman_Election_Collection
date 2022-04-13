@@ -1,0 +1,45 @@
+{
+    "Ranking": "A > J > B > F > K > D = H = L > G = I > C > E = M",
+    "Number Of Seats": 8,
+    "Stats": {
+        "A": {
+            "balance": 12
+        },
+        "B": {
+            "balance": 8
+        },
+        "C": {
+            "balance": -6
+        },
+        "D": {
+            "balance": -2
+        },
+        "E": {
+            "balance": -8
+        },
+        "F": {
+            "balance": 6
+        },
+        "G": {
+            "balance": -4
+        },
+        "H": {
+            "balance": -2
+        },
+        "I": {
+            "balance": -4
+        },
+        "J": {
+            "balance": 10
+        },
+        "K": {
+            "balance": 0
+        },
+        "L": {
+            "balance": -2
+        },
+        "M": {
+            "balance": -8
+        }
+    }
+}

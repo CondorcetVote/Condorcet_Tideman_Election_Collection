@@ -1,0 +1,21 @@
+{
+    "Ranking": "Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Branden Robinson": {
+            "balance": 2
+        },
+        "Anand Kumria": {
+            "balance": -2
+        },
+        "Ben Collins": {
+            "balance": 4
+        },
+        "Bdale Garbee": {
+            "balance": 0
+        },
+        "None Of The Above": {
+            "balance": -4
+        }
+    }
+}

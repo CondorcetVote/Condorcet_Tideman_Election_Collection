@@ -1,0 +1,63 @@
+{
+    "Ranking": "1 = 17 > 12 > 4 = 5 = 13 = 16 > 6 = 7 = 8 = 9 = 14 = 19 > 3 = 18 > 2 = 10 = 11 > 15",
+    "Number Of Seats": 3,
+    "Stats": {
+        "1": {
+            "worst_pairwise_defeat_margin": 2
+        },
+        "2": {
+            "worst_pairwise_defeat_margin": 7
+        },
+        "3": {
+            "worst_pairwise_defeat_margin": 6
+        },
+        "4": {
+            "worst_pairwise_defeat_margin": 4
+        },
+        "5": {
+            "worst_pairwise_defeat_margin": 4
+        },
+        "6": {
+            "worst_pairwise_defeat_margin": 5
+        },
+        "7": {
+            "worst_pairwise_defeat_margin": 5
+        },
+        "8": {
+            "worst_pairwise_defeat_margin": 5
+        },
+        "9": {
+            "worst_pairwise_defeat_margin": 5
+        },
+        "10": {
+            "worst_pairwise_defeat_margin": 7
+        },
+        "11": {
+            "worst_pairwise_defeat_margin": 7
+        },
+        "12": {
+            "worst_pairwise_defeat_margin": 3
+        },
+        "13": {
+            "worst_pairwise_defeat_margin": 4
+        },
+        "14": {
+            "worst_pairwise_defeat_margin": 5
+        },
+        "15": {
+            "worst_pairwise_defeat_margin": 9
+        },
+        "16": {
+            "worst_pairwise_defeat_margin": 4
+        },
+        "17": {
+            "worst_pairwise_defeat_margin": 2
+        },
+        "18": {
+            "worst_pairwise_defeat_margin": 6
+        },
+        "19": {
+            "worst_pairwise_defeat_margin": 5
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "Ranking": "2 > 7 = 14 = 15 = 17 > 1 = 5 = 9 = 10 = 12 = 13 = 21 > 3 = 23 = 25 = 29 > 4 = 11 = 16 = 20 = 24 = 28 > 6 = 8 = 19 = 27 > 26 > 18 > 22",
+    "Number Of Seats": 2,
+    "Stats": {
+        "1": {
+            "worst_pairwise_opposition": 8
+        },
+        "2": {
+            "worst_pairwise_opposition": 6
+        },
+        "3": {
+            "worst_pairwise_opposition": 9
+        },
+        "4": {
+            "worst_pairwise_opposition": 10
+        },
+        "5": {
+            "worst_pairwise_opposition": 8
+        },
+        "6": {
+            "worst_pairwise_opposition": 11
+        },
+        "7": {
+            "worst_pairwise_opposition": 7
+        },
+        "8": {
+            "worst_pairwise_opposition": 11
+        },
+        "9": {
+            "worst_pairwise_opposition": 8
+        },
+        "10": {
+            "worst_pairwise_opposition": 8
+        },
+        "11": {
+            "worst_pairwise_opposition": 10
+        },
+        "12": {
+            "worst_pairwise_opposition": 8
+        },
+        "13": {
+            "worst_pairwise_opposition": 8
+        },
+        "14": {
+            "worst_pairwise_opposition": 7
+        },
+        "15": {
+            "worst_pairwise_opposition": 7
+        },
+        "16": {
+            "worst_pairwise_opposition": 10
+        },
+        "17": {
+            "worst_pairwise_opposition": 7
+        },
+        "18": {
+            "worst_pairwise_opposition": 13
+        },
+        "19": {
+            "worst_pairwise_opposition": 11
+        },
+        "20": {
+            "worst_pairwise_opposition": 10
+        },
+        "21": {
+            "worst_pairwise_opposition": 8
+        },
+        "22": {
+            "worst_pairwise_opposition": 14
+        },
+        "23": {
+            "worst_pairwise_opposition": 9
+        },
+        "24": {
+            "worst_pairwise_opposition": 10
+        },
+        "25": {
+            "worst_pairwise_opposition": 9
+        },
+        "26": {
+            "worst_pairwise_opposition": 12
+        },
+        "27": {
+            "worst_pairwise_opposition": 11
+        },
+        "28": {
+            "worst_pairwise_opposition": 10
+        },
+        "29": {
+            "worst_pairwise_opposition": 9
+        }
+    }
+}

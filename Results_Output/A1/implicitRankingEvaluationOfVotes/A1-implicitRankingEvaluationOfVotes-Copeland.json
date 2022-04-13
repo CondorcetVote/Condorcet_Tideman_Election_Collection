@@ -1,0 +1,36 @@
+{
+    "Ranking": "Candidate  1 > Candidate  9 > Candidate  3 > Candidate  8 > Candidate  2 = Candidate  4 = Candidate  7 > Candidate 10 > Candidate  6 > Candidate  5",
+    "Number Of Seats": 3,
+    "Stats": {
+        "Candidate  1": {
+            "balance": 9
+        },
+        "Candidate  2": {
+            "balance": -1
+        },
+        "Candidate  3": {
+            "balance": 5
+        },
+        "Candidate  4": {
+            "balance": -1
+        },
+        "Candidate  5": {
+            "balance": -9
+        },
+        "Candidate  6": {
+            "balance": -7
+        },
+        "Candidate  7": {
+            "balance": -1
+        },
+        "Candidate  8": {
+            "balance": 3
+        },
+        "Candidate  9": {
+            "balance": 7
+        },
+        "Candidate 10": {
+            "balance": -5
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Ranking": "Branden Robinson > Matthew Garrett > Anthony Towns > Andreas Schuldei > Angus Lees > None of the Above > Jonathan Walther",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Jonathan Walther": {
+            "sum_defeat_margin": 1879
+        },
+        "Matthew Garrett": {
+            "sum_defeat_margin": 17
+        },
+        "Branden Robinson": {
+            "sum_defeat_margin": 0
+        },
+        "Anthony Towns": {
+            "sum_defeat_margin": 44
+        },
+        "Angus Lees": {
+            "sum_defeat_margin": 1086
+        },
+        "Andreas Schuldei": {
+            "sum_defeat_margin": 288
+        },
+        "None of the Above": {
+            "sum_defeat_margin": 1194
+        }
+    }
+}

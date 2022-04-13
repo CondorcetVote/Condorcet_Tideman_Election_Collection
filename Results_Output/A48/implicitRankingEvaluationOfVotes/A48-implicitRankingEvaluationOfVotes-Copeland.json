@@ -1,0 +1,36 @@
+{
+    "Ranking": "4 > 6 > 2 > 5 > 3 > 10 > 7 > 8 > 9 > 1",
+    "Number Of Seats": 9,
+    "Stats": {
+        "1": {
+            "balance": -9
+        },
+        "2": {
+            "balance": 5
+        },
+        "3": {
+            "balance": 1
+        },
+        "4": {
+            "balance": 9
+        },
+        "5": {
+            "balance": 3
+        },
+        "6": {
+            "balance": 7
+        },
+        "7": {
+            "balance": -3
+        },
+        "8": {
+            "balance": -5
+        },
+        "9": {
+            "balance": -7
+        },
+        "10": {
+            "balance": -1
+        }
+    }
+}

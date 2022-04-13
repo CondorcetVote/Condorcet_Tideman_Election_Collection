@@ -1,0 +1,81 @@
+{
+    "Ranking": "Candidate  1 > Candidate  9 > Candidate  8 > Candidate  4 > Candidate  2 > Candidate  3 > Candidate  7 > Candidate 10 > Candidate  6 > Candidate  5",
+    "Number Of Seats": 3,
+    "Stats": {
+        "majority": 190,
+        "rounds": {
+            "1": {
+                "Candidate  1": 128,
+                "Candidate  2": 36,
+                "Candidate  3": 34,
+                "Candidate  4": 31,
+                "Candidate  5": 2,
+                "Candidate  6": 10,
+                "Candidate  7": 24,
+                "Candidate  8": 31,
+                "Candidate  9": 65,
+                "Candidate 10": 19
+            },
+            "2": {
+                "Candidate  1": 128,
+                "Candidate  2": 36,
+                "Candidate  3": 34,
+                "Candidate  4": 31,
+                "Candidate  6": 10,
+                "Candidate  7": 24,
+                "Candidate  8": 32,
+                "Candidate  9": 65,
+                "Candidate 10": 20
+            },
+            "3": {
+                "Candidate  1": 128,
+                "Candidate  2": 36,
+                "Candidate  3": 35,
+                "Candidate  4": 31,
+                "Candidate  7": 30,
+                "Candidate  8": 33,
+                "Candidate  9": 67,
+                "Candidate 10": 20
+            },
+            "4": {
+                "Candidate  1": 134,
+                "Candidate  2": 36,
+                "Candidate  3": 36,
+                "Candidate  4": 35,
+                "Candidate  7": 31,
+                "Candidate  8": 33,
+                "Candidate  9": 72
+            },
+            "5": {
+                "Candidate  1": 139,
+                "Candidate  2": 40,
+                "Candidate  3": 37,
+                "Candidate  4": 38,
+                "Candidate  8": 39,
+                "Candidate  9": 82
+            },
+            "6": {
+                "Candidate  1": 160,
+                "Candidate  2": 40,
+                "Candidate  4": 44,
+                "Candidate  8": 45,
+                "Candidate  9": 84
+            },
+            "7": {
+                "Candidate  1": 162,
+                "Candidate  4": 49,
+                "Candidate  8": 60,
+                "Candidate  9": 101
+            },
+            "8": {
+                "Candidate  1": 178,
+                "Candidate  8": 70,
+                "Candidate  9": 112
+            },
+            "9": {
+                "Candidate  1": 201,
+                "Candidate  9": 130
+            }
+        }
+    }
+}

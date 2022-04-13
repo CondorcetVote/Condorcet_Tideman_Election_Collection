@@ -1,0 +1,62 @@
+{
+    "Ranking": "Branden Robinson > Anthony Towns > Matthew Garrett > Andreas Schuldei > Angus Lees > None of the Above > Jonathan Walther",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Jonathan Walther": {
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 0,
+            "Andreas Schuldei": 0,
+            "None of the Above": 0
+        },
+        "Matthew Garrett": {
+            "Jonathan Walther": 7.88,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 6.416666666666667,
+            "Andreas Schuldei": 1.4864864864864864,
+            "None of the Above": 5.2
+        },
+        "Branden Robinson": {
+            "Jonathan Walther": 8.936170212765957,
+            "Matthew Garrett": 1.0508474576271187,
+            "Anthony Towns": 1.1981981981981982,
+            "Angus Lees": 3.9473684210526314,
+            "Andreas Schuldei": 1.576086956521739,
+            "None of the Above": 3.532710280373832
+        },
+        "Anthony Towns": {
+            "Jonathan Walther": 15.172413793103448,
+            "Matthew Garrett": 1.0209205020920502,
+            "Branden Robinson": 0,
+            "Angus Lees": 4.9125,
+            "Andreas Schuldei": 1.469387755102041,
+            "None of the Above": 3.881188118811881
+        },
+        "Angus Lees": {
+            "Jonathan Walther": 3.204081632653061,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Andreas Schuldei": 0,
+            "None of the Above": 1.4673913043478262
+        },
+        "Andreas Schuldei": {
+            "Jonathan Walther": 5.90625,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 2.20863309352518,
+            "None of the Above": 2.925
+        },
+        "None of the Above": {
+            "Jonathan Walther": 2.9051724137931036,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 0,
+            "Andreas Schuldei": 0
+        }
+    }
+}

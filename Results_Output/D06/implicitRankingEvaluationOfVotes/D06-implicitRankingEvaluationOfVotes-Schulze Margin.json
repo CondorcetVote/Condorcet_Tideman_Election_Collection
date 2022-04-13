@@ -1,0 +1,78 @@
+{
+    "Ranking": "Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Jeroen van Wolffelaar": {
+            "Ari Pollak": 292,
+            "Steve McIntyre": 0,
+            "Anthony Towns": 0,
+            "Andreas Schuldei": 55,
+            "Jonathan aka Ted Walther": 334,
+            "Bill Allombert": 145,
+            "None of the Above": 246
+        },
+        "Ari Pollak": {
+            "Jeroen van Wolffelaar": 0,
+            "Steve McIntyre": 0,
+            "Anthony Towns": 0,
+            "Andreas Schuldei": 0,
+            "Jonathan aka Ted Walther": 217,
+            "Bill Allombert": 0,
+            "None of the Above": 0
+        },
+        "Steve McIntyre": {
+            "Jeroen van Wolffelaar": 65,
+            "Ari Pollak": 282,
+            "Anthony Towns": 23,
+            "Andreas Schuldei": 149,
+            "Jonathan aka Ted Walther": 354,
+            "Bill Allombert": 254,
+            "None of the Above": 293
+        },
+        "Anthony Towns": {
+            "Jeroen van Wolffelaar": 55,
+            "Ari Pollak": 274,
+            "Steve McIntyre": 0,
+            "Andreas Schuldei": 135,
+            "Jonathan aka Ted Walther": 362,
+            "Bill Allombert": 203,
+            "None of the Above": 269
+        },
+        "Andreas Schuldei": {
+            "Jeroen van Wolffelaar": 0,
+            "Ari Pollak": 265,
+            "Steve McIntyre": 0,
+            "Anthony Towns": 0,
+            "Jonathan aka Ted Walther": 346,
+            "Bill Allombert": 151,
+            "None of the Above": 247
+        },
+        "Jonathan aka Ted Walther": {
+            "Jeroen van Wolffelaar": 0,
+            "Ari Pollak": 0,
+            "Steve McIntyre": 0,
+            "Anthony Towns": 0,
+            "Andreas Schuldei": 0,
+            "Bill Allombert": 0,
+            "None of the Above": 0
+        },
+        "Bill Allombert": {
+            "Jeroen van Wolffelaar": 0,
+            "Ari Pollak": 193,
+            "Steve McIntyre": 0,
+            "Anthony Towns": 0,
+            "Andreas Schuldei": 0,
+            "Jonathan aka Ted Walther": 282,
+            "None of the Above": 211
+        },
+        "None of the Above": {
+            "Jeroen van Wolffelaar": 0,
+            "Ari Pollak": 34,
+            "Steve McIntyre": 0,
+            "Anthony Towns": 0,
+            "Andreas Schuldei": 0,
+            "Jonathan aka Ted Walther": 225,
+            "Bill Allombert": 0
+        }
+    }
+}

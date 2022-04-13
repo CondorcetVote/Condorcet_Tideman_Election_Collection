@@ -1,0 +1,127 @@
+{
+    "Ranking": "2 > 1 = 4 > 5 > 3",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "4",
+                    "to": "3",
+                    "win": 21,
+                    "minority": 9,
+                    "margin": 12
+                }
+            ],
+            [
+                {
+                    "from": "2",
+                    "to": "3",
+                    "win": 20,
+                    "minority": 4,
+                    "margin": 16
+                }
+            ],
+            [
+                {
+                    "from": "1",
+                    "to": "3",
+                    "win": 20,
+                    "minority": 9,
+                    "margin": 11
+                }
+            ],
+            [
+                {
+                    "from": "2",
+                    "to": "4",
+                    "win": 17,
+                    "minority": 8,
+                    "margin": 9
+                }
+            ],
+            [
+                {
+                    "from": "2",
+                    "to": "1",
+                    "win": 15,
+                    "minority": 14,
+                    "margin": 1
+                }
+            ],
+            [
+                {
+                    "from": "5",
+                    "to": "3",
+                    "win": 13,
+                    "minority": 8,
+                    "margin": 5
+                }
+            ],
+            [
+                {
+                    "from": "1",
+                    "to": "5",
+                    "win": 12,
+                    "minority": 8,
+                    "margin": 4
+                }
+            ],
+            [
+                {
+                    "from": "2",
+                    "to": "5",
+                    "win": 10,
+                    "minority": 2,
+                    "margin": 8
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "5",
+                    "win": 10,
+                    "minority": 6,
+                    "margin": 4
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "4",
+                "to": "3"
+            },
+            {
+                "from": "2",
+                "to": "3"
+            },
+            {
+                "from": "1",
+                "to": "3"
+            },
+            {
+                "from": "2",
+                "to": "4"
+            },
+            {
+                "from": "2",
+                "to": "1"
+            },
+            {
+                "from": "5",
+                "to": "3"
+            },
+            {
+                "from": "1",
+                "to": "5"
+            },
+            {
+                "from": "2",
+                "to": "5"
+            },
+            {
+                "from": "4",
+                "to": "5"
+            }
+        ]
+    }
+}

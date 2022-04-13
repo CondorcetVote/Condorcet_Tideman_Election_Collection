@@ -1,0 +1,36 @@
+{
+    "Ranking": "Bdale Garbee > Branden Robinson > Martin Michlmayr > Moshe Zadka > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Moshe Zadka": {
+            "Bdale Garbee": 0,
+            "Branden Robinson": 0,
+            "Martin Michlmayr": 0,
+            "None Of The Above": 152
+        },
+        "Bdale Garbee": {
+            "Moshe Zadka": 339,
+            "Branden Robinson": 229,
+            "Martin Michlmayr": 222,
+            "None Of The Above": 325
+        },
+        "Branden Robinson": {
+            "Moshe Zadka": 308,
+            "Bdale Garbee": 0,
+            "Martin Michlmayr": 213,
+            "None Of The Above": 289
+        },
+        "Martin Michlmayr": {
+            "Moshe Zadka": 327,
+            "Bdale Garbee": 0,
+            "Branden Robinson": 0,
+            "None Of The Above": 315
+        },
+        "None Of The Above": {
+            "Moshe Zadka": 0,
+            "Bdale Garbee": 0,
+            "Branden Robinson": 0,
+            "Martin Michlmayr": 0
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "Ranking": "A > D > C > B",
+    "Number Of Seats": 2,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "A",
+                    "to": "B",
+                    "win": 298,
+                    "minority": 187,
+                    "margin": 111
+                }
+            ],
+            [
+                {
+                    "from": "D",
+                    "to": "B",
+                    "win": 273,
+                    "minority": 188,
+                    "margin": 85
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "C",
+                    "win": 271,
+                    "minority": 225,
+                    "margin": 46
+                }
+            ],
+            [
+                {
+                    "from": "C",
+                    "to": "B",
+                    "win": 264,
+                    "minority": 200,
+                    "margin": 64
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "D",
+                    "win": 260,
+                    "minority": 252,
+                    "margin": 8
+                }
+            ],
+            [
+                {
+                    "from": "D",
+                    "to": "C",
+                    "win": 258,
+                    "minority": 239,
+                    "margin": 19
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "A",
+                "to": "B"
+            },
+            {
+                "from": "D",
+                "to": "B"
+            },
+            {
+                "from": "A",
+                "to": "C"
+            },
+            {
+                "from": "C",
+                "to": "B"
+            },
+            {
+                "from": "A",
+                "to": "D"
+            },
+            {
+                "from": "D",
+                "to": "C"
+            }
+        ]
+    }
+}

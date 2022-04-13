@@ -1,0 +1,374 @@
+{
+    "Ranking": "Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Jonathan aka Ted Walther",
+                    "win": 378,
+                    "minority": 16,
+                    "margin": 362
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Jonathan aka Ted Walther",
+                    "win": 370,
+                    "minority": 16,
+                    "margin": 354
+                }
+            ],
+            [
+                {
+                    "from": "Andreas Schuldei",
+                    "to": "Jonathan aka Ted Walther",
+                    "win": 362,
+                    "minority": 16,
+                    "margin": 346
+                }
+            ],
+            [
+                {
+                    "from": "Jeroen van Wolffelaar",
+                    "to": "Jonathan aka Ted Walther",
+                    "win": 354,
+                    "minority": 20,
+                    "margin": 334
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "None of the Above",
+                    "win": 346,
+                    "minority": 53,
+                    "margin": 293
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "None of the Above",
+                    "win": 340,
+                    "minority": 71,
+                    "margin": 269
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Ari Pollak",
+                    "win": 334,
+                    "minority": 60,
+                    "margin": 274
+                }
+            ],
+            [
+                {
+                    "from": "Jeroen van Wolffelaar",
+                    "to": "Ari Pollak",
+                    "win": 332,
+                    "minority": 40,
+                    "margin": 292
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Ari Pollak",
+                    "win": 332,
+                    "minority": 50,
+                    "margin": 282
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Bill Allombert",
+                    "win": 322,
+                    "minority": 68,
+                    "margin": 254
+                }
+            ],
+            [
+                {
+                    "from": "Andreas Schuldei",
+                    "to": "None of the Above",
+                    "win": 322,
+                    "minority": 75,
+                    "margin": 247
+                }
+            ],
+            [
+                {
+                    "from": "Bill Allombert",
+                    "to": "Jonathan aka Ted Walther",
+                    "win": 321,
+                    "minority": 39,
+                    "margin": 282
+                }
+            ],
+            [
+                {
+                    "from": "Jeroen van Wolffelaar",
+                    "to": "None of the Above",
+                    "win": 321,
+                    "minority": 75,
+                    "margin": 246
+                }
+            ],
+            [
+                {
+                    "from": "Andreas Schuldei",
+                    "to": "Ari Pollak",
+                    "win": 320,
+                    "minority": 55,
+                    "margin": 265
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Bill Allombert",
+                    "win": 302,
+                    "minority": 99,
+                    "margin": 203
+                }
+            ],
+            [
+                {
+                    "from": "None of the Above",
+                    "to": "Jonathan aka Ted Walther",
+                    "win": 301,
+                    "minority": 76,
+                    "margin": 225
+                }
+            ],
+            [
+                {
+                    "from": "Bill Allombert",
+                    "to": "None of the Above",
+                    "win": 298,
+                    "minority": 87,
+                    "margin": 211
+                }
+            ],
+            [
+                {
+                    "from": "Ari Pollak",
+                    "to": "Jonathan aka Ted Walther",
+                    "win": 278,
+                    "minority": 61,
+                    "margin": 217
+                }
+            ],
+            [
+                {
+                    "from": "Bill Allombert",
+                    "to": "Ari Pollak",
+                    "win": 275,
+                    "minority": 82,
+                    "margin": 193
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Andreas Schuldei",
+                    "win": 273,
+                    "minority": 124,
+                    "margin": 149
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Andreas Schuldei",
+                    "win": 270,
+                    "minority": 135,
+                    "margin": 135
+                }
+            ],
+            [
+                {
+                    "from": "Andreas Schuldei",
+                    "to": "Bill Allombert",
+                    "win": 268,
+                    "minority": 117,
+                    "margin": 151
+                }
+            ],
+            [
+                {
+                    "from": "Jeroen van Wolffelaar",
+                    "to": "Bill Allombert",
+                    "win": 264,
+                    "minority": 119,
+                    "margin": 145
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Jeroen van Wolffelaar",
+                    "win": 230,
+                    "minority": 165,
+                    "margin": 65
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Jeroen van Wolffelaar",
+                    "win": 230,
+                    "minority": 175,
+                    "margin": 55
+                }
+            ],
+            [
+                {
+                    "from": "Jeroen van Wolffelaar",
+                    "to": "Andreas Schuldei",
+                    "win": 221,
+                    "minority": 166,
+                    "margin": 55
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Anthony Towns",
+                    "win": 213,
+                    "minority": 190,
+                    "margin": 23
+                }
+            ],
+            [
+                {
+                    "from": "None of the Above",
+                    "to": "Ari Pollak",
+                    "win": 202,
+                    "minority": 168,
+                    "margin": 34
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Anthony Towns",
+                "to": "Jonathan aka Ted Walther"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Jonathan aka Ted Walther"
+            },
+            {
+                "from": "Andreas Schuldei",
+                "to": "Jonathan aka Ted Walther"
+            },
+            {
+                "from": "Jeroen van Wolffelaar",
+                "to": "Jonathan aka Ted Walther"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "None of the Above"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "None of the Above"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "Ari Pollak"
+            },
+            {
+                "from": "Jeroen van Wolffelaar",
+                "to": "Ari Pollak"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Ari Pollak"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Bill Allombert"
+            },
+            {
+                "from": "Andreas Schuldei",
+                "to": "None of the Above"
+            },
+            {
+                "from": "Bill Allombert",
+                "to": "Jonathan aka Ted Walther"
+            },
+            {
+                "from": "Jeroen van Wolffelaar",
+                "to": "None of the Above"
+            },
+            {
+                "from": "Andreas Schuldei",
+                "to": "Ari Pollak"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "Bill Allombert"
+            },
+            {
+                "from": "None of the Above",
+                "to": "Jonathan aka Ted Walther"
+            },
+            {
+                "from": "Bill Allombert",
+                "to": "None of the Above"
+            },
+            {
+                "from": "Ari Pollak",
+                "to": "Jonathan aka Ted Walther"
+            },
+            {
+                "from": "Bill Allombert",
+                "to": "Ari Pollak"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Andreas Schuldei"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "Andreas Schuldei"
+            },
+            {
+                "from": "Andreas Schuldei",
+                "to": "Bill Allombert"
+            },
+            {
+                "from": "Jeroen van Wolffelaar",
+                "to": "Bill Allombert"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Jeroen van Wolffelaar"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "Jeroen van Wolffelaar"
+            },
+            {
+                "from": "Jeroen van Wolffelaar",
+                "to": "Andreas Schuldei"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Anthony Towns"
+            },
+            {
+                "from": "None of the Above",
+                "to": "Ari Pollak"
+            }
+        ]
+    }
+}

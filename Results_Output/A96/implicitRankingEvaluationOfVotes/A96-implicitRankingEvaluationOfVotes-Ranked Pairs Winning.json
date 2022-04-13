@@ -1,0 +1,205 @@
+{
+    "Ranking": "A > B > F > D > E > C",
+    "Number Of Seats": 2,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "B",
+                    "to": "C",
+                    "win": 251,
+                    "minority": 162,
+                    "margin": 89
+                }
+            ],
+            [
+                {
+                    "from": "B",
+                    "to": "D",
+                    "win": 244,
+                    "minority": 190,
+                    "margin": 54
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "D",
+                    "win": 243,
+                    "minority": 168,
+                    "margin": 75
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "C",
+                    "win": 241,
+                    "minority": 173,
+                    "margin": 68
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "E",
+                    "win": 232,
+                    "minority": 181,
+                    "margin": 51
+                }
+            ],
+            [
+                {
+                    "from": "B",
+                    "to": "F",
+                    "win": 230,
+                    "minority": 192,
+                    "margin": 38
+                }
+            ],
+            [
+                {
+                    "from": "B",
+                    "to": "E",
+                    "win": 229,
+                    "minority": 191,
+                    "margin": 38
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "B",
+                    "win": 225,
+                    "minority": 218,
+                    "margin": 7
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "F",
+                    "win": 223,
+                    "minority": 210,
+                    "margin": 13
+                }
+            ],
+            [
+                {
+                    "from": "F",
+                    "to": "C",
+                    "win": 221,
+                    "minority": 174,
+                    "margin": 47
+                }
+            ],
+            [
+                {
+                    "from": "F",
+                    "to": "D",
+                    "win": 214,
+                    "minority": 200,
+                    "margin": 14
+                }
+            ],
+            [
+                {
+                    "from": "F",
+                    "to": "E",
+                    "win": 209,
+                    "minority": 203,
+                    "margin": 6
+                }
+            ],
+            [
+                {
+                    "from": "E",
+                    "to": "C",
+                    "win": 204,
+                    "minority": 179,
+                    "margin": 25
+                }
+            ],
+            [
+                {
+                    "from": "D",
+                    "to": "C",
+                    "win": 199,
+                    "minority": 188,
+                    "margin": 11
+                }
+            ],
+            [
+                {
+                    "from": "D",
+                    "to": "E",
+                    "win": 197,
+                    "minority": 188,
+                    "margin": 9
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "B",
+                "to": "C"
+            },
+            {
+                "from": "B",
+                "to": "D"
+            },
+            {
+                "from": "A",
+                "to": "D"
+            },
+            {
+                "from": "A",
+                "to": "C"
+            },
+            {
+                "from": "A",
+                "to": "E"
+            },
+            {
+                "from": "B",
+                "to": "F"
+            },
+            {
+                "from": "B",
+                "to": "E"
+            },
+            {
+                "from": "A",
+                "to": "B"
+            },
+            {
+                "from": "A",
+                "to": "F"
+            },
+            {
+                "from": "F",
+                "to": "C"
+            },
+            {
+                "from": "F",
+                "to": "D"
+            },
+            {
+                "from": "F",
+                "to": "E"
+            },
+            {
+                "from": "E",
+                "to": "C"
+            },
+            {
+                "from": "D",
+                "to": "C"
+            },
+            {
+                "from": "D",
+                "to": "E"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Ranking": "Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Branden Robinson": {
+            "Raphael Hertzog": 260,
+            "Bdale Garbee": 0,
+            "None Of The Above": 387
+        },
+        "Raphael Hertzog": {
+            "Branden Robinson": 0,
+            "Bdale Garbee": 0,
+            "None Of The Above": 407
+        },
+        "Bdale Garbee": {
+            "Branden Robinson": 291,
+            "Raphael Hertzog": 327,
+            "None Of The Above": 444
+        },
+        "None Of The Above": {
+            "Branden Robinson": 0,
+            "Raphael Hertzog": 0,
+            "Bdale Garbee": 0
+        }
+    }
+}

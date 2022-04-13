@@ -1,0 +1,15 @@
+{
+    "Ranking": "4",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 17,
+        "rounds": {
+            "1": {
+                "4": 17,
+                "3": 9,
+                "2": 5,
+                "1": 1
+            }
+        }
+    }
+}

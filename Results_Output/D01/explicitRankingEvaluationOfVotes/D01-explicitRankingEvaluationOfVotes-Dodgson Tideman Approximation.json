@@ -1,0 +1,21 @@
+{
+    "Ranking": "Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Branden Robinson": {
+            "sum_defeat_margin": 37
+        },
+        "Anand Kumria": {
+            "sum_defeat_margin": 443
+        },
+        "Ben Collins": {
+            "sum_defeat_margin": 0
+        },
+        "Bdale Garbee": {
+            "sum_defeat_margin": 46
+        },
+        "None Of The Above": {
+            "sum_defeat_margin": 483
+        }
+    }
+}

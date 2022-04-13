@@ -1,0 +1,18 @@
+{
+    "Ranking": "Martin Michlmayr > Branden Robinson > Gergely Nagy > None of the Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Gergely Nagy": {
+            "worst_pairwise_defeat_margin": 292
+        },
+        "Branden Robinson": {
+            "worst_pairwise_defeat_margin": 66
+        },
+        "Martin Michlmayr": {
+            "worst_pairwise_defeat_margin": -66
+        },
+        "None of the Above": {
+            "worst_pairwise_defeat_margin": 328
+        }
+    }
+}

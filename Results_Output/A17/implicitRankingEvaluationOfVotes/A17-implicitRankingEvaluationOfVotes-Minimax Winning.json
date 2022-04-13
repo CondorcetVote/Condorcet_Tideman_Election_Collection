@@ -1,0 +1,45 @@
+{
+    "Ranking": "J > B > A > F > E > L > I > H > K > D > G > M > C",
+    "Number Of Seats": 8,
+    "Stats": {
+        "A": {
+            "worst_pairwise_defeat_winning": 384
+        },
+        "B": {
+            "worst_pairwise_defeat_winning": 372
+        },
+        "C": {
+            "worst_pairwise_defeat_winning": 443
+        },
+        "D": {
+            "worst_pairwise_defeat_winning": 421
+        },
+        "E": {
+            "worst_pairwise_defeat_winning": 395
+        },
+        "F": {
+            "worst_pairwise_defeat_winning": 389
+        },
+        "G": {
+            "worst_pairwise_defeat_winning": 423
+        },
+        "H": {
+            "worst_pairwise_defeat_winning": 416
+        },
+        "I": {
+            "worst_pairwise_defeat_winning": 411
+        },
+        "J": {
+            "worst_pairwise_defeat_winning": 0
+        },
+        "K": {
+            "worst_pairwise_defeat_winning": 420
+        },
+        "L": {
+            "worst_pairwise_defeat_winning": 399
+        },
+        "M": {
+            "worst_pairwise_defeat_winning": 437
+        }
+    }
+}

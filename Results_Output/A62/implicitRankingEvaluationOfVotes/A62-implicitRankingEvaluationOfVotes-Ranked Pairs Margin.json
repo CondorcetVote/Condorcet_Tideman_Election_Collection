@@ -1,0 +1,88 @@
+{
+    "Ranking": "4 > 3 > 1 > 2",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "4",
+                    "to": "2",
+                    "win": 101,
+                    "minority": 46,
+                    "margin": 55
+                }
+            ],
+            [
+                {
+                    "from": "3",
+                    "to": "2",
+                    "win": 85,
+                    "minority": 41,
+                    "margin": 44
+                }
+            ],
+            [
+                {
+                    "from": "1",
+                    "to": "2",
+                    "win": 76,
+                    "minority": 47,
+                    "margin": 29
+                }
+            ],
+            [
+                {
+                    "from": "3",
+                    "to": "1",
+                    "win": 81,
+                    "minority": 58,
+                    "margin": 23
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "1",
+                    "win": 83,
+                    "minority": 64,
+                    "margin": 19
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "3",
+                    "win": 82,
+                    "minority": 73,
+                    "margin": 9
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "4",
+                "to": "2"
+            },
+            {
+                "from": "3",
+                "to": "2"
+            },
+            {
+                "from": "1",
+                "to": "2"
+            },
+            {
+                "from": "3",
+                "to": "1"
+            },
+            {
+                "from": "4",
+                "to": "1"
+            },
+            {
+                "from": "4",
+                "to": "3"
+            }
+        ]
+    }
+}

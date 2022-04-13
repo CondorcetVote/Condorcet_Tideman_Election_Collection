@@ -1,0 +1,116 @@
+{
+    "Ranking": "Candidate  1 > Candidate  9 > Candidate  3 > Candidate  2 > Candidate  4 > Candidate  7 > Candidate  8 > Candidate 10 > Candidate  5 > Candidate  6",
+    "Number Of Seats": 3,
+    "Stats": {
+        "Candidate  1": {
+            "Candidate  2": 3.5,
+            "Candidate  3": 2.2,
+            "Candidate  4": 1.8048780487804879,
+            "Candidate  5": 4.384615384615385,
+            "Candidate  6": 3.8333333333333335,
+            "Candidate  7": 1.9642857142857142,
+            "Candidate  8": 1.9111111111111112,
+            "Candidate  9": 2.5853658536585367,
+            "Candidate 10": 2.3076923076923075
+        },
+        "Candidate  2": {
+            "Candidate  1": 0,
+            "Candidate  3": 1.075,
+            "Candidate  4": 1.125,
+            "Candidate  5": 2.3333333333333335,
+            "Candidate  6": 2.5,
+            "Candidate  7": 1.7,
+            "Candidate  8": 1.3846153846153846,
+            "Candidate  9": 0,
+            "Candidate 10": 1.7
+        },
+        "Candidate  3": {
+            "Candidate  1": 0,
+            "Candidate  2": 1.0909090909090908,
+            "Candidate  4": 1.0909090909090908,
+            "Candidate  5": 5.142857142857143,
+            "Candidate  6": 3,
+            "Candidate  7": 1.162162162162162,
+            "Candidate  8": 1.2195121951219512,
+            "Candidate  9": 0,
+            "Candidate 10": 1.4615384615384615
+        },
+        "Candidate  4": {
+            "Candidate  1": 0,
+            "Candidate  2": 1.075,
+            "Candidate  3": 1.075,
+            "Candidate  5": 8,
+            "Candidate  6": 4,
+            "Candidate  7": 1.075,
+            "Candidate  8": 1.2195121951219512,
+            "Candidate  9": 0,
+            "Candidate 10": 1.6666666666666667
+        },
+        "Candidate  5": {
+            "Candidate  1": 0,
+            "Candidate  2": 0,
+            "Candidate  3": 0,
+            "Candidate  4": 0,
+            "Candidate  6": 1.1875,
+            "Candidate  7": 0,
+            "Candidate  8": 1.1428571428571428,
+            "Candidate  9": 0,
+            "Candidate 10": 1.1428571428571428
+        },
+        "Candidate  6": {
+            "Candidate  1": 0,
+            "Candidate  2": 0,
+            "Candidate  3": 0,
+            "Candidate  4": 0,
+            "Candidate  5": 0,
+            "Candidate  7": 0,
+            "Candidate  8": 0,
+            "Candidate  9": 0,
+            "Candidate 10": 0
+        },
+        "Candidate  7": {
+            "Candidate  1": 0,
+            "Candidate  2": 1.037037037037037,
+            "Candidate  3": 1.037037037037037,
+            "Candidate  4": 1.037037037037037,
+            "Candidate  5": 1.2777777777777777,
+            "Candidate  6": 1.5263157894736843,
+            "Candidate  8": 1.325,
+            "Candidate  9": 0,
+            "Candidate 10": 2.4
+        },
+        "Candidate  8": {
+            "Candidate  1": 0,
+            "Candidate  2": 0,
+            "Candidate  3": 0,
+            "Candidate  4": 0,
+            "Candidate  5": 1.2777777777777777,
+            "Candidate  6": 1.5263157894736843,
+            "Candidate  7": 0,
+            "Candidate  9": 0,
+            "Candidate 10": 1.9166666666666667
+        },
+        "Candidate  9": {
+            "Candidate  1": 0,
+            "Candidate  2": 1.3255813953488371,
+            "Candidate  3": 1.3703703703703705,
+            "Candidate  4": 1.2790697674418605,
+            "Candidate  5": 1.3703703703703705,
+            "Candidate  6": 2.8823529411764706,
+            "Candidate  7": 1.4150943396226414,
+            "Candidate  8": 1.9111111111111112,
+            "Candidate 10": 2.3076923076923075
+        },
+        "Candidate 10": {
+            "Candidate  1": 0,
+            "Candidate  2": 0,
+            "Candidate  3": 0,
+            "Candidate  4": 0,
+            "Candidate  5": 1.2777777777777777,
+            "Candidate  6": 1.5263157894736843,
+            "Candidate  7": 0,
+            "Candidate  8": 1.1428571428571428,
+            "Candidate  9": 0
+        }
+    }
+}

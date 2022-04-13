@@ -1,0 +1,39 @@
+A * 16
+C * 16
+D * 15
+C > A > D * 14
+B > A * 13
+B > A > C * 13
+A > B * 11
+A > D * 11
+B * 11
+B > C > A * 11
+A > B > C * 10
+B > C > D * 10
+A > B > D * 9
+B > C * 9
+A > C > B * 8
+C > B > D * 8
+C > D * 8
+A > D > B * 7
+D > A > B * 7
+C > B > A * 6
+D > C * 6
+D > C > A * 6
+D > C > B * 6
+A > C * 5
+C > A > B * 5
+C > B * 4
+C > D > A * 4
+A > C > D * 3
+B > D > C * 3
+C > A * 3
+C > D > B * 3
+D > A > C * 3
+D > B * 3
+D > B > A * 3
+B > A > D * 2
+B > D * 2
+B > D > A * 2
+D > A * 2
+A > D > C * 1

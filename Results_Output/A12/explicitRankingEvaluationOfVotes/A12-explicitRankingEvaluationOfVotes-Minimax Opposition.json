@@ -1,0 +1,66 @@
+{
+    "Ranking": "3 > 14 = 16 > 4 = 18 > 6 = 10 = 15 = 17 > 8 = 12 = 13 > 11 > 1 = 2 = 5 > 7 > 9 = 19 = 20",
+    "Number Of Seats": 2,
+    "Stats": {
+        "1": {
+            "worst_pairwise_opposition": 10
+        },
+        "2": {
+            "worst_pairwise_opposition": 10
+        },
+        "3": {
+            "worst_pairwise_opposition": 4
+        },
+        "4": {
+            "worst_pairwise_opposition": 6
+        },
+        "5": {
+            "worst_pairwise_opposition": 10
+        },
+        "6": {
+            "worst_pairwise_opposition": 7
+        },
+        "7": {
+            "worst_pairwise_opposition": 11
+        },
+        "8": {
+            "worst_pairwise_opposition": 8
+        },
+        "9": {
+            "worst_pairwise_opposition": 14
+        },
+        "10": {
+            "worst_pairwise_opposition": 7
+        },
+        "11": {
+            "worst_pairwise_opposition": 9
+        },
+        "12": {
+            "worst_pairwise_opposition": 8
+        },
+        "13": {
+            "worst_pairwise_opposition": 8
+        },
+        "14": {
+            "worst_pairwise_opposition": 5
+        },
+        "15": {
+            "worst_pairwise_opposition": 7
+        },
+        "16": {
+            "worst_pairwise_opposition": 5
+        },
+        "17": {
+            "worst_pairwise_opposition": 7
+        },
+        "18": {
+            "worst_pairwise_opposition": 6
+        },
+        "19": {
+            "worst_pairwise_opposition": 14
+        },
+        "20": {
+            "worst_pairwise_opposition": 14
+        }
+    }
+}

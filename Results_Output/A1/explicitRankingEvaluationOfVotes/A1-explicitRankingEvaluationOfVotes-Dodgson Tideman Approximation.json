@@ -1,0 +1,36 @@
+{
+    "Ranking": "Candidate  1 > Candidate  4 > Candidate  2 > Candidate  9 > Candidate  7 > Candidate  3 > Candidate  8 > Candidate  5 > Candidate 10 > Candidate  6",
+    "Number Of Seats": 3,
+    "Stats": {
+        "Candidate  1": {
+            "sum_defeat_margin": 0
+        },
+        "Candidate  2": {
+            "sum_defeat_margin": 57
+        },
+        "Candidate  3": {
+            "sum_defeat_margin": 83
+        },
+        "Candidate  4": {
+            "sum_defeat_margin": 50
+        },
+        "Candidate  5": {
+            "sum_defeat_margin": 136
+        },
+        "Candidate  6": {
+            "sum_defeat_margin": 186
+        },
+        "Candidate  7": {
+            "sum_defeat_margin": 76
+        },
+        "Candidate  8": {
+            "sum_defeat_margin": 123
+        },
+        "Candidate  9": {
+            "sum_defeat_margin": 65
+        },
+        "Candidate 10": {
+            "sum_defeat_margin": 148
+        }
+    }
+}

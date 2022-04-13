@@ -1,0 +1,86 @@
+{
+    "Ranking": "A > B > C > D",
+    "Number Of Seats": 2,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "A",
+                    "to": "D",
+                    "win": 144,
+                    "minority": 99,
+                    "margin": 45
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "C",
+                    "win": 137,
+                    "minority": 101,
+                    "margin": 36
+                },
+                {
+                    "from": "B",
+                    "to": "D",
+                    "win": 137,
+                    "minority": 101,
+                    "margin": 36
+                }
+            ],
+            [
+                {
+                    "from": "B",
+                    "to": "C",
+                    "win": 136,
+                    "minority": 106,
+                    "margin": 30
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "B",
+                    "win": 127,
+                    "minority": 116,
+                    "margin": 11
+                }
+            ],
+            [
+                {
+                    "from": "C",
+                    "to": "D",
+                    "win": 117,
+                    "minority": 102,
+                    "margin": 15
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "A",
+                "to": "D"
+            },
+            {
+                "from": "A",
+                "to": "C"
+            },
+            {
+                "from": "B",
+                "to": "D"
+            },
+            {
+                "from": "B",
+                "to": "C"
+            },
+            {
+                "from": "A",
+                "to": "B"
+            },
+            {
+                "from": "C",
+                "to": "D"
+            }
+        ]
+    }
+}

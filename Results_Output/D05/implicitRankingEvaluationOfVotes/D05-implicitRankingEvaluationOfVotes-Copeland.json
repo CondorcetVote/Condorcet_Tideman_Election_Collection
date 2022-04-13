@@ -1,0 +1,27 @@
+{
+    "Ranking": "Branden Robinson > Anthony Towns > Matthew Garrett > Andreas Schuldei > Angus Lees > None of the Above > Jonathan Walther",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Jonathan Walther": {
+            "balance": -6
+        },
+        "Matthew Garrett": {
+            "balance": 2
+        },
+        "Branden Robinson": {
+            "balance": 6
+        },
+        "Anthony Towns": {
+            "balance": 4
+        },
+        "Angus Lees": {
+            "balance": -2
+        },
+        "Andreas Schuldei": {
+            "balance": 0
+        },
+        "None of the Above": {
+            "balance": -4
+        }
+    }
+}

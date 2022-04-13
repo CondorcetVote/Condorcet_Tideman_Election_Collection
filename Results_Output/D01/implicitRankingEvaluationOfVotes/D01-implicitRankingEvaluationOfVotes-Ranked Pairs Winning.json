@@ -1,0 +1,140 @@
+{
+    "Ranking": "Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Bdale Garbee",
+                    "to": "None Of The Above",
+                    "win": 269,
+                    "minority": 19,
+                    "margin": 250
+                }
+            ],
+            [
+                {
+                    "from": "Ben Collins",
+                    "to": "None Of The Above",
+                    "win": 265,
+                    "minority": 36,
+                    "margin": 229
+                }
+            ],
+            [
+                {
+                    "from": "Ben Collins",
+                    "to": "Anand Kumria",
+                    "win": 261,
+                    "minority": 27,
+                    "margin": 234
+                }
+            ],
+            [
+                {
+                    "from": "Bdale Garbee",
+                    "to": "Anand Kumria",
+                    "win": 259,
+                    "minority": 24,
+                    "margin": 235
+                }
+            ],
+            [
+                {
+                    "from": "Branden Robinson",
+                    "to": "None Of The Above",
+                    "win": 250,
+                    "minority": 40,
+                    "margin": 210
+                }
+            ],
+            [
+                {
+                    "from": "Branden Robinson",
+                    "to": "Anand Kumria",
+                    "win": 244,
+                    "minority": 37,
+                    "margin": 207
+                }
+            ],
+            [
+                {
+                    "from": "Ben Collins",
+                    "to": "Branden Robinson",
+                    "win": 173,
+                    "minority": 126,
+                    "margin": 47
+                }
+            ],
+            [
+                {
+                    "from": "Ben Collins",
+                    "to": "Bdale Garbee",
+                    "win": 171,
+                    "minority": 134,
+                    "margin": 37
+                }
+            ],
+            [
+                {
+                    "from": "Branden Robinson",
+                    "to": "Bdale Garbee",
+                    "win": 157,
+                    "minority": 146,
+                    "margin": 11
+                }
+            ],
+            [
+                {
+                    "from": "Anand Kumria",
+                    "to": "None Of The Above",
+                    "win": 143,
+                    "minority": 100,
+                    "margin": 43
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Bdale Garbee",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Ben Collins",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Ben Collins",
+                "to": "Anand Kumria"
+            },
+            {
+                "from": "Bdale Garbee",
+                "to": "Anand Kumria"
+            },
+            {
+                "from": "Branden Robinson",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Branden Robinson",
+                "to": "Anand Kumria"
+            },
+            {
+                "from": "Ben Collins",
+                "to": "Branden Robinson"
+            },
+            {
+                "from": "Ben Collins",
+                "to": "Bdale Garbee"
+            },
+            {
+                "from": "Branden Robinson",
+                "to": "Bdale Garbee"
+            },
+            {
+                "from": "Anand Kumria",
+                "to": "None Of The Above"
+            }
+        ]
+    }
+}

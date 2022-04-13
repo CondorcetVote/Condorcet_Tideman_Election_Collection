@@ -1,0 +1,26 @@
+{
+    "Ranking": "Martin Michlmayr > Branden Robinson > None of the Above > Gergely Nagy",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Gergely Nagy": {
+            "Branden Robinson": 0,
+            "Martin Michlmayr": 0,
+            "None of the Above": 0
+        },
+        "Branden Robinson": {
+            "Gergely Nagy": 236,
+            "Martin Michlmayr": 0,
+            "None of the Above": 260
+        },
+        "Martin Michlmayr": {
+            "Gergely Nagy": 292,
+            "Branden Robinson": 66,
+            "None of the Above": 328
+        },
+        "None of the Above": {
+            "Gergely Nagy": 83,
+            "Branden Robinson": 0,
+            "Martin Michlmayr": 0
+        }
+    }
+}

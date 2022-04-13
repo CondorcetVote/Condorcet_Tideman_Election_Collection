@@ -1,0 +1,36 @@
+{
+    "Ranking": "Candidate  6 > Candidate  1 > Candidate  2 = Candidate  5 > Candidate 10 > Candidate  4 > Candidate  7 > Candidate  8 > Candidate  9 > Candidate  3",
+    "Number Of Seats": 3,
+    "Stats": {
+        "Candidate  1": {
+            "worst_pairwise_opposition": 50
+        },
+        "Candidate  2": {
+            "worst_pairwise_opposition": 57
+        },
+        "Candidate  3": {
+            "worst_pairwise_opposition": 110
+        },
+        "Candidate  4": {
+            "worst_pairwise_opposition": 74
+        },
+        "Candidate  5": {
+            "worst_pairwise_opposition": 57
+        },
+        "Candidate  6": {
+            "worst_pairwise_opposition": 49
+        },
+        "Candidate  7": {
+            "worst_pairwise_opposition": 75
+        },
+        "Candidate  8": {
+            "worst_pairwise_opposition": 86
+        },
+        "Candidate  9": {
+            "worst_pairwise_opposition": 106
+        },
+        "Candidate 10": {
+            "worst_pairwise_opposition": 60
+        }
+    }
+}

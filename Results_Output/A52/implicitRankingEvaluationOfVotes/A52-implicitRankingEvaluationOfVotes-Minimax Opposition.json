@@ -1,0 +1,36 @@
+{
+    "Ranking": "5 > 4 > 7 > 2 > 1 > 3 > 9 > 10 > 6 > 8",
+    "Number Of Seats": 6,
+    "Stats": {
+        "1": {
+            "worst_pairwise_opposition": 365
+        },
+        "2": {
+            "worst_pairwise_opposition": 353
+        },
+        "3": {
+            "worst_pairwise_opposition": 371
+        },
+        "4": {
+            "worst_pairwise_opposition": 334
+        },
+        "5": {
+            "worst_pairwise_opposition": 257
+        },
+        "6": {
+            "worst_pairwise_opposition": 409
+        },
+        "7": {
+            "worst_pairwise_opposition": 349
+        },
+        "8": {
+            "worst_pairwise_opposition": 422
+        },
+        "9": {
+            "worst_pairwise_opposition": 376
+        },
+        "10": {
+            "worst_pairwise_opposition": 393
+        }
+    }
+}

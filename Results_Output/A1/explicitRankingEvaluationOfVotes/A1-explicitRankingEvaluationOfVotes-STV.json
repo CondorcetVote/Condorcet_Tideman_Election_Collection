@@ -1,0 +1,84 @@
+{
+    "Ranking": "Candidate  1 > Candidate  9 > Candidate  8",
+    "Number Of Seats": 3,
+    "Stats": {
+        "votes_needed_to_win": 96,
+        "rounds": {
+            "1": {
+                "Candidate  1": 128,
+                "Candidate  9": 65,
+                "Candidate  2": 36,
+                "Candidate  3": 34,
+                "Candidate  4": 31,
+                "Candidate  8": 31,
+                "Candidate  7": 24,
+                "Candidate 10": 19,
+                "Candidate  6": 10,
+                "Candidate  5": 2
+            },
+            "2": {
+                "Candidate  9": 70.25,
+                "Candidate  3": 44.75,
+                "Candidate  2": 37.25,
+                "Candidate  4": 34.75,
+                "Candidate  8": 34,
+                "Candidate  7": 26,
+                "Candidate 10": 20.75,
+                "Candidate  6": 10.5,
+                "Candidate  5": 5
+            },
+            "3": {
+                "Candidate  9": 71,
+                "Candidate  3": 44.75,
+                "Candidate  2": 37.25,
+                "Candidate  8": 36.25,
+                "Candidate  4": 35.25,
+                "Candidate  7": 26,
+                "Candidate 10": 21.75,
+                "Candidate  6": 10.5
+            },
+            "4": {
+                "Candidate  9": 73,
+                "Candidate  3": 46,
+                "Candidate  2": 37.25,
+                "Candidate  8": 37.25,
+                "Candidate  4": 35.25,
+                "Candidate  7": 32,
+                "Candidate 10": 21.75
+            },
+            "5": {
+                "Candidate  9": 80.25,
+                "Candidate  3": 48.25,
+                "Candidate  4": 39.25,
+                "Candidate  8": 39.25,
+                "Candidate  2": 37.25,
+                "Candidate  7": 33
+            },
+            "6": {
+                "Candidate  9": 93.25,
+                "Candidate  3": 51.25,
+                "Candidate  8": 46.25,
+                "Candidate  4": 43.25,
+                "Candidate  2": 41.25
+            },
+            "7": {
+                "Candidate  9": 107.25,
+                "Candidate  8": 61.25,
+                "Candidate  3": 56.5,
+                "Candidate  4": 49
+            },
+            "8": {
+                "Candidate  8": 80.687062937063,
+                "Candidate  3": 66.258741258741,
+                "Candidate  4": 56.258741258741
+            },
+            "9": {
+                "Candidate  8": 92.896853146853,
+                "Candidate  3": 88.138111888112
+            },
+            "10": {
+                "Candidate  8": 126.131118881119
+            }
+        }
+    }
+}

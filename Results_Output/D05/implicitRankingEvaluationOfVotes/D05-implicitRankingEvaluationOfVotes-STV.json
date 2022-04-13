@@ -1,0 +1,51 @@
+{
+    "Ranking": "Branden Robinson",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 253,
+        "rounds": {
+            "1": {
+                "Branden Robinson": 137,
+                "Matthew Garrett": 133,
+                "Anthony Towns": 125,
+                "Andreas Schuldei": 75,
+                "None of the Above": 19,
+                "Angus Lees": 11,
+                "Jonathan Walther": 4
+            },
+            "2": {
+                "Branden Robinson": 139,
+                "Matthew Garrett": 133,
+                "Anthony Towns": 125,
+                "Andreas Schuldei": 76,
+                "None of the Above": 19,
+                "Angus Lees": 11
+            },
+            "3": {
+                "Branden Robinson": 141,
+                "Matthew Garrett": 135,
+                "Anthony Towns": 128,
+                "Andreas Schuldei": 76,
+                "None of the Above": 22
+            },
+            "4": {
+                "Matthew Garrett": 147,
+                "Branden Robinson": 143,
+                "Anthony Towns": 131,
+                "Andreas Schuldei": 77
+            },
+            "5": {
+                "Branden Robinson": 185,
+                "Matthew Garrett": 162,
+                "Anthony Towns": 148
+            },
+            "6": {
+                "Branden Robinson": 248,
+                "Matthew Garrett": 236
+            },
+            "7": {
+                "Branden Robinson": 458
+            }
+        }
+    }
+}

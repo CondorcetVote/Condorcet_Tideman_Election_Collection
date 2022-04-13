@@ -1,0 +1,24 @@
+{
+    "Ranking": "E > A = B > F > C > D",
+    "Number Of Seats": 2,
+    "Stats": {
+        "A": {
+            "worst_pairwise_defeat_winning": 94
+        },
+        "B": {
+            "worst_pairwise_defeat_winning": 94
+        },
+        "C": {
+            "worst_pairwise_defeat_winning": 99
+        },
+        "D": {
+            "worst_pairwise_defeat_winning": 101
+        },
+        "E": {
+            "worst_pairwise_defeat_winning": 78
+        },
+        "F": {
+            "worst_pairwise_defeat_winning": 98
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "Ranking": "Branden Robinson > Anthony Towns > Matthew Garrett > Andreas Schuldei > Angus Lees > None of the Above > Jonathan Walther",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Jonathan Walther": {
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 0,
+            "Andreas Schuldei": 0,
+            "None of the Above": 0
+        },
+        "Matthew Garrett": {
+            "Jonathan Walther": 344,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 325,
+            "Andreas Schuldei": 90,
+            "None of the Above": 315
+        },
+        "Branden Robinson": {
+            "Jonathan Walther": 373,
+            "Matthew Garrett": 12,
+            "Anthony Towns": 44,
+            "Angus Lees": 280,
+            "Andreas Schuldei": 106,
+            "None of the Above": 271
+        },
+        "Anthony Towns": {
+            "Jonathan Walther": 411,
+            "Matthew Garrett": 5,
+            "Branden Robinson": 0,
+            "Angus Lees": 313,
+            "Andreas Schuldei": 92,
+            "None of the Above": 291
+        },
+        "Angus Lees": {
+            "Jonathan Walther": 216,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Andreas Schuldei": 0,
+            "None of the Above": 86
+        },
+        "Andreas Schuldei": {
+            "Jonathan Walther": 314,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 168,
+            "None of the Above": 231
+        },
+        "None of the Above": {
+            "Jonathan Walther": 221,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 0,
+            "Andreas Schuldei": 0
+        }
+    }
+}

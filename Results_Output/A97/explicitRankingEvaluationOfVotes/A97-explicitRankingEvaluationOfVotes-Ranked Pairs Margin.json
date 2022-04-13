@@ -1,0 +1,75 @@
+{
+    "Ranking": "A = C > D > B",
+    "Number Of Seats": 2,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "C",
+                    "to": "D",
+                    "win": 42,
+                    "minority": 22,
+                    "margin": 20
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "B",
+                    "win": 65,
+                    "minority": 48,
+                    "margin": 17
+                }
+            ],
+            [
+                {
+                    "from": "A",
+                    "to": "D",
+                    "win": 45,
+                    "minority": 31,
+                    "margin": 14
+                }
+            ],
+            [
+                {
+                    "from": "C",
+                    "to": "B",
+                    "win": 45,
+                    "minority": 33,
+                    "margin": 12
+                }
+            ],
+            [
+                {
+                    "from": "D",
+                    "to": "B",
+                    "win": 44,
+                    "minority": 43,
+                    "margin": 1
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "C",
+                "to": "D"
+            },
+            {
+                "from": "A",
+                "to": "B"
+            },
+            {
+                "from": "A",
+                "to": "D"
+            },
+            {
+                "from": "C",
+                "to": "B"
+            },
+            {
+                "from": "D",
+                "to": "B"
+            }
+        ]
+    }
+}

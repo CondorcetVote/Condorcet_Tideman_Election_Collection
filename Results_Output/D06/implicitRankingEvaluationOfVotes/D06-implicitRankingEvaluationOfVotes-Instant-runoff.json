@@ -1,0 +1,58 @@
+{
+    "Ranking": "Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther",
+    "Number Of Seats": 1,
+    "Stats": {
+        "majority": 210.5,
+        "rounds": {
+            "1": {
+                "Jeroen van Wolffelaar": 70,
+                "Ari Pollak": 7,
+                "Steve McIntyre": 109,
+                "Anthony Towns": 133,
+                "Andreas Schuldei": 50,
+                "Jonathan aka Ted Walther": 2,
+                "Bill Allombert": 36,
+                "None of the Above": 14
+            },
+            "2": {
+                "Jeroen van Wolffelaar": 71,
+                "Ari Pollak": 7,
+                "Steve McIntyre": 109,
+                "Anthony Towns": 133,
+                "Andreas Schuldei": 50,
+                "Bill Allombert": 37,
+                "None of the Above": 14
+            },
+            "3": {
+                "Jeroen van Wolffelaar": 73,
+                "Steve McIntyre": 110,
+                "Anthony Towns": 137,
+                "Andreas Schuldei": 50,
+                "Bill Allombert": 37,
+                "None of the Above": 14
+            },
+            "4": {
+                "Jeroen van Wolffelaar": 76,
+                "Steve McIntyre": 110,
+                "Anthony Towns": 139,
+                "Andreas Schuldei": 53,
+                "Bill Allombert": 37
+            },
+            "5": {
+                "Jeroen van Wolffelaar": 85,
+                "Steve McIntyre": 124,
+                "Anthony Towns": 143,
+                "Andreas Schuldei": 61
+            },
+            "6": {
+                "Jeroen van Wolffelaar": 108,
+                "Steve McIntyre": 146,
+                "Anthony Towns": 156
+            },
+            "7": {
+                "Steve McIntyre": 213,
+                "Anthony Towns": 190
+            }
+        }
+    }
+}

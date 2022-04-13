@@ -1,0 +1,20 @@
+{
+    "Ranking": "B > A",
+    "Number Of Seats": 2,
+    "Stats": {
+        "votes_needed_to_win": 92,
+        "rounds": {
+            "1": {
+                "B": 85,
+                "A": 81,
+                "C": 56,
+                "D": 53
+            },
+            "2": {
+                "B": 100,
+                "A": 93,
+                "C": 71
+            }
+        }
+    }
+}

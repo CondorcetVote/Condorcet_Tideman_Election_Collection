@@ -1,0 +1,18 @@
+{
+    "Ranking": "A > C > B > D",
+    "Number Of Seats": 1,
+    "Stats": {
+        "A": {
+            "balance": 3
+        },
+        "B": {
+            "balance": -1
+        },
+        "C": {
+            "balance": 1
+        },
+        "D": {
+            "balance": -3
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "Ranking": "3 > 4 > 2 > 1",
+    "Number Of Seats": 3,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "3",
+                    "to": "4",
+                    "win": 176,
+                    "minority": 89,
+                    "margin": 87
+                }
+            ],
+            [
+                {
+                    "from": "3",
+                    "to": "2",
+                    "win": 149,
+                    "minority": 67,
+                    "margin": 82
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "2",
+                    "win": 116,
+                    "minority": 57,
+                    "margin": 59
+                }
+            ],
+            [
+                {
+                    "from": "3",
+                    "to": "1",
+                    "win": 80,
+                    "minority": 22,
+                    "margin": 58
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "1",
+                    "win": 59,
+                    "minority": 19,
+                    "margin": 40
+                }
+            ],
+            [
+                {
+                    "from": "2",
+                    "to": "1",
+                    "win": 36,
+                    "minority": 22,
+                    "margin": 14
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "3",
+                "to": "4"
+            },
+            {
+                "from": "3",
+                "to": "2"
+            },
+            {
+                "from": "4",
+                "to": "2"
+            },
+            {
+                "from": "3",
+                "to": "1"
+            },
+            {
+                "from": "4",
+                "to": "1"
+            },
+            {
+                "from": "2",
+                "to": "1"
+            }
+        ]
+    }
+}

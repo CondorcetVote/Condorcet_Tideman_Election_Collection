@@ -1,0 +1,88 @@
+{
+    "Ranking": "3 > 4 > 1 > 2",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "3",
+                    "to": "1",
+                    "win": 72,
+                    "minority": 30,
+                    "margin": 42
+                }
+            ],
+            [
+                {
+                    "from": "3",
+                    "to": "2",
+                    "win": 73,
+                    "minority": 44,
+                    "margin": 29
+                }
+            ],
+            [
+                {
+                    "from": "1",
+                    "to": "2",
+                    "win": 71,
+                    "minority": 50,
+                    "margin": 21
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "1",
+                    "win": 35,
+                    "minority": 19,
+                    "margin": 16
+                }
+            ],
+            [
+                {
+                    "from": "3",
+                    "to": "4",
+                    "win": 36,
+                    "minority": 30,
+                    "margin": 6
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "2",
+                    "win": 43,
+                    "minority": 38,
+                    "margin": 5
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "3",
+                "to": "1"
+            },
+            {
+                "from": "3",
+                "to": "2"
+            },
+            {
+                "from": "1",
+                "to": "2"
+            },
+            {
+                "from": "4",
+                "to": "1"
+            },
+            {
+                "from": "3",
+                "to": "4"
+            },
+            {
+                "from": "4",
+                "to": "2"
+            }
+        ]
+    }
+}

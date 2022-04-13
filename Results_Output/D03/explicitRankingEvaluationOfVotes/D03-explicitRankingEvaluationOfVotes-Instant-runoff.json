@@ -1,0 +1,31 @@
+{
+    "Ranking": "Bdale Garbee > Branden Robinson > Martin Michlmayr > Moshe Zadka > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "majority": 244,
+        "rounds": {
+            "1": {
+                "Moshe Zadka": 12,
+                "Bdale Garbee": 164,
+                "Branden Robinson": 170,
+                "Martin Michlmayr": 140,
+                "None Of The Above": 2
+            },
+            "2": {
+                "Moshe Zadka": 13,
+                "Bdale Garbee": 164,
+                "Branden Robinson": 170,
+                "Martin Michlmayr": 140
+            },
+            "3": {
+                "Bdale Garbee": 168,
+                "Branden Robinson": 171,
+                "Martin Michlmayr": 147
+            },
+            "4": {
+                "Bdale Garbee": 262,
+                "Branden Robinson": 221
+            }
+        }
+    }
+}

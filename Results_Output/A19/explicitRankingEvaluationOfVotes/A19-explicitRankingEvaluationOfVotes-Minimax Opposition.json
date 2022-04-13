@@ -1,0 +1,27 @@
+{
+    "Ranking": "A > B > E > C > F > D > G",
+    "Number Of Seats": 3,
+    "Stats": {
+        "A": {
+            "worst_pairwise_opposition": 263
+        },
+        "B": {
+            "worst_pairwise_opposition": 272
+        },
+        "C": {
+            "worst_pairwise_opposition": 295
+        },
+        "D": {
+            "worst_pairwise_opposition": 305
+        },
+        "E": {
+            "worst_pairwise_opposition": 287
+        },
+        "F": {
+            "worst_pairwise_opposition": 301
+        },
+        "G": {
+            "worst_pairwise_opposition": 321
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Ranking": "H > C > A > J > L > M > D > G > I > B > E > F > K",
+    "Number Of Seats": 3,
+    "Stats": {
+        "A": {
+            "sum_defeat_margin": 157
+        },
+        "B": {
+            "sum_defeat_margin": 444
+        },
+        "C": {
+            "sum_defeat_margin": 57
+        },
+        "D": {
+            "sum_defeat_margin": 212
+        },
+        "E": {
+            "sum_defeat_margin": 508
+        },
+        "F": {
+            "sum_defeat_margin": 611
+        },
+        "G": {
+            "sum_defeat_margin": 303
+        },
+        "H": {
+            "sum_defeat_margin": 0
+        },
+        "I": {
+            "sum_defeat_margin": 307
+        },
+        "J": {
+            "sum_defeat_margin": 182
+        },
+        "K": {
+            "sum_defeat_margin": 613
+        },
+        "L": {
+            "sum_defeat_margin": 197
+        },
+        "M": {
+            "sum_defeat_margin": 211
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Ranking": "Matthew Garrett > Branden Robinson > Anthony Towns > Andreas Schuldei > Angus Lees > None of the Above > Jonathan Walther",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Jonathan Walther": {
+            "worst_pairwise_defeat_margin": 322
+        },
+        "Matthew Garrett": {
+            "worst_pairwise_defeat_margin": -9
+        },
+        "Branden Robinson": {
+            "worst_pairwise_defeat_margin": 9
+        },
+        "Anthony Towns": {
+            "worst_pairwise_defeat_margin": 51
+        },
+        "Angus Lees": {
+            "worst_pairwise_defeat_margin": 286
+        },
+        "Andreas Schuldei": {
+            "worst_pairwise_defeat_margin": 86
+        },
+        "None of the Above": {
+            "worst_pairwise_defeat_margin": 291
+        }
+    }
+}

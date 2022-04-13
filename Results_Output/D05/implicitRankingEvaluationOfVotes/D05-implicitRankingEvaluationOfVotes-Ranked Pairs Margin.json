@@ -1,0 +1,283 @@
+{
+    "Ranking": "Branden Robinson > Anthony Towns > Matthew Garrett > Andreas Schuldei > Angus Lees > None of the Above > Jonathan Walther",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Jonathan Walther",
+                    "win": 440,
+                    "minority": 29,
+                    "margin": 411
+                }
+            ],
+            [
+                {
+                    "from": "Branden Robinson",
+                    "to": "Jonathan Walther",
+                    "win": 420,
+                    "minority": 47,
+                    "margin": 373
+                }
+            ],
+            [
+                {
+                    "from": "Matthew Garrett",
+                    "to": "Jonathan Walther",
+                    "win": 394,
+                    "minority": 50,
+                    "margin": 344
+                }
+            ],
+            [
+                {
+                    "from": "Matthew Garrett",
+                    "to": "Angus Lees",
+                    "win": 385,
+                    "minority": 60,
+                    "margin": 325
+                }
+            ],
+            [
+                {
+                    "from": "Matthew Garrett",
+                    "to": "None of the Above",
+                    "win": 390,
+                    "minority": 75,
+                    "margin": 315
+                }
+            ],
+            [
+                {
+                    "from": "Andreas Schuldei",
+                    "to": "Jonathan Walther",
+                    "win": 378,
+                    "minority": 64,
+                    "margin": 314
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Angus Lees",
+                    "win": 393,
+                    "minority": 80,
+                    "margin": 313
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "None of the Above",
+                    "win": 392,
+                    "minority": 101,
+                    "margin": 291
+                }
+            ],
+            [
+                {
+                    "from": "Branden Robinson",
+                    "to": "Angus Lees",
+                    "win": 375,
+                    "minority": 95,
+                    "margin": 280
+                }
+            ],
+            [
+                {
+                    "from": "Branden Robinson",
+                    "to": "None of the Above",
+                    "win": 378,
+                    "minority": 107,
+                    "margin": 271
+                }
+            ],
+            [
+                {
+                    "from": "Andreas Schuldei",
+                    "to": "None of the Above",
+                    "win": 351,
+                    "minority": 120,
+                    "margin": 231
+                }
+            ],
+            [
+                {
+                    "from": "None of the Above",
+                    "to": "Jonathan Walther",
+                    "win": 337,
+                    "minority": 116,
+                    "margin": 221
+                }
+            ],
+            [
+                {
+                    "from": "Angus Lees",
+                    "to": "Jonathan Walther",
+                    "win": 314,
+                    "minority": 98,
+                    "margin": 216
+                }
+            ],
+            [
+                {
+                    "from": "Andreas Schuldei",
+                    "to": "Angus Lees",
+                    "win": 307,
+                    "minority": 139,
+                    "margin": 168
+                }
+            ],
+            [
+                {
+                    "from": "Branden Robinson",
+                    "to": "Andreas Schuldei",
+                    "win": 290,
+                    "minority": 184,
+                    "margin": 106
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Andreas Schuldei",
+                    "win": 288,
+                    "minority": 196,
+                    "margin": 92
+                }
+            ],
+            [
+                {
+                    "from": "Matthew Garrett",
+                    "to": "Andreas Schuldei",
+                    "win": 275,
+                    "minority": 185,
+                    "margin": 90
+                }
+            ],
+            [
+                {
+                    "from": "Angus Lees",
+                    "to": "None of the Above",
+                    "win": 270,
+                    "minority": 184,
+                    "margin": 86
+                }
+            ],
+            [
+                {
+                    "from": "Branden Robinson",
+                    "to": "Anthony Towns",
+                    "win": 266,
+                    "minority": 222,
+                    "margin": 44
+                }
+            ],
+            [
+                {
+                    "from": "Branden Robinson",
+                    "to": "Matthew Garrett",
+                    "win": 248,
+                    "minority": 236,
+                    "margin": 12
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Matthew Garrett",
+                    "win": 244,
+                    "minority": 239,
+                    "margin": 5
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Anthony Towns",
+                "to": "Jonathan Walther"
+            },
+            {
+                "from": "Branden Robinson",
+                "to": "Jonathan Walther"
+            },
+            {
+                "from": "Matthew Garrett",
+                "to": "Jonathan Walther"
+            },
+            {
+                "from": "Matthew Garrett",
+                "to": "Angus Lees"
+            },
+            {
+                "from": "Matthew Garrett",
+                "to": "None of the Above"
+            },
+            {
+                "from": "Andreas Schuldei",
+                "to": "Jonathan Walther"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "Angus Lees"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "None of the Above"
+            },
+            {
+                "from": "Branden Robinson",
+                "to": "Angus Lees"
+            },
+            {
+                "from": "Branden Robinson",
+                "to": "None of the Above"
+            },
+            {
+                "from": "Andreas Schuldei",
+                "to": "None of the Above"
+            },
+            {
+                "from": "None of the Above",
+                "to": "Jonathan Walther"
+            },
+            {
+                "from": "Angus Lees",
+                "to": "Jonathan Walther"
+            },
+            {
+                "from": "Andreas Schuldei",
+                "to": "Angus Lees"
+            },
+            {
+                "from": "Branden Robinson",
+                "to": "Andreas Schuldei"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "Andreas Schuldei"
+            },
+            {
+                "from": "Matthew Garrett",
+                "to": "Andreas Schuldei"
+            },
+            {
+                "from": "Angus Lees",
+                "to": "None of the Above"
+            },
+            {
+                "from": "Branden Robinson",
+                "to": "Anthony Towns"
+            },
+            {
+                "from": "Branden Robinson",
+                "to": "Matthew Garrett"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "Matthew Garrett"
+            }
+        ]
+    }
+}

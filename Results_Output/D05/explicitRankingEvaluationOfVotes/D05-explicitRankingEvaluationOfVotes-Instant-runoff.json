@@ -1,0 +1,48 @@
+{
+    "Ranking": "Branden Robinson > Matthew Garrett > Anthony Towns > Andreas Schuldei > None of the Above > Angus Lees > Jonathan Walther",
+    "Number Of Seats": 1,
+    "Stats": {
+        "majority": 252,
+        "rounds": {
+            "1": {
+                "Jonathan Walther": 4,
+                "Matthew Garrett": 133,
+                "Branden Robinson": 137,
+                "Anthony Towns": 125,
+                "Angus Lees": 11,
+                "Andreas Schuldei": 75,
+                "None of the Above": 19
+            },
+            "2": {
+                "Matthew Garrett": 133,
+                "Branden Robinson": 139,
+                "Anthony Towns": 125,
+                "Angus Lees": 11,
+                "Andreas Schuldei": 76,
+                "None of the Above": 19
+            },
+            "3": {
+                "Matthew Garrett": 135,
+                "Branden Robinson": 141,
+                "Anthony Towns": 128,
+                "Andreas Schuldei": 76,
+                "None of the Above": 22
+            },
+            "4": {
+                "Matthew Garrett": 147,
+                "Branden Robinson": 143,
+                "Anthony Towns": 131,
+                "Andreas Schuldei": 77
+            },
+            "5": {
+                "Matthew Garrett": 162,
+                "Branden Robinson": 185,
+                "Anthony Towns": 148
+            },
+            "6": {
+                "Matthew Garrett": 236,
+                "Branden Robinson": 248
+            }
+        }
+    }
+}

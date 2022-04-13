@@ -1,0 +1,60 @@
+A * 104
+A > C * 40
+A > C > D > B * 31
+A > C > B > D * 29
+A > B > C > D * 24
+A > D > C > B * 20
+A > D * 19
+B * 19
+A > B * 17
+A > D > B > C * 16
+C * 14
+C > A * 13
+A > B > D > C * 12
+B > A > D > C * 11
+A > C > D * 10
+A > D > C * 10
+B > A * 9
+B > A > C > D * 9
+C > A > D > B * 9
+B > D > A > C * 8
+D > A * 8
+B > D > C > A * 7
+C > B > D > A * 7
+D * 7
+D > B > C > A * 7
+D > C > A > B * 7
+C > A > B > D * 6
+C > D > A > B * 6
+D > B * 6
+D > B > A > C * 6
+A > C > B * 5
+C > B * 5
+D > A > C > B * 5
+A > B > C * 4
+B > C > D > A * 3
+B > D * 3
+B > D > C * 3
+C > B > A > D * 3
+C > D * 3
+C > D > B > A * 3
+D > A > B > C * 3
+D > C > B > A * 3
+A > D > B * 2
+B > A > C * 2
+B > C > A > D * 2
+C > A > B * 2
+C > A > D * 2
+C > D > A * 2
+C > D > B * 2
+D > B > C * 2
+D > C > B * 2
+A > B > D * 1
+B > A > D * 1
+B > C > A * 1
+B > D > A * 1
+C > B > A * 1
+C > B > D * 1
+D > A > B * 1
+D > B > A * 1
+D > C * 1

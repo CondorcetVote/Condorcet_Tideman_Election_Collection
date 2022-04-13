@@ -1,0 +1,18 @@
+{
+    "Ranking": "B > D > C > A",
+    "Number Of Seats": 2,
+    "Stats": {
+        "A": {
+            "sum_defeat_margin": 275
+        },
+        "B": {
+            "sum_defeat_margin": 0
+        },
+        "C": {
+            "sum_defeat_margin": 64
+        },
+        "D": {
+            "sum_defeat_margin": 50
+        }
+    }
+}

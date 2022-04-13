@@ -1,0 +1,24 @@
+{
+    "Ranking": "Martin Michlmayr > Branden Robinson > None of the Above > Gergely Nagy",
+    "Number Of Seats": 1,
+    "Stats": {
+        "majority": 241,
+        "rounds": {
+            "1": {
+                "Gergely Nagy": 12,
+                "Branden Robinson": 188,
+                "Martin Michlmayr": 278,
+                "None of the Above": 4
+            },
+            "2": {
+                "Gergely Nagy": 35,
+                "Branden Robinson": 372,
+                "None of the Above": 59
+            },
+            "3": {
+                "Gergely Nagy": 151,
+                "None of the Above": 258
+            }
+        }
+    }
+}

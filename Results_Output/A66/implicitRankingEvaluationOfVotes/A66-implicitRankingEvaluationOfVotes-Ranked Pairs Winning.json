@@ -1,0 +1,203 @@
+{
+    "Ranking": "6 > 4 > 2 > 3 > 5 > 1",
+    "Number Of Seats": 4,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "6",
+                    "to": "1",
+                    "win": 146,
+                    "minority": 10,
+                    "margin": 136
+                }
+            ],
+            [
+                {
+                    "from": "6",
+                    "to": "3",
+                    "win": 143,
+                    "minority": 13,
+                    "margin": 130
+                }
+            ],
+            [
+                {
+                    "from": "6",
+                    "to": "2",
+                    "win": 143,
+                    "minority": 19,
+                    "margin": 124
+                }
+            ],
+            [
+                {
+                    "from": "6",
+                    "to": "5",
+                    "win": 139,
+                    "minority": 40,
+                    "margin": 99
+                }
+            ],
+            [
+                {
+                    "from": "6",
+                    "to": "4",
+                    "win": 123,
+                    "minority": 41,
+                    "margin": 82
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "1",
+                    "win": 100,
+                    "minority": 16,
+                    "margin": 84
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "5",
+                    "win": 98,
+                    "minority": 42,
+                    "margin": 56
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "3",
+                    "win": 95,
+                    "minority": 22,
+                    "margin": 73
+                }
+            ],
+            [
+                {
+                    "from": "4",
+                    "to": "2",
+                    "win": 90,
+                    "minority": 34,
+                    "margin": 56
+                }
+            ],
+            [
+                {
+                    "from": "2",
+                    "to": "1",
+                    "win": 82,
+                    "minority": 14,
+                    "margin": 68
+                }
+            ],
+            [
+                {
+                    "from": "3",
+                    "to": "1",
+                    "win": 81,
+                    "minority": 20,
+                    "margin": 61
+                }
+            ],
+            [
+                {
+                    "from": "2",
+                    "to": "5",
+                    "win": 76,
+                    "minority": 48,
+                    "margin": 28
+                },
+                {
+                    "from": "3",
+                    "to": "5",
+                    "win": 76,
+                    "minority": 48,
+                    "margin": 28
+                }
+            ],
+            [
+                {
+                    "from": "2",
+                    "to": "3",
+                    "win": 72,
+                    "minority": 40,
+                    "margin": 32
+                }
+            ],
+            [
+                {
+                    "from": "5",
+                    "to": "1",
+                    "win": 49,
+                    "minority": 16,
+                    "margin": 33
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "6",
+                "to": "1"
+            },
+            {
+                "from": "6",
+                "to": "3"
+            },
+            {
+                "from": "6",
+                "to": "2"
+            },
+            {
+                "from": "6",
+                "to": "5"
+            },
+            {
+                "from": "6",
+                "to": "4"
+            },
+            {
+                "from": "4",
+                "to": "1"
+            },
+            {
+                "from": "4",
+                "to": "5"
+            },
+            {
+                "from": "4",
+                "to": "3"
+            },
+            {
+                "from": "4",
+                "to": "2"
+            },
+            {
+                "from": "2",
+                "to": "1"
+            },
+            {
+                "from": "3",
+                "to": "1"
+            },
+            {
+                "from": "2",
+                "to": "5"
+            },
+            {
+                "from": "3",
+                "to": "5"
+            },
+            {
+                "from": "2",
+                "to": "3"
+            },
+            {
+                "from": "5",
+                "to": "1"
+            }
+        ]
+    }
+}

@@ -88,8 +88,6 @@ ini_set('memory_limit', '4096M');
     function computeResults (Election $election, string $index, array &$results, string $name)
     {
         foreach (Condorcet::getAuthMethods() as $method) :
-            if ($method === 'Instant-runoff') : continue; endif; // Instant Runoff seem to need a fix in rare case
-
             try {
                 echo 'Compute method: '.$name.' - '.$index.' - '.$method."\n";
                 $results[$method][$index] = [
