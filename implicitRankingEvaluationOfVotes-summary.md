@@ -1,7 +1,8 @@
 implicitRankingEvaluationOfVotes Summary  
 ===========================
-This table is not easy to read on the Github preview, can be better with other markdown renderer. But a **tip**: click of the tab, then use your keyboard arrows to explore it efficiently _(and not your mouse)_.  
----------
+This table is not easy to read on the Github preview, can be better with other markdown renderer.   
+---------  
+But a **tip**: click of the tab, then use your keyboard arrows to explore it efficiently _(and not your mouse)_.
 ---------------------------------------
 | --- | Pairwise | BordaCount | Copeland | Dodgson Quick | Dodgson Tideman Approximation | DowdallSystem | First-past-the-post voting | Instant-runoff | Kemeny–Young | Minimax Margin | Minimax Opposition | Minimax Winning | Multiple Rounds System | Ranked Pairs Margin | Ranked Pairs Winning | STV | Schulze Margin | Schulze Ratio | Schulze Winning |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

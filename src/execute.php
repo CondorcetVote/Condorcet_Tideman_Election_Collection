@@ -53,6 +53,7 @@ ini_set('memory_limit', '8192M');
         $results[$name] = [];
 
         // Implicit Ranking
+        !$election->getImplicitRankingRule() && $election->setImplicitRanking(false); # Security, default must be true.
         computeResults($election, 'implicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
         $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = $election->getVotesListAsString();
 
@@ -156,7 +157,8 @@ ini_set('memory_limit', '8192M');
     function makeSummary (array $methods, array $results, string $mode): void
     {
         $md = "$mode Summary  \n===========================\n";
-        $md .= "This table is not easy to read on the Github preview, can be better with other markdown renderer. But a **tip**: click of the tab, then use your keyboard arrows to explore it efficiently _(and not your mouse)_.  \n---------\n---------------------------------------\n";
+        $md .= "This table is not easy to read on the Github preview, can be better with other markdown renderer.   \n---------  \n";
+        $md .= "But a **tip**: click of the tab, then use your keyboard arrows to explore it efficiently _(and not your mouse)_.\n---------------------------------------\n";
 
         $md .= '| --- | Pairwise |';
 
