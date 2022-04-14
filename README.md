@@ -18,7 +18,7 @@ _Unfortunatly, tab rendering in Github are now very readable actually_
 ### Detailed results and stats can be found in the [Results Output](Results_Output/) folder
 
 For each mod, with ranking and stats for each method and his pairwise computation.. Stats from directly from [Condorcet PHP](https://github.com/julien-boudry/Condorcet).   
-You will also find the votes in the [Condorcet aggregated format](https://github.com/julien-boudry/Condorcet/blob/master/Documentation/Election%20Class/public%20Election--getVotesListAsString.md), which are really easier to read. 
+You will also find the votes in the [Condorcet aggregated format](https://github.com/julien-boudry/Condorcet/blob/master/Documentation/Election%20Class/public%20Election--getVotesListAsString.md) _(.cvotes files)_, which are really easier to read. 
 
 _* Kemeny-Young method result & stats file are under Git LFS. You must download (no preview) on Github or pull from LFS with Git._
 

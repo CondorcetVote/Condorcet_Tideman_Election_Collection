@@ -54,12 +54,14 @@ ini_set('memory_limit', '8192M');
 
         // Implicit Ranking
         computeResults($election, 'implicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
+        $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = $election->getVotesListAsString();
 
         // Explicit Ranking OFF
         $election->setImplicitRanking(false);
         computeResults($election, 'explicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
+        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] = $election->getVotesListAsString();
 
-        $results[$name]['condorcetFormatVotes'] = $election->getVotesListAsString();
+
     endforeach;
 
     unset($collection, $election);
@@ -101,7 +103,8 @@ ini_set('memory_limit', '8192M');
         endforeach;
 
         // Condorcet Format
-        file_put_contents("$base_dir/$name-aggregated_votes.cvotes", $electionResults['condorcetFormatVotes']);
+        file_put_contents("$base_dir/implicitRankingEvaluationOfVotes/$name-aggregated-votes-implicit.cvotes", $electionResults['condorcetFormatVotes']['implicitRankingEvaluationOfVotes']);
+        file_put_contents("$base_dir/explicitRankingEvaluationOfVotes/$name-aggregated-votes-explicit.cvotes", $electionResults['condorcetFormatVotes']['explicitRankingEvaluationOfVotes']);
     endforeach;
 
     # Export Pairwise
