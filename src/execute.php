@@ -155,7 +155,10 @@ ini_set('memory_limit', '8192M');
 
     function makeSummary (array $methods, array $results, string $mode): void
     {
-        $md = '| --- | Pairwise |';
+        $md = "$mode Summary  \n===========================\n";
+        $md .= "This table is not easy to read on the Github preview, can be better with other markdown renderer. But a **tip**: click of the tab, then use your keyboard arrows to explore it efficiently _(and not your mouse)_.  \n---------\n---------------------------------------\n";
+
+        $md .= '| --- | Pairwise |';
 
         foreach ($methods as $methodName) :
             $md .= " $methodName |";
