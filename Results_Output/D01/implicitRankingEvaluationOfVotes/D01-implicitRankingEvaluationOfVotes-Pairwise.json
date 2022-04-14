@@ -1,0 +1,102 @@
+{
+    "Branden Robinson": {
+        "win": {
+            "Anand Kumria": 244,
+            "Ben Collins": 126,
+            "Bdale Garbee": 157,
+            "None Of The Above": 250
+        },
+        "null": {
+            "Anand Kumria": 29,
+            "Ben Collins": 11,
+            "Bdale Garbee": 7,
+            "None Of The Above": 20
+        },
+        "lose": {
+            "Anand Kumria": 37,
+            "Ben Collins": 173,
+            "Bdale Garbee": 146,
+            "None Of The Above": 40
+        }
+    },
+    "Anand Kumria": {
+        "win": {
+            "Branden Robinson": 37,
+            "Ben Collins": 27,
+            "Bdale Garbee": 24,
+            "None Of The Above": 143
+        },
+        "null": {
+            "Branden Robinson": 29,
+            "Ben Collins": 22,
+            "Bdale Garbee": 27,
+            "None Of The Above": 67
+        },
+        "lose": {
+            "Branden Robinson": 244,
+            "Ben Collins": 261,
+            "Bdale Garbee": 259,
+            "None Of The Above": 100
+        }
+    },
+    "Ben Collins": {
+        "win": {
+            "Branden Robinson": 173,
+            "Anand Kumria": 261,
+            "Bdale Garbee": 171,
+            "None Of The Above": 265
+        },
+        "null": {
+            "Branden Robinson": 11,
+            "Anand Kumria": 22,
+            "Bdale Garbee": 5,
+            "None Of The Above": 9
+        },
+        "lose": {
+            "Branden Robinson": 126,
+            "Anand Kumria": 27,
+            "Bdale Garbee": 134,
+            "None Of The Above": 36
+        }
+    },
+    "Bdale Garbee": {
+        "win": {
+            "Branden Robinson": 146,
+            "Anand Kumria": 259,
+            "Ben Collins": 134,
+            "None Of The Above": 269
+        },
+        "null": {
+            "Branden Robinson": 7,
+            "Anand Kumria": 27,
+            "Ben Collins": 5,
+            "None Of The Above": 22
+        },
+        "lose": {
+            "Branden Robinson": 157,
+            "Anand Kumria": 24,
+            "Ben Collins": 171,
+            "None Of The Above": 19
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Branden Robinson": 40,
+            "Anand Kumria": 100,
+            "Ben Collins": 36,
+            "Bdale Garbee": 19
+        },
+        "null": {
+            "Branden Robinson": 20,
+            "Anand Kumria": 67,
+            "Ben Collins": 9,
+            "Bdale Garbee": 22
+        },
+        "lose": {
+            "Branden Robinson": 250,
+            "Anand Kumria": 143,
+            "Ben Collins": 265,
+            "Bdale Garbee": 269
+        }
+    }
+}

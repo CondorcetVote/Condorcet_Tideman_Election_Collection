@@ -1,0 +1,70 @@
+{
+    "Branden Robinson": {
+        "win": {
+            "Raphael Hertzog": 249,
+            "Bdale Garbee": 169,
+            "None Of The Above": 258
+        },
+        "null": {
+            "Raphael Hertzog": 0,
+            "Bdale Garbee": 0,
+            "None Of The Above": 0
+        },
+        "lose": {
+            "Raphael Hertzog": 179,
+            "Bdale Garbee": 259,
+            "None Of The Above": 52
+        }
+    },
+    "Raphael Hertzog": {
+        "win": {
+            "Branden Robinson": 179,
+            "Bdale Garbee": 133,
+            "None Of The Above": 276
+        },
+        "null": {
+            "Branden Robinson": 0,
+            "Bdale Garbee": 0,
+            "None Of The Above": 0
+        },
+        "lose": {
+            "Branden Robinson": 249,
+            "Bdale Garbee": 308,
+            "None Of The Above": 41
+        }
+    },
+    "Bdale Garbee": {
+        "win": {
+            "Branden Robinson": 259,
+            "Raphael Hertzog": 308,
+            "None Of The Above": 308
+        },
+        "null": {
+            "Branden Robinson": 0,
+            "Raphael Hertzog": 0,
+            "None Of The Above": 0
+        },
+        "lose": {
+            "Branden Robinson": 169,
+            "Raphael Hertzog": 133,
+            "None Of The Above": 16
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Branden Robinson": 52,
+            "Raphael Hertzog": 41,
+            "Bdale Garbee": 16
+        },
+        "null": {
+            "Branden Robinson": 0,
+            "Raphael Hertzog": 0,
+            "Bdale Garbee": 0
+        },
+        "lose": {
+            "Branden Robinson": 258,
+            "Raphael Hertzog": 276,
+            "Bdale Garbee": 308
+        }
+    }
+}

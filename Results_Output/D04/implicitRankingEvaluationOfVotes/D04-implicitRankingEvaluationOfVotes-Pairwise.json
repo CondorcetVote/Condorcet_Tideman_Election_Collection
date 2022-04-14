@@ -1,0 +1,70 @@
+{
+    "Gergely Nagy": {
+        "win": {
+            "Branden Robinson": 61,
+            "Martin Michlmayr": 31,
+            "None of the Above": 151
+        },
+        "null": {
+            "Branden Robinson": 36,
+            "Martin Michlmayr": 13,
+            "None of the Above": 73
+        },
+        "lose": {
+            "Branden Robinson": 385,
+            "Martin Michlmayr": 438,
+            "None of the Above": 258
+        }
+    },
+    "Branden Robinson": {
+        "win": {
+            "Gergely Nagy": 385,
+            "Martin Michlmayr": 194,
+            "None of the Above": 394
+        },
+        "null": {
+            "Gergely Nagy": 36,
+            "Martin Michlmayr": 1,
+            "None of the Above": 18
+        },
+        "lose": {
+            "Gergely Nagy": 61,
+            "Martin Michlmayr": 287,
+            "None of the Above": 70
+        }
+    },
+    "Martin Michlmayr": {
+        "win": {
+            "Gergely Nagy": 438,
+            "Branden Robinson": 287,
+            "None of the Above": 445
+        },
+        "null": {
+            "Gergely Nagy": 13,
+            "Branden Robinson": 1,
+            "None of the Above": 11
+        },
+        "lose": {
+            "Gergely Nagy": 31,
+            "Branden Robinson": 194,
+            "None of the Above": 26
+        }
+    },
+    "None of the Above": {
+        "win": {
+            "Gergely Nagy": 258,
+            "Branden Robinson": 70,
+            "Martin Michlmayr": 26
+        },
+        "null": {
+            "Gergely Nagy": 73,
+            "Branden Robinson": 18,
+            "Martin Michlmayr": 11
+        },
+        "lose": {
+            "Gergely Nagy": 151,
+            "Branden Robinson": 394,
+            "Martin Michlmayr": 445
+        }
+    }
+}

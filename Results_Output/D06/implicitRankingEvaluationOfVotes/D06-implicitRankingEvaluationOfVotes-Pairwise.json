@@ -1,0 +1,234 @@
+{
+    "Jeroen van Wolffelaar": {
+        "win": {
+            "Ari Pollak": 332,
+            "Steve McIntyre": 165,
+            "Anthony Towns": 175,
+            "Andreas Schuldei": 221,
+            "Jonathan aka Ted Walther": 354,
+            "Bill Allombert": 264,
+            "None of the Above": 321
+        },
+        "null": {
+            "Ari Pollak": 49,
+            "Steve McIntyre": 26,
+            "Anthony Towns": 16,
+            "Andreas Schuldei": 34,
+            "Jonathan aka Ted Walther": 47,
+            "Bill Allombert": 38,
+            "None of the Above": 25
+        },
+        "lose": {
+            "Ari Pollak": 40,
+            "Steve McIntyre": 230,
+            "Anthony Towns": 230,
+            "Andreas Schuldei": 166,
+            "Jonathan aka Ted Walther": 20,
+            "Bill Allombert": 119,
+            "None of the Above": 75
+        }
+    },
+    "Ari Pollak": {
+        "win": {
+            "Jeroen van Wolffelaar": 40,
+            "Steve McIntyre": 50,
+            "Anthony Towns": 60,
+            "Andreas Schuldei": 55,
+            "Jonathan aka Ted Walther": 278,
+            "Bill Allombert": 82,
+            "None of the Above": 168
+        },
+        "null": {
+            "Jeroen van Wolffelaar": 49,
+            "Steve McIntyre": 39,
+            "Anthony Towns": 27,
+            "Andreas Schuldei": 46,
+            "Jonathan aka Ted Walther": 82,
+            "Bill Allombert": 64,
+            "None of the Above": 51
+        },
+        "lose": {
+            "Jeroen van Wolffelaar": 332,
+            "Steve McIntyre": 332,
+            "Anthony Towns": 334,
+            "Andreas Schuldei": 320,
+            "Jonathan aka Ted Walther": 61,
+            "Bill Allombert": 275,
+            "None of the Above": 202
+        }
+    },
+    "Steve McIntyre": {
+        "win": {
+            "Jeroen van Wolffelaar": 230,
+            "Ari Pollak": 332,
+            "Anthony Towns": 213,
+            "Andreas Schuldei": 273,
+            "Jonathan aka Ted Walther": 370,
+            "Bill Allombert": 322,
+            "None of the Above": 346
+        },
+        "null": {
+            "Jeroen van Wolffelaar": 26,
+            "Ari Pollak": 39,
+            "Anthony Towns": 18,
+            "Andreas Schuldei": 24,
+            "Jonathan aka Ted Walther": 35,
+            "Bill Allombert": 31,
+            "None of the Above": 22
+        },
+        "lose": {
+            "Jeroen van Wolffelaar": 165,
+            "Ari Pollak": 50,
+            "Anthony Towns": 190,
+            "Andreas Schuldei": 124,
+            "Jonathan aka Ted Walther": 16,
+            "Bill Allombert": 68,
+            "None of the Above": 53
+        }
+    },
+    "Anthony Towns": {
+        "win": {
+            "Jeroen van Wolffelaar": 230,
+            "Ari Pollak": 334,
+            "Steve McIntyre": 190,
+            "Andreas Schuldei": 270,
+            "Jonathan aka Ted Walther": 378,
+            "Bill Allombert": 302,
+            "None of the Above": 340
+        },
+        "null": {
+            "Jeroen van Wolffelaar": 16,
+            "Ari Pollak": 27,
+            "Steve McIntyre": 18,
+            "Andreas Schuldei": 16,
+            "Jonathan aka Ted Walther": 27,
+            "Bill Allombert": 20,
+            "None of the Above": 10
+        },
+        "lose": {
+            "Jeroen van Wolffelaar": 175,
+            "Ari Pollak": 60,
+            "Steve McIntyre": 213,
+            "Andreas Schuldei": 135,
+            "Jonathan aka Ted Walther": 16,
+            "Bill Allombert": 99,
+            "None of the Above": 71
+        }
+    },
+    "Andreas Schuldei": {
+        "win": {
+            "Jeroen van Wolffelaar": 166,
+            "Ari Pollak": 320,
+            "Steve McIntyre": 124,
+            "Anthony Towns": 135,
+            "Jonathan aka Ted Walther": 362,
+            "Bill Allombert": 268,
+            "None of the Above": 322
+        },
+        "null": {
+            "Jeroen van Wolffelaar": 34,
+            "Ari Pollak": 46,
+            "Steve McIntyre": 24,
+            "Anthony Towns": 16,
+            "Jonathan aka Ted Walther": 43,
+            "Bill Allombert": 36,
+            "None of the Above": 24
+        },
+        "lose": {
+            "Jeroen van Wolffelaar": 221,
+            "Ari Pollak": 55,
+            "Steve McIntyre": 273,
+            "Anthony Towns": 270,
+            "Jonathan aka Ted Walther": 16,
+            "Bill Allombert": 117,
+            "None of the Above": 75
+        }
+    },
+    "Jonathan aka Ted Walther": {
+        "win": {
+            "Jeroen van Wolffelaar": 20,
+            "Ari Pollak": 61,
+            "Steve McIntyre": 16,
+            "Anthony Towns": 16,
+            "Andreas Schuldei": 16,
+            "Bill Allombert": 39,
+            "None of the Above": 76
+        },
+        "null": {
+            "Jeroen van Wolffelaar": 47,
+            "Ari Pollak": 82,
+            "Steve McIntyre": 35,
+            "Anthony Towns": 27,
+            "Andreas Schuldei": 43,
+            "Bill Allombert": 61,
+            "None of the Above": 44
+        },
+        "lose": {
+            "Jeroen van Wolffelaar": 354,
+            "Ari Pollak": 278,
+            "Steve McIntyre": 370,
+            "Anthony Towns": 378,
+            "Andreas Schuldei": 362,
+            "Bill Allombert": 321,
+            "None of the Above": 301
+        }
+    },
+    "Bill Allombert": {
+        "win": {
+            "Jeroen van Wolffelaar": 119,
+            "Ari Pollak": 275,
+            "Steve McIntyre": 68,
+            "Anthony Towns": 99,
+            "Andreas Schuldei": 117,
+            "Jonathan aka Ted Walther": 321,
+            "None of the Above": 298
+        },
+        "null": {
+            "Jeroen van Wolffelaar": 38,
+            "Ari Pollak": 64,
+            "Steve McIntyre": 31,
+            "Anthony Towns": 20,
+            "Andreas Schuldei": 36,
+            "Jonathan aka Ted Walther": 61,
+            "None of the Above": 36
+        },
+        "lose": {
+            "Jeroen van Wolffelaar": 264,
+            "Ari Pollak": 82,
+            "Steve McIntyre": 322,
+            "Anthony Towns": 302,
+            "Andreas Schuldei": 268,
+            "Jonathan aka Ted Walther": 39,
+            "None of the Above": 87
+        }
+    },
+    "None of the Above": {
+        "win": {
+            "Jeroen van Wolffelaar": 75,
+            "Ari Pollak": 202,
+            "Steve McIntyre": 53,
+            "Anthony Towns": 71,
+            "Andreas Schuldei": 75,
+            "Jonathan aka Ted Walther": 301,
+            "Bill Allombert": 87
+        },
+        "null": {
+            "Jeroen van Wolffelaar": 25,
+            "Ari Pollak": 51,
+            "Steve McIntyre": 22,
+            "Anthony Towns": 10,
+            "Andreas Schuldei": 24,
+            "Jonathan aka Ted Walther": 44,
+            "Bill Allombert": 36
+        },
+        "lose": {
+            "Jeroen van Wolffelaar": 321,
+            "Ari Pollak": 168,
+            "Steve McIntyre": 346,
+            "Anthony Towns": 340,
+            "Andreas Schuldei": 322,
+            "Jonathan aka Ted Walther": 76,
+            "Bill Allombert": 298
+        }
+    }
+}

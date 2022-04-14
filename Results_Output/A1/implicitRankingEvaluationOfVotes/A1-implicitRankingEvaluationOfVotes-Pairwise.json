@@ -1,0 +1,352 @@
+{
+    "Candidate  1": {
+        "win": {
+            "Candidate  2": 226,
+            "Candidate  3": 192,
+            "Candidate  4": 201,
+            "Candidate  5": 229,
+            "Candidate  6": 230,
+            "Candidate  7": 214,
+            "Candidate  8": 204,
+            "Candidate  9": 201,
+            "Candidate 10": 215
+        },
+        "null": {
+            "Candidate  2": 75,
+            "Candidate  3": 101,
+            "Candidate  4": 102,
+            "Candidate  5": 132,
+            "Candidate  6": 104,
+            "Candidate  7": 70,
+            "Candidate  8": 54,
+            "Candidate  9": 49,
+            "Candidate 10": 111
+        },
+        "lose": {
+            "Candidate  2": 79,
+            "Candidate  3": 87,
+            "Candidate  4": 77,
+            "Candidate  5": 19,
+            "Candidate  6": 46,
+            "Candidate  7": 96,
+            "Candidate  8": 122,
+            "Candidate  9": 130,
+            "Candidate 10": 54
+        }
+    },
+    "Candidate  2": {
+        "win": {
+            "Candidate  1": 79,
+            "Candidate  3": 99,
+            "Candidate  4": 103,
+            "Candidate  5": 123,
+            "Candidate  6": 121,
+            "Candidate  7": 105,
+            "Candidate  8": 96,
+            "Candidate  9": 78,
+            "Candidate 10": 111
+        },
+        "null": {
+            "Candidate  1": 75,
+            "Candidate  3": 117,
+            "Candidate  4": 162,
+            "Candidate  5": 209,
+            "Candidate  6": 202,
+            "Candidate  7": 175,
+            "Candidate  8": 145,
+            "Candidate  9": 109,
+            "Candidate 10": 191
+        },
+        "lose": {
+            "Candidate  1": 226,
+            "Candidate  3": 164,
+            "Candidate  4": 115,
+            "Candidate  5": 48,
+            "Candidate  6": 57,
+            "Candidate  7": 100,
+            "Candidate  8": 139,
+            "Candidate  9": 193,
+            "Candidate 10": 78
+        }
+    },
+    "Candidate  3": {
+        "win": {
+            "Candidate  1": 87,
+            "Candidate  2": 164,
+            "Candidate  4": 154,
+            "Candidate  5": 190,
+            "Candidate  6": 181,
+            "Candidate  7": 160,
+            "Candidate  8": 156,
+            "Candidate  9": 123,
+            "Candidate 10": 171
+        },
+        "null": {
+            "Candidate  1": 101,
+            "Candidate  2": 117,
+            "Candidate  4": 115,
+            "Candidate  5": 150,
+            "Candidate  6": 155,
+            "Candidate  7": 112,
+            "Candidate  8": 81,
+            "Candidate  9": 75,
+            "Candidate 10": 134
+        },
+        "lose": {
+            "Candidate  1": 192,
+            "Candidate  2": 99,
+            "Candidate  4": 111,
+            "Candidate  5": 40,
+            "Candidate  6": 44,
+            "Candidate  7": 108,
+            "Candidate  8": 143,
+            "Candidate  9": 182,
+            "Candidate 10": 75
+        }
+    },
+    "Candidate  4": {
+        "win": {
+            "Candidate  1": 77,
+            "Candidate  2": 115,
+            "Candidate  3": 111,
+            "Candidate  5": 146,
+            "Candidate  6": 141,
+            "Candidate  7": 123,
+            "Candidate  8": 110,
+            "Candidate  9": 96,
+            "Candidate 10": 127
+        },
+        "null": {
+            "Candidate  1": 102,
+            "Candidate  2": 162,
+            "Candidate  3": 115,
+            "Candidate  5": 198,
+            "Candidate  6": 187,
+            "Candidate  7": 133,
+            "Candidate  8": 127,
+            "Candidate  9": 91,
+            "Candidate 10": 180
+        },
+        "lose": {
+            "Candidate  1": 201,
+            "Candidate  2": 103,
+            "Candidate  3": 154,
+            "Candidate  5": 36,
+            "Candidate  6": 52,
+            "Candidate  7": 124,
+            "Candidate  8": 143,
+            "Candidate  9": 193,
+            "Candidate 10": 73
+        }
+    },
+    "Candidate  5": {
+        "win": {
+            "Candidate  1": 19,
+            "Candidate  2": 48,
+            "Candidate  3": 40,
+            "Candidate  4": 36,
+            "Candidate  6": 60,
+            "Candidate  7": 60,
+            "Candidate  8": 55,
+            "Candidate  9": 51,
+            "Candidate 10": 53
+        },
+        "null": {
+            "Candidate  1": 132,
+            "Candidate  2": 209,
+            "Candidate  3": 150,
+            "Candidate  4": 198,
+            "Candidate  6": 247,
+            "Candidate  7": 183,
+            "Candidate  8": 156,
+            "Candidate  9": 113,
+            "Candidate 10": 232
+        },
+        "lose": {
+            "Candidate  1": 229,
+            "Candidate  2": 123,
+            "Candidate  3": 190,
+            "Candidate  4": 146,
+            "Candidate  6": 73,
+            "Candidate  7": 137,
+            "Candidate  8": 169,
+            "Candidate  9": 216,
+            "Candidate 10": 95
+        }
+    },
+    "Candidate  6": {
+        "win": {
+            "Candidate  1": 46,
+            "Candidate  2": 57,
+            "Candidate  3": 44,
+            "Candidate  4": 52,
+            "Candidate  5": 73,
+            "Candidate  7": 60,
+            "Candidate  8": 53,
+            "Candidate  9": 43,
+            "Candidate 10": 63
+        },
+        "null": {
+            "Candidate  1": 104,
+            "Candidate  2": 202,
+            "Candidate  3": 155,
+            "Candidate  4": 187,
+            "Candidate  5": 247,
+            "Candidate  7": 190,
+            "Candidate  8": 160,
+            "Candidate  9": 118,
+            "Candidate 10": 223
+        },
+        "lose": {
+            "Candidate  1": 230,
+            "Candidate  2": 121,
+            "Candidate  3": 181,
+            "Candidate  4": 141,
+            "Candidate  5": 60,
+            "Candidate  7": 130,
+            "Candidate  8": 167,
+            "Candidate  9": 219,
+            "Candidate 10": 94
+        }
+    },
+    "Candidate  7": {
+        "win": {
+            "Candidate  1": 96,
+            "Candidate  2": 100,
+            "Candidate  3": 108,
+            "Candidate  4": 124,
+            "Candidate  5": 137,
+            "Candidate  6": 130,
+            "Candidate  8": 111,
+            "Candidate  9": 76,
+            "Candidate 10": 136
+        },
+        "null": {
+            "Candidate  1": 70,
+            "Candidate  2": 175,
+            "Candidate  3": 112,
+            "Candidate  4": 133,
+            "Candidate  5": 183,
+            "Candidate  6": 190,
+            "Candidate  8": 129,
+            "Candidate  9": 121,
+            "Candidate 10": 167
+        },
+        "lose": {
+            "Candidate  1": 214,
+            "Candidate  2": 105,
+            "Candidate  3": 160,
+            "Candidate  4": 123,
+            "Candidate  5": 60,
+            "Candidate  6": 60,
+            "Candidate  8": 140,
+            "Candidate  9": 183,
+            "Candidate 10": 77
+        }
+    },
+    "Candidate  8": {
+        "win": {
+            "Candidate  1": 122,
+            "Candidate  2": 139,
+            "Candidate  3": 143,
+            "Candidate  4": 143,
+            "Candidate  5": 169,
+            "Candidate  6": 167,
+            "Candidate  7": 140,
+            "Candidate  9": 107,
+            "Candidate 10": 169
+        },
+        "null": {
+            "Candidate  1": 54,
+            "Candidate  2": 145,
+            "Candidate  3": 81,
+            "Candidate  4": 127,
+            "Candidate  5": 156,
+            "Candidate  6": 160,
+            "Candidate  7": 129,
+            "Candidate  9": 82,
+            "Candidate 10": 144
+        },
+        "lose": {
+            "Candidate  1": 204,
+            "Candidate  2": 96,
+            "Candidate  3": 156,
+            "Candidate  4": 110,
+            "Candidate  5": 55,
+            "Candidate  6": 53,
+            "Candidate  7": 111,
+            "Candidate  9": 191,
+            "Candidate 10": 67
+        }
+    },
+    "Candidate  9": {
+        "win": {
+            "Candidate  1": 130,
+            "Candidate  2": 193,
+            "Candidate  3": 182,
+            "Candidate  4": 193,
+            "Candidate  5": 216,
+            "Candidate  6": 219,
+            "Candidate  7": 183,
+            "Candidate  8": 191,
+            "Candidate 10": 210
+        },
+        "null": {
+            "Candidate  1": 49,
+            "Candidate  2": 109,
+            "Candidate  3": 75,
+            "Candidate  4": 91,
+            "Candidate  5": 113,
+            "Candidate  6": 118,
+            "Candidate  7": 121,
+            "Candidate  8": 82,
+            "Candidate 10": 117
+        },
+        "lose": {
+            "Candidate  1": 201,
+            "Candidate  2": 78,
+            "Candidate  3": 123,
+            "Candidate  4": 96,
+            "Candidate  5": 51,
+            "Candidate  6": 43,
+            "Candidate  7": 76,
+            "Candidate  8": 107,
+            "Candidate 10": 53
+        }
+    },
+    "Candidate 10": {
+        "win": {
+            "Candidate  1": 54,
+            "Candidate  2": 78,
+            "Candidate  3": 75,
+            "Candidate  4": 73,
+            "Candidate  5": 95,
+            "Candidate  6": 94,
+            "Candidate  7": 77,
+            "Candidate  8": 67,
+            "Candidate  9": 53
+        },
+        "null": {
+            "Candidate  1": 111,
+            "Candidate  2": 191,
+            "Candidate  3": 134,
+            "Candidate  4": 180,
+            "Candidate  5": 232,
+            "Candidate  6": 223,
+            "Candidate  7": 167,
+            "Candidate  8": 144,
+            "Candidate  9": 117
+        },
+        "lose": {
+            "Candidate  1": 215,
+            "Candidate  2": 111,
+            "Candidate  3": 171,
+            "Candidate  4": 127,
+            "Candidate  5": 53,
+            "Candidate  6": 63,
+            "Candidate  7": 136,
+            "Candidate  8": 169,
+            "Candidate  9": 210
+        }
+    }
+}

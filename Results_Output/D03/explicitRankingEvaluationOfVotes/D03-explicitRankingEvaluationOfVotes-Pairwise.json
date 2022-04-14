@@ -1,0 +1,102 @@
+{
+    "Moshe Zadka": {
+        "win": {
+            "Bdale Garbee": 42,
+            "Branden Robinson": 65,
+            "Martin Michlmayr": 53,
+            "None Of The Above": 152
+        },
+        "null": {
+            "Bdale Garbee": 0,
+            "Branden Robinson": 0,
+            "Martin Michlmayr": 0,
+            "None Of The Above": 0
+        },
+        "lose": {
+            "Bdale Garbee": 339,
+            "Branden Robinson": 308,
+            "Martin Michlmayr": 327,
+            "None Of The Above": 148
+        }
+    },
+    "Bdale Garbee": {
+        "win": {
+            "Moshe Zadka": 339,
+            "Branden Robinson": 229,
+            "Martin Michlmayr": 222,
+            "None Of The Above": 325
+        },
+        "null": {
+            "Moshe Zadka": 0,
+            "Branden Robinson": 0,
+            "Martin Michlmayr": 0,
+            "None Of The Above": 0
+        },
+        "lose": {
+            "Moshe Zadka": 42,
+            "Branden Robinson": 208,
+            "Martin Michlmayr": 218,
+            "None Of The Above": 20
+        }
+    },
+    "Branden Robinson": {
+        "win": {
+            "Moshe Zadka": 308,
+            "Bdale Garbee": 208,
+            "Martin Michlmayr": 213,
+            "None Of The Above": 289
+        },
+        "null": {
+            "Moshe Zadka": 0,
+            "Bdale Garbee": 0,
+            "Martin Michlmayr": 0,
+            "None Of The Above": 0
+        },
+        "lose": {
+            "Moshe Zadka": 65,
+            "Bdale Garbee": 229,
+            "Martin Michlmayr": 206,
+            "None Of The Above": 40
+        }
+    },
+    "Martin Michlmayr": {
+        "win": {
+            "Moshe Zadka": 327,
+            "Bdale Garbee": 218,
+            "Branden Robinson": 206,
+            "None Of The Above": 315
+        },
+        "null": {
+            "Moshe Zadka": 0,
+            "Bdale Garbee": 0,
+            "Branden Robinson": 0,
+            "None Of The Above": 0
+        },
+        "lose": {
+            "Moshe Zadka": 53,
+            "Bdale Garbee": 222,
+            "Branden Robinson": 213,
+            "None Of The Above": 23
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Moshe Zadka": 148,
+            "Bdale Garbee": 20,
+            "Branden Robinson": 40,
+            "Martin Michlmayr": 23
+        },
+        "null": {
+            "Moshe Zadka": 0,
+            "Bdale Garbee": 0,
+            "Branden Robinson": 0,
+            "Martin Michlmayr": 0
+        },
+        "lose": {
+            "Moshe Zadka": 152,
+            "Bdale Garbee": 325,
+            "Branden Robinson": 289,
+            "Martin Michlmayr": 315
+        }
+    }
+}

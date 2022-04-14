@@ -1,0 +1,184 @@
+{
+    "Jonathan Walther": {
+        "win": {
+            "Matthew Garrett": 43,
+            "Branden Robinson": 38,
+            "Anthony Towns": 25,
+            "Angus Lees": 84,
+            "Andreas Schuldei": 55,
+            "None of the Above": 76
+        },
+        "null": {
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 0,
+            "Andreas Schuldei": 0,
+            "None of the Above": 0
+        },
+        "lose": {
+            "Matthew Garrett": 326,
+            "Branden Robinson": 329,
+            "Anthony Towns": 347,
+            "Angus Lees": 278,
+            "Andreas Schuldei": 312,
+            "None of the Above": 260
+        }
+    },
+    "Matthew Garrett": {
+        "win": {
+            "Jonathan Walther": 326,
+            "Branden Robinson": 210,
+            "Anthony Towns": 221,
+            "Angus Lees": 338,
+            "Andreas Schuldei": 248,
+            "None of the Above": 338
+        },
+        "null": {
+            "Jonathan Walther": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 0,
+            "Andreas Schuldei": 0,
+            "None of the Above": 0
+        },
+        "lose": {
+            "Jonathan Walther": 43,
+            "Branden Robinson": 201,
+            "Anthony Towns": 198,
+            "Angus Lees": 52,
+            "Andreas Schuldei": 162,
+            "None of the Above": 47
+        }
+    },
+    "Branden Robinson": {
+        "win": {
+            "Jonathan Walther": 329,
+            "Matthew Garrett": 201,
+            "Anthony Towns": 243,
+            "Angus Lees": 303,
+            "Andreas Schuldei": 249,
+            "None of the Above": 306
+        },
+        "null": {
+            "Jonathan Walther": 0,
+            "Matthew Garrett": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 0,
+            "Andreas Schuldei": 0,
+            "None of the Above": 0
+        },
+        "lose": {
+            "Jonathan Walther": 38,
+            "Matthew Garrett": 210,
+            "Anthony Towns": 192,
+            "Angus Lees": 83,
+            "Andreas Schuldei": 168,
+            "None of the Above": 80
+        }
+    },
+    "Anthony Towns": {
+        "win": {
+            "Jonathan Walther": 347,
+            "Matthew Garrett": 198,
+            "Branden Robinson": 192,
+            "Angus Lees": 318,
+            "Andreas Schuldei": 237,
+            "None of the Above": 312
+        },
+        "null": {
+            "Jonathan Walther": 0,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Angus Lees": 0,
+            "Andreas Schuldei": 0,
+            "None of the Above": 0
+        },
+        "lose": {
+            "Jonathan Walther": 25,
+            "Matthew Garrett": 221,
+            "Branden Robinson": 243,
+            "Angus Lees": 72,
+            "Andreas Schuldei": 177,
+            "None of the Above": 73
+        }
+    },
+    "Angus Lees": {
+        "win": {
+            "Jonathan Walther": 278,
+            "Matthew Garrett": 52,
+            "Branden Robinson": 83,
+            "Anthony Towns": 72,
+            "Andreas Schuldei": 126,
+            "None of the Above": 229
+        },
+        "null": {
+            "Jonathan Walther": 0,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Andreas Schuldei": 0,
+            "None of the Above": 0
+        },
+        "lose": {
+            "Jonathan Walther": 84,
+            "Matthew Garrett": 338,
+            "Branden Robinson": 303,
+            "Anthony Towns": 318,
+            "Andreas Schuldei": 259,
+            "None of the Above": 128
+        }
+    },
+    "Andreas Schuldei": {
+        "win": {
+            "Jonathan Walther": 312,
+            "Matthew Garrett": 162,
+            "Branden Robinson": 168,
+            "Anthony Towns": 177,
+            "Angus Lees": 259,
+            "None of the Above": 293
+        },
+        "null": {
+            "Jonathan Walther": 0,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 0,
+            "None of the Above": 0
+        },
+        "lose": {
+            "Jonathan Walther": 55,
+            "Matthew Garrett": 248,
+            "Branden Robinson": 249,
+            "Anthony Towns": 237,
+            "Angus Lees": 126,
+            "None of the Above": 82
+        }
+    },
+    "None of the Above": {
+        "win": {
+            "Jonathan Walther": 260,
+            "Matthew Garrett": 47,
+            "Branden Robinson": 80,
+            "Anthony Towns": 73,
+            "Angus Lees": 128,
+            "Andreas Schuldei": 82
+        },
+        "null": {
+            "Jonathan Walther": 0,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 0,
+            "Anthony Towns": 0,
+            "Angus Lees": 0,
+            "Andreas Schuldei": 0
+        },
+        "lose": {
+            "Jonathan Walther": 76,
+            "Matthew Garrett": 338,
+            "Branden Robinson": 306,
+            "Anthony Towns": 312,
+            "Angus Lees": 229,
+            "Andreas Schuldei": 293
+        }
+    }
+}
