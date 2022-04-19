@@ -166,7 +166,7 @@ ini_set('memory_limit', '8192M');
         $md .= "This table is not easy to read on the Github preview, can be better with other markdown renderer.   \n---------  \n";
         $md .= "But a **tip**: click of the tab, then use your keyboard arrows to explore it efficiently _(and not your mouse)_.\n---------------------------------------\n";
 
-        $md .= '| --- | Pairwise | Condorcet Winner | Condorcet Loser |';
+        $md .= '| --- | Number of Seats | Pairwise | Condorcet Winner | Condorcet Loser |';
 
         foreach ($methods as $methodName) :
             $md .= " $methodName |";
@@ -174,7 +174,7 @@ ini_set('memory_limit', '8192M');
 
         $md .= "\n| --- |";
 
-        for($i=0 ; $i < (count($methods) + 3) ; $i++) :
+        for($i=0 ; $i < (count($methods) + 4) ; $i++) :
             $md .= ' --- |';
         endfor;
         $md .= "\n";
@@ -182,6 +182,8 @@ ini_set('memory_limit', '8192M');
         foreach ($results as $name => $electionResults) :
 
             $md .= "| $name |";
+
+            $md .= ' '.$electionResults['number_of_seats'].' |';
 
             $md .= " _[Pairwise](Results_Output/$name/$mode/$name-$mode-Pairwise.json)_".' |';
 
