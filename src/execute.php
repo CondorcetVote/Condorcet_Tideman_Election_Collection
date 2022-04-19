@@ -51,6 +51,7 @@ ini_set('memory_limit', '8192M');
         $election = $collection->setDataToAnElection();
 
         $results[$name] = [];
+        $results[$name]['number_of_seats'] = $election->getNumberOfSeats();
 
         // Implicit Ranking
         !$election->getImplicitRankingRule() && $election->setImplicitRanking(false); # Security, default must be true.
@@ -73,11 +74,8 @@ ini_set('memory_limit', '8192M');
     $create_dir = function (string $dir):void {if (!is_dir($dir)) : mkdir($dir); endif;};
 
     # Export for each election
-    foreach ($results as $name => $electionResults) :
-        foreach ($electionResults as $methodName => $methodResult) :
-            if ($methodName === 'condorcetFormatVotes') : continue; endif;
-            if ($methodName === 'Pairwise') : continue; endif;
-
+    foreach ($results as $name => $election) :
+        foreach ($election['methodsResults'] as $methodName => $methodResult) :
 
             foreach ($methodResult as $mode => $oneResult) :
                 if (!$oneResult['active']) : continue; endif;
@@ -86,7 +84,7 @@ ini_set('memory_limit', '8192M');
 
                 $json = json_encode([
                         'Ranking'           => $oneResult['ranking'],
-                        'Number Of Seats'   => $oneResult['number_of_seats'],
+                        'Number Of Seats'   => $election['number_of_seats'],
                         'Stats'             => $oneResult['stats']
                     ],
                     \JSON_PRETTY_PRINT);
@@ -104,22 +102,18 @@ ini_set('memory_limit', '8192M');
         endforeach;
 
         // Condorcet Format
-        file_put_contents("$base_dir/implicitRankingEvaluationOfVotes/$name-aggregated-votes-implicit.cvotes", $electionResults['condorcetFormatVotes']['implicitRankingEvaluationOfVotes']);
-        file_put_contents("$base_dir/explicitRankingEvaluationOfVotes/$name-aggregated-votes-explicit.cvotes", $electionResults['condorcetFormatVotes']['explicitRankingEvaluationOfVotes']);
+        file_put_contents("$base_dir/implicitRankingEvaluationOfVotes/$name-aggregated-votes-implicit.cvotes", $election['condorcetFormatVotes']['implicitRankingEvaluationOfVotes']);
+        file_put_contents("$base_dir/explicitRankingEvaluationOfVotes/$name-aggregated-votes-explicit.cvotes", $election['condorcetFormatVotes']['explicitRankingEvaluationOfVotes']);
     endforeach;
 
     # Export Pairwise
     foreach ($results as $name => $electionResults) :
-        foreach ($electionResults as $methodName => $methodResult) :
-            if ($methodName === 'Pairwise') :
-                foreach ($methodResult as $mode => $pairwise) :
-                    $path = __DIR__."/../Results_Output/$name/$mode/$name-$mode-Pairwise.json";
+            foreach ($electionResults['Pairwise'] as $mode => $pairwise) :
+                $path = __DIR__."/../Results_Output/$name/$mode/$name-$mode-Pairwise.json";
 
-                    echo "Write Pairwise: $name - $mode\n";
-                    file_put_contents($path, json_encode($pairwise, \JSON_PRETTY_PRINT));
-                endforeach;
-            endif;
-        endforeach;
+                echo "Write Pairwise: $name - $mode\n";
+                file_put_contents($path, json_encode($pairwise, \JSON_PRETTY_PRINT));
+            endforeach;
     endforeach;
 
     # Make summary
@@ -133,20 +127,18 @@ ini_set('memory_limit', '8192M');
         foreach ($methods as $method) :
             try {
                 echo 'Compute method: '.$name.' - '.$index.' - '.$method."\n";
-                $results[$method][$index] = [
+                $results['methodsResults'][$method][$index] = [
                     'active'            => true,
                     'ranking'           => $election->getResult($method)->getResultAsString(),
                     'stats'             => $election->getResult($method)->getStats(),
-                    'number_of_seats'    => $election->getNumberOfSeats(),
                 ];
             } catch (CondorcetPublicApiException $e) {
                 echo $e->getMessage();
 
-                $results[$method][$index] = [
+                $results['methodsResults'][$method][$index] = [
                     'active'            => false,
                     'ranking'           => null,
                     'stats'             => null,
-                    'number_of_seats'   => $election->getNumberOfSeats(),
                 ];
             }
         endforeach;
@@ -179,9 +171,7 @@ ini_set('memory_limit', '8192M');
 
             $md .= " _[Pairwise](Results_Output/$name/$mode/$name-$mode-Pairwise.json)_".' |';
 
-            foreach ($electionResults as $methodName => $methodResult) :
-                if ($methodName === 'condorcetFormatVotes') : continue; endif;
-                if ($methodName === 'Pairwise') : continue; endif;
+            foreach ($electionResults['methodsResults'] as $methodName => $methodResult) :
 
                 foreach ($methodResult as $voteMode => $oneResult) :
                     if ($voteMode === $mode) :
