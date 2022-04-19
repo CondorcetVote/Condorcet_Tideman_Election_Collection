@@ -17,7 +17,8 @@ Computed under Condorcet PHP, with all methods and mods.
 * Implicit Ranking _(unranked candidates on a ballot are evaluated on a new last rank)_ **[Summary of the result](implicitRankingEvaluationOfVotes-summary.md)**
 * Explicit Ranking _(unranked candidates on a ballot are ignored)_ **[Summary of the result](explicitRankingEvaluationOfVotes-summary.md)**
 
-_Unfortunatly, tab rendering in Github are now very readable actually_
+_Unfortunatly, tab rendering in Github are now very readable actually_  
+_Excel Table is available [here](Summary.xlsx)_
 
 ### Detailed results and stats can be found in the [Results Output](Results_Output/) folder
 
