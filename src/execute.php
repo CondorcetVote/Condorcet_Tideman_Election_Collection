@@ -116,6 +116,18 @@ ini_set('memory_limit', '8192M');
             endforeach;
     endforeach;
 
+    # Export Condorcet Winner / Loser
+    foreach ($results as $name => $electionResults) :
+        echo "Write Condorcet Winner/Loser: $name - $mode\n";
+
+        foreach (['explicitRankingEvaluationOfVotes', 'implicitRankingEvaluationOfVotes'] as $mode) :
+            $path = __DIR__."/../Results_Output/$name/$mode/$name-$mode-Condorcet.json";
+
+            file_put_contents($path, json_encode(['Condorcet Winner' => $electionResults['CondorcetWinner'][$mode], 'Condorcet Loser' => $electionResults['CondorcetLoser'][$mode]], \JSON_PRETTY_PRINT));
+        endforeach;
+    endforeach;
+
+
     # Make summary
     makeSummary($methods, $results, 'implicitRankingEvaluationOfVotes');
     makeSummary($methods, $results, 'explicitRankingEvaluationOfVotes');
@@ -144,6 +156,8 @@ ini_set('memory_limit', '8192M');
         endforeach;
 
         $results['Pairwise'][$index] = $election->getExplicitPairwise();
+        $results['CondorcetWinner'][$index] = (string) $election->getCondorcetWinner();
+        $results['CondorcetLoser'][$index] = (string) $election->getCondorcetLoser();
     }
 
     function makeSummary (array $methods, array $results, string $mode): void
@@ -152,7 +166,7 @@ ini_set('memory_limit', '8192M');
         $md .= "This table is not easy to read on the Github preview, can be better with other markdown renderer.   \n---------  \n";
         $md .= "But a **tip**: click of the tab, then use your keyboard arrows to explore it efficiently _(and not your mouse)_.\n---------------------------------------\n";
 
-        $md .= '| --- | Pairwise |';
+        $md .= '| --- | Pairwise | Condorcet Winner | Condorcet Loser |';
 
         foreach ($methods as $methodName) :
             $md .= " $methodName |";
@@ -160,7 +174,7 @@ ini_set('memory_limit', '8192M');
 
         $md .= "\n| --- |";
 
-        for($i=0 ; $i < (count($methods) + 1) ; $i++) :
+        for($i=0 ; $i < (count($methods) + 3) ; $i++) :
             $md .= ' --- |';
         endfor;
         $md .= "\n";
@@ -170,6 +184,9 @@ ini_set('memory_limit', '8192M');
             $md .= "| $name |";
 
             $md .= " _[Pairwise](Results_Output/$name/$mode/$name-$mode-Pairwise.json)_".' |';
+
+            $md .= ' '.$electionResults['CondorcetWinner'][$mode].' |';
+            $md .= ' '.$electionResults['CondorcetLoser'][$mode].' |';
 
             foreach ($electionResults['methodsResults'] as $methodName => $methodResult) :
 
