@@ -5,26 +5,29 @@
         "votes_needed_to_win": 245,
         "rounds": {
             "1": {
-                "Branden Robinson": 170,
-                "Bdale Garbee": 164,
-                "Martin Michlmayr": 140,
-                "Moshe Zadka": 12,
-                "None Of The Above": 2
+                "Branden Robinson": 166,
+                "Bdale Garbee": 155,
+                "Martin Michlmayr": 146,
+                "Moshe Zadka": 14,
+                "None Of The Above": 5
             },
             "2": {
-                "Branden Robinson": 170,
-                "Bdale Garbee": 164,
-                "Martin Michlmayr": 140,
-                "Moshe Zadka": 13
+                "Branden Robinson": 166,
+                "Bdale Garbee": 155,
+                "Martin Michlmayr": 146,
+                "Moshe Zadka": 16
             },
             "3": {
-                "Branden Robinson": 171,
-                "Bdale Garbee": 168,
-                "Martin Michlmayr": 147
+                "Branden Robinson": 169,
+                "Bdale Garbee": 158,
+                "Martin Michlmayr": 154
             },
             "4": {
-                "Bdale Garbee": 262,
-                "Branden Robinson": 221
+                "Bdale Garbee": 238,
+                "Branden Robinson": 219
+            },
+            "5": {
+                "Bdale Garbee": 415
             }
         }
     }

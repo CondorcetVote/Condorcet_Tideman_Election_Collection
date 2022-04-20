@@ -1,14 +1,14 @@
 {
     "Gergely Nagy": {
         "win": {
-            "Branden Robinson": 56,
-            "Martin Michlmayr": 30,
-            "None of the Above": 119
+            "Branden Robinson": 50,
+            "Martin Michlmayr": 28,
+            "None of the Above": 112
         },
         "null": {
-            "Branden Robinson": 0,
-            "Martin Michlmayr": 0,
-            "None of the Above": 0
+            "Branden Robinson": 6,
+            "Martin Michlmayr": 2,
+            "None of the Above": 7
         },
         "lose": {
             "Branden Robinson": 292,
@@ -19,16 +19,16 @@
     "Branden Robinson": {
         "win": {
             "Gergely Nagy": 292,
-            "Martin Michlmayr": 181,
+            "Martin Michlmayr": 169,
             "None of the Above": 307
         },
         "null": {
-            "Gergely Nagy": 0,
-            "Martin Michlmayr": 0,
+            "Gergely Nagy": 6,
+            "Martin Michlmayr": 12,
             "None of the Above": 0
         },
         "lose": {
-            "Gergely Nagy": 56,
+            "Gergely Nagy": 50,
             "Martin Michlmayr": 247,
             "None of the Above": 47
         }
@@ -37,16 +37,16 @@
         "win": {
             "Gergely Nagy": 322,
             "Branden Robinson": 247,
-            "None of the Above": 351
+            "None of the Above": 348
         },
         "null": {
-            "Gergely Nagy": 0,
-            "Branden Robinson": 0,
-            "None of the Above": 0
+            "Gergely Nagy": 2,
+            "Branden Robinson": 12,
+            "None of the Above": 3
         },
         "lose": {
-            "Gergely Nagy": 30,
-            "Branden Robinson": 181,
+            "Gergely Nagy": 28,
+            "Branden Robinson": 169,
             "None of the Above": 23
         }
     },
@@ -57,14 +57,14 @@
             "Martin Michlmayr": 23
         },
         "null": {
-            "Gergely Nagy": 0,
+            "Gergely Nagy": 7,
             "Branden Robinson": 0,
-            "Martin Michlmayr": 0
+            "Martin Michlmayr": 3
         },
         "lose": {
-            "Gergely Nagy": 119,
+            "Gergely Nagy": 112,
             "Branden Robinson": 307,
-            "Martin Michlmayr": 351
+            "Martin Michlmayr": 348
         }
     }
 }

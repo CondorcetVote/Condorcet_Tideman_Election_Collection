@@ -1,30 +1,30 @@
 {
-    "Ranking": "Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther",
+    "Ranking": "Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther",
     "Number Of Seats": 1,
     "Stats": {
         "Jeroen van Wolffelaar": {
-            "sum_defeat_margin": 120
+            "sum_defeat_margin": 193
         },
         "Ari Pollak": {
-            "sum_defeat_margin": 1340
+            "sum_defeat_margin": 1402
         },
         "Steve McIntyre": {
-            "sum_defeat_margin": 0
+            "sum_defeat_margin": 6
         },
         "Anthony Towns": {
-            "sum_defeat_margin": 23
+            "sum_defeat_margin": 0
         },
         "Andreas Schuldei": {
-            "sum_defeat_margin": 339
+            "sum_defeat_margin": 216
         },
         "Jonathan aka Ted Walther": {
-            "sum_defeat_margin": 2120
+            "sum_defeat_margin": 2057
         },
         "Bill Allombert": {
-            "sum_defeat_margin": 753
+            "sum_defeat_margin": 624
         },
         "None of the Above": {
-            "sum_defeat_margin": 1266
+            "sum_defeat_margin": 1256
         }
     }
 }

@@ -1,57 +1,57 @@
 {
-    "Ranking": "Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther",
+    "Ranking": "Anthony Towns > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther",
     "Number Of Seats": 1,
     "Stats": {
         "majority": 210.5,
         "rounds": {
             "1": {
-                "Jeroen van Wolffelaar": 70,
-                "Ari Pollak": 7,
-                "Steve McIntyre": 109,
+                "Jeroen van Wolffelaar": 48,
+                "Ari Pollak": 9,
+                "Steve McIntyre": 98,
                 "Anthony Towns": 133,
-                "Andreas Schuldei": 50,
-                "Jonathan aka Ted Walther": 2,
-                "Bill Allombert": 36,
-                "None of the Above": 14
+                "Andreas Schuldei": 55,
+                "Jonathan aka Ted Walther": 6,
+                "Bill Allombert": 44,
+                "None of the Above": 26
             },
             "2": {
-                "Jeroen van Wolffelaar": 71,
-                "Ari Pollak": 7,
-                "Steve McIntyre": 109,
+                "Jeroen van Wolffelaar": 49,
+                "Ari Pollak": 9,
+                "Steve McIntyre": 98,
                 "Anthony Towns": 133,
-                "Andreas Schuldei": 50,
-                "Bill Allombert": 37,
-                "None of the Above": 14
+                "Andreas Schuldei": 55,
+                "Bill Allombert": 45,
+                "None of the Above": 28
             },
             "3": {
-                "Jeroen van Wolffelaar": 73,
-                "Steve McIntyre": 110,
-                "Anthony Towns": 137,
-                "Andreas Schuldei": 50,
-                "Bill Allombert": 37,
-                "None of the Above": 14
+                "Jeroen van Wolffelaar": 49,
+                "Steve McIntyre": 99,
+                "Anthony Towns": 138,
+                "Andreas Schuldei": 55,
+                "Bill Allombert": 45,
+                "None of the Above": 31
             },
             "4": {
-                "Jeroen van Wolffelaar": 76,
-                "Steve McIntyre": 110,
-                "Anthony Towns": 139,
-                "Andreas Schuldei": 53,
-                "Bill Allombert": 37
+                "Jeroen van Wolffelaar": 51,
+                "Steve McIntyre": 99,
+                "Anthony Towns": 140,
+                "Andreas Schuldei": 58,
+                "Bill Allombert": 45
             },
             "5": {
-                "Jeroen van Wolffelaar": 85,
-                "Steve McIntyre": 124,
-                "Anthony Towns": 143,
-                "Andreas Schuldei": 61
+                "Jeroen van Wolffelaar": 56,
+                "Steve McIntyre": 109,
+                "Anthony Towns": 145,
+                "Andreas Schuldei": 68
             },
             "6": {
-                "Jeroen van Wolffelaar": 108,
-                "Steve McIntyre": 146,
-                "Anthony Towns": 156
+                "Steve McIntyre": 127,
+                "Anthony Towns": 161,
+                "Andreas Schuldei": 81
             },
             "7": {
-                "Steve McIntyre": 213,
-                "Anthony Towns": 190
+                "Steve McIntyre": 161,
+                "Anthony Towns": 187
             }
         }
     }

@@ -1,0 +1,478 @@
+{
+    "Ranking": "Sam Hocevar > Steve McIntyre > Rapha\u00ebl Hertzog > Wouter Verhelst > Anthony Towns > Gustavo Franco > None Of The Above > Simon Richter > Aigars Mahinovs",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Sam Hocevar",
+                    "to": "None Of The Above",
+                    "win": 297,
+                    "minority": 46,
+                    "margin": 251
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "None Of The Above",
+                    "win": 283,
+                    "minority": 61,
+                    "margin": 222
+                }
+            ],
+            [
+                {
+                    "from": "Rapha\u00ebl Hertzog",
+                    "to": "None Of The Above",
+                    "win": 281,
+                    "minority": 65,
+                    "margin": 216
+                }
+            ],
+            [
+                {
+                    "from": "Wouter Verhelst",
+                    "to": "None Of The Above",
+                    "win": 280,
+                    "minority": 60,
+                    "margin": 220
+                }
+            ],
+            [
+                {
+                    "from": "Wouter Verhelst",
+                    "to": "Aigars Mahinovs",
+                    "win": 273,
+                    "minority": 27,
+                    "margin": 246
+                }
+            ],
+            [
+                {
+                    "from": "Rapha\u00ebl Hertzog",
+                    "to": "Aigars Mahinovs",
+                    "win": 272,
+                    "minority": 36,
+                    "margin": 236
+                }
+            ],
+            [
+                {
+                    "from": "Sam Hocevar",
+                    "to": "Simon Richter",
+                    "win": 270,
+                    "minority": 35,
+                    "margin": 235
+                }
+            ],
+            [
+                {
+                    "from": "Sam Hocevar",
+                    "to": "Aigars Mahinovs",
+                    "win": 267,
+                    "minority": 31,
+                    "margin": 236
+                }
+            ],
+            [
+                {
+                    "from": "Wouter Verhelst",
+                    "to": "Simon Richter",
+                    "win": 267,
+                    "minority": 34,
+                    "margin": 233
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Aigars Mahinovs",
+                    "win": 266,
+                    "minority": 42,
+                    "margin": 224
+                }
+            ],
+            [
+                {
+                    "from": "Rapha\u00ebl Hertzog",
+                    "to": "Simon Richter",
+                    "win": 262,
+                    "minority": 51,
+                    "margin": 211
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Simon Richter",
+                    "win": 260,
+                    "minority": 53,
+                    "margin": 207
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Anthony Towns",
+                    "win": 241,
+                    "minority": 106,
+                    "margin": 135
+                }
+            ],
+            [
+                {
+                    "from": "Sam Hocevar",
+                    "to": "Gustavo Franco",
+                    "win": 238,
+                    "minority": 74,
+                    "margin": 164
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "None Of The Above",
+                    "win": 235,
+                    "minority": 112,
+                    "margin": 123
+                }
+            ],
+            [
+                {
+                    "from": "Gustavo Franco",
+                    "to": "Aigars Mahinovs",
+                    "win": 230,
+                    "minority": 36,
+                    "margin": 194
+                }
+            ],
+            [
+                {
+                    "from": "Gustavo Franco",
+                    "to": "None Of The Above",
+                    "win": 227,
+                    "minority": 84,
+                    "margin": 143
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Aigars Mahinovs",
+                    "win": 223,
+                    "minority": 84,
+                    "margin": 139
+                }
+            ],
+            [
+                {
+                    "from": "Sam Hocevar",
+                    "to": "Anthony Towns",
+                    "win": 216,
+                    "minority": 133,
+                    "margin": 83
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Simon Richter",
+                    "win": 214,
+                    "minority": 103,
+                    "margin": 111
+                }
+            ],
+            [
+                {
+                    "from": "Gustavo Franco",
+                    "to": "Simon Richter",
+                    "win": 213,
+                    "minority": 60,
+                    "margin": 153
+                }
+            ],
+            [
+                {
+                    "from": "Rapha\u00ebl Hertzog",
+                    "to": "Gustavo Franco",
+                    "win": 208,
+                    "minority": 114,
+                    "margin": 94
+                }
+            ],
+            [
+                {
+                    "from": "Rapha\u00ebl Hertzog",
+                    "to": "Anthony Towns",
+                    "win": 207,
+                    "minority": 143,
+                    "margin": 64
+                }
+            ],
+            [
+                {
+                    "from": "Sam Hocevar",
+                    "to": "Wouter Verhelst",
+                    "win": 205,
+                    "minority": 127,
+                    "margin": 78
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Gustavo Franco",
+                    "win": 203,
+                    "minority": 113,
+                    "margin": 90
+                }
+            ],
+            [
+                {
+                    "from": "Sam Hocevar",
+                    "to": "Rapha\u00ebl Hertzog",
+                    "win": 203,
+                    "minority": 146,
+                    "margin": 57
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Wouter Verhelst",
+                    "win": 196,
+                    "minority": 144,
+                    "margin": 52
+                }
+            ],
+            [
+                {
+                    "from": "Wouter Verhelst",
+                    "to": "Gustavo Franco",
+                    "win": 193,
+                    "minority": 119,
+                    "margin": 74
+                }
+            ],
+            [
+                {
+                    "from": "Wouter Verhelst",
+                    "to": "Anthony Towns",
+                    "win": 191,
+                    "minority": 163,
+                    "margin": 28
+                }
+            ],
+            [
+                {
+                    "from": "Rapha\u00ebl Hertzog",
+                    "to": "Wouter Verhelst",
+                    "win": 185,
+                    "minority": 156,
+                    "margin": 29
+                }
+            ],
+            [
+                {
+                    "from": "None Of The Above",
+                    "to": "Aigars Mahinovs",
+                    "win": 183,
+                    "minority": 113,
+                    "margin": 70
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Rapha\u00ebl Hertzog",
+                    "win": 182,
+                    "minority": 163,
+                    "margin": 19
+                }
+            ],
+            [
+                {
+                    "from": "Sam Hocevar",
+                    "to": "Steve McIntyre",
+                    "win": 181,
+                    "minority": 160,
+                    "margin": 21
+                }
+            ],
+            [
+                {
+                    "from": "Anthony Towns",
+                    "to": "Gustavo Franco",
+                    "win": 171,
+                    "minority": 152,
+                    "margin": 19
+                }
+            ],
+            [
+                {
+                    "from": "None Of The Above",
+                    "to": "Simon Richter",
+                    "win": 152,
+                    "minority": 150,
+                    "margin": 2
+                }
+            ],
+            [
+                {
+                    "from": "Simon Richter",
+                    "to": "Aigars Mahinovs",
+                    "win": 147,
+                    "minority": 92,
+                    "margin": 55
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Sam Hocevar",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Rapha\u00ebl Hertzog",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Wouter Verhelst",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Wouter Verhelst",
+                "to": "Aigars Mahinovs"
+            },
+            {
+                "from": "Rapha\u00ebl Hertzog",
+                "to": "Aigars Mahinovs"
+            },
+            {
+                "from": "Sam Hocevar",
+                "to": "Simon Richter"
+            },
+            {
+                "from": "Sam Hocevar",
+                "to": "Aigars Mahinovs"
+            },
+            {
+                "from": "Wouter Verhelst",
+                "to": "Simon Richter"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Aigars Mahinovs"
+            },
+            {
+                "from": "Rapha\u00ebl Hertzog",
+                "to": "Simon Richter"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Simon Richter"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Anthony Towns"
+            },
+            {
+                "from": "Sam Hocevar",
+                "to": "Gustavo Franco"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Gustavo Franco",
+                "to": "Aigars Mahinovs"
+            },
+            {
+                "from": "Gustavo Franco",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "Aigars Mahinovs"
+            },
+            {
+                "from": "Sam Hocevar",
+                "to": "Anthony Towns"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "Simon Richter"
+            },
+            {
+                "from": "Gustavo Franco",
+                "to": "Simon Richter"
+            },
+            {
+                "from": "Rapha\u00ebl Hertzog",
+                "to": "Gustavo Franco"
+            },
+            {
+                "from": "Rapha\u00ebl Hertzog",
+                "to": "Anthony Towns"
+            },
+            {
+                "from": "Sam Hocevar",
+                "to": "Wouter Verhelst"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Gustavo Franco"
+            },
+            {
+                "from": "Sam Hocevar",
+                "to": "Rapha\u00ebl Hertzog"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Wouter Verhelst"
+            },
+            {
+                "from": "Wouter Verhelst",
+                "to": "Gustavo Franco"
+            },
+            {
+                "from": "Wouter Verhelst",
+                "to": "Anthony Towns"
+            },
+            {
+                "from": "Rapha\u00ebl Hertzog",
+                "to": "Wouter Verhelst"
+            },
+            {
+                "from": "None Of The Above",
+                "to": "Aigars Mahinovs"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Rapha\u00ebl Hertzog"
+            },
+            {
+                "from": "Sam Hocevar",
+                "to": "Steve McIntyre"
+            },
+            {
+                "from": "Anthony Towns",
+                "to": "Gustavo Franco"
+            },
+            {
+                "from": "None Of The Above",
+                "to": "Simon Richter"
+            },
+            {
+                "from": "Simon Richter",
+                "to": "Aigars Mahinovs"
+            }
+        ]
+    }
+}

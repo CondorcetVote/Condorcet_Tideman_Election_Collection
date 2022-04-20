@@ -23,7 +23,7 @@ for ($i = 1 ; $i <= 99 ; $i++) :
 endfor;
 
 // Debian
-for ($i = 1 ; $i <= 6 ; $i++) :
+for ($i = 1 ; $i <= 1 ; $i++) : #Except election 2001, Debian format are now set manually
 
     $n = str_pad((string) $i, 2, '0', STR_PAD_LEFT);
     $filePath = $dir.'D'.$n.'.HIL';

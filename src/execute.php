@@ -12,6 +12,7 @@ use CondorcetPHP\Condorcet\Condorcet;
 use CondorcetPHP\Condorcet\Election;
 use CondorcetPHP\Condorcet\Throwable\CondorcetPublicApiException;
 use CondorcetPHP\Condorcet\Tools\Converters\DavidHilFormat;
+use CondorcetPHP\Condorcet\Tools\Converters\DebianFormat;
 
 require_once __DIR__.'/../vendor/autoload.php';
 
@@ -32,7 +33,7 @@ ini_set('memory_limit', '8192M');
 
     $i = 0;
     foreach ($scandir as $fileName) :
-        $tideman_collection_list[\str_replace('.HIL', '', $fileName)] = $dir.$fileName;
+        $tideman_collection_list[\str_replace(['.HIL', '.debian_votes'], ['',''], $fileName)] = $dir.$fileName;
         if ($isTest && ++$i > 4) : break; endif; # Uncomment for quick dev tests
     endforeach;
 
@@ -47,7 +48,10 @@ ini_set('memory_limit', '8192M');
     foreach ($tideman_collection_list as $name => $path) :
         echo 'Execute: '.$name."\n";
 
-        $collection = new DavidHilFormat($path);
+        $collection = match (\pathinfo($path,\PATHINFO_EXTENSION)) {
+            'HIL'              =>  new DavidHilFormat  ($path),
+            'debian_votes' =>  new DebianFormat    ($path),
+        };
         $election = $collection->setDataToAnElection();
 
         $results[$name] = [];

@@ -1,14 +1,14 @@
 {
     "Branden Robinson": {
         "win": {
-            "Raphael Hertzog": 249,
-            "Bdale Garbee": 169,
-            "None Of The Above": 258
+            "Raphael Hertzog": 244,
+            "Bdale Garbee": 167,
+            "None Of The Above": 256
         },
         "null": {
-            "Raphael Hertzog": 0,
-            "Bdale Garbee": 0,
-            "None Of The Above": 0
+            "Raphael Hertzog": 5,
+            "Bdale Garbee": 2,
+            "None Of The Above": 2
         },
         "lose": {
             "Raphael Hertzog": 179,
@@ -19,16 +19,16 @@
     "Raphael Hertzog": {
         "win": {
             "Branden Robinson": 179,
-            "Bdale Garbee": 133,
-            "None Of The Above": 276
+            "Bdale Garbee": 127,
+            "None Of The Above": 275
         },
         "null": {
-            "Branden Robinson": 0,
-            "Bdale Garbee": 0,
-            "None Of The Above": 0
+            "Branden Robinson": 5,
+            "Bdale Garbee": 6,
+            "None Of The Above": 1
         },
         "lose": {
-            "Branden Robinson": 249,
+            "Branden Robinson": 244,
             "Bdale Garbee": 308,
             "None Of The Above": 41
         }
@@ -37,16 +37,16 @@
         "win": {
             "Branden Robinson": 259,
             "Raphael Hertzog": 308,
-            "None Of The Above": 308
+            "None Of The Above": 307
         },
         "null": {
-            "Branden Robinson": 0,
-            "Raphael Hertzog": 0,
-            "None Of The Above": 0
+            "Branden Robinson": 2,
+            "Raphael Hertzog": 6,
+            "None Of The Above": 1
         },
         "lose": {
-            "Branden Robinson": 169,
-            "Raphael Hertzog": 133,
+            "Branden Robinson": 167,
+            "Raphael Hertzog": 127,
             "None Of The Above": 16
         }
     },
@@ -57,14 +57,14 @@
             "Bdale Garbee": 16
         },
         "null": {
-            "Branden Robinson": 0,
-            "Raphael Hertzog": 0,
-            "Bdale Garbee": 0
+            "Branden Robinson": 2,
+            "Raphael Hertzog": 1,
+            "Bdale Garbee": 1
         },
         "lose": {
-            "Branden Robinson": 258,
-            "Raphael Hertzog": 276,
-            "Bdale Garbee": 308
+            "Branden Robinson": 256,
+            "Raphael Hertzog": 275,
+            "Bdale Garbee": 307
         }
     }
 }

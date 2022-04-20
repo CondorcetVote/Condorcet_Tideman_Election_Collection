@@ -1,0 +1,33 @@
+{
+    "Ranking": "Sam Hocevar > Steve McIntyre > Rapha\u00ebl Hertzog > Wouter Verhelst > Anthony Towns > Gustavo Franco > Simon Richter > Aigars Mahinovs > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Wouter Verhelst": {
+            "worst_pairwise_opposition": 237
+        },
+        "Aigars Mahinovs": {
+            "worst_pairwise_opposition": 344
+        },
+        "Gustavo Franco": {
+            "worst_pairwise_opposition": 278
+        },
+        "Sam Hocevar": {
+            "worst_pairwise_opposition": 203
+        },
+        "Steve McIntyre": {
+            "worst_pairwise_opposition": 211
+        },
+        "Rapha\u00ebl Hertzog": {
+            "worst_pairwise_opposition": 227
+        },
+        "Anthony Towns": {
+            "worst_pairwise_opposition": 264
+        },
+        "Simon Richter": {
+            "worst_pairwise_opposition": 331
+        },
+        "None Of The Above": {
+            "worst_pairwise_opposition": 346
+        }
+    }
+}

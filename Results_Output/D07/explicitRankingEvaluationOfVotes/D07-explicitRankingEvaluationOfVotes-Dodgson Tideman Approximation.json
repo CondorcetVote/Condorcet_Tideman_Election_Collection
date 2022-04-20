@@ -1,0 +1,33 @@
+{
+    "Ranking": "Sam Hocevar > Steve McIntyre > Rapha\u00ebl Hertzog > Wouter Verhelst > Anthony Towns > Gustavo Franco > Simon Richter > None Of The Above > Aigars Mahinovs",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Wouter Verhelst": {
+            "sum_defeat_margin": 159
+        },
+        "Aigars Mahinovs": {
+            "sum_defeat_margin": 1400
+        },
+        "Gustavo Franco": {
+            "sum_defeat_margin": 441
+        },
+        "Sam Hocevar": {
+            "sum_defeat_margin": 0
+        },
+        "Steve McIntyre": {
+            "sum_defeat_margin": 21
+        },
+        "Rapha\u00ebl Hertzog": {
+            "sum_defeat_margin": 76
+        },
+        "Anthony Towns": {
+            "sum_defeat_margin": 310
+        },
+        "Simon Richter": {
+            "sum_defeat_margin": 1152
+        },
+        "None Of The Above": {
+            "sum_defeat_margin": 1175
+        }
+    }
+}

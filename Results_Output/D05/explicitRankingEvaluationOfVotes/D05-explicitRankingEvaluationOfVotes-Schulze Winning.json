@@ -1,5 +1,5 @@
 {
-    "Ranking": "Matthew Garrett > Branden Robinson > Anthony Towns > Andreas Schuldei > Angus Lees > None of the Above > Jonathan Walther",
+    "Ranking": "Branden Robinson > Matthew Garrett > Anthony Towns > Andreas Schuldei > Angus Lees > None of the Above > Jonathan Walther",
     "Number Of Seats": 1,
     "Stats": {
         "Jonathan Walther": {
@@ -12,27 +12,27 @@
         },
         "Matthew Garrett": {
             "Jonathan Walther": 326,
-            "Branden Robinson": 210,
-            "Anthony Towns": 221,
-            "Angus Lees": 338,
-            "Andreas Schuldei": 248,
-            "None of the Above": 338
+            "Branden Robinson": 0,
+            "Anthony Towns": 203,
+            "Angus Lees": 303,
+            "Andreas Schuldei": 222,
+            "None of the Above": 332
         },
         "Branden Robinson": {
             "Jonathan Walther": 329,
-            "Matthew Garrett": 0,
-            "Anthony Towns": 243,
-            "Angus Lees": 303,
-            "Andreas Schuldei": 249,
-            "None of the Above": 306
+            "Matthew Garrett": 201,
+            "Anthony Towns": 222,
+            "Angus Lees": 280,
+            "Andreas Schuldei": 213,
+            "None of the Above": 304
         },
         "Anthony Towns": {
             "Jonathan Walther": 347,
             "Matthew Garrett": 0,
             "Branden Robinson": 0,
-            "Angus Lees": 318,
-            "Andreas Schuldei": 237,
-            "None of the Above": 312
+            "Angus Lees": 300,
+            "Andreas Schuldei": 213,
+            "None of the Above": 310
         },
         "Angus Lees": {
             "Jonathan Walther": 278,
@@ -40,7 +40,7 @@
             "Branden Robinson": 0,
             "Anthony Towns": 0,
             "Andreas Schuldei": 0,
-            "None of the Above": 229
+            "None of the Above": 220
         },
         "Andreas Schuldei": {
             "Jonathan Walther": 312,
@@ -48,7 +48,7 @@
             "Branden Robinson": 0,
             "Anthony Towns": 0,
             "Angus Lees": 259,
-            "None of the Above": 293
+            "None of the Above": 288
         },
         "None of the Above": {
             "Jonathan Walther": 260,

@@ -24,6 +24,7 @@
     ],
     "require": {
         "php": "^8.1",
+        "ext-mbstring": "*",
         "julien-boudry/condorcet": "dev-dev-3.3"
     },
     "autoload": {

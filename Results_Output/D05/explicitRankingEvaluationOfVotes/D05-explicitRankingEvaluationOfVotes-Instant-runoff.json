@@ -1,47 +1,47 @@
 {
-    "Ranking": "Branden Robinson > Matthew Garrett > Anthony Towns > Andreas Schuldei > None of the Above > Angus Lees > Jonathan Walther",
+    "Ranking": "Branden Robinson > Anthony Towns > Matthew Garrett > Andreas Schuldei > None of the Above > Angus Lees > Jonathan Walther",
     "Number Of Seats": 1,
     "Stats": {
         "majority": 252,
         "rounds": {
             "1": {
-                "Jonathan Walther": 4,
-                "Matthew Garrett": 133,
-                "Branden Robinson": 137,
-                "Anthony Towns": 125,
-                "Angus Lees": 11,
-                "Andreas Schuldei": 75,
-                "None of the Above": 19
+                "Jonathan Walther": 6,
+                "Matthew Garrett": 122,
+                "Branden Robinson": 128,
+                "Anthony Towns": 129,
+                "Angus Lees": 14,
+                "Andreas Schuldei": 79,
+                "None of the Above": 25
             },
             "2": {
-                "Matthew Garrett": 133,
-                "Branden Robinson": 139,
-                "Anthony Towns": 125,
-                "Angus Lees": 11,
-                "Andreas Schuldei": 76,
-                "None of the Above": 19
+                "Matthew Garrett": 122,
+                "Branden Robinson": 130,
+                "Anthony Towns": 129,
+                "Angus Lees": 14,
+                "Andreas Schuldei": 80,
+                "None of the Above": 26
             },
             "3": {
-                "Matthew Garrett": 135,
-                "Branden Robinson": 141,
-                "Anthony Towns": 128,
-                "Andreas Schuldei": 76,
-                "None of the Above": 22
+                "Matthew Garrett": 124,
+                "Branden Robinson": 132,
+                "Anthony Towns": 131,
+                "Andreas Schuldei": 81,
+                "None of the Above": 32
             },
             "4": {
-                "Matthew Garrett": 147,
-                "Branden Robinson": 143,
-                "Anthony Towns": 131,
-                "Andreas Schuldei": 77
+                "Matthew Garrett": 135,
+                "Branden Robinson": 134,
+                "Anthony Towns": 134,
+                "Andreas Schuldei": 83
             },
             "5": {
-                "Matthew Garrett": 162,
-                "Branden Robinson": 185,
-                "Anthony Towns": 148
+                "Matthew Garrett": 148,
+                "Branden Robinson": 176,
+                "Anthony Towns": 154
             },
             "6": {
-                "Matthew Garrett": 236,
-                "Branden Robinson": 248
+                "Branden Robinson": 229,
+                "Anthony Towns": 224
             }
         }
     }

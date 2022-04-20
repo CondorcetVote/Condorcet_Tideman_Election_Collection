@@ -1,0 +1,290 @@
+{
+    "Wouter Verhelst": {
+        "win": {
+            "Aigars Mahinovs": 340,
+            "Gustavo Franco": 247,
+            "Sam Hocevar": 163,
+            "Steve McIntyre": 163,
+            "Rapha\u00ebl Hertzog": 181,
+            "Anthony Towns": 219,
+            "Simon Richter": 331,
+            "None Of The Above": 337
+        },
+        "null": {
+            "Aigars Mahinovs": 114,
+            "Gustavo Franco": 105,
+            "Sam Hocevar": 82,
+            "Steve McIntyre": 95,
+            "Rapha\u00ebl Hertzog": 88,
+            "Anthony Towns": 61,
+            "Simon Richter": 109,
+            "None Of The Above": 36
+        },
+        "lose": {
+            "Aigars Mahinovs": 28,
+            "Gustavo Franco": 130,
+            "Sam Hocevar": 237,
+            "Steve McIntyre": 224,
+            "Rapha\u00ebl Hertzog": 213,
+            "Anthony Towns": 202,
+            "Simon Richter": 42,
+            "None Of The Above": 109
+        }
+    },
+    "Aigars Mahinovs": {
+        "win": {
+            "Wouter Verhelst": 28,
+            "Gustavo Franco": 38,
+            "Sam Hocevar": 31,
+            "Steve McIntyre": 45,
+            "Rapha\u00ebl Hertzog": 37,
+            "Anthony Towns": 91,
+            "Simon Richter": 94,
+            "None Of The Above": 142
+        },
+        "null": {
+            "Wouter Verhelst": 114,
+            "Gustavo Franco": 189,
+            "Sam Hocevar": 122,
+            "Steve McIntyre": 93,
+            "Rapha\u00ebl Hertzog": 103,
+            "Anthony Towns": 84,
+            "Simon Richter": 229,
+            "None Of The Above": 70
+        },
+        "lose": {
+            "Wouter Verhelst": 340,
+            "Gustavo Franco": 255,
+            "Sam Hocevar": 329,
+            "Steve McIntyre": 344,
+            "Rapha\u00ebl Hertzog": 342,
+            "Anthony Towns": 307,
+            "Simon Richter": 159,
+            "None Of The Above": 270
+        }
+    },
+    "Gustavo Franco": {
+        "win": {
+            "Wouter Verhelst": 130,
+            "Aigars Mahinovs": 255,
+            "Sam Hocevar": 75,
+            "Steve McIntyre": 129,
+            "Rapha\u00ebl Hertzog": 121,
+            "Anthony Towns": 170,
+            "Simon Richter": 239,
+            "None Of The Above": 268
+        },
+        "null": {
+            "Wouter Verhelst": 105,
+            "Aigars Mahinovs": 189,
+            "Sam Hocevar": 129,
+            "Steve McIntyre": 82,
+            "Rapha\u00ebl Hertzog": 100,
+            "Anthony Towns": 69,
+            "Simon Richter": 170,
+            "None Of The Above": 54
+        },
+        "lose": {
+            "Wouter Verhelst": 247,
+            "Aigars Mahinovs": 38,
+            "Sam Hocevar": 278,
+            "Steve McIntyre": 271,
+            "Rapha\u00ebl Hertzog": 261,
+            "Anthony Towns": 243,
+            "Simon Richter": 73,
+            "None Of The Above": 160
+        }
+    },
+    "Sam Hocevar": {
+        "win": {
+            "Wouter Verhelst": 237,
+            "Aigars Mahinovs": 329,
+            "Gustavo Franco": 278,
+            "Steve McIntyre": 211,
+            "Rapha\u00ebl Hertzog": 227,
+            "Anthony Towns": 252,
+            "Simon Richter": 330,
+            "None Of The Above": 346
+        },
+        "null": {
+            "Wouter Verhelst": 82,
+            "Aigars Mahinovs": 122,
+            "Gustavo Franco": 129,
+            "Steve McIntyre": 68,
+            "Rapha\u00ebl Hertzog": 78,
+            "Anthony Towns": 46,
+            "Simon Richter": 109,
+            "None Of The Above": 45
+        },
+        "lose": {
+            "Wouter Verhelst": 163,
+            "Aigars Mahinovs": 31,
+            "Gustavo Franco": 75,
+            "Steve McIntyre": 203,
+            "Rapha\u00ebl Hertzog": 177,
+            "Anthony Towns": 184,
+            "Simon Richter": 43,
+            "None Of The Above": 91
+        }
+    },
+    "Steve McIntyre": {
+        "win": {
+            "Wouter Verhelst": 224,
+            "Aigars Mahinovs": 344,
+            "Gustavo Franco": 271,
+            "Sam Hocevar": 203,
+            "Rapha\u00ebl Hertzog": 215,
+            "Anthony Towns": 264,
+            "Simon Richter": 330,
+            "None Of The Above": 342
+        },
+        "null": {
+            "Wouter Verhelst": 95,
+            "Aigars Mahinovs": 93,
+            "Gustavo Franco": 82,
+            "Sam Hocevar": 68,
+            "Rapha\u00ebl Hertzog": 77,
+            "Anthony Towns": 87,
+            "Simon Richter": 94,
+            "None Of The Above": 37
+        },
+        "lose": {
+            "Wouter Verhelst": 163,
+            "Aigars Mahinovs": 45,
+            "Gustavo Franco": 129,
+            "Sam Hocevar": 211,
+            "Rapha\u00ebl Hertzog": 190,
+            "Anthony Towns": 131,
+            "Simon Richter": 58,
+            "None Of The Above": 103
+        }
+    },
+    "Rapha\u00ebl Hertzog": {
+        "win": {
+            "Wouter Verhelst": 213,
+            "Aigars Mahinovs": 342,
+            "Gustavo Franco": 261,
+            "Sam Hocevar": 177,
+            "Steve McIntyre": 190,
+            "Anthony Towns": 240,
+            "Simon Richter": 326,
+            "None Of The Above": 340
+        },
+        "null": {
+            "Wouter Verhelst": 88,
+            "Aigars Mahinovs": 103,
+            "Gustavo Franco": 100,
+            "Sam Hocevar": 78,
+            "Steve McIntyre": 77,
+            "Anthony Towns": 58,
+            "Simon Richter": 100,
+            "None Of The Above": 29
+        },
+        "lose": {
+            "Wouter Verhelst": 181,
+            "Aigars Mahinovs": 37,
+            "Gustavo Franco": 121,
+            "Sam Hocevar": 227,
+            "Steve McIntyre": 215,
+            "Anthony Towns": 184,
+            "Simon Richter": 56,
+            "None Of The Above": 113
+        }
+    },
+    "Anthony Towns": {
+        "win": {
+            "Wouter Verhelst": 202,
+            "Aigars Mahinovs": 307,
+            "Gustavo Franco": 243,
+            "Sam Hocevar": 184,
+            "Steve McIntyre": 131,
+            "Rapha\u00ebl Hertzog": 184,
+            "Simon Richter": 287,
+            "None Of The Above": 298
+        },
+        "null": {
+            "Wouter Verhelst": 61,
+            "Aigars Mahinovs": 84,
+            "Gustavo Franco": 69,
+            "Sam Hocevar": 46,
+            "Steve McIntyre": 87,
+            "Rapha\u00ebl Hertzog": 58,
+            "Simon Richter": 86,
+            "None Of The Above": 28
+        },
+        "lose": {
+            "Wouter Verhelst": 219,
+            "Aigars Mahinovs": 91,
+            "Gustavo Franco": 170,
+            "Sam Hocevar": 252,
+            "Steve McIntyre": 264,
+            "Rapha\u00ebl Hertzog": 240,
+            "Simon Richter": 109,
+            "None Of The Above": 156
+        }
+    },
+    "Simon Richter": {
+        "win": {
+            "Wouter Verhelst": 42,
+            "Aigars Mahinovs": 159,
+            "Gustavo Franco": 73,
+            "Sam Hocevar": 43,
+            "Steve McIntyre": 58,
+            "Rapha\u00ebl Hertzog": 56,
+            "Anthony Towns": 109,
+            "None Of The Above": 183
+        },
+        "null": {
+            "Wouter Verhelst": 109,
+            "Aigars Mahinovs": 229,
+            "Gustavo Franco": 170,
+            "Sam Hocevar": 109,
+            "Steve McIntyre": 94,
+            "Rapha\u00ebl Hertzog": 100,
+            "Anthony Towns": 86,
+            "None Of The Above": 66
+        },
+        "lose": {
+            "Wouter Verhelst": 331,
+            "Aigars Mahinovs": 94,
+            "Gustavo Franco": 239,
+            "Sam Hocevar": 330,
+            "Steve McIntyre": 330,
+            "Rapha\u00ebl Hertzog": 326,
+            "Anthony Towns": 287,
+            "None Of The Above": 233
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Wouter Verhelst": 109,
+            "Aigars Mahinovs": 270,
+            "Gustavo Franco": 160,
+            "Sam Hocevar": 91,
+            "Steve McIntyre": 103,
+            "Rapha\u00ebl Hertzog": 113,
+            "Anthony Towns": 156,
+            "Simon Richter": 233
+        },
+        "null": {
+            "Wouter Verhelst": 36,
+            "Aigars Mahinovs": 70,
+            "Gustavo Franco": 54,
+            "Sam Hocevar": 45,
+            "Steve McIntyre": 37,
+            "Rapha\u00ebl Hertzog": 29,
+            "Anthony Towns": 28,
+            "Simon Richter": 66
+        },
+        "lose": {
+            "Wouter Verhelst": 337,
+            "Aigars Mahinovs": 142,
+            "Gustavo Franco": 268,
+            "Sam Hocevar": 346,
+            "Steve McIntyre": 342,
+            "Rapha\u00ebl Hertzog": 340,
+            "Anthony Towns": 298,
+            "Simon Richter": 183
+        }
+    }
+}

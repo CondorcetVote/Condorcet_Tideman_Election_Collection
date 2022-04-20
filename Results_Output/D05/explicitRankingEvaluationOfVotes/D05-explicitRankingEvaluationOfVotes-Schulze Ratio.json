@@ -1,5 +1,5 @@
 {
-    "Ranking": "Matthew Garrett > Branden Robinson > Anthony Towns > Andreas Schuldei > Angus Lees > None of the Above > Jonathan Walther",
+    "Ranking": "Branden Robinson > Matthew Garrett > Anthony Towns > Andreas Schuldei > Angus Lees > None of the Above > Jonathan Walther",
     "Number Of Seats": 1,
     "Stats": {
         "Jonathan Walther": {
@@ -11,47 +11,47 @@
             "None of the Above": 0
         },
         "Matthew Garrett": {
-            "Jonathan Walther": 7.5813953488372094,
-            "Branden Robinson": 1.044776119402985,
-            "Anthony Towns": 1.1161616161616161,
-            "Angus Lees": 6.5,
-            "Andreas Schuldei": 1.5308641975308641,
-            "None of the Above": 7.191489361702128
+            "Jonathan Walther": 29.636363636363637,
+            "Branden Robinson": 0,
+            "Anthony Towns": 1.0252525252525253,
+            "Angus Lees": 5.826923076923077,
+            "Andreas Schuldei": 1.3703703703703705,
+            "None of the Above": 7.0638297872340425
         },
         "Branden Robinson": {
-            "Jonathan Walther": 8.657894736842104,
-            "Matthew Garrett": 0,
-            "Anthony Towns": 1.265625,
-            "Angus Lees": 3.6506024096385543,
-            "Andreas Schuldei": 1.4821428571428572,
-            "None of the Above": 3.825
+            "Jonathan Walther": 13.708333333333334,
+            "Matthew Garrett": 1.0360824742268042,
+            "Anthony Towns": 1.15625,
+            "Angus Lees": 3.3734939759036147,
+            "Andreas Schuldei": 1.2083333333333333,
+            "None of the Above": 3.8
         },
         "Anthony Towns": {
-            "Jonathan Walther": 13.88,
+            "Jonathan Walther": 24.785714285714285,
             "Matthew Garrett": 0,
             "Branden Robinson": 0,
-            "Angus Lees": 4.416666666666667,
-            "Andreas Schuldei": 1.3389830508474576,
-            "None of the Above": 4.273972602739726
+            "Angus Lees": 4.166666666666667,
+            "Andreas Schuldei": 1.2033898305084745,
+            "None of the Above": 4.2465753424657535
         },
         "Angus Lees": {
-            "Jonathan Walther": 3.3095238095238093,
+            "Jonathan Walther": 7.315789473684211,
             "Matthew Garrett": 0,
             "Branden Robinson": 0,
             "Anthony Towns": 0,
             "Andreas Schuldei": 0,
-            "None of the Above": 1.7890625
+            "None of the Above": 1.71875
         },
         "Andreas Schuldei": {
-            "Jonathan Walther": 5.672727272727273,
+            "Jonathan Walther": 10.4,
             "Matthew Garrett": 0,
             "Branden Robinson": 0,
             "Anthony Towns": 0,
-            "Angus Lees": 2.0555555555555554,
-            "None of the Above": 3.573170731707317
+            "Angus Lees": 3.011627906976744,
+            "None of the Above": 3.5121951219512195
         },
         "None of the Above": {
-            "Jonathan Walther": 3.4210526315789473,
+            "Jonathan Walther": 3.611111111111111,
             "Matthew Garrett": 0,
             "Branden Robinson": 0,
             "Anthony Towns": 0,

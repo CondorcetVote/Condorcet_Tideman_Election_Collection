@@ -1,21 +1,21 @@
 {
-    "Ranking": "Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther",
+    "Ranking": "Anthony Towns > Steve McIntyre > Andreas Schuldei = Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther",
     "Number Of Seats": 1,
     "Stats": {
         "Jeroen van Wolffelaar": {
-            "balance": 3
+            "balance": 2
         },
         "Ari Pollak": {
             "balance": -5
         },
         "Steve McIntyre": {
-            "balance": 7
-        },
-        "Anthony Towns": {
             "balance": 5
         },
+        "Anthony Towns": {
+            "balance": 7
+        },
         "Andreas Schuldei": {
-            "balance": 1
+            "balance": 2
         },
         "Jonathan aka Ted Walther": {
             "balance": -7

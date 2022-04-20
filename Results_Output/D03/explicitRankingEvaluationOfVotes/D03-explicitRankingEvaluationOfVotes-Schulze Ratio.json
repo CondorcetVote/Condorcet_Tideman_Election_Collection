@@ -1,33 +1,33 @@
 {
-    "Ranking": "Bdale Garbee > Branden Robinson > Martin Michlmayr > Moshe Zadka > None Of The Above",
+    "Ranking": "Martin Michlmayr > Branden Robinson > Bdale Garbee > None Of The Above > Moshe Zadka",
     "Number Of Seats": 1,
     "Stats": {
         "Moshe Zadka": {
             "Bdale Garbee": 0,
             "Branden Robinson": 0,
             "Martin Michlmayr": 0,
-            "None Of The Above": 1.027027027027027
+            "None Of The Above": 0
         },
         "Bdale Garbee": {
-            "Moshe Zadka": 8.071428571428571,
-            "Branden Robinson": 1.1009615384615385,
-            "Martin Michlmayr": 1.0339805825242718,
-            "None Of The Above": 16.25
+            "Moshe Zadka": 10.935483870967742,
+            "Branden Robinson": 0,
+            "Martin Michlmayr": 0,
+            "None Of The Above": 16.2
         },
         "Branden Robinson": {
-            "Moshe Zadka": 4.7384615384615385,
-            "Bdale Garbee": 0,
-            "Martin Michlmayr": 1.0339805825242718,
-            "None Of The Above": 7.225
+            "Moshe Zadka": 5.6,
+            "Bdale Garbee": 1.0146341463414634,
+            "Martin Michlmayr": 0,
+            "None Of The Above": 7.1
         },
         "Martin Michlmayr": {
-            "Moshe Zadka": 6.169811320754717,
-            "Bdale Garbee": 0,
-            "Branden Robinson": 0,
-            "None Of The Above": 13.695652173913043
+            "Moshe Zadka": 9.617647058823529,
+            "Bdale Garbee": 1.1237113402061856,
+            "Branden Robinson": 1.0564102564102564,
+            "None Of The Above": 13.565217391304348
         },
         "None Of The Above": {
-            "Moshe Zadka": 0,
+            "Moshe Zadka": 1.0277777777777777,
             "Bdale Garbee": 0,
             "Branden Robinson": 0,
             "Martin Michlmayr": 0

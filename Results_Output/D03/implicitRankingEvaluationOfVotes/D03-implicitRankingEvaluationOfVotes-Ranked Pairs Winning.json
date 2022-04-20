@@ -1,5 +1,5 @@
 {
-    "Ranking": "Bdale Garbee > Branden Robinson > Martin Michlmayr > Moshe Zadka > None Of The Above",
+    "Ranking": "Martin Michlmayr > Bdale Garbee > Branden Robinson > Moshe Zadka > None Of The Above",
     "Number Of Seats": 1,
     "Stats": {
         "tally": [
@@ -7,9 +7,9 @@
                 {
                     "from": "Bdale Garbee",
                     "to": "None Of The Above",
-                    "win": 450,
+                    "win": 449,
                     "minority": 29,
-                    "margin": 421
+                    "margin": 420
                 }
             ],
             [
@@ -17,26 +17,26 @@
                     "from": "Bdale Garbee",
                     "to": "Moshe Zadka",
                     "win": 428,
-                    "minority": 45,
-                    "margin": 383
+                    "minority": 34,
+                    "margin": 394
                 }
             ],
             [
                 {
                     "from": "Martin Michlmayr",
                     "to": "None Of The Above",
-                    "win": 427,
+                    "win": 424,
                     "minority": 39,
-                    "margin": 388
+                    "margin": 385
                 }
             ],
             [
                 {
                     "from": "Branden Robinson",
                     "to": "None Of The Above",
-                    "win": 410,
+                    "win": 405,
                     "minority": 65,
-                    "margin": 345
+                    "margin": 340
                 }
             ],
             [
@@ -44,8 +44,8 @@
                     "from": "Martin Michlmayr",
                     "to": "Moshe Zadka",
                     "win": 397,
-                    "minority": 57,
-                    "margin": 340
+                    "minority": 38,
+                    "margin": 359
                 }
             ],
             [
@@ -53,44 +53,44 @@
                     "from": "Branden Robinson",
                     "to": "Moshe Zadka",
                     "win": 385,
-                    "minority": 76,
-                    "margin": 309
+                    "minority": 66,
+                    "margin": 319
                 }
             ],
             [
                 {
                     "from": "Bdale Garbee",
                     "to": "Branden Robinson",
-                    "win": 262,
+                    "win": 238,
                     "minority": 221,
-                    "margin": 41
+                    "margin": 17
                 }
             ],
             [
                 {
-                    "from": "Bdale Garbee",
-                    "to": "Martin Michlmayr",
-                    "win": 252,
-                    "minority": 228,
-                    "margin": 24
-                }
-            ],
-            [
-                {
-                    "from": "Branden Robinson",
-                    "to": "Martin Michlmayr",
-                    "win": 244,
-                    "minority": 237,
-                    "margin": 7
+                    "from": "Martin Michlmayr",
+                    "to": "Branden Robinson",
+                    "win": 237,
+                    "minority": 226,
+                    "margin": 11
                 }
             ],
             [
                 {
                     "from": "Moshe Zadka",
                     "to": "None Of The Above",
-                    "win": 236,
+                    "win": 228,
                     "minority": 202,
-                    "margin": 34
+                    "margin": 26
+                }
+            ],
+            [
+                {
+                    "from": "Martin Michlmayr",
+                    "to": "Bdale Garbee",
+                    "win": 228,
+                    "minority": 224,
+                    "margin": 4
                 }
             ]
         ],
@@ -124,16 +124,16 @@
                 "to": "Branden Robinson"
             },
             {
-                "from": "Bdale Garbee",
-                "to": "Martin Michlmayr"
-            },
-            {
-                "from": "Branden Robinson",
-                "to": "Martin Michlmayr"
+                "from": "Martin Michlmayr",
+                "to": "Branden Robinson"
             },
             {
                 "from": "Moshe Zadka",
                 "to": "None Of The Above"
+            },
+            {
+                "from": "Martin Michlmayr",
+                "to": "Bdale Garbee"
             }
         ]
     }

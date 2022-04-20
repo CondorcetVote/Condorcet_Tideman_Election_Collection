@@ -1,0 +1,96 @@
+{
+    "Ranking": "Sam Hocevar > Steve McIntyre > Rapha\u00ebl Hertzog > Wouter Verhelst > Anthony Towns > Gustavo Franco > None Of The Above > Simon Richter > Aigars Mahinovs",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Wouter Verhelst": {
+            "Aigars Mahinovs": 12.142857142857142,
+            "Gustavo Franco": 1.9,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Anthony Towns": 1.0841584158415842,
+            "Simon Richter": 7.880952380952381,
+            "None Of The Above": 3.091743119266055
+        },
+        "Aigars Mahinovs": {
+            "Wouter Verhelst": 0,
+            "Gustavo Franco": 0,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Anthony Towns": 0,
+            "Simon Richter": 0,
+            "None Of The Above": 0
+        },
+        "Gustavo Franco": {
+            "Wouter Verhelst": 0,
+            "Aigars Mahinovs": 6.7105263157894735,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Anthony Towns": 0,
+            "Simon Richter": 3.2739726027397262,
+            "None Of The Above": 1.675
+        },
+        "Sam Hocevar": {
+            "Wouter Verhelst": 1.4539877300613497,
+            "Aigars Mahinovs": 10.612903225806452,
+            "Gustavo Franco": 3.7066666666666666,
+            "Steve McIntyre": 1.0394088669950738,
+            "Rapha\u00ebl Hertzog": 1.2824858757062148,
+            "Anthony Towns": 1.3695652173913044,
+            "Simon Richter": 7.674418604651163,
+            "None Of The Above": 3.802197802197802
+        },
+        "Steve McIntyre": {
+            "Wouter Verhelst": 1.3742331288343559,
+            "Aigars Mahinovs": 7.644444444444445,
+            "Gustavo Franco": 2.10077519379845,
+            "Sam Hocevar": 0,
+            "Rapha\u00ebl Hertzog": 1.131578947368421,
+            "Anthony Towns": 2.015267175572519,
+            "Simon Richter": 5.689655172413793,
+            "None Of The Above": 3.320388349514563
+        },
+        "Rapha\u00ebl Hertzog": {
+            "Wouter Verhelst": 1.1767955801104972,
+            "Aigars Mahinovs": 9.243243243243244,
+            "Gustavo Franco": 2.15702479338843,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Anthony Towns": 1.3043478260869565,
+            "Simon Richter": 5.821428571428571,
+            "None Of The Above": 3.0088495575221237
+        },
+        "Anthony Towns": {
+            "Wouter Verhelst": 0,
+            "Aigars Mahinovs": 3.3736263736263736,
+            "Gustavo Franco": 1.4294117647058824,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Simon Richter": 2.63302752293578,
+            "None Of The Above": 1.9102564102564104
+        },
+        "Simon Richter": {
+            "Wouter Verhelst": 0,
+            "Aigars Mahinovs": 1.6914893617021276,
+            "Gustavo Franco": 0,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Anthony Towns": 0,
+            "None Of The Above": 0
+        },
+        "None Of The Above": {
+            "Wouter Verhelst": 0,
+            "Aigars Mahinovs": 1.9014084507042253,
+            "Gustavo Franco": 0,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Anthony Towns": 0,
+            "Simon Richter": 1.273224043715847
+        }
+    }
+}

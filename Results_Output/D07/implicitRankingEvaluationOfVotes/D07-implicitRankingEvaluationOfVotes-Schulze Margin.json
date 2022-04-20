@@ -1,0 +1,96 @@
+{
+    "Ranking": "Sam Hocevar > Steve McIntyre > Rapha\u00ebl Hertzog > Wouter Verhelst > Anthony Towns > Gustavo Franco > None Of The Above > Simon Richter > Aigars Mahinovs",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Wouter Verhelst": {
+            "Aigars Mahinovs": 312,
+            "Gustavo Franco": 117,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Anthony Towns": 17,
+            "Simon Richter": 289,
+            "None Of The Above": 228
+        },
+        "Aigars Mahinovs": {
+            "Wouter Verhelst": 0,
+            "Gustavo Franco": 0,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Anthony Towns": 0,
+            "Simon Richter": 0,
+            "None Of The Above": 0
+        },
+        "Gustavo Franco": {
+            "Wouter Verhelst": 0,
+            "Aigars Mahinovs": 217,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Anthony Towns": 0,
+            "Simon Richter": 166,
+            "None Of The Above": 108
+        },
+        "Sam Hocevar": {
+            "Wouter Verhelst": 74,
+            "Aigars Mahinovs": 298,
+            "Gustavo Franco": 203,
+            "Steve McIntyre": 8,
+            "Rapha\u00ebl Hertzog": 50,
+            "Anthony Towns": 68,
+            "Simon Richter": 287,
+            "None Of The Above": 255
+        },
+        "Steve McIntyre": {
+            "Wouter Verhelst": 61,
+            "Aigars Mahinovs": 299,
+            "Gustavo Franco": 142,
+            "Sam Hocevar": 0,
+            "Rapha\u00ebl Hertzog": 25,
+            "Anthony Towns": 133,
+            "Simon Richter": 272,
+            "None Of The Above": 239
+        },
+        "Rapha\u00ebl Hertzog": {
+            "Wouter Verhelst": 32,
+            "Aigars Mahinovs": 305,
+            "Gustavo Franco": 140,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Anthony Towns": 56,
+            "Simon Richter": 270,
+            "None Of The Above": 227
+        },
+        "Anthony Towns": {
+            "Wouter Verhelst": 0,
+            "Aigars Mahinovs": 216,
+            "Gustavo Franco": 73,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Simon Richter": 178,
+            "None Of The Above": 142
+        },
+        "Simon Richter": {
+            "Wouter Verhelst": 0,
+            "Aigars Mahinovs": 65,
+            "Gustavo Franco": 0,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Anthony Towns": 0,
+            "None Of The Above": 0
+        },
+        "None Of The Above": {
+            "Wouter Verhelst": 0,
+            "Aigars Mahinovs": 128,
+            "Gustavo Franco": 0,
+            "Sam Hocevar": 0,
+            "Steve McIntyre": 0,
+            "Rapha\u00ebl Hertzog": 0,
+            "Anthony Towns": 0,
+            "Simon Richter": 50
+        }
+    }
+}

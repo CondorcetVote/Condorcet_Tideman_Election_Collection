@@ -1,21 +1,21 @@
 {
-    "Ranking": "Bdale Garbee > Martin Michlmayr > Branden Robinson > Moshe Zadka > None Of The Above",
+    "Ranking": "Martin Michlmayr > Bdale Garbee > Branden Robinson > Moshe Zadka > None Of The Above",
     "Number Of Seats": 1,
     "Stats": {
         "Moshe Zadka": {
-            "sum_defeat_margin": 1032
+            "sum_defeat_margin": 1072
         },
         "Bdale Garbee": {
-            "sum_defeat_margin": 0
+            "sum_defeat_margin": 4
         },
         "Branden Robinson": {
-            "sum_defeat_margin": 41
+            "sum_defeat_margin": 28
         },
         "Martin Michlmayr": {
-            "sum_defeat_margin": 31
+            "sum_defeat_margin": 0
         },
         "None Of The Above": {
-            "sum_defeat_margin": 1188
+            "sum_defeat_margin": 1171
         }
     }
 }
