@@ -1,0 +1,26 @@
+{
+    "Ranking": "Neil McGovern > Mehdi Dogguy > Gergely Nagy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Mehdi Dogguy": {
+            "Gergely Nagy": 200,
+            "Neil McGovern": 0,
+            "None Of The Above": 237
+        },
+        "Gergely Nagy": {
+            "Mehdi Dogguy": 0,
+            "Neil McGovern": 0,
+            "None Of The Above": 135
+        },
+        "Neil McGovern": {
+            "Mehdi Dogguy": 81,
+            "Gergely Nagy": 210,
+            "None Of The Above": 215
+        },
+        "None Of The Above": {
+            "Mehdi Dogguy": 0,
+            "Gergely Nagy": 0,
+            "Neil McGovern": 0
+        }
+    }
+}

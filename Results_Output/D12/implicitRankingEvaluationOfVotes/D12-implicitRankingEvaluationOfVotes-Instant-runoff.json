@@ -1,0 +1,24 @@
+{
+    "Ranking": "Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy",
+    "Number Of Seats": 1,
+    "Stats": {
+        "majority": 201.5,
+        "rounds": {
+            "1": {
+                "Wouter Verhelst": 34,
+                "Gergely Nagy": 32,
+                "Stefano Zacchiroli": 326,
+                "None Of The Above": 9
+            },
+            "2": {
+                "Wouter Verhelst": 188,
+                "Gergely Nagy": 90,
+                "None Of The Above": 98
+            },
+            "3": {
+                "Wouter Verhelst": 251,
+                "None Of The Above": 119
+            }
+        }
+    }
+}

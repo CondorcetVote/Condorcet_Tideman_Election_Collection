@@ -1,0 +1,88 @@
+{
+    "Ranking": "Lucas Nussbaum > Moray Allan > Gergely Nagy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Moray Allan",
+                    "to": "None Of The Above",
+                    "win": 355,
+                    "minority": 24,
+                    "margin": 331
+                }
+            ],
+            [
+                {
+                    "from": "Lucas Nussbaum",
+                    "to": "None Of The Above",
+                    "win": 353,
+                    "minority": 30,
+                    "margin": 323
+                }
+            ],
+            [
+                {
+                    "from": "Gergely Nagy",
+                    "to": "None Of The Above",
+                    "win": 319,
+                    "minority": 51,
+                    "margin": 268
+                }
+            ],
+            [
+                {
+                    "from": "Lucas Nussbaum",
+                    "to": "Gergely Nagy",
+                    "win": 279,
+                    "minority": 62,
+                    "margin": 217
+                }
+            ],
+            [
+                {
+                    "from": "Moray Allan",
+                    "to": "Gergely Nagy",
+                    "win": 252,
+                    "minority": 88,
+                    "margin": 164
+                }
+            ],
+            [
+                {
+                    "from": "Lucas Nussbaum",
+                    "to": "Moray Allan",
+                    "win": 210,
+                    "minority": 141,
+                    "margin": 69
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Moray Allan",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Lucas Nussbaum",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Gergely Nagy",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Lucas Nussbaum",
+                "to": "Gergely Nagy"
+            },
+            {
+                "from": "Moray Allan",
+                "to": "Gergely Nagy"
+            },
+            {
+                "from": "Lucas Nussbaum",
+                "to": "Moray Allan"
+            }
+        ]
+    }
+}

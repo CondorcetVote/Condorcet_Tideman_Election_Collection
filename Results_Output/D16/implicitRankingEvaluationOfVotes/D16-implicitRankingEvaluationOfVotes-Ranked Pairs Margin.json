@@ -1,0 +1,23 @@
+{
+    "Ranking": "Mehdi Dogguy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Mehdi Dogguy",
+                    "to": "None Of The Above",
+                    "win": 265,
+                    "minority": 13,
+                    "margin": 252
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Mehdi Dogguy",
+                "to": "None Of The Above"
+            }
+        ]
+    }
+}

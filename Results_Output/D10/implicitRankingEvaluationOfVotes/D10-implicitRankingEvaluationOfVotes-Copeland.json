@@ -1,0 +1,21 @@
+{
+    "Ranking": "Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Stefano Zacchiroli": {
+            "balance": 4
+        },
+        "Wouter Verhelst": {
+            "balance": 0
+        },
+        "Charles Plessy": {
+            "balance": -2
+        },
+        "Margarita Manterola": {
+            "balance": 2
+        },
+        "None Of The Above": {
+            "balance": -4
+        }
+    }
+}

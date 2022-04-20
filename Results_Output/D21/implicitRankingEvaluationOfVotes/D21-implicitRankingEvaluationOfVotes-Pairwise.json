@@ -1,0 +1,44 @@
+{
+    "Jonathan Carter": {
+        "win": {
+            "Sruthi Chandran": 312,
+            "None Of The Above": 421
+        },
+        "null": {
+            "Sruthi Chandran": 41,
+            "None Of The Above": 4
+        },
+        "lose": {
+            "Sruthi Chandran": 102,
+            "None Of The Above": 30
+        }
+    },
+    "Sruthi Chandran": {
+        "win": {
+            "Jonathan Carter": 102,
+            "None Of The Above": 341
+        },
+        "null": {
+            "Jonathan Carter": 41,
+            "None Of The Above": 33
+        },
+        "lose": {
+            "Jonathan Carter": 312,
+            "None Of The Above": 81
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Jonathan Carter": 30,
+            "Sruthi Chandran": 81
+        },
+        "null": {
+            "Jonathan Carter": 4,
+            "Sruthi Chandran": 33
+        },
+        "lose": {
+            "Jonathan Carter": 421,
+            "Sruthi Chandran": 341
+        }
+    }
+}

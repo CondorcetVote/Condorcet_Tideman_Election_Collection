@@ -1,0 +1,18 @@
+{
+    "Ranking": "Lucas Nussbaum > Neil McGovern > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Lucas Nussbaum": {
+            "Neil McGovern": 1.308724832214765,
+            "None Of The Above": 11.16
+        },
+        "Neil McGovern": {
+            "Lucas Nussbaum": 0,
+            "None Of The Above": 11.708333333333334
+        },
+        "None Of The Above": {
+            "Lucas Nussbaum": 0,
+            "Neil McGovern": 0
+        }
+    }
+}

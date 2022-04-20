@@ -1,0 +1,44 @@
+{
+    "Stefano Zacchiroli": {
+        "win": {
+            "Steve McIntyre": 142,
+            "None Of The Above": 323
+        },
+        "null": {
+            "Steve McIntyre": 34,
+            "None Of The Above": 15
+        },
+        "lose": {
+            "Steve McIntyre": 185,
+            "None Of The Above": 23
+        }
+    },
+    "Steve McIntyre": {
+        "win": {
+            "Stefano Zacchiroli": 185,
+            "None Of The Above": 329
+        },
+        "null": {
+            "Stefano Zacchiroli": 34,
+            "None Of The Above": 10
+        },
+        "lose": {
+            "Stefano Zacchiroli": 142,
+            "None Of The Above": 22
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Stefano Zacchiroli": 23,
+            "Steve McIntyre": 22
+        },
+        "null": {
+            "Stefano Zacchiroli": 15,
+            "Steve McIntyre": 10
+        },
+        "lose": {
+            "Stefano Zacchiroli": 323,
+            "Steve McIntyre": 329
+        }
+    }
+}

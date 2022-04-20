@@ -1,0 +1,24 @@
+{
+    "Ranking": "Neil McGovern > Mehdi Dogguy > Gergely Nagy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "majority": 176.5,
+        "rounds": {
+            "1": {
+                "Mehdi Dogguy": 108,
+                "Gergely Nagy": 32,
+                "Neil McGovern": 192,
+                "None Of The Above": 17
+            },
+            "2": {
+                "Mehdi Dogguy": 243,
+                "Gergely Nagy": 53,
+                "None Of The Above": 50
+            },
+            "3": {
+                "Gergely Nagy": 223,
+                "None Of The Above": 112
+            }
+        }
+    }
+}

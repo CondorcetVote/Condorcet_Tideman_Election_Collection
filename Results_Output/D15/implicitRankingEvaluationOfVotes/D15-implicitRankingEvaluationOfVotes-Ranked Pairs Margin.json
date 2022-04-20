@@ -1,0 +1,88 @@
+{
+    "Ranking": "Neil McGovern > Mehdi Dogguy > Gergely Nagy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Mehdi Dogguy",
+                    "to": "None Of The Above",
+                    "win": 325,
+                    "minority": 21,
+                    "margin": 304
+                }
+            ],
+            [
+                {
+                    "from": "Neil McGovern",
+                    "to": "None Of The Above",
+                    "win": 314,
+                    "minority": 29,
+                    "margin": 285
+                }
+            ],
+            [
+                {
+                    "from": "Neil McGovern",
+                    "to": "Gergely Nagy",
+                    "win": 278,
+                    "minority": 52,
+                    "margin": 226
+                }
+            ],
+            [
+                {
+                    "from": "Mehdi Dogguy",
+                    "to": "Gergely Nagy",
+                    "win": 260,
+                    "minority": 47,
+                    "margin": 213
+                }
+            ],
+            [
+                {
+                    "from": "Gergely Nagy",
+                    "to": "None Of The Above",
+                    "win": 263,
+                    "minority": 74,
+                    "margin": 189
+                }
+            ],
+            [
+                {
+                    "from": "Neil McGovern",
+                    "to": "Mehdi Dogguy",
+                    "win": 203,
+                    "minority": 119,
+                    "margin": 84
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Mehdi Dogguy",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Neil McGovern",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Neil McGovern",
+                "to": "Gergely Nagy"
+            },
+            {
+                "from": "Mehdi Dogguy",
+                "to": "Gergely Nagy"
+            },
+            {
+                "from": "Gergely Nagy",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Neil McGovern",
+                "to": "Mehdi Dogguy"
+            }
+        ]
+    }
+}

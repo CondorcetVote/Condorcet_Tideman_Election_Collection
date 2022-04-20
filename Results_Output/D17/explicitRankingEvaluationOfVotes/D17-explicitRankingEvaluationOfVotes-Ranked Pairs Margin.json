@@ -1,0 +1,49 @@
+{
+    "Ranking": "Chris Lamb > Mehdi Dogguy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Chris Lamb",
+                    "to": "None Of The Above",
+                    "win": 221,
+                    "minority": 9,
+                    "margin": 212
+                }
+            ],
+            [
+                {
+                    "from": "Mehdi Dogguy",
+                    "to": "None Of The Above",
+                    "win": 215,
+                    "minority": 16,
+                    "margin": 199
+                }
+            ],
+            [
+                {
+                    "from": "Chris Lamb",
+                    "to": "Mehdi Dogguy",
+                    "win": 158,
+                    "minority": 123,
+                    "margin": 35
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Chris Lamb",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Mehdi Dogguy",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Chris Lamb",
+                "to": "Mehdi Dogguy"
+            }
+        ]
+    }
+}

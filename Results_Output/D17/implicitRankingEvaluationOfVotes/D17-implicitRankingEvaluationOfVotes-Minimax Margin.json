@@ -1,0 +1,15 @@
+{
+    "Ranking": "Chris Lamb > Mehdi Dogguy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Mehdi Dogguy": {
+            "worst_pairwise_defeat_margin": 31
+        },
+        "Chris Lamb": {
+            "worst_pairwise_defeat_margin": -31
+        },
+        "None Of The Above": {
+            "worst_pairwise_defeat_margin": 291
+        }
+    }
+}

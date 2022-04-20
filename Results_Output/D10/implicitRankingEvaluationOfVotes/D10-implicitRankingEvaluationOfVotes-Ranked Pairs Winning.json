@@ -1,0 +1,140 @@
+{
+    "Ranking": "Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Stefano Zacchiroli",
+                    "to": "None Of The Above",
+                    "win": 395,
+                    "minority": 28,
+                    "margin": 367
+                }
+            ],
+            [
+                {
+                    "from": "Wouter Verhelst",
+                    "to": "None Of The Above",
+                    "win": 375,
+                    "minority": 39,
+                    "margin": 336
+                }
+            ],
+            [
+                {
+                    "from": "Stefano Zacchiroli",
+                    "to": "Charles Plessy",
+                    "win": 373,
+                    "minority": 33,
+                    "margin": 340
+                }
+            ],
+            [
+                {
+                    "from": "Margarita Manterola",
+                    "to": "None Of The Above",
+                    "win": 366,
+                    "minority": 48,
+                    "margin": 318
+                }
+            ],
+            [
+                {
+                    "from": "Wouter Verhelst",
+                    "to": "Charles Plessy",
+                    "win": 334,
+                    "minority": 47,
+                    "margin": 287
+                }
+            ],
+            [
+                {
+                    "from": "Margarita Manterola",
+                    "to": "Charles Plessy",
+                    "win": 332,
+                    "minority": 53,
+                    "margin": 279
+                }
+            ],
+            [
+                {
+                    "from": "Stefano Zacchiroli",
+                    "to": "Wouter Verhelst",
+                    "win": 300,
+                    "minority": 102,
+                    "margin": 198
+                }
+            ],
+            [
+                {
+                    "from": "Stefano Zacchiroli",
+                    "to": "Margarita Manterola",
+                    "win": 271,
+                    "minority": 124,
+                    "margin": 147
+                }
+            ],
+            [
+                {
+                    "from": "Charles Plessy",
+                    "to": "None Of The Above",
+                    "win": 217,
+                    "minority": 183,
+                    "margin": 34
+                }
+            ],
+            [
+                {
+                    "from": "Margarita Manterola",
+                    "to": "Wouter Verhelst",
+                    "win": 207,
+                    "minority": 177,
+                    "margin": 30
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Stefano Zacchiroli",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Wouter Verhelst",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Stefano Zacchiroli",
+                "to": "Charles Plessy"
+            },
+            {
+                "from": "Margarita Manterola",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Wouter Verhelst",
+                "to": "Charles Plessy"
+            },
+            {
+                "from": "Margarita Manterola",
+                "to": "Charles Plessy"
+            },
+            {
+                "from": "Stefano Zacchiroli",
+                "to": "Wouter Verhelst"
+            },
+            {
+                "from": "Stefano Zacchiroli",
+                "to": "Margarita Manterola"
+            },
+            {
+                "from": "Charles Plessy",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Margarita Manterola",
+                "to": "Wouter Verhelst"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Ranking": "Steve McIntyre > Stefano Zacchiroli > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Stefano Zacchiroli": {
+            "Steve McIntyre": 0,
+            "None Of The Above": 233
+        },
+        "Steve McIntyre": {
+            "Stefano Zacchiroli": 173,
+            "None Of The Above": 234
+        },
+        "None Of The Above": {
+            "Stefano Zacchiroli": 0,
+            "Steve McIntyre": 0
+        }
+    }
+}

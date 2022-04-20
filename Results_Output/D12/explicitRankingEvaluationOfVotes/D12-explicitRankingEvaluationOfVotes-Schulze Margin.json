@@ -1,0 +1,26 @@
+{
+    "Ranking": "Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Wouter Verhelst": {
+            "Gergely Nagy": 94,
+            "Stefano Zacchiroli": 0,
+            "None Of The Above": 196
+        },
+        "Gergely Nagy": {
+            "Wouter Verhelst": 0,
+            "Stefano Zacchiroli": 0,
+            "None Of The Above": 161
+        },
+        "Stefano Zacchiroli": {
+            "Wouter Verhelst": 272,
+            "Gergely Nagy": 270,
+            "None Of The Above": 281
+        },
+        "None Of The Above": {
+            "Wouter Verhelst": 0,
+            "Gergely Nagy": 0,
+            "Stefano Zacchiroli": 0
+        }
+    }
+}

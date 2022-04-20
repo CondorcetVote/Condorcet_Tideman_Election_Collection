@@ -1,0 +1,12 @@
+Steve McIntyre > Stefano Zacchiroli > None Of The Above * 157
+Stefano Zacchiroli > Steve McIntyre > None Of The Above * 119
+Stefano Zacchiroli = Steve McIntyre > None Of The Above * 32
+Steve McIntyre > None Of The Above = Stefano Zacchiroli * 13
+Stefano Zacchiroli > None Of The Above = Steve McIntyre * 9
+Steve McIntyre > None Of The Above > Stefano Zacchiroli * 8
+None Of The Above > Stefano Zacchiroli > Steve McIntyre * 7
+None Of The Above > Steve McIntyre > Stefano Zacchiroli * 7
+Stefano Zacchiroli > None Of The Above > Steve McIntyre * 6
+None Of The Above = Stefano Zacchiroli = Steve McIntyre * 1
+None Of The Above = Stefano Zacchiroli > Steve McIntyre * 1
+None Of The Above > Stefano Zacchiroli = Steve McIntyre * 1

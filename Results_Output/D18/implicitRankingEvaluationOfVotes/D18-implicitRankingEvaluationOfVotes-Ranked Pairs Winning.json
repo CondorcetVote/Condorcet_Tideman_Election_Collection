@@ -1,0 +1,23 @@
+{
+    "Ranking": "Chris Lamb > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Chris Lamb",
+                    "to": "None Of The Above",
+                    "win": 315,
+                    "minority": 14,
+                    "margin": 301
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Chris Lamb",
+                "to": "None Of The Above"
+            }
+        ]
+    }
+}

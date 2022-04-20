@@ -1,0 +1,24 @@
+{
+    "Stefano Zacchiroli": {
+        "win": {
+            "None Of The Above": 385
+        },
+        "null": {
+            "None Of The Above": 2
+        },
+        "lose": {
+            "None Of The Above": 5
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Stefano Zacchiroli": 5
+        },
+        "null": {
+            "Stefano Zacchiroli": 2
+        },
+        "lose": {
+            "Stefano Zacchiroli": 385
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Ranking": "Lucas Nussbaum",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 196,
+        "rounds": {
+            "1": {
+                "Lucas Nussbaum": 176,
+                "Moray Allan": 129,
+                "Gergely Nagy": 57,
+                "None Of The Above": 22
+            },
+            "2": {
+                "Lucas Nussbaum": 179,
+                "Moray Allan": 133,
+                "Gergely Nagy": 62
+            },
+            "3": {
+                "Lucas Nussbaum": 209,
+                "Moray Allan": 142
+            }
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "Gergely Nagy": {
+        "win": {
+            "Moray Allan": 88,
+            "Lucas Nussbaum": 62,
+            "None Of The Above": 319
+        },
+        "null": {
+            "Moray Allan": 50,
+            "Lucas Nussbaum": 49,
+            "None Of The Above": 20
+        },
+        "lose": {
+            "Moray Allan": 252,
+            "Lucas Nussbaum": 279,
+            "None Of The Above": 51
+        }
+    },
+    "Moray Allan": {
+        "win": {
+            "Gergely Nagy": 252,
+            "Lucas Nussbaum": 141,
+            "None Of The Above": 355
+        },
+        "null": {
+            "Gergely Nagy": 50,
+            "Lucas Nussbaum": 39,
+            "None Of The Above": 11
+        },
+        "lose": {
+            "Gergely Nagy": 88,
+            "Lucas Nussbaum": 210,
+            "None Of The Above": 24
+        }
+    },
+    "Lucas Nussbaum": {
+        "win": {
+            "Gergely Nagy": 279,
+            "Moray Allan": 210,
+            "None Of The Above": 353
+        },
+        "null": {
+            "Gergely Nagy": 49,
+            "Moray Allan": 39,
+            "None Of The Above": 7
+        },
+        "lose": {
+            "Gergely Nagy": 62,
+            "Moray Allan": 141,
+            "None Of The Above": 30
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Gergely Nagy": 51,
+            "Moray Allan": 24,
+            "Lucas Nussbaum": 30
+        },
+        "null": {
+            "Gergely Nagy": 20,
+            "Moray Allan": 11,
+            "Lucas Nussbaum": 7
+        },
+        "lose": {
+            "Gergely Nagy": 319,
+            "Moray Allan": 355,
+            "Lucas Nussbaum": 353
+        }
+    }
+}

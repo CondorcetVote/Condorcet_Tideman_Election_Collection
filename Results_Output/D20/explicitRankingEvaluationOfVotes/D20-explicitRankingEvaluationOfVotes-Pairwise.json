@@ -1,0 +1,70 @@
+{
+    "Jonathan Carter": {
+        "win": {
+            "Sruthi Chandran": 233,
+            "Brian Gupta": 252,
+            "None Of The Above": 231
+        },
+        "null": {
+            "Sruthi Chandran": 16,
+            "Brian Gupta": 10,
+            "None Of The Above": 2
+        },
+        "lose": {
+            "Sruthi Chandran": 52,
+            "Brian Gupta": 35,
+            "None Of The Above": 23
+        }
+    },
+    "Sruthi Chandran": {
+        "win": {
+            "Jonathan Carter": 52,
+            "Brian Gupta": 149,
+            "None Of The Above": 186
+        },
+        "null": {
+            "Jonathan Carter": 16,
+            "Brian Gupta": 39,
+            "None Of The Above": 5
+        },
+        "lose": {
+            "Jonathan Carter": 233,
+            "Brian Gupta": 104,
+            "None Of The Above": 57
+        }
+    },
+    "Brian Gupta": {
+        "win": {
+            "Jonathan Carter": 35,
+            "Sruthi Chandran": 104,
+            "None Of The Above": 138
+        },
+        "null": {
+            "Jonathan Carter": 10,
+            "Sruthi Chandran": 39,
+            "None Of The Above": 4
+        },
+        "lose": {
+            "Jonathan Carter": 252,
+            "Sruthi Chandran": 149,
+            "None Of The Above": 104
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Jonathan Carter": 23,
+            "Sruthi Chandran": 57,
+            "Brian Gupta": 104
+        },
+        "null": {
+            "Jonathan Carter": 2,
+            "Sruthi Chandran": 5,
+            "Brian Gupta": 4
+        },
+        "lose": {
+            "Jonathan Carter": 231,
+            "Sruthi Chandran": 186,
+            "Brian Gupta": 138
+        }
+    }
+}

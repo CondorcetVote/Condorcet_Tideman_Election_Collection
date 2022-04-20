@@ -1,0 +1,23 @@
+{
+    "Ranking": "Stefano Zacchiroli > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Stefano Zacchiroli",
+                    "to": "None Of The Above",
+                    "win": 385,
+                    "minority": 5,
+                    "margin": 380
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Stefano Zacchiroli",
+                "to": "None Of The Above"
+            }
+        ]
+    }
+}

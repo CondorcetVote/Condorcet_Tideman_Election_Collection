@@ -1,0 +1,140 @@
+{
+    "Ranking": "Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Stefano Zacchiroli",
+                    "to": "Charles Plessy",
+                    "win": 331,
+                    "minority": 29,
+                    "margin": 302
+                }
+            ],
+            [
+                {
+                    "from": "Stefano Zacchiroli",
+                    "to": "None Of The Above",
+                    "win": 307,
+                    "minority": 16,
+                    "margin": 291
+                }
+            ],
+            [
+                {
+                    "from": "Wouter Verhelst",
+                    "to": "None Of The Above",
+                    "win": 296,
+                    "minority": 28,
+                    "margin": 268
+                }
+            ],
+            [
+                {
+                    "from": "Wouter Verhelst",
+                    "to": "Charles Plessy",
+                    "win": 300,
+                    "minority": 43,
+                    "margin": 257
+                }
+            ],
+            [
+                {
+                    "from": "Margarita Manterola",
+                    "to": "None Of The Above",
+                    "win": 285,
+                    "minority": 36,
+                    "margin": 249
+                }
+            ],
+            [
+                {
+                    "from": "Margarita Manterola",
+                    "to": "Charles Plessy",
+                    "win": 295,
+                    "minority": 47,
+                    "margin": 248
+                }
+            ],
+            [
+                {
+                    "from": "Stefano Zacchiroli",
+                    "to": "Wouter Verhelst",
+                    "win": 281,
+                    "minority": 91,
+                    "margin": 190
+                }
+            ],
+            [
+                {
+                    "from": "Stefano Zacchiroli",
+                    "to": "Margarita Manterola",
+                    "win": 249,
+                    "minority": 109,
+                    "margin": 140
+                }
+            ],
+            [
+                {
+                    "from": "Margarita Manterola",
+                    "to": "Wouter Verhelst",
+                    "win": 191,
+                    "minority": 162,
+                    "margin": 29
+                }
+            ],
+            [
+                {
+                    "from": "None Of The Above",
+                    "to": "Charles Plessy",
+                    "win": 154,
+                    "minority": 150,
+                    "margin": 4
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Stefano Zacchiroli",
+                "to": "Charles Plessy"
+            },
+            {
+                "from": "Stefano Zacchiroli",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Wouter Verhelst",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Wouter Verhelst",
+                "to": "Charles Plessy"
+            },
+            {
+                "from": "Margarita Manterola",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Margarita Manterola",
+                "to": "Charles Plessy"
+            },
+            {
+                "from": "Stefano Zacchiroli",
+                "to": "Wouter Verhelst"
+            },
+            {
+                "from": "Stefano Zacchiroli",
+                "to": "Margarita Manterola"
+            },
+            {
+                "from": "Margarita Manterola",
+                "to": "Wouter Verhelst"
+            },
+            {
+                "from": "None Of The Above",
+                "to": "Charles Plessy"
+            }
+        ]
+    }
+}

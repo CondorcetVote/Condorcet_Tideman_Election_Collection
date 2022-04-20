@@ -1,0 +1,18 @@
+{
+    "Ranking": "Chris Lamb > Mehdi Dogguy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Mehdi Dogguy": {
+            "Chris Lamb": 0,
+            "None Of The Above": 17.58823529411765
+        },
+        "Chris Lamb": {
+            "Mehdi Dogguy": 1.2348484848484849,
+            "None Of The Above": 25.25
+        },
+        "None Of The Above": {
+            "Mehdi Dogguy": 0,
+            "Chris Lamb": 0
+        }
+    }
+}

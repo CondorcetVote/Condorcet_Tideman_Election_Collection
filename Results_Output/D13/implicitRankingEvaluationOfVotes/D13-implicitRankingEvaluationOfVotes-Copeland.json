@@ -1,0 +1,18 @@
+{
+    "Ranking": "Lucas Nussbaum > Moray Allan > Gergely Nagy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Gergely Nagy": {
+            "balance": -1
+        },
+        "Moray Allan": {
+            "balance": 1
+        },
+        "Lucas Nussbaum": {
+            "balance": 3
+        },
+        "None Of The Above": {
+            "balance": -3
+        }
+    }
+}

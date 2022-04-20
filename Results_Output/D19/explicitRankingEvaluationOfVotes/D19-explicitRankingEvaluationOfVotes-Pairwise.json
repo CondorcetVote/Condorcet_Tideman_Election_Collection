@@ -1,0 +1,102 @@
+{
+    "Joerg Jaspert": {
+        "win": {
+            "Jonathan Carter": 155,
+            "Sam Hartman": 114,
+            "Martin Michlmayr": 152,
+            "None Of The Above": 230
+        },
+        "null": {
+            "Jonathan Carter": 30,
+            "Sam Hartman": 22,
+            "Martin Michlmayr": 24,
+            "None Of The Above": 2
+        },
+        "lose": {
+            "Jonathan Carter": 160,
+            "Sam Hartman": 209,
+            "Martin Michlmayr": 166,
+            "None Of The Above": 38
+        }
+    },
+    "Jonathan Carter": {
+        "win": {
+            "Joerg Jaspert": 160,
+            "Sam Hartman": 101,
+            "Martin Michlmayr": 160,
+            "None Of The Above": 243
+        },
+        "null": {
+            "Joerg Jaspert": 30,
+            "Sam Hartman": 46,
+            "Martin Michlmayr": 22,
+            "None Of The Above": 3
+        },
+        "lose": {
+            "Joerg Jaspert": 155,
+            "Sam Hartman": 196,
+            "Martin Michlmayr": 157,
+            "None Of The Above": 25
+        }
+    },
+    "Sam Hartman": {
+        "win": {
+            "Joerg Jaspert": 209,
+            "Jonathan Carter": 196,
+            "Martin Michlmayr": 190,
+            "None Of The Above": 254
+        },
+        "null": {
+            "Joerg Jaspert": 22,
+            "Jonathan Carter": 46,
+            "Martin Michlmayr": 32,
+            "None Of The Above": 3
+        },
+        "lose": {
+            "Joerg Jaspert": 114,
+            "Jonathan Carter": 101,
+            "Martin Michlmayr": 119,
+            "None Of The Above": 14
+        }
+    },
+    "Martin Michlmayr": {
+        "win": {
+            "Joerg Jaspert": 166,
+            "Jonathan Carter": 157,
+            "Sam Hartman": 119,
+            "None Of The Above": 245
+        },
+        "null": {
+            "Joerg Jaspert": 24,
+            "Jonathan Carter": 22,
+            "Sam Hartman": 32,
+            "None Of The Above": 3
+        },
+        "lose": {
+            "Joerg Jaspert": 152,
+            "Jonathan Carter": 160,
+            "Sam Hartman": 190,
+            "None Of The Above": 29
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Joerg Jaspert": 38,
+            "Jonathan Carter": 25,
+            "Sam Hartman": 14,
+            "Martin Michlmayr": 29
+        },
+        "null": {
+            "Joerg Jaspert": 2,
+            "Jonathan Carter": 3,
+            "Sam Hartman": 3,
+            "Martin Michlmayr": 3
+        },
+        "lose": {
+            "Joerg Jaspert": 230,
+            "Jonathan Carter": 243,
+            "Sam Hartman": 254,
+            "Martin Michlmayr": 245
+        }
+    }
+}

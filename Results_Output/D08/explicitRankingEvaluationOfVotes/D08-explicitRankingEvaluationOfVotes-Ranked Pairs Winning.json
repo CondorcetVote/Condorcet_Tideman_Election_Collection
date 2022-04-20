@@ -1,0 +1,88 @@
+{
+    "Ranking": "Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "tally": [
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "None Of The Above",
+                    "win": 244,
+                    "minority": 33,
+                    "margin": 211
+                }
+            ],
+            [
+                {
+                    "from": "Marc Brockschmidt",
+                    "to": "None Of The Above",
+                    "win": 239,
+                    "minority": 39,
+                    "margin": 200
+                }
+            ],
+            [
+                {
+                    "from": "Raphael Hertzog",
+                    "to": "None Of The Above",
+                    "win": 217,
+                    "minority": 63,
+                    "margin": 154
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Marc Brockschmidt",
+                    "win": 205,
+                    "minority": 129,
+                    "margin": 76
+                }
+            ],
+            [
+                {
+                    "from": "Steve McIntyre",
+                    "to": "Raphael Hertzog",
+                    "win": 198,
+                    "minority": 142,
+                    "margin": 56
+                }
+            ],
+            [
+                {
+                    "from": "Raphael Hertzog",
+                    "to": "Marc Brockschmidt",
+                    "win": 173,
+                    "minority": 152,
+                    "margin": 21
+                }
+            ]
+        ],
+        "arcs": [
+            {
+                "from": "Steve McIntyre",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Marc Brockschmidt",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Raphael Hertzog",
+                "to": "None Of The Above"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Marc Brockschmidt"
+            },
+            {
+                "from": "Steve McIntyre",
+                "to": "Raphael Hertzog"
+            },
+            {
+                "from": "Raphael Hertzog",
+                "to": "Marc Brockschmidt"
+            }
+        ]
+    }
+}

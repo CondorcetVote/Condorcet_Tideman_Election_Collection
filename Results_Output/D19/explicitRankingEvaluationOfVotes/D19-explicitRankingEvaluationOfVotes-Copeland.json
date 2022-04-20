@@ -1,0 +1,21 @@
+{
+    "Ranking": "Sam Hartman > Jonathan Carter > Martin Michlmayr > Joerg Jaspert > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Joerg Jaspert": {
+            "balance": -2
+        },
+        "Jonathan Carter": {
+            "balance": 2
+        },
+        "Sam Hartman": {
+            "balance": 4
+        },
+        "Martin Michlmayr": {
+            "balance": 0
+        },
+        "None Of The Above": {
+            "balance": -4
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Ranking": "Jonathan Carter > Sruthi Chandran > Brian Gupta > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Jonathan Carter": {
+            "balance": 3
+        },
+        "Sruthi Chandran": {
+            "balance": 1
+        },
+        "Brian Gupta": {
+            "balance": -1
+        },
+        "None Of The Above": {
+            "balance": -3
+        }
+    }
+}

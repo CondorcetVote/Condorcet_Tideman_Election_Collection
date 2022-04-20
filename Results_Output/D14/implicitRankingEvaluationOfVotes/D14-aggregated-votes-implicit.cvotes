@@ -1,0 +1,11 @@
+Lucas Nussbaum > Neil McGovern > None Of The Above * 174
+Neil McGovern > Lucas Nussbaum > None Of The Above * 134
+Lucas Nussbaum = Neil McGovern > None Of The Above * 33
+Neil McGovern > None Of The Above > Lucas Nussbaum * 17
+Lucas Nussbaum > None Of The Above > Neil McGovern * 14
+Lucas Nussbaum > Neil McGovern = None Of The Above * 9
+None Of The Above > Lucas Nussbaum > Neil McGovern * 8
+Neil McGovern > Lucas Nussbaum = None Of The Above * 5
+None Of The Above > Lucas Nussbaum = Neil McGovern * 4
+None Of The Above > Neil McGovern > Lucas Nussbaum * 2
+Lucas Nussbaum = Neil McGovern = None Of The Above * 1

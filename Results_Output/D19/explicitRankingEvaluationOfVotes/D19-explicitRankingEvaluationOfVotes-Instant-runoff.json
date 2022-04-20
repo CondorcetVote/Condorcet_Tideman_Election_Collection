@@ -1,0 +1,31 @@
+{
+    "Ranking": "Sam Hartman > Martin Michlmayr > Joerg Jaspert > Jonathan Carter > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "majority": 189,
+        "rounds": {
+            "1": {
+                "Joerg Jaspert": 68,
+                "Jonathan Carter": 52,
+                "Sam Hartman": 121,
+                "Martin Michlmayr": 112,
+                "None Of The Above": 19
+            },
+            "2": {
+                "Joerg Jaspert": 69,
+                "Jonathan Carter": 54,
+                "Sam Hartman": 122,
+                "Martin Michlmayr": 115
+            },
+            "3": {
+                "Joerg Jaspert": 91,
+                "Sam Hartman": 142,
+                "Martin Michlmayr": 124
+            },
+            "4": {
+                "Sam Hartman": 183,
+                "Martin Michlmayr": 144
+            }
+        }
+    }
+}

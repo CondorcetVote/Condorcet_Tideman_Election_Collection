@@ -1,0 +1,26 @@
+{
+    "Ranking": "Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Steve McIntyre": {
+            "Raphael Hertzog": 56,
+            "Marc Brockschmidt": 76,
+            "None Of The Above": 211
+        },
+        "Raphael Hertzog": {
+            "Steve McIntyre": 0,
+            "Marc Brockschmidt": 21,
+            "None Of The Above": 154
+        },
+        "Marc Brockschmidt": {
+            "Steve McIntyre": 0,
+            "Raphael Hertzog": 0,
+            "None Of The Above": 200
+        },
+        "None Of The Above": {
+            "Steve McIntyre": 0,
+            "Raphael Hertzog": 0,
+            "Marc Brockschmidt": 0
+        }
+    }
+}

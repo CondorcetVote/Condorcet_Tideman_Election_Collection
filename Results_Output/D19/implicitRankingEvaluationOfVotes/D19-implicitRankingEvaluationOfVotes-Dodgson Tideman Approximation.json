@@ -1,0 +1,21 @@
+{
+    "Ranking": "Sam Hartman > Martin Michlmayr > Joerg Jaspert > Jonathan Carter > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Joerg Jaspert": {
+            "sum_defeat_margin": 100
+        },
+        "Jonathan Carter": {
+            "sum_defeat_margin": 102
+        },
+        "Sam Hartman": {
+            "sum_defeat_margin": 0
+        },
+        "Martin Michlmayr": {
+            "sum_defeat_margin": 68
+        },
+        "None Of The Above": {
+            "sum_defeat_margin": 1153
+        }
+    }
+}

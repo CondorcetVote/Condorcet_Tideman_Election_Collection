@@ -1,0 +1,34 @@
+{
+    "Ranking": "Sam Hartman",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 190,
+        "rounds": {
+            "1": {
+                "Sam Hartman": 121,
+                "Martin Michlmayr": 112,
+                "Joerg Jaspert": 68,
+                "Jonathan Carter": 52,
+                "None Of The Above": 24
+            },
+            "2": {
+                "Sam Hartman": 122,
+                "Martin Michlmayr": 115,
+                "Joerg Jaspert": 69,
+                "Jonathan Carter": 54
+            },
+            "3": {
+                "Sam Hartman": 142,
+                "Martin Michlmayr": 124,
+                "Joerg Jaspert": 91
+            },
+            "4": {
+                "Sam Hartman": 183,
+                "Martin Michlmayr": 144
+            },
+            "5": {
+                "Sam Hartman": 279
+            }
+        }
+    }
+}

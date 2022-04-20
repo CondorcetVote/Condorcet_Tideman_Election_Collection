@@ -1,0 +1,18 @@
+{
+    "Ranking": "Lucas Nussbaum > Moray Allan > Gergely Nagy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Gergely Nagy": {
+            "worst_pairwise_defeat_margin": 217
+        },
+        "Moray Allan": {
+            "worst_pairwise_defeat_margin": 69
+        },
+        "Lucas Nussbaum": {
+            "worst_pairwise_defeat_margin": -69
+        },
+        "None Of The Above": {
+            "worst_pairwise_defeat_margin": 331
+        }
+    }
+}

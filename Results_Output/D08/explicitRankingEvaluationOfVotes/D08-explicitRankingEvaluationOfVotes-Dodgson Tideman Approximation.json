@@ -1,0 +1,18 @@
+{
+    "Ranking": "Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Steve McIntyre": {
+            "sum_defeat_margin": 0
+        },
+        "Raphael Hertzog": {
+            "sum_defeat_margin": 56
+        },
+        "Marc Brockschmidt": {
+            "sum_defeat_margin": 97
+        },
+        "None Of The Above": {
+            "sum_defeat_margin": 565
+        }
+    }
+}

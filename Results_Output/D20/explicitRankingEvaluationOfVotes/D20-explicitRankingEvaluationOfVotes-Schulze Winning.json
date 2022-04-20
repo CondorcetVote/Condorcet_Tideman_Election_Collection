@@ -1,0 +1,26 @@
+{
+    "Ranking": "Jonathan Carter > Sruthi Chandran > Brian Gupta > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Jonathan Carter": {
+            "Sruthi Chandran": 233,
+            "Brian Gupta": 252,
+            "None Of The Above": 231
+        },
+        "Sruthi Chandran": {
+            "Jonathan Carter": 0,
+            "Brian Gupta": 149,
+            "None Of The Above": 186
+        },
+        "Brian Gupta": {
+            "Jonathan Carter": 0,
+            "Sruthi Chandran": 0,
+            "None Of The Above": 138
+        },
+        "None Of The Above": {
+            "Jonathan Carter": 0,
+            "Sruthi Chandran": 0,
+            "Brian Gupta": 0
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Ranking": "Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Stefano Zacchiroli": {
+            "sum_defeat_margin": 0
+        },
+        "Wouter Verhelst": {
+            "sum_defeat_margin": 219
+        },
+        "Charles Plessy": {
+            "sum_defeat_margin": 811
+        },
+        "Margarita Manterola": {
+            "sum_defeat_margin": 140
+        },
+        "None Of The Above": {
+            "sum_defeat_margin": 808
+        }
+    }
+}

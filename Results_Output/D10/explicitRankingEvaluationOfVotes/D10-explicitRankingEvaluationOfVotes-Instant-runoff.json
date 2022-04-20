@@ -1,0 +1,31 @@
+{
+    "Ranking": "Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy",
+    "Number Of Seats": 1,
+    "Stats": {
+        "majority": 218,
+        "rounds": {
+            "1": {
+                "Stefano Zacchiroli": 229,
+                "Wouter Verhelst": 73,
+                "Charles Plessy": 14,
+                "Margarita Manterola": 102,
+                "None Of The Above": 13
+            },
+            "2": {
+                "Wouter Verhelst": 168,
+                "Charles Plessy": 34,
+                "Margarita Manterola": 182,
+                "None Of The Above": 40
+            },
+            "3": {
+                "Wouter Verhelst": 180,
+                "Margarita Manterola": 188,
+                "None Of The Above": 49
+            },
+            "4": {
+                "Wouter Verhelst": 183,
+                "Margarita Manterola": 194
+            }
+        }
+    }
+}

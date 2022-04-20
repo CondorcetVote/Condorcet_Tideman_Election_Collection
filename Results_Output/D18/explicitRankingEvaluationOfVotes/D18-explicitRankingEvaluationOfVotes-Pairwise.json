@@ -1,0 +1,24 @@
+{
+    "Chris Lamb": {
+        "win": {
+            "None Of The Above": 196
+        },
+        "null": {
+            "None Of The Above": 4
+        },
+        "lose": {
+            "None Of The Above": 12
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Chris Lamb": 12
+        },
+        "null": {
+            "Chris Lamb": 4
+        },
+        "lose": {
+            "Chris Lamb": 196
+        }
+    }
+}

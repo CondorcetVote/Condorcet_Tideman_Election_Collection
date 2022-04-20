@@ -1,0 +1,44 @@
+{
+    "Mehdi Dogguy": {
+        "win": {
+            "Chris Lamb": 132,
+            "None Of The Above": 299
+        },
+        "null": {
+            "Chris Lamb": 27,
+            "None Of The Above": 6
+        },
+        "lose": {
+            "Chris Lamb": 163,
+            "None Of The Above": 17
+        }
+    },
+    "Chris Lamb": {
+        "win": {
+            "Mehdi Dogguy": 163,
+            "None Of The Above": 303
+        },
+        "null": {
+            "Mehdi Dogguy": 27,
+            "None Of The Above": 7
+        },
+        "lose": {
+            "Mehdi Dogguy": 132,
+            "None Of The Above": 12
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Mehdi Dogguy": 17,
+            "Chris Lamb": 12
+        },
+        "null": {
+            "Mehdi Dogguy": 6,
+            "Chris Lamb": 7
+        },
+        "lose": {
+            "Mehdi Dogguy": 299,
+            "Chris Lamb": 303
+        }
+    }
+}

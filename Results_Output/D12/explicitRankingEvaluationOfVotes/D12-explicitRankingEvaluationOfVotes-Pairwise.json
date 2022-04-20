@@ -1,0 +1,70 @@
+{
+    "Wouter Verhelst": {
+        "win": {
+            "Gergely Nagy": 183,
+            "Stefano Zacchiroli": 34,
+            "None Of The Above": 237
+        },
+        "null": {
+            "Gergely Nagy": 65,
+            "Stefano Zacchiroli": 14,
+            "None Of The Above": 6
+        },
+        "lose": {
+            "Gergely Nagy": 89,
+            "Stefano Zacchiroli": 306,
+            "None Of The Above": 41
+        }
+    },
+    "Gergely Nagy": {
+        "win": {
+            "Wouter Verhelst": 89,
+            "Stefano Zacchiroli": 28,
+            "None Of The Above": 219
+        },
+        "null": {
+            "Wouter Verhelst": 65,
+            "Stefano Zacchiroli": 13,
+            "None Of The Above": 6
+        },
+        "lose": {
+            "Wouter Verhelst": 183,
+            "Stefano Zacchiroli": 298,
+            "None Of The Above": 58
+        }
+    },
+    "Stefano Zacchiroli": {
+        "win": {
+            "Wouter Verhelst": 306,
+            "Gergely Nagy": 298,
+            "None Of The Above": 289
+        },
+        "null": {
+            "Wouter Verhelst": 14,
+            "Gergely Nagy": 13,
+            "None Of The Above": 2
+        },
+        "lose": {
+            "Wouter Verhelst": 34,
+            "Gergely Nagy": 28,
+            "None Of The Above": 8
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Wouter Verhelst": 41,
+            "Gergely Nagy": 58,
+            "Stefano Zacchiroli": 8
+        },
+        "null": {
+            "Wouter Verhelst": 6,
+            "Gergely Nagy": 6,
+            "Stefano Zacchiroli": 2
+        },
+        "lose": {
+            "Wouter Verhelst": 237,
+            "Gergely Nagy": 219,
+            "Stefano Zacchiroli": 289
+        }
+    }
+}

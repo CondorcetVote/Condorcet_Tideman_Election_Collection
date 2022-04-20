@@ -1,0 +1,36 @@
+{
+    "Ranking": "Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Stefano Zacchiroli": {
+            "Wouter Verhelst": 2.9411764705882355,
+            "Charles Plessy": 11.303030303030303,
+            "Margarita Manterola": 2.185483870967742,
+            "None Of The Above": 14.107142857142858
+        },
+        "Wouter Verhelst": {
+            "Stefano Zacchiroli": 0,
+            "Charles Plessy": 7.1063829787234045,
+            "Margarita Manterola": 0,
+            "None Of The Above": 9.615384615384615
+        },
+        "Charles Plessy": {
+            "Stefano Zacchiroli": 0,
+            "Wouter Verhelst": 0,
+            "Margarita Manterola": 0,
+            "None Of The Above": 1.185792349726776
+        },
+        "Margarita Manterola": {
+            "Stefano Zacchiroli": 0,
+            "Wouter Verhelst": 1.1694915254237288,
+            "Charles Plessy": 6.264150943396227,
+            "None Of The Above": 7.625
+        },
+        "None Of The Above": {
+            "Stefano Zacchiroli": 0,
+            "Wouter Verhelst": 0,
+            "Charles Plessy": 0,
+            "Margarita Manterola": 0
+        }
+    }
+}

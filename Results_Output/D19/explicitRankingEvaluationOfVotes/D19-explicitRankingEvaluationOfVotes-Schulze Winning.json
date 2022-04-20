@@ -1,0 +1,36 @@
+{
+    "Ranking": "Sam Hartman > Jonathan Carter > Martin Michlmayr > Joerg Jaspert > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Joerg Jaspert": {
+            "Jonathan Carter": 0,
+            "Sam Hartman": 0,
+            "Martin Michlmayr": 0,
+            "None Of The Above": 230
+        },
+        "Jonathan Carter": {
+            "Joerg Jaspert": 160,
+            "Sam Hartman": 0,
+            "Martin Michlmayr": 160,
+            "None Of The Above": 243
+        },
+        "Sam Hartman": {
+            "Joerg Jaspert": 209,
+            "Jonathan Carter": 196,
+            "Martin Michlmayr": 190,
+            "None Of The Above": 254
+        },
+        "Martin Michlmayr": {
+            "Joerg Jaspert": 166,
+            "Jonathan Carter": 0,
+            "Sam Hartman": 0,
+            "None Of The Above": 245
+        },
+        "None Of The Above": {
+            "Joerg Jaspert": 0,
+            "Jonathan Carter": 0,
+            "Sam Hartman": 0,
+            "Martin Michlmayr": 0
+        }
+    }
+}

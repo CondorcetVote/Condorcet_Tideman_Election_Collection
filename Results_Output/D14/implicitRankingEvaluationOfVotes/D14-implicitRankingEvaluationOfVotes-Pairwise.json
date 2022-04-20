@@ -1,0 +1,44 @@
+{
+    "Lucas Nussbaum": {
+        "win": {
+            "Neil McGovern": 205,
+            "None Of The Above": 364
+        },
+        "null": {
+            "Neil McGovern": 38,
+            "None Of The Above": 6
+        },
+        "lose": {
+            "Neil McGovern": 158,
+            "None Of The Above": 31
+        }
+    },
+    "Neil McGovern": {
+        "win": {
+            "Lucas Nussbaum": 158,
+            "None Of The Above": 363
+        },
+        "null": {
+            "Lucas Nussbaum": 38,
+            "None Of The Above": 10
+        },
+        "lose": {
+            "Lucas Nussbaum": 205,
+            "None Of The Above": 28
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Lucas Nussbaum": 31,
+            "Neil McGovern": 28
+        },
+        "null": {
+            "Lucas Nussbaum": 6,
+            "Neil McGovern": 10
+        },
+        "lose": {
+            "Lucas Nussbaum": 364,
+            "Neil McGovern": 363
+        }
+    }
+}

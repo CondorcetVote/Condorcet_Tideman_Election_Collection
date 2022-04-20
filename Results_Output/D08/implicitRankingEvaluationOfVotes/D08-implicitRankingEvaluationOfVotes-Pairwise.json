@@ -1,0 +1,70 @@
+{
+    "Steve McIntyre": {
+        "win": {
+            "Raphael Hertzog": 208,
+            "Marc Brockschmidt": 222,
+            "None Of The Above": 339
+        },
+        "null": {
+            "Raphael Hertzog": 38,
+            "Marc Brockschmidt": 42,
+            "None Of The Above": 14
+        },
+        "lose": {
+            "Raphael Hertzog": 155,
+            "Marc Brockschmidt": 137,
+            "None Of The Above": 48
+        }
+    },
+    "Raphael Hertzog": {
+        "win": {
+            "Steve McIntyre": 155,
+            "Marc Brockschmidt": 192,
+            "None Of The Above": 315
+        },
+        "null": {
+            "Steve McIntyre": 38,
+            "Marc Brockschmidt": 50,
+            "None Of The Above": 8
+        },
+        "lose": {
+            "Steve McIntyre": 208,
+            "Marc Brockschmidt": 159,
+            "None Of The Above": 78
+        }
+    },
+    "Marc Brockschmidt": {
+        "win": {
+            "Steve McIntyre": 137,
+            "Raphael Hertzog": 159,
+            "None Of The Above": 327
+        },
+        "null": {
+            "Steve McIntyre": 42,
+            "Raphael Hertzog": 50,
+            "None Of The Above": 18
+        },
+        "lose": {
+            "Steve McIntyre": 222,
+            "Raphael Hertzog": 192,
+            "None Of The Above": 56
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Steve McIntyre": 48,
+            "Raphael Hertzog": 78,
+            "Marc Brockschmidt": 56
+        },
+        "null": {
+            "Steve McIntyre": 14,
+            "Raphael Hertzog": 8,
+            "Marc Brockschmidt": 18
+        },
+        "lose": {
+            "Steve McIntyre": 339,
+            "Raphael Hertzog": 315,
+            "Marc Brockschmidt": 327
+        }
+    }
+}

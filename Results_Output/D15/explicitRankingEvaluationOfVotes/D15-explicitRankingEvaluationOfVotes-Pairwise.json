@@ -1,0 +1,70 @@
+{
+    "Mehdi Dogguy": {
+        "win": {
+            "Gergely Nagy": 242,
+            "Neil McGovern": 114,
+            "None Of The Above": 253
+        },
+        "null": {
+            "Gergely Nagy": 40,
+            "Neil McGovern": 28,
+            "None Of The Above": 1
+        },
+        "lose": {
+            "Gergely Nagy": 42,
+            "Neil McGovern": 195,
+            "None Of The Above": 16
+        }
+    },
+    "Gergely Nagy": {
+        "win": {
+            "Mehdi Dogguy": 42,
+            "Neil McGovern": 47,
+            "None Of The Above": 198
+        },
+        "null": {
+            "Mehdi Dogguy": 40,
+            "Neil McGovern": 20,
+            "None Of The Above": 3
+        },
+        "lose": {
+            "Mehdi Dogguy": 242,
+            "Neil McGovern": 257,
+            "None Of The Above": 63
+        }
+    },
+    "Neil McGovern": {
+        "win": {
+            "Mehdi Dogguy": 195,
+            "Gergely Nagy": 257,
+            "None Of The Above": 241
+        },
+        "null": {
+            "Mehdi Dogguy": 28,
+            "Gergely Nagy": 20,
+            "None Of The Above": 5
+        },
+        "lose": {
+            "Mehdi Dogguy": 114,
+            "Gergely Nagy": 47,
+            "None Of The Above": 26
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Mehdi Dogguy": 16,
+            "Gergely Nagy": 63,
+            "Neil McGovern": 26
+        },
+        "null": {
+            "Mehdi Dogguy": 1,
+            "Gergely Nagy": 3,
+            "Neil McGovern": 5
+        },
+        "lose": {
+            "Mehdi Dogguy": 253,
+            "Gergely Nagy": 198,
+            "Neil McGovern": 241
+        }
+    }
+}

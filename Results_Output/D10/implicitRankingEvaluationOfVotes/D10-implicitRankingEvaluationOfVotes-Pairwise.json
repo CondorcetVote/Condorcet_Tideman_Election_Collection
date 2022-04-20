@@ -1,0 +1,102 @@
+{
+    "Stefano Zacchiroli": {
+        "win": {
+            "Wouter Verhelst": 300,
+            "Charles Plessy": 373,
+            "Margarita Manterola": 271,
+            "None Of The Above": 395
+        },
+        "null": {
+            "Wouter Verhelst": 34,
+            "Charles Plessy": 30,
+            "Margarita Manterola": 41,
+            "None Of The Above": 13
+        },
+        "lose": {
+            "Wouter Verhelst": 102,
+            "Charles Plessy": 33,
+            "Margarita Manterola": 124,
+            "None Of The Above": 28
+        }
+    },
+    "Wouter Verhelst": {
+        "win": {
+            "Stefano Zacchiroli": 102,
+            "Charles Plessy": 334,
+            "Margarita Manterola": 177,
+            "None Of The Above": 375
+        },
+        "null": {
+            "Stefano Zacchiroli": 34,
+            "Charles Plessy": 55,
+            "Margarita Manterola": 52,
+            "None Of The Above": 22
+        },
+        "lose": {
+            "Stefano Zacchiroli": 300,
+            "Charles Plessy": 47,
+            "Margarita Manterola": 207,
+            "None Of The Above": 39
+        }
+    },
+    "Charles Plessy": {
+        "win": {
+            "Stefano Zacchiroli": 33,
+            "Wouter Verhelst": 47,
+            "Margarita Manterola": 53,
+            "None Of The Above": 217
+        },
+        "null": {
+            "Stefano Zacchiroli": 30,
+            "Wouter Verhelst": 55,
+            "Margarita Manterola": 51,
+            "None Of The Above": 36
+        },
+        "lose": {
+            "Stefano Zacchiroli": 373,
+            "Wouter Verhelst": 334,
+            "Margarita Manterola": 332,
+            "None Of The Above": 183
+        }
+    },
+    "Margarita Manterola": {
+        "win": {
+            "Stefano Zacchiroli": 124,
+            "Wouter Verhelst": 207,
+            "Charles Plessy": 332,
+            "None Of The Above": 366
+        },
+        "null": {
+            "Stefano Zacchiroli": 41,
+            "Wouter Verhelst": 52,
+            "Charles Plessy": 51,
+            "None Of The Above": 22
+        },
+        "lose": {
+            "Stefano Zacchiroli": 271,
+            "Wouter Verhelst": 177,
+            "Charles Plessy": 53,
+            "None Of The Above": 48
+        }
+    },
+    "None Of The Above": {
+        "win": {
+            "Stefano Zacchiroli": 28,
+            "Wouter Verhelst": 39,
+            "Charles Plessy": 183,
+            "Margarita Manterola": 48
+        },
+        "null": {
+            "Stefano Zacchiroli": 13,
+            "Wouter Verhelst": 22,
+            "Charles Plessy": 36,
+            "Margarita Manterola": 22
+        },
+        "lose": {
+            "Stefano Zacchiroli": 395,
+            "Wouter Verhelst": 375,
+            "Charles Plessy": 217,
+            "Margarita Manterola": 366
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Ranking": "Lucas Nussbaum > Moray Allan > Gergely Nagy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Gergely Nagy": {
+            "Moray Allan": 0,
+            "Lucas Nussbaum": 0,
+            "None Of The Above": 6.888888888888889
+        },
+        "Moray Allan": {
+            "Gergely Nagy": 2.8625,
+            "Lucas Nussbaum": 0,
+            "None Of The Above": 17.25
+        },
+        "Lucas Nussbaum": {
+            "Gergely Nagy": 4.327868852459017,
+            "Moray Allan": 1.5555555555555556,
+            "None Of The Above": 15.882352941176471
+        },
+        "None Of The Above": {
+            "Gergely Nagy": 0,
+            "Moray Allan": 0,
+            "Lucas Nussbaum": 0
+        }
+    }
+}

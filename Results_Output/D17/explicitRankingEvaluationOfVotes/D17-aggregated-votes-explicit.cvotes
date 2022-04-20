@@ -1,0 +1,16 @@
+Chris Lamb > Mehdi Dogguy > None Of The Above * 103
+Mehdi Dogguy > Chris Lamb > None Of The Above * 90
+Chris Lamb > Mehdi Dogguy * 39
+Mehdi Dogguy > Chris Lamb * 30
+Chris Lamb = Mehdi Dogguy > None Of The Above * 16
+Chris Lamb > None Of The Above > Mehdi Dogguy * 10
+Chris Lamb = Mehdi Dogguy * 9
+Mehdi Dogguy * 6
+None Of The Above > Chris Lamb > Mehdi Dogguy * 5
+Chris Lamb * 4
+Mehdi Dogguy > None Of The Above * 3
+Mehdi Dogguy > None Of The Above > Chris Lamb * 3
+Chris Lamb = Mehdi Dogguy = None Of The Above * 1
+Chris Lamb > Mehdi Dogguy = None Of The Above * 1
+Chris Lamb > None Of The Above * 1
+None Of The Above > Chris Lamb = Mehdi Dogguy * 1
