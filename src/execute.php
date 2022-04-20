@@ -11,7 +11,7 @@ use CondorcetPHP\Condorcet\Algo\Methods\KemenyYoung\KemenyYoung;
 use CondorcetPHP\Condorcet\Condorcet;
 use CondorcetPHP\Condorcet\Election;
 use CondorcetPHP\Condorcet\Throwable\CondorcetPublicApiException;
-use CondorcetPHP\Condorcet\Tools\TidemanDataCollection;
+use CondorcetPHP\Condorcet\Tools\Converters\DavidHilFormat;
 
 require_once __DIR__.'/../vendor/autoload.php';
 
@@ -47,7 +47,7 @@ ini_set('memory_limit', '8192M');
     foreach ($tideman_collection_list as $name => $path) :
         echo 'Execute: '.$name."\n";
 
-        $collection = new TidemanDataCollection($path);
+        $collection = new DavidHilFormat($path);
         $election = $collection->setDataToAnElection();
 
         $results[$name] = [];
