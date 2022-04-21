@@ -48,7 +48,7 @@ ini_set('memory_limit', '8192M');
     foreach ($tideman_collection_list as $name => $path) :
         echo 'Execute: '.$name."\n";
 
-        $collection = match (\pathinfo($path,\PATHINFO_EXTENSION)) {
+        $collection = match ( (new \SplFileInfo($path))->getExtension() ) {
             'HIL'              =>  new DavidHilFormat  ($path),
             'debian_votes' =>  new DebianFormat    ($path),
         };
