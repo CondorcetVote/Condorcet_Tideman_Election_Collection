@@ -11,7 +11,7 @@ use CondorcetPHP\Condorcet\Algo\Methods\KemenyYoung\KemenyYoung;
 use CondorcetPHP\Condorcet\Condorcet;
 use CondorcetPHP\Condorcet\Election;
 use CondorcetPHP\Condorcet\Throwable\CondorcetPublicApiException;
-use CondorcetPHP\Condorcet\Tools\Converters\DavidHilFormat;
+use CondorcetPHP\Condorcet\Tools\Converters\DavidHillFormat;
 use CondorcetPHP\Condorcet\Tools\Converters\DebianFormat;
 
 require_once __DIR__.'/../vendor/autoload.php';
@@ -49,8 +49,8 @@ ini_set('memory_limit', '8192M');
         echo 'Execute: '.$name."\n";
 
         $collection = match ( (new \SplFileInfo($path))->getExtension() ) {
-            'HIL'              =>  new DavidHilFormat  ($path),
-            'debian_votes' =>  new DebianFormat    ($path),
+            'HIL'          => new DavidHillFormat ($path),
+            'debian_votes' => new DebianFormat    ($path),
         };
         $election = $collection->setDataToAnElection();
 
