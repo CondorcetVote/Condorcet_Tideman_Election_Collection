@@ -34,7 +34,7 @@ ini_set('memory_limit', '8192M');
 
     $i = 0;
     foreach ($scandir as $fileName) :
-        $tideman_collection_list[\str_replace(['.HIL', '.debian_votes'], ['',''], $fileName)] = $dir.$fileName;
+        $tideman_collection_list[\str_replace(['.HIL', '.debian_votes'. '.cvotes'], ['',''], $fileName)] = $dir.$fileName;
         if ($isTest && ++$i > 4) : break; endif; # Uncomment for quick dev tests
     endforeach;
 
