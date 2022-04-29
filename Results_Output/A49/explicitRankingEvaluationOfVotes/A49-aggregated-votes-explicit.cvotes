@@ -1,3 +1,8 @@
+#/Candidates: A ; B ; C ; D ; E ; F ; G ; H ; I ; J ; K ; L ; M
+#/Number of Seats: 3
+#/Implicit Ranking: false
+#/Weight Allowed: false
+
 H * 9
 A * 7
 H > C > J * 5

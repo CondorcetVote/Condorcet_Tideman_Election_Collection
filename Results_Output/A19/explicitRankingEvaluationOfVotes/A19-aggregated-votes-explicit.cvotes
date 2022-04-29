@@ -1,3 +1,8 @@
+#/Candidates: A ; B ; C ; D ; E ; F ; G
+#/Number of Seats: 3
+#/Implicit Ranking: false
+#/Weight Allowed: false
+
 G * 9
 E > G * 8
 F * 8

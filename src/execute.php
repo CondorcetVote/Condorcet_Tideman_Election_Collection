@@ -11,6 +11,7 @@ use CondorcetPHP\Condorcet\Algo\Methods\KemenyYoung\KemenyYoung;
 use CondorcetPHP\Condorcet\Condorcet;
 use CondorcetPHP\Condorcet\Election;
 use CondorcetPHP\Condorcet\Throwable\CondorcetPublicApiException;
+use CondorcetPHP\Condorcet\Tools\Converters\CondorcetElectionFormat;
 use CondorcetPHP\Condorcet\Tools\Converters\DavidHillFormat;
 use CondorcetPHP\Condorcet\Tools\Converters\DebianFormat;
 
@@ -49,8 +50,9 @@ ini_set('memory_limit', '8192M');
         echo 'Execute: '.$name."\n";
 
         $collection = match ( (new \SplFileInfo($path))->getExtension() ) {
-            'HIL'          => new DavidHillFormat ($path),
-            'debian_votes' => new DebianFormat    ($path),
+            'HIL'          => new DavidHillFormat           ($path),
+            'debian_votes' => new DebianFormat              ($path),
+            'cvotes'       => new CondorcetElectionFormat   ($path),
         };
         $election = $collection->setDataToAnElection();
 
@@ -65,7 +67,7 @@ ini_set('memory_limit', '8192M');
         // Explicit Ranking OFF
         $election->setImplicitRanking(false);
         computeResults($election, 'explicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
-        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] = $election->getVotesListAsString();
+        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] = CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false);
 
 
     endforeach;

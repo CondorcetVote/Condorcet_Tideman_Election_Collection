@@ -1,3 +1,8 @@
+#/Candidates: A ; B ; C ; D ; E
+#/Number of Seats: 4
+#/Implicit Ranking: false
+#/Weight Allowed: false
+
 A > D * 86
 A > D > E > B > C * 72
 D * 69

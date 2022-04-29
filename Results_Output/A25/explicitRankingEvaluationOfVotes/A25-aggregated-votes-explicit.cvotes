@@ -1,3 +1,8 @@
+#/Candidates: 1 ; 2 ; 3
+#/Number of Seats: 1
+#/Implicit Ranking: false
+#/Weight Allowed: false
+
 2 > 3 * 51
 2 > 1 * 45
 2 * 32
