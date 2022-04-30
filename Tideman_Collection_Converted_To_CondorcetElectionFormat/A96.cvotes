@@ -1,0 +1,291 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+#/Candidates: A ; B ; C ; D ; E ; F
+#/Number of Seats: 2
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+A * 26
+B * 23
+D * 23
+F * 16
+B > F * 13
+C * 13
+E * 11
+A > D * 9
+A > B * 8
+B > C * 8
+E > B * 8
+F > B * 8
+F > E * 6
+A > E * 5
+A > E > D * 5
+B > F > C > A > D * 5
+F > A * 5
+F > C * 5
+B > A * 4
+C > A * 4
+C > B * 4
+C > E * 4
+D > B > F * 4
+D > C * 4
+D > E * 4
+E > A * 4
+F > D * 4
+A > B > C * 3
+A > B > C > D > E * 3
+A > B > F * 3
+B > D * 3
+B > F > C * 3
+D > A * 3
+D > C > A > B > F * 3
+E > B > A * 3
+E > F * 3
+F > A > B * 3
+F > B > A * 3
+F > C > D * 3
+A > B > C > D * 2
+A > C * 2
+A > C > F > B > E * 2
+A > D > C > E > B * 2
+A > D > F > E > C * 2
+A > E > C > D > B * 2
+A > F * 2
+A > F > C * 2
+A > F > D * 2
+B > A > C * 2
+B > C > A > E > F * 2
+B > C > E * 2
+B > C > F * 2
+B > C > F > A > D * 2
+B > D > A * 2
+B > D > E * 2
+B > E * 2
+B > E > A * 2
+B > E > A > C > D * 2
+B > F > A * 2
+C > D * 2
+C > E > F * 2
+C > E > F > A > D * 2
+D > A > E * 2
+D > B > E * 2
+D > B > F > C > A * 2
+D > C > E > A > B * 2
+D > C > F * 2
+D > E > A * 2
+D > E > F > B > A * 2
+E > A > D * 2
+E > A > D > C * 2
+E > A > D > C > F * 2
+E > A > F > B > C * 2
+E > C > B > D * 2
+E > C > D * 2
+E > D * 2
+E > D > A > C > F * 2
+E > F > A * 2
+E > F > B * 2
+F > A > B > C > D * 2
+F > A > B > D > E * 2
+F > A > D * 2
+F > B > A > E * 2
+F > B > C * 2
+F > B > C > D > A * 2
+F > C > A * 2
+F > D > C * 2
+F > E > B * 2
+A > B > D > E > F * 1
+A > B > E * 1
+A > B > E > D > C * 1
+A > B > E > F > D * 1
+A > B > F > C > D * 1
+A > B > F > E * 1
+A > C > D > B > F * 1
+A > C > D > F > E * 1
+A > C > E > B * 1
+A > C > E > B > D * 1
+A > C > F > B * 1
+A > D > B * 1
+A > D > C * 1
+A > D > C > F * 1
+A > D > E > B * 1
+A > D > E > C > B * 1
+A > D > F > B * 1
+A > D > F > B > C * 1
+A > D > F > B > E * 1
+A > E > B > F * 1
+A > E > B > F > C * 1
+A > E > C * 1
+A > E > C > F > B * 1
+A > E > D > F > B * 1
+A > E > F > B > D * 1
+A > E > F > C > B * 1
+A > F > B * 1
+A > F > D > B > E * 1
+A > F > E * 1
+A > F > E > C * 1
+A > F > E > C > B * 1
+A > F > E > C > D * 1
+B > A > D * 1
+B > A > D > E * 1
+B > A > D > F > C * 1
+B > A > E > F > C * 1
+B > A > E > F > D * 1
+B > A > F * 1
+B > A > F > D > E * 1
+B > C > A > F > E * 1
+B > C > D > E > A * 1
+B > C > E > F * 1
+B > C > F > E * 1
+B > D > A > C > E * 1
+B > D > A > E > C * 1
+B > D > A > E > F * 1
+B > D > E > A > C * 1
+B > D > E > C > F * 1
+B > D > E > F > A * 1
+B > D > E > F > C * 1
+B > D > F > C > A * 1
+B > E > C * 1
+B > E > C > F > D * 1
+B > E > D > A > C * 1
+B > E > F > A > C * 1
+B > E > F > D > C * 1
+B > F > C > D > A * 1
+B > F > C > D > E * 1
+B > F > D > A > E * 1
+B > F > D > C > A * 1
+B > F > D > C > E * 1
+B > F > E * 1
+B > F > E > A > C * 1
+C > A > D * 1
+C > A > E * 1
+C > A > E > D > F * 1
+C > A > F > E * 1
+C > A > F > E > D * 1
+C > B > A > D > E * 1
+C > B > E * 1
+C > B > F * 1
+C > B > F > A * 1
+C > B > F > A > D * 1
+C > B > F > A > E * 1
+C > D > A > E * 1
+C > D > B > A > F * 1
+C > D > B > F > A * 1
+C > D > B > F > E * 1
+C > D > E > A > B * 1
+C > D > F > B * 1
+C > E > A * 1
+C > E > A > F > B * 1
+C > E > B > D > F * 1
+C > E > D * 1
+C > E > D > B > F * 1
+C > F * 1
+C > F > A * 1
+C > F > A > D > B * 1
+C > F > A > D > E * 1
+C > F > B * 1
+C > F > D > A > E * 1
+C > F > E > D * 1
+D > A > B > E > F * 1
+D > A > B > F * 1
+D > A > C > E > B * 1
+D > A > C > F > B * 1
+D > A > E > B > C * 1
+D > A > E > C > B * 1
+D > A > F * 1
+D > A > F > B > C * 1
+D > A > F > E > C * 1
+D > B * 1
+D > B > A * 1
+D > B > A > C > E * 1
+D > B > C > E > F * 1
+D > B > E > C > F * 1
+D > B > E > F > A * 1
+D > B > F > E > C * 1
+D > C > A * 1
+D > C > A > B > E * 1
+D > C > A > F * 1
+D > C > A > F > E * 1
+D > C > B > A > E * 1
+D > C > E * 1
+D > C > E > F * 1
+D > E > B * 1
+D > E > B > A * 1
+D > E > C > A > F * 1
+D > E > F * 1
+D > E > F > A * 1
+D > F * 1
+D > F > A * 1
+D > F > A > B * 1
+D > F > B > C > A * 1
+D > F > C > B > E * 1
+D > F > E * 1
+D > F > E > A > B * 1
+E > A > B > C * 1
+E > A > B > D > F * 1
+E > A > C > D > F * 1
+E > A > D > B > F * 1
+E > A > D > C > B * 1
+E > B > A > D * 1
+E > B > A > F > C * 1
+E > B > A > F > D * 1
+E > B > C * 1
+E > B > C > A > D * 1
+E > B > C > F * 1
+E > B > D * 1
+E > B > D > A > C * 1
+E > B > D > F > C * 1
+E > B > F > A > C * 1
+E > B > F > A > D * 1
+E > C * 1
+E > C > A * 1
+E > C > A > F * 1
+E > C > A > F > D * 1
+E > C > B > A * 1
+E > C > B > A > F * 1
+E > C > B > F > A * 1
+E > C > D > A > B * 1
+E > C > D > A > F * 1
+E > C > F * 1
+E > D > A > F > B * 1
+E > D > A > F > C * 1
+E > D > B * 1
+E > D > B > A > C * 1
+E > D > B > F > A * 1
+E > D > C > A > F * 1
+E > D > C > B > F * 1
+E > D > F * 1
+E > D > F > A * 1
+E > D > F > C > B * 1
+E > F > A > B > C * 1
+E > F > A > C > D * 1
+E > F > B > A > C * 1
+E > F > B > A > D * 1
+E > F > C * 1
+E > F > C > A > D * 1
+E > F > C > B > A * 1
+F > A > B > C * 1
+F > A > B > D > C * 1
+F > A > B > E > C * 1
+F > A > C * 1
+F > A > C > B > D * 1
+F > A > C > E > B * 1
+F > A > D > C > E * 1
+F > A > E * 1
+F > A > E > B > D * 1
+F > B > A > C * 1
+F > B > C > A > D * 1
+F > B > C > E > A * 1
+F > B > D * 1
+F > B > D > E > A * 1
+F > B > E * 1
+F > B > E > C > A * 1
+F > B > E > D > C * 1
+F > C > A > B > D * 1
+F > C > B > D > A * 1
+F > C > D > B > E * 1
+F > D > A > E > B * 1
+F > D > E * 1
+F > E > A > B > C * 1
+F > E > A > B > D * 1
+F > E > A > D > C * 1
+F > E > C > A * 1
+F > E > C > B > A * 1

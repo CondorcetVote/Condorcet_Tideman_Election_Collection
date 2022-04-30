@@ -1,0 +1,46 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+#/Candidates: A ; B ; C ; D
+#/Number of Seats: 2
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+A * 44
+D * 36
+A > C * 27
+C * 27
+B * 24
+A > C > D * 23
+D > C * 21
+C > A * 20
+D > C > A * 20
+A > C > B * 19
+D > A * 18
+A > D * 17
+B > C > D * 17
+D > A > C * 16
+A > D > C * 15
+D > B > C * 15
+B > D * 14
+D > B > A * 13
+A > B > C * 12
+A > D > B * 12
+C > A > B * 12
+B > A > C * 11
+B > D > C * 11
+D > C > B * 11
+B > C * 10
+C > D * 10
+C > D > A * 10
+C > D > B * 10
+A > B > D * 9
+D > A > B * 9
+D > B * 9
+B > C > A * 8
+C > A > D * 8
+A > B * 7
+B > A * 7
+B > D > A * 7
+C > B * 6
+B > A > D * 5
+C > B > D * 5
+C > B > A * 4

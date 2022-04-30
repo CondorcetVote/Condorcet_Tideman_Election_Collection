@@ -1,0 +1,409 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+#/Candidates: Wouter Verhelst ; Gergely Nagy ; Stefano Zacchiroli ; None Of The Above
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+a594641ffe87cb066a5e1cdcac5c740a || Stefano Zacchiroli > None Of The Above
+99710f14d87ef2c9f4e404264abc609c || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+a7c6050750ff9263a54d02f1ec939432 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+16c4fe6d634c43f203c26eee63b55c20 || Stefano Zacchiroli > Gergely Nagy > None Of The Above > Wouter Verhelst
+ab00ea1ad37730ef46c147cf8c6815e0 || Gergely Nagy
+33dfdf19daac8dcc8cebe2e0bfc1d3ef || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+81f554f85fa554c1432cd96b9ebd238c || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+9ae8022a8ce1e1361160cba82e456975 || Stefano Zacchiroli
+18b4df20cc67ef802837fc36723dd9cc || Stefano Zacchiroli > Gergely Nagy > None Of The Above > Wouter Verhelst
+b06c0ee8dedb042c5d36ecb2e9001873 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst
+0e8fac220da51bfe983917a6bb7916aa || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy > None Of The Above
+1f4c8892d167666cac118f112214f95d || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+ec12b2856547c0f1f50085e4f28df2b0 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+25e961bd47737d82952624759789417f || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+84e8bad4fec630e95c9829ae0838d686 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+22855cbd978a73407920dfa676a840cf || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+e2f4d653fdc9bdbf76ecb34851c1a041 || Stefano Zacchiroli
+25cd2bac622bc5162554a52c655817d2 || Stefano Zacchiroli
+92bf98e6f7bce4bb1242e4985e901dd0 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+c36ef1bdeb10496c3824dc9b650c6444 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+ddcb98ca2a37a073fca48e256f85ff45 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+8bddb6a2ab5925323dfb1468fc0d9104 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+bda9177637721a7361bb8b4cd3bca060 || Stefano Zacchiroli > Wouter Verhelst
+e3a87ed2fcdbea5ac65d7c4d73ece122 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst
+b36640a2e984bc04a8dfd1c23af43161 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+1c7efe8e15bad63fb572e1d7d34703e6 || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy
+0dbf876acbd58f796cca1b641156d202 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+410ddab3b2b5a59ff13efc80a6ab1afd || Stefano Zacchiroli > None Of The Above > Gergely Nagy > Wouter Verhelst
+cf2912701ec8dd7410c0885a91a691e7 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+ec490b1354f01bd4d199136e9ca13556 || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy > None Of The Above
+82c2ede81f75fca3b603cd996ccb073e || Gergely Nagy > Stefano Zacchiroli > None Of The Above > Wouter Verhelst
+ed16ffd7faca17355e035e0af481c1c4 || Gergely Nagy > Stefano Zacchiroli > None Of The Above
+6358a6bb489802551ccb162c7722a57d || Stefano Zacchiroli = Wouter Verhelst > Gergely Nagy > None Of The Above
+af80747be0690dcf8a74792a67ba6c85 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+88d70c5cc7a07cfe76eab17b056431bc || Gergely Nagy > Stefano Zacchiroli > None Of The Above > Wouter Verhelst
+dbed7ea58c8f347b083d35dd7c23ea74 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+ef665795acdd6b0e239c5ecb9eadbd3c || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy > None Of The Above
+d6b0a0cdcc9d445ecd9f5cb08ea8354e || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+47c2303c46c95e5011f38c20cf3e27a9 || Stefano Zacchiroli > Wouter Verhelst
+f4c5f36a624d3b16464710c7b94e41d8 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+6edd64eef08319fc4fc32e0918a7a970 || Gergely Nagy = Stefano Zacchiroli > None Of The Above > Wouter Verhelst
+adf8b3cc8c2967a29e681efeff8a7a8c || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+3cf593f84bf64cec6419ad9450171df8 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+fe624e14f26adcd02bb64242552d31db || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst
+5685b4f465e960bf5df19a6b82af6a80 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+046579aa84d8be77e351858af06e428c || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+d9b7d8b8c0edcfe9885d56894a26afec || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+3067cd94ba0f4329414c32bbe9654f0b || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+1a3dc3b0ad94c315821f76be2c1d38ca || Wouter Verhelst > Stefano Zacchiroli > None Of The Above
+d7c4e06e1daa44b7f445e6557c1784a3 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+8b8084b2bd4dd184160b691f654c37e6 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+3c0ef951596ad643b9d7ba4038b9c827 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+bfcabab04a635fad710e53bc5dddd2b4 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+ce1eae204ab0017f44fbb1edf7395549 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+1b5f9d18323c0438b859cb92ae47ef1e || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+03e5bab291637f9fc8d49e65902f9b90 || Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Gergely Nagy
+6b536ef1958d92ae70755811621a0732 || Stefano Zacchiroli > None Of The Above > Gergely Nagy > Wouter Verhelst
+f2b9da4b0f34471db18c930d5138915a || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst
+7fc4989cf1b1028a09845b1b70cda1d3 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+34d4f6249ab839c6fb09942ff48cac21 || Stefano Zacchiroli
+66bcfcec4ef16d8fb25156b9fb8e804c || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+cb4b83c77c04a1f5c34b56e66fd5f2b4 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+6618fd7b03748b1a390c04ab290d45d7 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+87ff75a4504638452fea921acdb5abdd || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+8f5af47c758685e4c4ad06603c801fd4 || Stefano Zacchiroli > Gergely Nagy > None Of The Above > Wouter Verhelst
+4ecd47cefdf06e78299a4c3554616ae9 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+723ac77de65e2e504b8bb0d80f76d622 || Stefano Zacchiroli > Gergely Nagy > None Of The Above > Wouter Verhelst
+a637ceaf4708c066ebdd1c116c233a14 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+820236ae6448f64d1cfb0c527dc89ef2 || Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Gergely Nagy
+528d084c20a0a8d1cba9b1dbdab993ca || Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+68ce9609ed849efb4ce26d2575ba1d36 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+547768e7a9b42b96d870320ce2caaada || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy = None Of The Above
+70dab06d2201b6bb11a0af81ee8f8bd8 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+06bb965b8cb5abb7aa68fb3268d25dd9 || Stefano Zacchiroli > Wouter Verhelst
+85328330b33f7f8e33c861c0fc90183e || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+9939187c61c371dc5fa808ffc7c3383e || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+9658d5279a1b63c539214ef185243c13 || Stefano Zacchiroli > None Of The Above > Gergely Nagy = Wouter Verhelst
+76bcb942a4f745ec87e1830dd070e596 || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy > None Of The Above
+cdec329d192cfc1b7e0aae9f85c40621 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+38ea7c0271da7b514e277916c9e44bad || Gergely Nagy > Wouter Verhelst > Stefano Zacchiroli
+b2984a4348eb7c94f08e79abc0b5b517 || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst
+32df7ff18b74e38b30bd6fcbd535a085 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+c29eac13dd1814ab2fc8cb39140b3b4c || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+61133bd71dcd6f320de0cdb7fd72769f || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+65b659ec218caaa9aa73700aa8eb7bee || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+ce457ded2be21ba3788c435520684993 || Stefano Zacchiroli
+d5de37b91a60dcd5cfffdba3a505b923 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+54c17fffc0be118993d093de1430b5be || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+091d63588bee62be336dac12941d0d30 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst
+5a303b7db24351c48c0b763d14168788 || Gergely Nagy > None Of The Above
+0a32459874a7c3b856cb95f29d894cc1 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+f823a0beb4e34b75cd14cf82e8db7723 || Stefano Zacchiroli
+e4d1bdc2eba9c49c86a0be0ac7238738 || Wouter Verhelst > Gergely Nagy > Stefano Zacchiroli > None Of The Above
+f3d19ba1a34010c38476b8b34cbfc99d || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+37d89836c252fdbd43e808984c8f468d || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+2b0fc0724dd138f708d6518f9af0b4d2 || Wouter Verhelst > None Of The Above
+a270c836e6377f5b3be71ef945913f22 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+6455e61c56d4efeb05ac247a6cd36142 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+db811aa2c6bfe5bddc05355c2474cf9a || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+d9aaab9add10a2f6a23a0fc03bbecf5e || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+d47396d7d961cfb6697ed451e313c668 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+0e327cc9a8d27b15d3fa140f26790b1e || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+464de72f2099643913c017d6e2e2aa6b || Gergely Nagy > Stefano Zacchiroli = Wouter Verhelst > None Of The Above
+295f53997a887ab5fb0992184af3ae68 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+a2ffc20d63aaa439bfbfe984934cdda4 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+5958cd4e904eb4e53ccab4e12aeec70f || Stefano Zacchiroli > Wouter Verhelst
+289c7a5f36ebe710387187c0d8be71d2 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+02aad98455d86712b5955d8c3c8a13d4 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy = None Of The Above
+09782607249286905e9445d35a7f3eb7 || Stefano Zacchiroli > Wouter Verhelst
+f7e278169089d7027f8259eb547343ba || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+0f5c4eb90cf08aa0b70c96a08d1c3d41 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+bc5ea6405aba6bb2986944dcd510d87c || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+733002a1e5177106a9b3c4f76b551504 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+07a8432a93ad2919b8143e9d2e70bb8b || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+48839e1bc60f618353aad706609bf1c0 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+78d8aa2e264412ad603318aa92c3d17a || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+6b1cad3795358292d14c82cced938a0d || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+ef7c60a18b1817433752a03845dc0bbb || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+154233010d911e376121068f7282c3d8 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+3a774f394969bca2ebc53d0edea278df || Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Gergely Nagy
+4a2897b52af9ca6e800fdaa3fd750eae || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+bbf609d6f208ceb324a720ef0fdbc930 || Stefano Zacchiroli
+b81ec704c556ddc417e7707358d2ae9b || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+1f72093670e690f2bd75a9237875d88c || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+f441d8852da6889b2ce067921bee40ed || Stefano Zacchiroli
+cd2ef92d318ebb2fee28bb109e0f4f05 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+e4af5602669698c8ecd246040967d8e1 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+b4342f83d43e420bb8259bea88cf5b4f || Stefano Zacchiroli > None Of The Above > Gergely Nagy = Wouter Verhelst
+e7109d1965b21e0ff90978ada726f6c2 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+51399561b4d947523680e543ce240859 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+8480916fdda7e527e97b1013e9b380ba || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy > None Of The Above
+850f185f6e9e88cec60fb06501cd6308 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+3437c2d77deaaa940299f37fa0e9ddb2 || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+fc2382ed6fa4275e725b974aa34bba00 || None Of The Above > Gergely Nagy = Wouter Verhelst > Stefano Zacchiroli
+3cc8b76aebb7f3f0dcdd3712e3461d26 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+bc4f84d74be7c37f7e95be71a9843158 || Stefano Zacchiroli
+c408e29767b263ba4f6a2a908e99344c || Stefano Zacchiroli > Wouter Verhelst
+503abd4ae36f7e0b2e3db0f9e644de9c || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+644a3fe37f250b1d72c971cf215aa245 || Stefano Zacchiroli > Wouter Verhelst
+a8cceb301768a1c5e9f907acd1ba8c2d || Stefano Zacchiroli > None Of The Above > Gergely Nagy > Wouter Verhelst
+f0d6f135e17ae99e1aa65e50c5cd3087 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+aa888ba813deab1b3b7d8d6e28786d70 || Stefano Zacchiroli
+6d7b48283fab15169f3b155d1b60e4e8 || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+322b1af84580c1d22f4dbf03ab4795af || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+4c4a21cffb5a13da97ccda6fe19ddc32 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+a4339800d76115538eadc57e9245290d || Stefano Zacchiroli > None Of The Above
+820128f774f7b32acb24c0d82ab85b3a || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+cc185d50d57cfa4db09a423e7f6f62b6 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+26fdb529c7aa5db37907588962d7d312 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+2204e034b7ae38c3217debef4f335650 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+4f728b8382aa536ac6b84b8bc6a7d6ff || Wouter Verhelst > Gergely Nagy = Stefano Zacchiroli > None Of The Above
+5340c6a0589a1fcbe594189e51a11fc4 || Stefano Zacchiroli > None Of The Above
+deeca28016535b433436285e0d767a36 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+225021a46a1714c001d0d52027961042 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+036f9c51ba121777332465c8193d3cef || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+0d402daccb53282d8ccd6f5d2785f054 || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+9f847983d1b2e3ec58bd0d08abae232d || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst
+a04d4fbff4d0cab3b7716088b9008062 || Stefano Zacchiroli = Wouter Verhelst > Gergely Nagy > None Of The Above
+157e4c0b3c390653ee6c402dfae72808 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst
+0d2ae530572d29739405c808a3883624 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+77d9a81fb990ec959c01e6af0df03bfb || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+a057aa0f7c61731a5d3bce39b9cc26e8 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+6f62d626478a64be2f3c217ce6fe0334 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+6cc2ae73e24c7370a3afb6878e1802d1 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+9d128b372d594e6f18acefd1838162d1 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+2e78128fd227e58454660028e1b3d724 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+c5c57c6755b29a64523aa686d8e3a77e || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+880efaddde8c9183ff6254487e602c2f || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+d50ab58255994519709574958ec11ea3 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+33cbecfdcd70a0b87e25068a8c800b30 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+175841a8299890622b631598f493a873 || Gergely Nagy
+5c459bcbc86a633c3a2992df0ea79ec6 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+79264d58d09696792a754fab2343c3bf || Stefano Zacchiroli > None Of The Above = Wouter Verhelst > Gergely Nagy
+4f746f95b7884a696186196ad5df50c9 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+965f1e07dd2512f029135c234ce0f2aa || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+b8b4d0ea0a9127ad657760cab006f0b5 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+fb232a1de0fcb3ea036b6baa0762c562 || Stefano Zacchiroli
+5b9a3ef4661c1065cbd244c0214eaa7e || Stefano Zacchiroli > None Of The Above > Gergely Nagy > Wouter Verhelst
+e2b8c74e58bd4bb8409deb6f1da50dca || Wouter Verhelst
+a2a5b8cdbf6225c93dc4ce099e03cd79 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+c684080e69e8abba6d7df2c25e063e8c || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+aa2adf5d1b900531bf8952bc550e6cef || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+6bce23812ca5785e57fd023d9f1ce97d || Gergely Nagy > None Of The Above > Stefano Zacchiroli = Wouter Verhelst
+fb6cb3a4b8603f2fe4beb831cd74cc8a || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+6b9cf02b9f6f928d404f108ae5fad620 || Stefano Zacchiroli > None Of The Above
+119e4307cecfdee9a5c3cfe2d5751c3b || Gergely Nagy = Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+68883b11cc2361995e3b437364962ad6 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst
+54508b8e35ed3b79a375319d2a355478 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+dae3cfd688f6a9f5fdb271cfbaca9ce1 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+17af0d04f14de987bf64c023ec957132 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+51ac8e1014a0be603dd3bea0332551ec || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+1156341fbb766582f19c641db570b094 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+9d9017a7fb5717538f8bec8aaa1c0219 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+56227e869d01646093085669dba9f719 || Stefano Zacchiroli = Wouter Verhelst > Gergely Nagy > None Of The Above
+f4e7ecaffd779e8ba138ed219f9cbbf3 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+5bb16683fddf8f8ec6840e456be301d0 || Stefano Zacchiroli
+8241da66877aa5481e74461b941be796 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+90bc6589f54639dea1e0ee5e4851eac5 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+a57f956dfd734933423a62c0d64cbce7 || Stefano Zacchiroli = Wouter Verhelst > None Of The Above > Gergely Nagy
+2a3eb3ac6a4e3b1f99fbb227b2b0e868 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+240c4ffe92d37293f03f2d8c5f4900a7 || Wouter Verhelst > Stefano Zacchiroli
+0a47838b4a1a750fb4c90ab6da687069 || Wouter Verhelst > Gergely Nagy > Stefano Zacchiroli
+565b466367fecc8a466da7734a6f4fde || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+55383bb27ef608f8eaffcc208b89b67d || Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+4f7a13a0fe26e736f035d80285031709 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+1b7578d532bf4b93aacb5aac0c55cb9a || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+7918e855ae9f0ad7b64019ccfe6c5e7a || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+704ba67e80931a509dfe6d02778a3670 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+d0ded74831e267c9eb2938e254927f53 || Stefano Zacchiroli > None Of The Above > Gergely Nagy > Wouter Verhelst
+1ad717d2889d4e23bb6a75f3197b5930 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+b20be798a396bfd8309b6b8e5cfa6a9d || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+355e1f6d0d89b51f1fd56982b99013b5 || Stefano Zacchiroli = Wouter Verhelst > Gergely Nagy
+c5f85df26a975293bf37414866c8b47b || Stefano Zacchiroli
+af5fe2d3df40570b61a90074f61c04ec || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+0feb12681088da85e045a6589df74ced || Stefano Zacchiroli > None Of The Above > Gergely Nagy = Wouter Verhelst
+08a865b49944dd46a2e37e8dfe4ecd47 || Wouter Verhelst > Gergely Nagy = Stefano Zacchiroli
+d5e856a24ce1d672a1e3aca6d0887b4d || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+dd3399f2d5f06ec6eb644978e15fbe34 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+5350f413278daf42e396e9d05c80edf1 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+a0c4beed819d4c19fb63c3ebbadbe1cb || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+24e90dcffc31299dab3ae5f734c3b627 || Stefano Zacchiroli
+7aa6e2a12ef941ee3abc9fa6b9743384 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+1fbf8f5a0469d75162167b1a9bc8c66c || Stefano Zacchiroli = Wouter Verhelst > Gergely Nagy > None Of The Above
+4fc6e00b7095741196aeb02abf7b55c9 || Stefano Zacchiroli > None Of The Above > Gergely Nagy = Wouter Verhelst
+83fb490de8a1149cba130e5399e956a6 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst
+966ad95ed949c4ee0cfaf8754f448759 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+8807542653ca98695c32f775c8fd6cad || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+288f30ead2f841a7978d804a97b5d971 || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+a15225c059825c7ef4c97043d4a8dc2c || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+ced005ebc1474ddecadfc87580f9f30f || Stefano Zacchiroli > Gergely Nagy > None Of The Above = Wouter Verhelst
+abbbc16e59e12a153f215c167e7cd563 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+d2882c83cc08e390566c637b9c2e23d7 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+1f35811d09985dd20236697af5cbd1d3 || Gergely Nagy = Stefano Zacchiroli > Wouter Verhelst
+875c6d12f18d174f3a8f3aae3625b207 || Gergely Nagy = Stefano Zacchiroli = Wouter Verhelst > None Of The Above
+49042312f80673238bae31b5dd9a8b67 || Stefano Zacchiroli > Wouter Verhelst
+e340faaf7fb2f014e39f209e63cc382b || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+41017c4ff9d8b68b9db140a80d851144 || Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Gergely Nagy
+f2f9465a75cfc8745cc4ae7d488a2005 || Stefano Zacchiroli > None Of The Above
+7ead56c98bc4cf5d8be8c934faf02bc0 || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+0b66e854546e71785616a7a14beb4bdb || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+d55dd91682bdace4427376808f341964 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+65df6f9d3d1a4bdd913d90ca60b956a0 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+aa71a2d2b45fd1553d7af487e9cb444b || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+f9b63340de29d87f51daaf1e7caba943 || Stefano Zacchiroli > None Of The Above
+927d9db744cbe8b93ac2915d000bf1cd || Stefano Zacchiroli > None Of The Above > Gergely Nagy = Wouter Verhelst
+0616a2e0f34a3a54b5d0bf8d82ad06b2 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+776fc6437cbab18ab1ee1ceeb6c7589d || Stefano Zacchiroli > Gergely Nagy = None Of The Above = Wouter Verhelst
+d073784d99da05b786f7069921b34088 || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+5c01c25935a71a4ea723789399757ade || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+dfa029dc6fbc9bd62178d1b309db4fd6 || Gergely Nagy = None Of The Above = Stefano Zacchiroli = Wouter Verhelst
+b7316e86b997bd5f506d008a56fb637a || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+a7f6391f1869ee4a72b417f88de4929b || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+e39d4a5fff033eef68c211a7646c7ed2 || Stefano Zacchiroli
+63635721325ced738747479fb6dbe7f3 || Stefano Zacchiroli > Wouter Verhelst
+4b377932ac221fd3cdaa0fb2a6b4662a || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+815a3a8ef0de97d986069febb4c58740 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+9842c7ab50fcd579d22905aa365adc24 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+9a6f7ea696d6c1281624ff0ccbddc917 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+395bebdfcc369d5e46960e87a54dc03c || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+13c415f039f9fa6119d299b964626949 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+e067e693fcd0186ed7fd4023aacb1f54 || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst
+e2363daf87b187a0a5b8e174b9764835 || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy > None Of The Above
+9748c21d2b21c9c563a9a1538a95d4bf || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+8a3d1b1fe6b01aad7b0a36fbde1cff15 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+38113afadb9edbbe58d223ab20e0d285 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+2520ca415a1495d26b6640d531a92269 || None Of The Above > Stefano Zacchiroli
+fd1edb5dfde590aecd34d603648165b2 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+bc3a189da24d8bc7b0d40d8e18088931 || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy > None Of The Above
+3d58f7e747947d1fc8b90dc9a446a546 || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+7ff0b80ef6336cd7ea2c0aa0b4e6bfe1 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+7bde9dffeeae3d6e88fd805c4ba88b6a || Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+9c0754c3f08d50290c2e1b15263fa814 || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy > None Of The Above
+16c5e40a4ef0872da62067ffdcc16c94 || Gergely Nagy = Wouter Verhelst > None Of The Above > Stefano Zacchiroli
+772b1f58a83dedaa176a99c858e94bad || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+03512ee4b6732f778a1ddfda1a3a75a5 || Stefano Zacchiroli > None Of The Above > Gergely Nagy = Wouter Verhelst
+8ea24a70d24926374753c4ac1a46d400 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+76ec23e228d83163b08a7c1a31a2107a || Wouter Verhelst > Gergely Nagy > Stefano Zacchiroli > None Of The Above
+108da621890dc87fa1d009c3ee84640d || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+c1787d626baab7917dbef6aa1e73ec07 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+d179d01ef72c975564bcfdfdc16cf25c || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+d0a7bcb3beef23902437b816e95f28e8 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+2c000f87b9064cbb73b3a2a26f7df85b || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+0c81f23ad1fcf35ac86e13777e94bf67 || Stefano Zacchiroli
+a6fcd2759aa41eaa51486d6ec7892df2 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+6058122223259a28e99302b0035ada68 || Stefano Zacchiroli
+bc9181d1e4b1f49ed886a80ebe62ee29 || Stefano Zacchiroli > None Of The Above
+b12849f21c572294c74c4303ffc08195 || Stefano Zacchiroli > None Of The Above > Gergely Nagy = Wouter Verhelst
+ffeb57a3f05e837ce8438b37841123c5 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+8fab44a0a3bd6c9bdb531ca27f394c47 || Stefano Zacchiroli > None Of The Above > Gergely Nagy = Wouter Verhelst
+fd53492ae65788a1df0e2fed542a20b9 || Gergely Nagy = Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+a1099744d6c919e708be743da30ca14e || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+f725a0e153e9479a5f2c31b27ff36ea3 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+b5710d41929820ef5e7e4e6b518a342b || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+9cf5c6a1c3e2aa77aaeb8ce8dbc6f842 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+7f3a49048705cdb08d4c1f1fdb61480a || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+fd99569c1f36669879db7cacceeba840 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+e947d4c646b78d4f2e9de908ba5673e7 || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+f4ad245e03876019a81669e11dd033d4 || Stefano Zacchiroli > None Of The Above
+a9c5b00ccb5e27d32d1cc62c6d6a2f17 || Stefano Zacchiroli > None Of The Above > Gergely Nagy > Wouter Verhelst
+94afe71d324614ea33d5df9b9deca992 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+e62a5f6a45637028e364f2af8e861dd0 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+e9ae60cbe279a935bb4643eefb74aacc || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+9123179229e926439e7af892ef035ea1 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+721bf6f3bbc83ad54a2518841c4dbf31 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+1d16f2ad053b20d04c1780eb5b867083 || Stefano Zacchiroli
+04bf321aa406b7db28a6b8f8c6544eed || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+32390067b20b8cb753877d60a76a265d || Stefano Zacchiroli
+78b7e6bb2326339455cd803c8c559913 || Gergely Nagy
+a402d69bf71713464327ac750594a155 || Stefano Zacchiroli > None Of The Above
+df540cc3513d344ceb99702fc276bfa6 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+27658c4e00bbe62a2862ae105e905924 || Stefano Zacchiroli > None Of The Above
+723291dd767dfa902b601ec7054347db || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+6c7c348e4d9a74d98ed4cb8af819a9ca || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+b395e1ae7084ad696897180561ea52fe || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy > None Of The Above
+51aca97d5b4ddbc3325943c16c5877a5 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+1bace191a135abbf39e0cbf2694c0bb3 || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+8bc18633063828de529873849562c5c5 || Wouter Verhelst > Gergely Nagy > Stefano Zacchiroli
+9f556c3255077ae90471c3f7e74cb950 || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy > None Of The Above
+44cf93e794ad43a6a14169e322319a39 || Stefano Zacchiroli
+38e3ebaecc43199b8b0799e8c5863001 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+2b65da0b5db913c483ad3a357d1fa6d8 || Stefano Zacchiroli > Gergely Nagy > None Of The Above
+8e7194128c1260e1559695d1e8233196 || Gergely Nagy > Wouter Verhelst > Stefano Zacchiroli > None Of The Above
+f2aeaff460fbde00f74111d626fa2a0a || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+403da092d76792c8332614e171fee3bb || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+e5f5cebf396ce7ddd7e4ca341d821f44 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+d6dd49d14a0039b1c7268569377f982f || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+6438bb3d3e2bf598387e4b04f95438fb || Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Gergely Nagy
+ec64143ad8e09602b6ae24b0be32a0a3 || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+597c362e6156ec7e37b334837161da26 || Wouter Verhelst > Gergely Nagy = Stefano Zacchiroli > None Of The Above
+bac78fefad4cc5c50b7b904d2d324582 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+99a3360c2afa8efb59daea1e548be83d || Gergely Nagy = Stefano Zacchiroli = Wouter Verhelst
+d7b2c83fb8b34cdb0fbf247d795973ce || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+9784c00b966bc188ff6e9f78ac174901 || Gergely Nagy = None Of The Above = Stefano Zacchiroli = Wouter Verhelst
+96a18c3d5dd060298746e663a033b644 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+8aa6c4617f507721ad4309813c0884bb || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+6946866c8de929cd54b98ef95fffdf3e || Stefano Zacchiroli = Wouter Verhelst > Gergely Nagy > None Of The Above
+c0e16dd814801420a2419b90155d0a11 || Gergely Nagy = Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+9685717d6cd3d0ea93ef717e28cb4614 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+48a5e6d10fbd61fe7643537bc96a2a82 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+479af33c346fc5827156c9c4b2c06547 || Stefano Zacchiroli > Gergely Nagy > None Of The Above > Wouter Verhelst
+2b170707bfe8590de900ec33bd9b6480 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+d25fe994380413d5e77103d3d510fe8f || Wouter Verhelst > Stefano Zacchiroli > Gergely Nagy
+cb9dedfa6db9d4241e6236383e9e8114 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+8ee94b20e5638c388145c77e4b949dc3 || Gergely Nagy > None Of The Above > Stefano Zacchiroli = Wouter Verhelst
+0bd22c2a7c0fedd75934d551d84fef99 || Stefano Zacchiroli > Gergely Nagy = None Of The Above = Wouter Verhelst
+a39131413a9b992801aa9a5a1ae23160 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+28774f12af6216b23e2761f451879c20 || Stefano Zacchiroli > Gergely Nagy
+7d5d87754e1f448d9fe6b85b58a51135 || Stefano Zacchiroli > None Of The Above
+2434871df03077743e718456f84b4108 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+cb46a085aa1a9127c3bbca234022dcf9 || Gergely Nagy > Wouter Verhelst > None Of The Above > Stefano Zacchiroli
+14f35b8833fa08a29cf806ffdb778411 || Stefano Zacchiroli
+a4d04d9d1a58de3c33284e3d9666fae4 || Stefano Zacchiroli > None Of The Above
+758bf426005a8ced610e9696d87d3e59 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+4d09f436bc0b2f8ca8750091336fd2dc || Wouter Verhelst > Stefano Zacchiroli
+d8ad60281e06916f455a799c9aa06ba2 || Stefano Zacchiroli
+8d8ac38f48ea7e8d8f928cefc1601eeb || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+eb530b5674efb29295e8e17b6060b4f2 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+2a3ce1e20c8143b5f11eac8cd3da8058 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+b5e8f6e9e351b76e7304ad66157a8c8b || None Of The Above > Gergely Nagy
+7dd34e71b77606eec35d09f6c56a6f72 || Gergely Nagy > None Of The Above > Stefano Zacchiroli > Wouter Verhelst
+aca671c57ef44d6f510389cd5bea74ba || Stefano Zacchiroli > Gergely Nagy > None Of The Above > Wouter Verhelst
+da20cc759b976d37e6f2125e69ae260e || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+3cfc39df65674a306d7187944d794017 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+066d196c86988ad1240d1c6399ba65a8 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+e472c52ca14a24f121f0b9b98f17e35b || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+f9f7b12edde04a3b07f7dc9319d939ea || Wouter Verhelst > Gergely Nagy = Stefano Zacchiroli > None Of The Above
+b7c1898a65e5f46ecc5bb8c66207599e || Stefano Zacchiroli > None Of The Above > Gergely Nagy > Wouter Verhelst
+6af41472f91c830e3d03ddd0732083ec || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+bcb8f4886ba0dcd0f60ae1924dae14ed || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+feaa3a6c9c3155fbdc09341a2eea01d0 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+8e5336368aff03eaf8dc39fd51a90e3d || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+c8e22edfbb12516f4a441b9d1f11df0b || Gergely Nagy > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+bbe34e594aef663a0802f5c83da4c54c || Stefano Zacchiroli > None Of The Above
+231a19e65ad14d01aca174236b262dc3 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+e9f1a31660a5321dab9826451b413d68 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst
+dbd7fca3965dd07bd462f9efc3a26f10 || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+95ade07edd733c08aa4a7e6a676b6233 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+bcbe2238b6d2f694f6833047ece5c0e6 || Stefano Zacchiroli > None Of The Above
+9a230ca3cf75ff6f09a20d11e6ce0be4 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+4d8d8c764e8de6bdb9e014cea07d6d6c || Stefano Zacchiroli > Wouter Verhelst
+3d1e76280d23c768469d31ae8d85e8de || Stefano Zacchiroli > None Of The Above > Gergely Nagy = Wouter Verhelst
+130227f73d47fbd47df7a4a20e757aa9 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+59216a5a9a9bd6deaecdfccfb44dfbeb || Stefano Zacchiroli
+e49b82b155ba11c73d3417290b56f60a || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+e9fe1c3f2afef6006ffbdf4cc21e0c08 || Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst > None Of The Above
+62a0bfa4d8d61a3e5624f893f739ea4f || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+6f60ebe91411cbc0bcb439a52aea438e || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Gergely Nagy
+08ead4cdd0fc7f00ef7b7dcdd2ef21fe || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+4d273e42c22ca77b2b85a75345e2525a || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst
+c06324e7485ab4aec406015acbd47e67 || Stefano Zacchiroli > Wouter Verhelst
+f08bf987136cde2ec7c9b8651b2a2e77 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+7182c68c0cd7b6d92dd0296802ee890c || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+6dcc2662ae4c132e86a3f90c8afd4bab || None Of The Above > Stefano Zacchiroli > Gergely Nagy > Wouter Verhelst
+3146deddd74b6209c0bef75a8a6a5148 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+f738abfdd72caad07ccf7e1473719caf || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+aa39406dc7742bbc24bed00cd8abac5a || Gergely Nagy > Wouter Verhelst > None Of The Above
+6602a4a91641b61dc1f80785eaf299cb || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above
+475cc57f0d433662d2b1902ccf8ebaf2 || Gergely Nagy = Wouter Verhelst > Stefano Zacchiroli > None Of The Above
+1e62e7fce5a6c631ea67f02d5163ec65 || Stefano Zacchiroli > Wouter Verhelst
+6b4851da9abd4c391bcafcb694e682f5 || Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy
+a397cf5d7f3bbf0f759098b81c7d4de3 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Gergely Nagy
+349b29478b7e5b20d44e3e6008560441 || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst > None Of The Above
+908c579d0ff6e56624155672872a493f || Stefano Zacchiroli > Gergely Nagy = Wouter Verhelst

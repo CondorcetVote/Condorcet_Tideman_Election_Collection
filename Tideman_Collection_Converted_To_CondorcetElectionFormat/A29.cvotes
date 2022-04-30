@@ -1,0 +1,13 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+#/Candidates: 1 ; 2 ; 3
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+3 > 2 * 14
+1 > 3 * 13
+1 * 13
+3 * 10
+3 > 1 * 10
+1 > 2 * 5
+2 > 3 * 3

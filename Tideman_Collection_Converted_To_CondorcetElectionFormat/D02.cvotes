@@ -1,0 +1,481 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+#/Candidates: Branden Robinson ; Raphael Hertzog ; Bdale Garbee ; None Of The Above
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+a6b05cde099e44824bfb954f01d6764d || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+3aa3dfe7a88849ec1e6c2125528508cd || Bdale Garbee > Branden Robinson > Raphael Hertzog
+631f3a2f493ea6b5fca62278fb49bbcf || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+8ca164450c13883105bcdb62f50dc7e9 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+6fc395111059953e40d77f847822efab || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+30093fc5467c4a91914a14bd635b66fe || Bdale Garbee > Branden Robinson > Raphael Hertzog
+d1bf7b8328a19b061dc680d58e33de37 || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+f5dee6921370a840fb7cef073ebce3d2 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+973f6fd1541c02390aff7226c6c7e167 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+39584e0bddd267bf5e67edebf8e44bdc || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+6d70a8c41421c49febefaf41bcad5596 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+dcb8973a40cc7db9cd4d52871bc48166 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+3cbb76d572e26da6e74e6be80fb61753 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+40ce48c905936ad3a6e5d713e52e1875 || Raphael Hertzog > Bdale Garbee > None Of The Above > Branden Robinson
+959125cd757bd9d3cc7110d2f10b2cc9 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+0e26149a2c204794246330192ff9ae9f || Bdale Garbee > Branden Robinson > Raphael Hertzog
+4686d5f220e1b454a8b6d46808e13e35 || Branden Robinson
+510787ae7d40816022d6ea48927efad7 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+e8c584d39e6bb436c632edd6ddedf773 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+b55aa06db0f5631a9de9fa0cde0c89d3 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+7213791b3a20cf575268c2588c52eb13 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+d95101e5d4bb57aab73f22f8d76b24f7 || Bdale Garbee = Raphael Hertzog > Branden Robinson > None Of The Above
+6d1b654e8dc1e13ff4942936a1557d28 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+149d421b9278193b101d5fffc6ed3c8c || Branden Robinson > Raphael Hertzog > None Of The Above > Bdale Garbee
+3b3303b3cd7dd7791f326d5d5aaafcd4 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+cc8c44330f885b71b582f418f92133ba || Branden Robinson > Bdale Garbee = Raphael Hertzog > None Of The Above
+757edc402ea5b7c45c5d26237c042386 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+dd3d7736822e66f4aa76e3fe811a1b67 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+cfc40a85fc7e8fcaf006997e78d8f666 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+a762719f6c543fe2f015b15ec5adcb55 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+4352d9925f1726bf57969fc41ef34450 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+3b5de8947624ce9a5e9e9e1184c211bf || Bdale Garbee
+072dadd9a7a83453125635e4eb11c331 || Branden Robinson > None Of The Above > Raphael Hertzog > Bdale Garbee
+2c1c2c84ba2772b0186b249abb3b576c || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+e5f8dfb326d7e77b1a13b90efdf33501 || Branden Robinson > Raphael Hertzog > Bdale Garbee
+e2b9deaf13d57a9ace84db2a7b86c1f7 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+504b94efe4084f6604e794dff888d556 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+9e7d76415a935af6fb72ab64a796acb9 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+a737083853e8ac5eb98d830d61c83775 || Bdale Garbee > None Of The Above
+3a8f0fb1da03ef48f6421db1e455d113 || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+aab71a2d1f456e90389c4a9dd079f423 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+81d51490de6ef13ba48f97c21720c4f7 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+1a1b1e7cdc787dbcb916145256b4b8b3 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+65ad98de3b1328f0fe2cc0b14aef0da4 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+9447bfb31b050aecee73a8b33fceb068 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+3c22ecffc4c2f36e3da59671fbe558af || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+cb21e9d7f4dcf1cd2235bbdca430bd9e || Raphael Hertzog > Branden Robinson > Bdale Garbee
+c12e7b4a080a465a4cfcbbef10d7a298 || Branden Robinson > Raphael Hertzog > Bdale Garbee
+4d76aa53ab87fcdd9711755d5aa20967 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+39b3bfcb60e980ee9db147ea321947a5 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+4fb410866556408f2d950b6c879846f9 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+2b9a7eedc4cc521394aeb73c30233b7f || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+86d262b94f478107c719b2168c55b417 || Branden Robinson
+6cc90e565978f2db7c5c741f4261c639 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+2af25209beef2a903460160a2accff19 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+862692b71a8ef2ee69dfceb8d1eb82f3 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+d8a6c9ff2b7ed541e3ddb6ec7b26d5b1 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+48df33da5bf90530c77b0a72e0dee9ea || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+24c302aeb485281a75278358c073bf51 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+f5a887ac212a43b1c0a3ef0194d9e55b || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+23c50d07c727923a4c23cbc53769eb7f || Bdale Garbee > Raphael Hertzog
+f747ec6efe48a8165b7d109ff35b2af1 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+6be7ab5adc920c5c45e61f15fcb59776 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+e0cc095b604511f2f5cf416ce7d940da || Branden Robinson > Bdale Garbee > Raphael Hertzog
+9e557fcee1ae16c154d5232d8e9e7bf9 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+923dea4080f2e8cc1bc7391f3ba75620 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+5145360b798eaebf64e393a1817e7a08 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+cd7cbd0702f04a3d58e40d78cf125950 || Raphael Hertzog > Branden Robinson > None Of The Above > Bdale Garbee
+cad89dd13cd2b4cc6e150330f1e928a6 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+a3b15634aee6f511966c70ea89306845 || Bdale Garbee > Raphael Hertzog
+e0ca83ac5e958763106fe361b60ae994 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+34c1298a3573a369e45f575cf810d118 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+4beb85b0391d092717ece4859dc2f13b || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+bb6fabf5a6ca00163b0883b31a8eb3d1 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+79302d261a9563abe370120ea29ebd13 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+65ec6fbf65492c27c9fb26916490a3f7 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+89096cd9821109305afcad98e877a4e6 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+49141838cdc09fb2e358ccaab9da5b6f || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+f57203fe53b35dc63453cdd1d1c1231d || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+cb18141a7bdb391042c936bd493be6e3 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+f0c45a599f80a253048575ad2fa936f4 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+80b7095a62fc08373dd543ef10bfbf91 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+057358b9c1964a5f34350f85c0662976 || Raphael Hertzog > None Of The Above > Branden Robinson > Bdale Garbee
+0e53d9f17a7da3cf2130ae40b6c70fc6 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+fd21a02dd3de11124f4238e5b7a95f69 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+e93cab4421a7ef7287e4960e11420901 || Bdale Garbee
+e6d6a52921a0928ca2607d6624c6f91f || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+0b0467510f3cfe8aeed1eef6bd9ae2c8 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+5bfbf99e85175b9dd69dc7e49cb1d6c7 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+2896a4e565bdf422cda153c353ae821f || Branden Robinson
+f66b8527d2c4a72ef23aa255b08e53bc || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+d19b5add14932a8d25c4d562a80f5c0c || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+6f0b695dcef78776f625f348ffa646f5 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+b48587f75f1fcd6e9c7c35be0f48a8a4 || Branden Robinson > Raphael Hertzog
+d52fd6cf504557fc829f271e78095409 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+167902c00135df3650d27697446089ae || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+7785785413461f8e76203ba2967f77a6 || Raphael Hertzog > Bdale Garbee > None Of The Above > Branden Robinson
+872fd6d8abb06a3c42d3c0083cf139e7 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+13e19511113e49fd23d853a8e72f0f49 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+b898c85a15c8f569c5f0d87cfd22ae98 || Branden Robinson
+f0100232f35dcb210ded473df9724b31 || Branden Robinson > Raphael Hertzog > None Of The Above > Bdale Garbee
+f976ff7f4c760a8cc156ae8a3f471693 || Bdale Garbee > Branden Robinson = Raphael Hertzog > None Of The Above
+110dde9676aef1a063af8ed928325566 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+68ff55f7f9822921fb6383ffff5e3b33 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+e0205714459e65d30f091e1a7c9969ab || Branden Robinson > None Of The Above > Bdale Garbee > Raphael Hertzog
+82147627e15a0f34ab63097b179c4dae || Branden Robinson > Raphael Hertzog > Bdale Garbee
+3bdf922c974d2b8a71c08dac2f2a1fc9 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+b558f5e269790f640256ce4c351a39d2 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+fef8c81e9883aee57daaa9e8e5243eac || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+fe5b81c1f6f1431ef23c03cd54419527 || Bdale Garbee
+668e9315dda5bb394f674baf3d13130c || Bdale Garbee > Raphael Hertzog > Branden Robinson
+a1f34320ce3d2abcee657eafa354a662 || Branden Robinson > Bdale Garbee = Raphael Hertzog
+68c05caf52493eddae2b79230a7668a7 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+2b3447fca8e4c83c269005a04f88e5cb || Branden Robinson > Bdale Garbee > Raphael Hertzog
+83edddfebf00aead8c7ea06f35157582 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+5d22c3de35310a014f21311d6873ea09 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+9d0582553eaa4c908e4da8760b92aec2 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+c054fc7b91025498cf3084507ae433e1 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+c42b3ae0c1356615dba3a79480a81d79 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+e8645441b7a6f207409bcc70b71f4b4c || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+44ef9077698c51af82d0b812fbf1a143 || Branden Robinson
+31459895e1088c1bb444f9f59a163b9d || Raphael Hertzog > Bdale Garbee > Branden Robinson
+5b7cc1f77d60804a3e488863683e8cbb || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+4cbaeb689634a98fc614ea3a59ef8797 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+ae38e4b221123da922b0527c2929a0eb || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+6edc8d6732bc3bd7dfe707de97a7cc66 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+6004a78261eb2c3efb108bab04fdcc0b || Branden Robinson
+408fdd81d590feaf91d051620df26edc || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+49ab923d978058832ded7e5141dc2d4f || Bdale Garbee > Raphael Hertzog > Branden Robinson
+6859307afda1c34da2a8176685879139 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+9b166291ffd09c29e35763c2995ecb3d || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+2c199e028c3a1749532f5930b1b53705 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+9dd72e7e086908deac2c2101bdafcf8f || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+2e05b5f03c0a7ccc263a635c011061c8 || Branden Robinson > None Of The Above > Raphael Hertzog > Bdale Garbee
+30e65fda1139b00670bd54e45c2d35a9 || Raphael Hertzog
+cf053e52a735b9c0efa41c35dfee3b5d || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+3aa5a1fab8dd3bf46a8b2c0df8fc9fd9 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+54898c306342fdda4a045dce77835030 || Branden Robinson > Raphael Hertzog > Bdale Garbee
+9afff9332ada0d2684718696e9bf6792 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+4df64208ffe8bf3ceb947b2d24cc326a || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+65f0c64fe0c39df0a5e7033ea9d98a89 || Bdale Garbee > None Of The Above
+de7dfb15d07ece07c3ca21d1bf7ef3aa || Bdale Garbee > Branden Robinson > Raphael Hertzog
+e76fa9acd5ef10b340abe142b8cbb554 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+45fa93845bbeb4050e00832d2c92b24f || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+c39a451a23f51e610f9bb148561bee75 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+acd86335cd03e428657a98b0e4d20be0 || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+6ab2d84b55f328be50ca1bcd7eac970e || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+15dbf037cef60d6bf6980b708e9a5660 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+0e61663158b2379888e1e18732f194a3 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+cf078b8ed2efadf42fb985be3e1404e9 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+8c5f62ebcc4641a54d336f80046be719 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+edbbdc96fa72c2dc5655fb900acc5295 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+c506a7b408a12c0188673b4fd31a9bed || Raphael Hertzog > Bdale Garbee > None Of The Above
+c7dd2e434f276f6106cdf4d78db8a754 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+551ecdc252c3fd2a818e0d3ac9e8d567 || Bdale Garbee > Raphael Hertzog
+5b618dba3aae70eb11998d795c8a4106 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+72d15148e9a18fc5a81f799a495dafba || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+2513799ec76c8bdef9740f2daabc14f1 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+3b60205f700dee95f1930b556eb18a29 || Bdale Garbee
+8b1e3b5d275fa1fda5c4f48c4c295b01 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+628ebf390519266df97d852d707f5c31 || Raphael Hertzog > Bdale Garbee > None Of The Above
+472d2dd3652fd3e862066506c33279f5 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+402c081052d782af8129830ddfd7ccef || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+868e8ffb545c3c4d2da1cff7d900c23d || Bdale Garbee > Branden Robinson > Raphael Hertzog
+45ed5ee11debc4fcb9e0abf0b4dc0251 || None Of The Above > Raphael Hertzog > Bdale Garbee > Branden Robinson
+521e038040e61ccceafba9b018ce96f6 || Bdale Garbee > None Of The Above > Raphael Hertzog > Branden Robinson
+58e0dfbed24d487576afc74a7c6f58cb || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+431997f807e4f02d02419871aea27801 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+3b98238d8b46ad9598a856bfaf5277c1 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+cdb8649b1534f9ba3443a1a2eeb668b1 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+a7ec79ef884a9c7419719edd44469dc4 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+c5d0fa174fb09f984d938dcbbcf63c91 || Raphael Hertzog > Bdale Garbee > None Of The Above
+961803215c4153a151dcc4b8cf69e786 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+774d1231bb7648685e789eae442ce576 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+a588487b4b63035f52c290f3f9e50f39 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+41b1edc23348101dd367297241fa80e1 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+75c6d2613801daea3f77be9622df38dc || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+aed66bc28aa19331ee1eb9c87b0a1301 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+374cf6c5a35ebb7f2a5e9e00d2282a24 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+e4bd75f930a2098dd64ab49500d63e7d || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+ded3b070099ab4cf806c3f98a42d57d0 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+63574db957d64345465266dee716590e || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+8e5d289c74e1e05cdf27542f632d0253 || Bdale Garbee > Branden Robinson = Raphael Hertzog
+250165b8777658b0997bba9ed6cf083e || Raphael Hertzog > Bdale Garbee > None Of The Above > Branden Robinson
+0c1938b94d148e1f0a9bba10b16e3fae || Raphael Hertzog > Bdale Garbee
+3ef4a36fad3813d0ef7510935ea3bedd || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+b88b58c9e7fe06ac34e083ebd284d9ac || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+d7ee473a1a1a253bb6f012dd513de93e || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+d9bb798a6073a8255f27572db2cf8d61 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+abedb7993007da697dc827541707772b || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+eca3c992148451187190dae769de4498 || Branden Robinson > Raphael Hertzog > Bdale Garbee
+c6038a83a46f7c45576aaaef5fbddeaf || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+db2219e572a828dd882acec26cbea4a4 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+edd9c5f99600e521160dfe177eff970e || Bdale Garbee > Branden Robinson > Raphael Hertzog
+d50632ec4b534e24efe21f3a8a2f8b7d || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+663f4f4555a70e30e46d04af0dcb4b17 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+34ce091574cc429cdcf706a488b08090 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+03edc0ae02852aa43577e4ee44ade502 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+66cdc47dd18f8e01b6406bff50554905 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+1fc47a074c923bbb70db659f46573907 || Branden Robinson > Bdale Garbee
+674092b99c89ab94f63df4c7ebe34de3 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+46cb72da5031851656d2ef8a1865d981 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+226b08d94919508c82f66fe20d8f954f || Bdale Garbee > None Of The Above
+4d447c1c596478bcfe84d0e9f22e30d0 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+2013ff7b4ae009076cb4c246db121293 || Branden Robinson > None Of The Above > Bdale Garbee > Raphael Hertzog
+d2c2086b4e83c91403fc956603f8fcd9 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+54f4af40a2a5c63585b62def9cc56f6f || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+d3f35c3e73d60ccd7a92cca43ee5920c || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+213c4dabb3cf3a36af1cdee05c7cceb5 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+f358bad345b6b7bd818ed70cfc6de8ed || Bdale Garbee > Branden Robinson > Raphael Hertzog
+8e481a58f50ca05df2c21c452aa890bb || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+f2faaa3e6f1295fbf439c2e2a92545bb || Bdale Garbee > None Of The Above
+4527ca4ea507a3526449742a8c29dbd4 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+053d5291401d3a34a0e431d0f9fde813 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+78c0ba8ba7d8aa9814fcfa1db943e2d2 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+a8d0d9f09f187007d45112b17709091c || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+970babc3d4f893fc67c03aeec9691f7c || Branden Robinson > None Of The Above > Raphael Hertzog > Bdale Garbee
+247751f1b976c235aa38ef9265dc839c || Bdale Garbee > Raphael Hertzog > Branden Robinson
+a77756dc012cfb6cd4fc87a7d6fd320d || Branden Robinson = Raphael Hertzog > Bdale Garbee > None Of The Above
+3b3be1f982cf799e70031fe20ad7c655 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+eb3274be1dc27f06c80ba826ceca3555 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+e2399aa1ee07a96798a6dad37173b1be || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+ea289dbca3c34257bdbe366cbdb2fb5d || Raphael Hertzog > Bdale Garbee > None Of The Above > Branden Robinson
+975f4225b49be03918b7015aa730fd97 || Bdale Garbee > None Of The Above > Branden Robinson > Raphael Hertzog
+682531e5c4b0b2d3737ed073b8c96604 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+17abbfb9f1f4bab4cd289157b9c87306 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+e5eb0faba2e62b4ee5ecc5e89c5c1489 || None Of The Above > Bdale Garbee
+90b6f7c3c2b94ffc330f590bd15149a7 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+81cb3f8c2f27948e68e4069e4d4a5a6d || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+95bc366136d5af79e7d44b5e898992be || Raphael Hertzog > Branden Robinson > None Of The Above > Bdale Garbee
+7f1d76fab5d0e54e36b0474554b55965 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+4350aa410da86d6fdbb8720d98f2f4d8 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+269167d33960e3cad90aa8e065739c0c || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+6941bee39feedd4cf33fbdcd78cb483b || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+ef5f77dcd896999dcd78f580d5b9e616 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+9175d687e2867a14b357f76ec66725d9 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+b13fd26ce3ccdbcb209d7e2c9f37ed16 || Bdale Garbee
+f0ce2204845293daf35f02199ea248fc || Bdale Garbee
+f048b5d3f3fd1dfeb605a51b8ede56bf || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+3e7c14db96e144b2523d0578565d77b3 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+e9acbd8dadf13ca6f8f6ef8806985518 || Raphael Hertzog
+c02fb74449f5c1753dc223d25af19f6a || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+d49a62a1f4e5a96c13b327b6a299e6f7 || Raphael Hertzog > Branden Robinson > Bdale Garbee
+4e46d5ac357709b0534057d40ba4bdfa || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+c5e4370637176ca7a26823669a31e53a || Raphael Hertzog > Bdale Garbee > Branden Robinson
+d9230f4f8820204be04076be793fabd1 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+e7a5149d5316cc3e3c3453b0179ec17b || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+3e3f4962e96f3a4d978dab9e198235f2 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+b16b298795ccbb08aa5527f68e9e1fb3 || Bdale Garbee > None Of The Above > Raphael Hertzog > Branden Robinson
+c6ca0f76af4350ebe9031981140a810a || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+8a284da10e3d0d9d10d1422f2cd27193 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+8bba65e12218f1cf25ce400054fa6bef || Bdale Garbee > Branden Robinson > Raphael Hertzog
+b1158de0b61a1b0b19a51d61bc60bb57 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+edde9248733ec06b95bc1693c7589fb4 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+8b57dfb45d9e792aa91d2699da11d05d || Bdale Garbee > None Of The Above > Raphael Hertzog > Branden Robinson
+729425511b3bbb418a330d0e59c21735 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+33a805afb9330a95a5221e7858deb88c || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+4a366e05e0c29e2443c9f6a650546945 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+d04115189c836556a2b1aef78bdb79fb || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+367727df6012f22d299092472a830b2b || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+d0269bd119065aad7ca6a91875fb66ee || Raphael Hertzog > Bdale Garbee
+d1bdcbf5f1c93f0f8141e9870470dc45 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+43d44466624193ac90849cd134377213 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+2725a4c8133d3e7b74fc9b3622d26e72 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+6579c42c04eb75ddf68993a68e3cc539 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+4f444a0e5db1383bb5c9db47f706f341 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+b5d6a42b934c763e6dcd99a65020a2c9 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+2cd869fdfc0c5968419050456e72cf11 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+d26e54b93cd63f54115e14a337dc0255 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+107068e4958e1a650d81283625a16424 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+faf540d84745efa913f5ac50f27cb5e4 || Bdale Garbee > Raphael Hertzog > Branden Robinson = None Of The Above
+4344e3359a71afc152f1d6b16906fe3a || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+cb914a6bb4339aab105ce110dabb5511 || Branden Robinson > Bdale Garbee
+9b0a934b2c17b6ac6a6c77ba3905eb09 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+5f345d5e5c821917dad5d1420d75bd19 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+e00bce63ccd0dce577e136acbb90a1d4 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+0657bbbc873f49e0b58546eede3195a6 || Raphael Hertzog > Branden Robinson > None Of The Above > Bdale Garbee
+3eb8942811d48f9be7dc8a507a3e212b || Bdale Garbee > Raphael Hertzog > Branden Robinson
+e4e20ee7a1e0a265d6ec754b0a4e03b2 || Branden Robinson > Raphael Hertzog > Bdale Garbee
+be0dab65ef33255e4bea302b94018154 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+4f96fa588654ff9a74daa95809c36122 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+95152dcb9a554ea28961ccabd30b2e68 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+6d39ed3844193da47730e52f7c97124d || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+da66f856b7f2c3ef78cb0b9e4592f5ae || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+36772a207d0368e59f2dbf6fe7c3ee62 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+5b671530b3b4261672d3d13be86e8c6f || Bdale Garbee > Raphael Hertzog > None Of The Above
+02c1b0f5594f4bf3aaf114b405f36042 || Raphael Hertzog > Bdale Garbee > None Of The Above
+ec2ddd9e0224317445dd62f851f1a2a9 || Raphael Hertzog > Bdale Garbee
+b3417ead0370125270b8fe1039023c40 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+ee6f9a6129e760b8d15e37d96e8f68be || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+abf1455ec9232ba18b86161c46eecaac || Bdale Garbee > Branden Robinson > Raphael Hertzog
+f5f1aea52439e9bdf9c5d16fe4723386 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+7321a7eba981d5c5602e88b7648f3f5b || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+8bb6f498cca7592dc0b9e7d827018d5a || Branden Robinson > Bdale Garbee > Raphael Hertzog
+a6d18102e8672cab9866c8f25721d096 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+833d86ee199c9166063242e3adf94269 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+97b2c56fc2f2d17304c6077a30d946aa || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+183d1caf712ab54b7eba2c201e84114c || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+61a15d45abaff599e06d6a4620c09506 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+e66f3c05a7faff5ad04a3ce1b6e8b8dd || Raphael Hertzog > Bdale Garbee > None Of The Above > Branden Robinson
+ce4d0302b6b1fa8214b7d143571b78e5 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+722d75670b7c8cf00668a695ae08d2d6 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+599db26a2f1f8a7dbfc1d72acd9070c1 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+a0da4ed58cb652865e14d89a514c0e9e || Branden Robinson > Bdale Garbee > Raphael Hertzog
+3303a41e2c68574aafa8f1015f5c3953 || Branden Robinson > None Of The Above > Bdale Garbee = Raphael Hertzog
+92fd2346b0381f70c40bce9f4d93e360 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+db7b59b9528ad4c3b4bf33fce2033601 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+8f636405e742a4ab81410f49b4f5739c || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+3b47f8ee5c321183a73102cca066ecc8 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+9a41b0baecdb4c85f8db29710697d035 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+36317801441f77c8e1d0472617171f50 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+269fe6caaf3678fac04729e838f6a69d || Bdale Garbee > None Of The Above > Branden Robinson > Raphael Hertzog
+e8565d959e73e0f5340ad2d54ea30e26 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+4c16f33c5978dbee78aebcf4680c3ab2 || Bdale Garbee > Raphael Hertzog
+2411a1aeaf5b61ffc1524b2f1a7fa58b || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+7174abedc687a2b40a081bb37dddcd51 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+4f439d0f297980cb75b9428ee9638aed || Branden Robinson > Bdale Garbee > Raphael Hertzog
+f565374781f76c4888ede565cbffa489 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+7b1446a5d81aeb103c5e02498a7c86e4 || Bdale Garbee > Raphael Hertzog > None Of The Above
+e25fa501d184e959c2722aef9c041263 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+f8cea5be06851abe1d967e1d6db6edb1 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+7d9218eaab2405a4ae9a875a95efcd43 || Branden Robinson > Bdale Garbee = Raphael Hertzog
+980c344c86bc6cc306dde66a0b6aedf6 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+101899d6857d62a2c39687b512d2785e || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+27fca9ebf053b7af92612369f91462f0 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+72b78f4b2c3a9af2842ee21ef3f214ed || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+27bc7902cfa4245206880422162d241a || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+2c5e99d5ebcec2c8f4fc0ba2607c8780 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+18285337c365456f820c2aedf7b84aa9 || Bdale Garbee > None Of The Above > Branden Robinson > Raphael Hertzog
+4447cbce5d4618fa0d56b52812efde7a || Bdale Garbee > Branden Robinson > Raphael Hertzog
+48edd05603a3069bc5699104801eedff || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+b273547d59e2bdd21d8829c64cc81594 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+98d3279bc67e4b6d9f6597c3980ac956 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+b73076b1581377c8eaacf439c010179f || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+3a448afdb6c844ddcb8b3068604a28e1 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+c95ab5b819914b9553e52681f7d0fa1b || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+ee9bbf448fbab3d65f12fdb7a36ffce3 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+d15d1e51bbf19e7e066eda41ef9c2506 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+ff8115f3cc345c903ba21022956a91c8 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+5a3cf150ebef8b7b31066d6b9c01add5 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+c98991d15c96abf3dff87abd9cddfa09 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+a0a0b804282aea6e1c4d5ab7fa27dcb2 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+7a497498ac1e2a5b72eab1c600ab3234 || Branden Robinson > Bdale Garbee > None Of The Above
+1f35bf0b2f71680782bc3a05b19a7906 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+eecb08b0e95273b49a060ae295712d33 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+a7d716c61e06dc575a69d96e3319f3f4 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+de2f62be49eb20f4067c634bf54f1af6 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+b26304a88d4970c5499db56c915d9b34 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+6d917deaa7ade709f22eedaff07a8bc7 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+7dfd497a6523aa357b094c6fd0952a8c || Bdale Garbee
+a62be44c74251d6cd4e2c32461f96530 || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+46a6ebb03ca6794573854d264c72cc6b || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+21fd1c2618af14d34681d4bd69efa398 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+e49e3a666c691690fb53a55b78be7864 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+7f9969ab6519ba561efde9a4d5f69c64 || Raphael Hertzog > None Of The Above > Bdale Garbee > Branden Robinson
+3cc988a77409c56464fcfc4bb9c9fa9f || Bdale Garbee > Raphael Hertzog > Branden Robinson
+654064b87127d4f72dbaa2505f1617fa || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+d7e63f8d4813d0129361f6e1a41536c4 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+2afff03f56ff4e7b0478ee3fb4600ec1 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+bd7f77362bf7dd107219f2e35a2f12ee || Bdale Garbee > Raphael Hertzog > Branden Robinson
+e45b16a0a26ad5df67ccd98a7e2fcba3 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+93bfbf5543b3e758fd8c55df7534e34f || Raphael Hertzog > Bdale Garbee > None Of The Above > Branden Robinson
+7f4905d89b30da279578249d07d7eb47 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+21cdb666b8a093bace2a4dbe5838efb6 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+4e9487fa1abb2802ec34d60de746dc41 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+cd296b71fecd8ac3854a71cbb53a7c6d || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+96e023815c161ed550dba7ed17468ec0 || Bdale Garbee
+5fbb28c1ec086617d4f5635104ff5cbd || Bdale Garbee
+dfcc595661bd5d03893eb2cabd7e1bbe || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+443355966bcdef557c373ec16fd5a640 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+4f00b5d6f8b7d29182c3f65f261f0dda || Bdale Garbee > Branden Robinson > Raphael Hertzog
+e928af21cbab58bffbdebef57420793a || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+b1e00b802157732749457d86d17eb51d || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+bb624c01b2755ef2478e34427475a223 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+c43b6e11d3fd5381ddb218cdc925dbff || Bdale Garbee > None Of The Above > Branden Robinson > Raphael Hertzog
+510a518476734527a9ef52f908a910e2 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+0c41b84c1a7eac465356ebd24a7e487c || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+ca2211117cb119cd767fb1b3ace828a9 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+be597d691d8563ec921d136e0fc33f53 || Raphael Hertzog > Branden Robinson
+25460b9b1448bdcec42662f93cdf2ac1 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+f07ae955c20ae4790d87b3c9680c31ac || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+6c84ea658cf10a330a678f958680ff54 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+62fd98b33a5c1fb5627df0b7cdd98360 || Raphael Hertzog > Bdale Garbee
+edec9e564db111d0c791a3660ef57965 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+b63e9a3567333df17b3ac8dcfec475b8 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+054fb4c6c46da4d41c9cbede059b7c1d || Raphael Hertzog > Branden Robinson > Bdale Garbee
+0dacb00caf0167b2742cbb843a07b430 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+f243f71a34e958248222126d5d4ec0a6 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+31d5b5a09bddc73f53f023ee0ca0be4a || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+86ae9d7e902964efb4b350be6c8dcdd7 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+e0a9ab9191c8e67e65f40a0edb582864 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+6e502852ae5ad3478569331ba9c2ba62 || Bdale Garbee > Raphael Hertzog
+f710a3a8de80061d74eee4bc00842ed2 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+a6f1000710bdb878c447f172b517bb83 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+4de00129ea7a95347f4bd14bd5a5248b || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+c9514b0b23e4a356e382ceb56279578e || Branden Robinson
+494802e03f1e2a1bb3cd4576c0adc5e2 || Raphael Hertzog > Branden Robinson
+a82cc6927e1540f9148521c7a88b65c7 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+7d319abdf9fb1bc26b29ba0800c015a3 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+d949b608649c601006288d5cca6ec135 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+3a231a0755aa59092d9f5d157d7d507e || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+7708be7967a1ec78f9ad56e60f6fb81e || Raphael Hertzog > Bdale Garbee > None Of The Above
+f674f28beff6d57797618ac398ffea83 || Raphael Hertzog > None Of The Above
+11c5819f44b3d2364f4f8533b6910f2a || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+32bacc95a1b3a739be27643ea9e5afa7 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+aab30796d3348fe305422aa0ddbb5607 || Raphael Hertzog > Bdale Garbee > Branden Robinson
+d421d9c5c45a4b31d4700ec163bf2af6 || Raphael Hertzog > Bdale Garbee = Branden Robinson = None Of The Above
+eff7c1e24adffa9dea5c1107353189c1 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+d309aa48dd17d984c38a698389dba8b7 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+73e0e63a74f7863d78ade69b39d04199 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+b6a81b506f454e8c5fb09512b239feb9 || Raphael Hertzog > Bdale Garbee > None Of The Above > Branden Robinson
+6b7bbaa16a8eb3ae407939172d4d29a7 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+c075f24c2862353c67f13da33dab2364 || Branden Robinson > Bdale Garbee > None Of The Above > Raphael Hertzog
+098433bae22270bb59bc76fec47f7009 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+b673a1ecea44ea1158db850f282172e5 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+2b435ca5cc4cd47ed1e698784aeec6c7 || Raphael Hertzog > Branden Robinson > Bdale Garbee
+3e3bf31deab044badc8ff0374d4faecf || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+a12fbc9643cab560e7070413ecf3bec4 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+5ac31e6946d3549b66853551ed11317d || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+1491efbf74e3b79f549afc5539c69845 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+4463b312490cccaedaffcedc37304192 || Raphael Hertzog > Bdale Garbee > None Of The Above > Branden Robinson
+e16be593628205b2555c2972ac7fa0b0 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+49df51a0e6266214b9b2d5af2833ab2a || Raphael Hertzog > Branden Robinson > Bdale Garbee
+5b460daee304b58644dc0d58f94b9ba0 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+6a23bc93b01719599efd6d377923d226 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+c9eef152add11f3fbdf4f66a36370159 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+36fce897e7a91e3921a32aabea28ab39 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+e7763775843d4f38ac11fb4ff2115631 || Branden Robinson > Raphael Hertzog
+2921755197db8be54bd269a128d7f50f || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+de6a8a8edb9ac8f90a04485c5d915ed8 || Raphael Hertzog > Bdale Garbee > None Of The Above > Branden Robinson
+a52ce79dbec202df464b3c5c1ab33d92 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+0407a9f3e0676bd0bf8a47ebe9aff8db || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+93a151da2d58c8d805b935ce7ce7a010 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+f2a96c7276fe9d51a61caa19f4ddd84d || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+ea6c6664f2180f744a4323ea41dfca98 || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+2b5e656c0340bb6399abf08f8ecf5745 || Bdale Garbee > Branden Robinson = Raphael Hertzog
+4562e364ffe3bb8bb12fab8a888755af || Bdale Garbee > None Of The Above > Raphael Hertzog > Branden Robinson
+1322e1b8c221b485022e1e3ec980e6c7 || Bdale Garbee > Raphael Hertzog > Branden Robinson
+0b7ed7e26769f221499c41b190b3e458 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+1ac00a94b096092a13e8f53acb657f9c || Bdale Garbee > Branden Robinson > None Of The Above
+f59911c1df8bea12398919345924b269 || Branden Robinson > Bdale Garbee > Raphael Hertzog > None Of The Above
+33d1bb5443941a5dd429f005b8b6c26e || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+2a4e6b2a649fb2469b0bc809f17e2fdc || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+b5321998ed6c2e821d063527bff3f6d9 || Bdale Garbee > None Of The Above
+5c3114ab27d5167119cb35c06b79fbd1 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+d47a8ebdc9e5b5150cd04271f1db9766 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+4f63ed26099bd43d6c795e6c8e4e5dea || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+9ce6bd639860f4e45fc1a7f49c95ddc1 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+3247c3005d408613645595f8d800658b || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+5d8328b39066bd4c7003f659c438367e || Bdale Garbee > Raphael Hertzog > Branden Robinson
+8c8331f0a055cb28daa4d376994c0330 || Bdale Garbee = Raphael Hertzog > Branden Robinson > None Of The Above
+e7c2c1831159117f8476ecad59b68704 || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+3e53b7921e308b7d0d21a8188382a6b0 || Bdale Garbee > Raphael Hertzog > None Of The Above
+f57d16de80ebd5861851d940b9e03d71 || Branden Robinson > Bdale Garbee > Raphael Hertzog
+0054a81c761b9577bfefcbe1675c44f4 || Raphael Hertzog > Bdale Garbee > Branden Robinson > None Of The Above
+7055a91f6304d65ef88a3bbff091df7a || Bdale Garbee > Branden Robinson > None Of The Above = Raphael Hertzog
+420352a6fe5fb8171847533b15f80153 || Bdale Garbee > Branden Robinson > Raphael Hertzog
+6ac91fbdde17ac7020bbdd5683e98fff || Bdale Garbee > Branden Robinson > Raphael Hertzog
+27c7ef035398342819084a82fdf564fa || Bdale Garbee > Branden Robinson > Raphael Hertzog
+e7792801bb9966400fd4acfeb205fae2 || Raphael Hertzog > Branden Robinson > Bdale Garbee > None Of The Above
+a05ee5e2788620d9f50d00bd97f0b8aa || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+e0c3f7828872fd60c4acbb75f9956dba || Raphael Hertzog > Bdale Garbee > Branden Robinson
+8e7a7b52554bec37717fb2a067acf18b || Bdale Garbee > Raphael Hertzog > None Of The Above > Branden Robinson
+8efad7123afd09df176e8ebee7a14c0d || Bdale Garbee > Branden Robinson > None Of The Above > Raphael Hertzog
+bb57354016d6046124259c253fe8d883 || Raphael Hertzog > None Of The Above > Bdale Garbee = Branden Robinson
+388753559dc0e9978a3149f96618231a || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+f41cdc6977c0f8ccfe6d2f21cdbcad6f || Bdale Garbee > Branden Robinson > Raphael Hertzog
+ec99bd7b0f543c66f26843445e85599c || Bdale Garbee > Branden Robinson > Raphael Hertzog
+3c3569d3d29bd15c8a9a7bf9b08b13ae || Branden Robinson > Bdale Garbee > Raphael Hertzog
+3cc1affa196d869ec2b6dc4cdf0d3d5d || Bdale Garbee > Branden Robinson > Raphael Hertzog
+3836cd515b1f37316af2fe0c10abe992 || Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above
+dcb966838c2a1585ce90976d525cb833 || Bdale Garbee > Branden Robinson = Raphael Hertzog > None Of The Above
+0b6812e01e1278cc79027d480b5ffc68 || Branden Robinson > Raphael Hertzog > Bdale Garbee > None Of The Above
+f9054ebeb1b51db6ba766a9f0266b1fb || Bdale Garbee > Raphael Hertzog > Branden Robinson > None Of The Above
+5842b2bfa6f4f49f4ec92e6cba903cc5 || None Of The Above

@@ -1,0 +1,442 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+#/Candidates: Stefano Zacchiroli ; Wouter Verhelst ; Charles Plessy ; Margarita Manterola ; None Of The Above
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+745bab4190071ca50f0b5ac06ec75daa || Stefano Zacchiroli = Wouter Verhelst > Margarita Manterola > Charles Plessy
+b4110a103b34334e16f5055be6bc1ef8 || Margarita Manterola > None Of The Above
+1e1867c2a000a86b9e9129812afa62fd || Margarita Manterola = Stefano Zacchiroli > Charles Plessy = Wouter Verhelst > None Of The Above
+42867a9c886d8ae2e143d1028bef8080 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+3d561f26b24e7b828220d50d75d80661 || Stefano Zacchiroli = Wouter Verhelst > None Of The Above > Charles Plessy = Margarita Manterola
+6789bd54a305ea6778dfabbac0858683 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+62641e50ded06c656408e02b2a019164 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+3f19bf753d00322cd9558056387f6d0b || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > Margarita Manterola > None Of The Above
+f5552bb53a330b8e4ff5faa67a4ef71c || Stefano Zacchiroli > Charles Plessy > Wouter Verhelst > Margarita Manterola
+da2de41ecf50e10868eef3556ed8a381 || Stefano Zacchiroli > None Of The Above > Margarita Manterola > Wouter Verhelst > Charles Plessy
+acaf283cbfc1a5c014fd518deeb03ab0 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy
+16b9ece6cd0a8d9538e0a39d523c6568 || Margarita Manterola > Stefano Zacchiroli > Charles Plessy = Wouter Verhelst > None Of The Above
+b1948e316c4f815259aecdd7b6cdecd4 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+0eca4ec768e84425090b0aae1eaaa04a || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+a8c0cc92e56b1c7ebab189e374bafb0a || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > None Of The Above > Charles Plessy
+30d0409af82900173e2ef9fed507d3cc || Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Charles Plessy = Margarita Manterola
+2bee036432fab510feb09ba33c848499 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+f5c70db32d21d2e6bf24afccceae7d42 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola
+f53e13e2e58da7399b5de96961333c95 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+806e729b64b1127ca272ab98b140c4e9 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy
+6ec4424c6fc0b0d66bfd8fc293849177 || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > Charles Plessy > None Of The Above
+abab8791f6aedfa4ac61aa72376a9227 || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > Charles Plessy
+f53bb217b080da081c209770d8f15544 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst > None Of The Above
+b199e2a476f058cc15f757171d51e117 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy
+fa8d467c4776ee3cfec444880ef86bb2 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy
+b22dfd22d392473fbf81691a199e6a8b || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst
+135a11282f2f8845cb2e37735a2ee3b0 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+a2cd466fde90617d37419d00db04e6b0 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+abd0b83fdc6bc18b171de4e13f449fc6 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy > Margarita Manterola
+12a19cc321d76c5b3ac2f1ba9d6e89e7 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst > None Of The Above
+f39516df13db6b96eed24281a18a45cc || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above
+fd929aea47a51f4297a0721c0e6a5965 || Wouter Verhelst > Charles Plessy > Margarita Manterola > Stefano Zacchiroli > None Of The Above
+b1f0453ee36ef4ff22591d576f7d234d || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+2e2cf16e2fe07a131d0ceeb1a6abe5b5 || Wouter Verhelst > Margarita Manterola > Stefano Zacchiroli > None Of The Above > Charles Plessy
+92f2278cec6e65cac7eb496bdc1013df || Charles Plessy > Wouter Verhelst > Margarita Manterola > None Of The Above > Stefano Zacchiroli
+f4941ebcadbef2cdf5e6641c528894a6 || Stefano Zacchiroli > Charles Plessy > Wouter Verhelst > Margarita Manterola > None Of The Above
+246a3d57d4a8f94861a529f69b5dc244 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy = Margarita Manterola
+16ca0382028a812248b6a91684120407 || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > Margarita Manterola > None Of The Above
+f8ada1b39767b96ded4eba3bdc078913 || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy = Margarita Manterola > None Of The Above
+7c1834dc86f562143c27be7e223d804a || Charles Plessy = Margarita Manterola = None Of The Above = Stefano Zacchiroli = Wouter Verhelst
+e36a07b8ffe8202d4f914178a9dd4e3d || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst > None Of The Above
+408dab4848a9d3ffcee2f81cd5f7df67 || Stefano Zacchiroli > Charles Plessy = Margarita Manterola = Wouter Verhelst > None Of The Above
+2e5f33851e662f876b842175a849f434 || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above > Margarita Manterola
+d49921004c656e7873bafb007ae98b1d || Stefano Zacchiroli > Charles Plessy = Margarita Manterola = Wouter Verhelst > None Of The Above
+d5f91d104e5e479c0f2b3d94e65cc463 || Charles Plessy = Stefano Zacchiroli = Wouter Verhelst
+e65a5d6670f15f7432ce412c88e1ee4b || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+0ddb724320b0a76ee10afbb335ea306e || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above > Margarita Manterola
+e268c47153794e1d774e87af1e1b1da3 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+06bdfc8ebc0c8fefea2b71b6b5b4dbd9 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy
+b9a47a69f9511416440dc52f4e5372ce || Margarita Manterola > Wouter Verhelst > Charles Plessy
+57d501d96defe829133c0c4077813baf || Stefano Zacchiroli > Wouter Verhelst
+1c4179faf485242a0d41f68201d4658f || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+f97402eece4ecdcc5a8be8400f77b84f || Margarita Manterola > Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Charles Plessy
+2c874a949e921015eb2b3269342c715b || Charles Plessy > Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above
+3491b41c3585937a6a68faee2629854d || Wouter Verhelst > Margarita Manterola > Stefano Zacchiroli > Charles Plessy > None Of The Above
+3515d5201457258b2a8de25996063f3d || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy = Margarita Manterola
+df416ea6d34d987df9b80cf8d717810c || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+2f647c1e4532b8b76786f95bc1be1313 || Stefano Zacchiroli > Wouter Verhelst
+a12ca4d6bb004fdeec2c78efba27c0c6 || Margarita Manterola > None Of The Above > Charles Plessy > Wouter Verhelst > Stefano Zacchiroli
+ebac4e319b044a3880476209b1c3713d || Charles Plessy > Wouter Verhelst > Margarita Manterola > Stefano Zacchiroli > None Of The Above
+265b55fd62f6f9f52a59ff321f26fd9e || Stefano Zacchiroli > None Of The Above > Charles Plessy > Margarita Manterola > Wouter Verhelst
+bfc1634c45828e6c64b634b588de1fd6 || Wouter Verhelst
+424ba7d47c57980c3613d5511b2e87e3 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+ca587d75a8dae75b860e830bf05a391d || Stefano Zacchiroli > Charles Plessy > Margarita Manterola = Wouter Verhelst > None Of The Above
+170081f127533b9fe3901e344f4f4f5c || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+03353c24b77a5730bcb7800933a512bc || Stefano Zacchiroli > None Of The Above > Charles Plessy = Margarita Manterola = Wouter Verhelst
+098b3ac9d61ca9a2e781485dff922f3d || Stefano Zacchiroli > Margarita Manterola > None Of The Above > Charles Plessy = Wouter Verhelst
+e380dfb910edfb6986d807c75c564981 || Wouter Verhelst > Charles Plessy > Margarita Manterola > Stefano Zacchiroli > None Of The Above
+41aab7e9bc5e4c285233a755404840c4 || Margarita Manterola
+961cab279e9ad76d69bec3baa95e9f60 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy
+8f48310b7b8cb88569eb4d88fb037bc8 || Margarita Manterola > Stefano Zacchiroli > Charles Plessy > Wouter Verhelst
+eee2311ae5ad7b376172d97da793e883 || Wouter Verhelst > Stefano Zacchiroli > Charles Plessy = Margarita Manterola = None Of The Above
+474efc82741857615a697bf5b585b5bb || Stefano Zacchiroli > None Of The Above > Margarita Manterola > Charles Plessy > Wouter Verhelst
+0bb68ff530148a67124e043d5fe4cfa1 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy = Margarita Manterola
+fc8f6d20b88909224d02d21a55386294 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+cb2e514e0d5449f9d3bd6ec7da232d5c || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola
+0aa821a5107a567afbedabcc70d2d631 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+2bcad4f6e76fb9f4acfa969dc239d01a || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above
+efa3e3bd215e04425510f9d4c3881394 || Margarita Manterola > Stefano Zacchiroli
+d6b10a3d1f01846104b43036c75aa5e0 || Stefano Zacchiroli > Margarita Manterola
+94bfe48bd1a914ec0c039e42751ba1a5 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Margarita Manterola > Charles Plessy
+8ca9b93a0d46dcba4c70ae803fb66f93 || Margarita Manterola > None Of The Above
+4fc152c2b0c9d095bcfb45bef215352d || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy
+d983154710dfdf1c09324eb1b352dacb || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+d2f0051a3c5efe3b6c1f9fbbd624fc0c || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above > Margarita Manterola
+23f6853cd215c2487728bc049557a37f || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+5d526a908e305a3c4a5867224b87de09 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+d508e2cab60a67dccd01d877ce025f46 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+36a39a82b625cf4f41c9a904cec30cc7 || Stefano Zacchiroli > Margarita Manterola
+339961b4a2953b61e8ffe2850c23b1a0 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+284b4d30f4c4e369793f2eec37329552 || Wouter Verhelst > Margarita Manterola > Stefano Zacchiroli > Charles Plessy > None Of The Above
+39a0e8a1284640aa93882b012601c275 || Wouter Verhelst > Margarita Manterola > Charles Plessy = Stefano Zacchiroli
+530522d3eeac7f0d54ce970624eed43b || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy
+f9a0f6094a105a6410112969a3f9c24e || Wouter Verhelst > None Of The Above > Stefano Zacchiroli > Margarita Manterola > Charles Plessy
+dd762b83a699b0172a426b878853b774 || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+06ab3114a998675838e23ef8e5d307e6 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+f0ab957c09008298bf3ef0f789161724 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+0bed1d86c2e7f31acbae2728cdfd0658 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+a4004e9255d7da2b1d19fe8ad6ac5d8b || Stefano Zacchiroli
+353a59f11a41ac2da70aa29bb24944da || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+f569c2d433b06f817a2fa4b8b86bb907 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy
+56ea6b0e0c901487b868ef35b0921ce0 || Stefano Zacchiroli = Wouter Verhelst > Margarita Manterola > Charles Plessy
+6398a7c0743a78ca1cd31883c786b2b6 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+f97474205a429e65676a46391276b7b4 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy = None Of The Above
+5827c0c73993441810e71ffff5960013 || Margarita Manterola > Stefano Zacchiroli = Wouter Verhelst > Charles Plessy > None Of The Above
+bbe7bfc58b266eea64b791ea18a00ccd || Margarita Manterola > Charles Plessy > None Of The Above > Wouter Verhelst > Stefano Zacchiroli
+8494244eb2677bb2f48f9dd6cc7a6eeb || Wouter Verhelst > Stefano Zacchiroli > Charles Plessy = Margarita Manterola
+3b669ae8622c678bad893c24f3e14c05 || Charles Plessy > Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+a3293c87bdff8737117bb8d48299ca01 || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > Charles Plessy > None Of The Above
+f75c20570e97ba4289ac7ce985729c29 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+043595c6de4c3eec545bc4604e3ebc86 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+b787ae6ea4b45905321e1cbe0865e48a || Margarita Manterola > Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Charles Plessy
+34eecb5c96eed21f004edc87ec6e5ac1 || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+6672a82f07d7ee82a7931e66f7f3f811 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Charles Plessy
+04233ba26545c44724703681d9593360 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy > None Of The Above
+c17c98108477fbd6b10633cb6abe5eb2 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy = Wouter Verhelst > None Of The Above
+694c8aab15b96128731cd658dd61c574 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+18c6eae99088615f5af829421af65913 || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > Charles Plessy > None Of The Above
+0d38eb38ce340a3107e80971802aa064 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+3e03215998b6df04f0bf3f5d214bf02c || Stefano Zacchiroli > None Of The Above > Charles Plessy > Margarita Manterola > Wouter Verhelst
+9043084392039d4391fb6e227d64815b || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+bc5fd2152b0c10d8a315bc3dbf63cc7d || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Margarita Manterola > Charles Plessy
+2fa4b2d93b36b1e642eac1d4414badea || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+59c51a1cb8924fe9cc6efbacea5c325f || None Of The Above > Margarita Manterola > Charles Plessy > Wouter Verhelst > Stefano Zacchiroli
+1a06489d480327eda15bf0d69da5391f || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > Margarita Manterola > None Of The Above
+973790cf9c633419692654bc65a902ba || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy
+95a3dff138ce2baa5d163b7194aa8669 || Stefano Zacchiroli > Margarita Manterola > None Of The Above = Wouter Verhelst > Charles Plessy
+ce1e3433c22bd0bce139f5781a4e38de || Charles Plessy = Stefano Zacchiroli = Wouter Verhelst > Margarita Manterola
+3b6a0a99ee019e4830b529f14abffed3 || Margarita Manterola > Stefano Zacchiroli > None Of The Above > Charles Plessy = Wouter Verhelst
+172fc0e63d31cf5a08ea8a1ba3a0b070 || Wouter Verhelst > Margarita Manterola > None Of The Above
+f503d490cd4dc33a87a950b514e74a2f || Stefano Zacchiroli > Margarita Manterola > None Of The Above > Charles Plessy = Wouter Verhelst
+448784b23a052ec860523985ad600dd3 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+eb48d29e202aac476b070e36a500a3f1 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+878b000ae86e7b296383446aefbb77cf || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > None Of The Above > Charles Plessy
+fec46760c66bf7eecc543b7614f23355 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+31fb02c343d774464dc5798927a2aeff || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above
+abe467cc66ad1caa8fcc7e17b8427ce4 || Wouter Verhelst > Charles Plessy > Stefano Zacchiroli > Margarita Manterola > None Of The Above
+70a2f1ea4daf9c3eaf311d44c652a120 || Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above
+720c741f5525c6af2ee260537cfff21c || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > Margarita Manterola > None Of The Above
+0cf87e249ca938020c347e199406b6e7 || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > None Of The Above > Charles Plessy
+d3ec4d20aea7fa8e5a446d7b8ec366c1 || Wouter Verhelst > Margarita Manterola = Stefano Zacchiroli > Charles Plessy > None Of The Above
+52e905cdf56b9e04c3af452d8a4e2908 || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+52f4494cf1328fc86a909337914b9481 || Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above > Margarita Manterola
+442c9b89317d00cf23b7605353b8115f || Margarita Manterola = Stefano Zacchiroli = Wouter Verhelst > None Of The Above > Charles Plessy
+8df208871c1e81e8369361c7e6c1e47d || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+12c91536b27c1d2042d1408854d8b62b || Stefano Zacchiroli > Margarita Manterola > Charles Plessy = Wouter Verhelst
+d61ec16846803466f31cd0d0792ccc70 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst
+9887bb59ab05619fc0eae981fccda73b || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Margarita Manterola > Charles Plessy
+a71a2c70009d97efcb78863cc802f227 || Margarita Manterola > Stefano Zacchiroli = Wouter Verhelst > Charles Plessy > None Of The Above
+6e03c7d9e9140f43b771c39433dd7f2f || Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+739d7595eb05bf46364a7f912f4c5432 || Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy > Stefano Zacchiroli
+97764b2429332428118bcf752f60cb57 || Wouter Verhelst > Margarita Manterola > None Of The Above > Stefano Zacchiroli > Charles Plessy
+f634d3caef6a5ec428b6884eca4632da || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+4163ff6a7af54b3638a7232e546c4990 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy
+7f891c4a21e86f8bc7ce990d98a6db1b || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst > None Of The Above
+141b9df3fb54cb679bfc54324349a152 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+c178c2a37d89161c1879c98cab160d54 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+8e0523e1a1b8ca5c5fd24348602ab659 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+afb88bfb13954f58cec93c3cf953ee7b || Margarita Manterola > None Of The Above > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy
+9faad19be6aea62025450373cc05f9bf || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+6021b43586e37c43e3be33867315f0c0 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy
+77706f9307d9b89f1d45ae92f1b82cdd || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+fa1038ab57d80d681a99212c9b9b91b2 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+0b93065d50f2ec8bcb689090f6479f9d || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+45bade93b14a398b31570c85a8ec47d9 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy > None Of The Above
+c6260a56b896c4d77486990b11bfbd7e || Stefano Zacchiroli > Margarita Manterola > Charles Plessy = Wouter Verhelst
+6d5e4287526b2619470e1cbc8f688beb || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy
+217d032f13b4175883a53b92a479b210 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+6f0dc2ac085d5cd7236ff659b78a5d87 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+d7bb252e3bb7d278ed39886b8b080dfc || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy
+1629d4da78d6b7ec1685c5f6348cd4da || Stefano Zacchiroli > Charles Plessy > None Of The Above > Wouter Verhelst > Margarita Manterola
+faba64c4d970470d54550a0f9a856819 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+d2f00be5f4cdce2cfa9b2459a9c5c5db || Margarita Manterola > Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Charles Plessy
+5be41e20e7d95c10ea822562109ff0e1 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+4f81641d437c1a547d904a737e0c7e0b || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+5faf49cd7a60d4458ca836ea217f49b7 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+835f8d109f44059f5d7e655b2a79ce67 || Stefano Zacchiroli > Charles Plessy = Margarita Manterola = Wouter Verhelst > None Of The Above
+dca8133a254367e2e775d4f6ff388738 || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+859c47d488bc7b7a6bb4350bb6afbc58 || Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Margarita Manterola > Charles Plessy
+6ed173b4749479370cca9b15c453e4a8 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+ba0802d03dbc4a86708253d24f42e8ad || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+ba59c4ff9a0c435654a207abf113e455 || Margarita Manterola > Charles Plessy
+b2f0fb404286732d720136eadf2ab4f6 || Wouter Verhelst > Margarita Manterola > Charles Plessy > Stefano Zacchiroli > None Of The Above
+972da11daed4d182198d29feab9928ac || Wouter Verhelst > Charles Plessy
+ef583ecda18a14188da97f44d9701dd6 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Margarita Manterola > Charles Plessy
+a9f78129253738a6171812e1a28c9cf9 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst
+1bc0cc3f3afaea8a6d09cf8970d02907 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+7fc4801b50c015b3b9e7231bb39bd4d8 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above
+1a909c4675c0f259635e7669f63e94b9 || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > Charles Plessy
+d90d890f1dca7ba00a9f99ee10d44af3 || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+f0deb4ed4e1232f35972b5d2d5ad06a1 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+ed1f126bdabf3fed052377b35ea4332f || Stefano Zacchiroli > Charles Plessy = Margarita Manterola = Wouter Verhelst > None Of The Above
+348f77a92967ea8fceb0d41defa26575 || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > Margarita Manterola = None Of The Above
+5b64f6ba439dd462e9c012ae271daf05 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above
+37e1bfacfe531c2e0cd735011f8a4089 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+2e39808c57a9a01e10bab8a719456173 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+67ede238423dd9dd2667f38f58795308 || Margarita Manterola > Wouter Verhelst > Charles Plessy > Stefano Zacchiroli > None Of The Above
+1e6bdae5da607b7f7a8baf0818fa6c25 || Charles Plessy > Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above
+a64624d0c54992f6df968f9de648fbb8 || Stefano Zacchiroli > Margarita Manterola
+a9c45933491ae05f7c88e448df29c903 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+eb67f7ff09bbd6dc056753e01b149240 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy
+0ba582ae081148012e47e3855663d7c7 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+40238ca9acfecaae74b09cff14bec8c4 || Stefano Zacchiroli
+283ffe095ca840c41964ba77167a6b72 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy
+d38a6dd167ed214887979e0f83f0a8ba || Wouter Verhelst > Charles Plessy = Margarita Manterola = None Of The Above = Stefano Zacchiroli
+a111f02cec3da0785c5ae0925cc3311a || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+41ff4c1c0e770cb92c1dc94946c9f9b7 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+a1643bc04ebc0e2b098b3abe03fba1fd || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+025b7a4bb10d4c0b2e4aca536887a33a || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+0ee0fae527e938ec2719c94aafc87bf3 || Margarita Manterola > Wouter Verhelst > Charles Plessy > Stefano Zacchiroli
+33190af6efd949ddd72ab9b2b9fa8e73 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+1b0de988bdb5519dd2f04b67376aa772 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+f6805edefd5638239595c466d6210c80 || Wouter Verhelst > None Of The Above > Stefano Zacchiroli > Margarita Manterola
+5983ce0c517a07dc6f97455f7269ac77 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+3dd45fd3b9b3838f097b2253a1650277 || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy
+4ccecbeb2e74d2c566700be72b21c09c || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+ec3964e1147a669fcc5e55b60e078bbd || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst > None Of The Above
+7f85642339ae65493b86df180f050164 || None Of The Above
+2009e9204f6e06840d89ef034bbf58b0 || Wouter Verhelst > Margarita Manterola = Stefano Zacchiroli > Charles Plessy > None Of The Above
+728abdab0f4b21333aee054afa95bdae || Wouter Verhelst > Margarita Manterola = Stefano Zacchiroli > Charles Plessy > None Of The Above
+730cf5441b8fec5253216ff5c0a523ae || Margarita Manterola > Wouter Verhelst > Charles Plessy > Stefano Zacchiroli
+495ba59ef095f2bccc14f0bea0a1f1c4 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola = None Of The Above > Charles Plessy
+13618601c5d6ea6fa450efa61a591f3d || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > Margarita Manterola > None Of The Above
+78b1df58adbfdc52d4b7abf57f79b4a5 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+410b19aadee669ae5c4b64ab5bc4d0dd || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy = Margarita Manterola
+bcabf188d0ff3197f28a292b7609ad26 || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Margarita Manterola > Charles Plessy
+38d82e5e020a49a90177d4893fa2cf01 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+d224a6532c7da11bedd607c8be60e0f3 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+d5eec1dbca6e75fb125408271a593763 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above
+7578a802724430ffc116d8056146af4e || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > Margarita Manterola
+28f41860f36622f3f2faf1410ca6cd65 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+db9ba98fc3523a382f98422fb090e89c || Wouter Verhelst > Margarita Manterola > Stefano Zacchiroli > Charles Plessy > None Of The Above
+0c406853aa5c4f9aeed4fee80240a263 || Stefano Zacchiroli > Charles Plessy > Margarita Manterola > Wouter Verhelst > None Of The Above
+0fe6ba8c06b0b77d82b434386e1d026b || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy > None Of The Above
+45058f457209c773771bb4fbbfd4edfc || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy
+edc632155f871a3c64cc4407d2f4f1de || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+87b96c72f9162a82649e663397611566 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+23d2f2e1622ee44643d37eb44edf4af3 || Stefano Zacchiroli > Wouter Verhelst
+c3f8ced5f8be842ea9092d94055daba6 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+e36f622e01495f80fc82918989ec8bd7 || Wouter Verhelst > Margarita Manterola = Stefano Zacchiroli > None Of The Above > Charles Plessy
+b6c1bcd1cbcf2335ea3d54235f04ebcc || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy
+8a3e5f15a2891e5bf0a62e2ca273de66 || None Of The Above
+356939c3a52d5a87ce1c8e397402cbc4 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+b6d320130aa2a8d01290feb68f27a494 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+3d46ad9c7381952a35502ea6ae797242 || Margarita Manterola > Stefano Zacchiroli = Wouter Verhelst > None Of The Above > Charles Plessy
+264def302c258207f126dc2227662279 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+415dd8fe55c7074eab7b4954af42a27f || Stefano Zacchiroli
+74e528b4ec55e162190fd1d1aeaede20 || Margarita Manterola > Charles Plessy = Stefano Zacchiroli = Wouter Verhelst > None Of The Above
+a6c21105af59f413510d3b70e6de7c7e || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+3a26fca2debaa5a3c1941eb5a344874a || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+045751eeac0952d987f8e28190bb9b38 || Wouter Verhelst > None Of The Above
+cf9e06fd51cf08be4cf8cc0954d7ce26 || Charles Plessy
+b3d4300302855fef5afb72829bfbaf45 || Wouter Verhelst > Margarita Manterola = Stefano Zacchiroli > None Of The Above > Charles Plessy
+1f76eee78e939e8117b30bddcc7aeec0 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy = Wouter Verhelst
+42ad09e941988926ad3a31bd1ef0fd6e || Stefano Zacchiroli > Margarita Manterola > Charles Plessy = Wouter Verhelst
+275d8dfeca4f3698882effba3310d0a9 || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > Charles Plessy > None Of The Above
+6f36aa78409946d3088004633c9e7581 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+c5136893fa762ba7f6decd99f96d0279 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above
+3e0f2e7b8003f2384b082dc43f678b2b || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+b0c4813f053a83fb22e56073a44fb85d || Stefano Zacchiroli > Margarita Manterola
+592fcf39d17dbf6628623989913eb832 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy = Margarita Manterola
+7db155e3fb5e10d78731a0a62eed5fe3 || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > None Of The Above > Charles Plessy
+81ee045397d71a4b053d8ff5da0f5897 || Margarita Manterola > Wouter Verhelst > None Of The Above = Stefano Zacchiroli > Charles Plessy
+1125cc8b4178ebff64db4a247ff17a91 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+3f1665f5d72e7ff71d6b858d94c9ab01 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above
+846af196883bd2c4450eea9f45a0c764 || Margarita Manterola > Stefano Zacchiroli = Wouter Verhelst > Charles Plessy
+5d1c3dfc0f63fd51dd0b3b6f6efb24bb || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst
+35c13ce79705baae703b74f382265eab || Margarita Manterola > None Of The Above > Charles Plessy = Stefano Zacchiroli = Wouter Verhelst
+4b7ab41aa6632e8fa9acdd32f2fd46dc || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+9b921856bbd9b42e3b25d046d41c188d || Stefano Zacchiroli > Margarita Manterola > None Of The Above
+1b2bc00b7cbe073c0e2b214edc8da0e9 || Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy = Stefano Zacchiroli
+3152aa04e592b5095762bc2e4629aef0 || Wouter Verhelst > Charles Plessy > Stefano Zacchiroli > Margarita Manterola
+808eb5223a1c29167abd543f5c1183f5 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy
+8a07bca4a74c7f0f5d20ecd8c416ff8a || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy = Margarita Manterola
+e68f2be41710652ad5581995aedf675c || Stefano Zacchiroli
+ece43b9bab56e2bb85af93d24cf4c39e || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+100b9a7e1f078752509b2397653cc27a || Stefano Zacchiroli > Wouter Verhelst
+4722a4a298f6cdaf88e0dcd0d634c9d8 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+dc5a428de508fbd37f68c4e716127282 || None Of The Above
+c7747252379eb6d49118a74755c1bfe5 || Charles Plessy = Margarita Manterola = Stefano Zacchiroli = Wouter Verhelst > None Of The Above
+d049805fe600381a9dc19499eb323ebc || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+57ee65c7130603c21889122008523614 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy
+170d70825d55c2e318d043d3f4ac576d || Margarita Manterola > None Of The Above > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy
+241cc46d8c5049857cddd402b6304ddb || Margarita Manterola > Stefano Zacchiroli > Charles Plessy > Wouter Verhelst > None Of The Above
+c37c2d56c47afe6a3811d1bd68dc3eec || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst
+89e1da514800ea93eb640f262e5987b5 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above
+6c738a4dfcb2dcf131d83c951abc06a0 || Stefano Zacchiroli > None Of The Above
+975d4c143cbbf6d932ed8336c4eb7ff7 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Margarita Manterola > Charles Plessy
+9372ee8df070518b95b0a7c7eecfba61 || Wouter Verhelst > Margarita Manterola = Stefano Zacchiroli > None Of The Above > Charles Plessy
+e1a35c6fa824ee3c34691fc4c24d1e4f || Stefano Zacchiroli > Margarita Manterola > None Of The Above > Wouter Verhelst > Charles Plessy
+d7646fba29ee70d76b1f5191a4ea02c7 || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy = Margarita Manterola > None Of The Above
+698f3d692ee6c6e4e5cd1aabcb254c5c || Margarita Manterola > Charles Plessy > Stefano Zacchiroli > Wouter Verhelst
+6a20b3e0f794407b522ae70ddf5e9e80 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+6fc9cddb8576f012da32dbabec116a39 || Stefano Zacchiroli
+42f105b964aa6496346eb4d388048631 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+0a36b06d9e1e21c1f4430d99eaf19711 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+a7adc7f6154e340d386431ea9ea1c001 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+627e6e3a54237c013aea26166b550c64 || Margarita Manterola > None Of The Above
+329acb85d5dbf5c3cb19d2c66136f794 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst > None Of The Above
+471efa88b0bea341686e28bb07e2bc40 || Margarita Manterola > Wouter Verhelst > None Of The Above
+4708c97182f6b7617d348e1335cd6e1a || Stefano Zacchiroli > Margarita Manterola > None Of The Above > Wouter Verhelst > Charles Plessy
+7f4b9d36a9f22c8a53baf5141637aefa || Wouter Verhelst > Charles Plessy > Margarita Manterola = Stefano Zacchiroli > None Of The Above
+4475dd83493409d20270a874875a2b33 || Wouter Verhelst > Margarita Manterola > None Of The Above
+350b9beddf1bfb9c87e513d34255ca62 || Margarita Manterola > Stefano Zacchiroli = Wouter Verhelst > Charles Plessy > None Of The Above
+0c4ccd4aae4c7b5c2d07a10fae9a594d || None Of The Above > Charles Plessy = Margarita Manterola = Stefano Zacchiroli = Wouter Verhelst
+26919a2ca40e972204a713714c1ef1b9 || Margarita Manterola = Stefano Zacchiroli > Charles Plessy > None Of The Above
+ba2c60ba5430d5b2d90495e010326578 || Stefano Zacchiroli = Wouter Verhelst > Charles Plessy = Margarita Manterola > None Of The Above
+3e1a6d8704b1ba08f40740a163749372 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+ecff3b22343b353a6545ac5c16ba853e || Stefano Zacchiroli > Margarita Manterola
+10ea8ffffdfe9b601f55d8d71337ae4a || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+07fca7356680eaec59e72bc6fbe9281c || Stefano Zacchiroli > Wouter Verhelst > None Of The Above
+a72b6e85b083e759bf2ed31660928d96 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above
+313bb34dbe3df0c5681ef1d1340f341c || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above
+cc7adf0c8be525a1688582e3f1694332 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy
+79a4fc29a615911d5861e3ef9bdb08a8 || Margarita Manterola > None Of The Above > Wouter Verhelst > Charles Plessy > Stefano Zacchiroli
+e80f4b8531e6ddc1c3b93fa10f6c493e || Margarita Manterola > Stefano Zacchiroli > Charles Plessy = Wouter Verhelst
+34ccf7e5ee21b1ced3735af4c50f4102 || Wouter Verhelst > Stefano Zacchiroli > Charles Plessy = Margarita Manterola > None Of The Above
+a2cd1891b9edb7aa4d6688502f2a2d91 || Margarita Manterola = Wouter Verhelst
+b87f98e4e80e4a3fffc137349a25ed26 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+0f63c4aedb911c6aeb70ecd0819df1d6 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+4e4d0c99065c8f7322e86bc7b32805b0 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy > None Of The Above
+f12800bfbed08656ca96df227a8d6906 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy = None Of The Above = Wouter Verhelst
+369609a60d3b7f3287f018dd2b2f670f || Stefano Zacchiroli > Margarita Manterola > None Of The Above > Wouter Verhelst > Charles Plessy
+e4e4ba554a5b76b6d8e69596b597e48e || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+5f6cdac05f78d17fbbb5576b48c34b06 || Wouter Verhelst > Margarita Manterola > Charles Plessy = Stefano Zacchiroli > None Of The Above
+aa6cb7a48e09ea4ddb3c269a947788af || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst > None Of The Above
+04657b9b2786b89d0a927a8fd6ff753f || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+7f165f6f574f32ef4efdf50adf06a9da || Stefano Zacchiroli = Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+51ec19e93b7658c7bcda2567bbc9a6d5 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+7f41da8f7ebe3a8a149648cc7f79fc16 || Stefano Zacchiroli > Charles Plessy > Wouter Verhelst
+a2d5fbb9956694c8d026d4b646ae3077 || Wouter Verhelst > Charles Plessy > Margarita Manterola > Stefano Zacchiroli > None Of The Above
+d647f67cdfc3ab008bb1503d572af23c || Charles Plessy > Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above
+6cfee8f7fb2a10aeef64514b9afb545a || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+04daab686811d64f71e2d987e2bf14cf || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+e1c5bfc8ddc861dcfe1af07e6941a454 || Margarita Manterola > Stefano Zacchiroli = Wouter Verhelst > Charles Plessy > None Of The Above
+eac35af523e8ae6668c1721a99e1becb || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy > None Of The Above
+df99c50bb4f5f87e515e1f780e790112 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy
+63dc96d8a361717e423e3e61fde9f369 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+82c6358bd1c8f28ed7a5804cac9a9414 || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+3c18bfea776fc85ad026567a8262b39c || Margarita Manterola = Stefano Zacchiroli > Charles Plessy > Wouter Verhelst > None Of The Above
+60c46372caf191a0cd9516725118a3ee || Margarita Manterola = Wouter Verhelst > Charles Plessy = Stefano Zacchiroli > None Of The Above
+542d4f8092e650d47a9ca24db29e2607 || Margarita Manterola > None Of The Above > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy
+fbd56a3bfa284b168eceb4c3ffb5505b || Stefano Zacchiroli > Margarita Manterola > Charles Plessy
+ec286595f62280ab66ee4dff1439909e || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+f206de31039775b3e3e083d4c1712ee2 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+080588b979663eb71f69eec8418ca18c || Margarita Manterola
+0da713da98901c0bf62ed9ba51f0af5a || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+aa7e818347741dcbef1408edfa8ca9e8 || Stefano Zacchiroli > None Of The Above > Wouter Verhelst > Margarita Manterola > Charles Plessy
+00f4843d89a881acd4b6e68042d8f7dc || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+a77ca5828c8ec3de8677683a50ab737f || Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Charles Plessy > Margarita Manterola
+fc6509334556138b9bfe1cda0ae35db1 || Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > Margarita Manterola > None Of The Above
+890f2d9717fe5ac56aa389d326e244ab || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy = Margarita Manterola > None Of The Above
+d08f2901fe61e1f155d2e60dfd6d4504 || Margarita Manterola = Stefano Zacchiroli > Charles Plessy = Wouter Verhelst
+7eff0e39e69b7c2abd5c66deb5d94b7c || Margarita Manterola > Charles Plessy > Wouter Verhelst > Stefano Zacchiroli > None Of The Above
+9859d55ad5e91beb911c7ce4787cc3fb || Wouter Verhelst > Margarita Manterola > Stefano Zacchiroli > Charles Plessy > None Of The Above
+5337e07055da25ef08183f44632afd71 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst
+2f5117f8338e9238ed466f98516e673c || Charles Plessy > Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above
+db583b65bba1deb2a63f7a3ad5425520 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+a811588b294ba3774a4e76bd275891e7 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+6637bf61e68301b8b61c4e85f692cff5 || Wouter Verhelst > Margarita Manterola > None Of The Above
+6a044b915327ca24ce688b7afb74b4b5 || Wouter Verhelst > Margarita Manterola = Stefano Zacchiroli > None Of The Above > Charles Plessy
+3e5c8150a08215bf1c6bd1bab990a02d || Stefano Zacchiroli > Charles Plessy = Wouter Verhelst > Margarita Manterola
+e7af7499979d5a5029ce86ad88806e54 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst > None Of The Above
+d84dc8af35da8cf6dee263c769c2115b || Stefano Zacchiroli > Charles Plessy > Wouter Verhelst > Margarita Manterola
+9bb4a466ac645f1e01da2409f7ab7442 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy
+45e4db891c020f1cdb42f6ff2d97e364 || Margarita Manterola = Stefano Zacchiroli = Wouter Verhelst > None Of The Above > Charles Plessy
+580bc7e3f5ab82f09c0f16405a84de8f || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+c4c5cfc2c89f18a902cb52e6c4e3d2a6 || Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Margarita Manterola > Charles Plessy
+2d192f0ed0071d9f40a6d5e9c0730924 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > None Of The Above
+f72dbb7f33f7307814ecde8375de38cc || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Charles Plessy
+956e287fd7d46b24a7154f62a16cf1ba || Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > Margarita Manterola > None Of The Above
+838906deca9fd5ef9af65683f2a23a12 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+92073b095709e1bbb9a21c176a22b08f || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > None Of The Above > Charles Plessy
+73e74b17044cc026e453f019a1638e42 || Stefano Zacchiroli
+8a2ddd346a2662d1f2cc290ea49f57c4 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy > Wouter Verhelst
+0e0c1185b5d218717b4b222530c8d3a5 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy = Wouter Verhelst > None Of The Above
+a2340cafd0aafecbad39142b00924b72 || Charles Plessy > Wouter Verhelst > Margarita Manterola > Stefano Zacchiroli > None Of The Above
+978e2c709d07edb1b847d5d4c4dfde56 || Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Charles Plessy = Margarita Manterola
+9034df5f5c77a47a39803d9b35db0c9a || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy
+c64831a4a6d0e980f327912fc3d3c7e7 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy = Wouter Verhelst > None Of The Above
+0b335f035a935266f50b7463a7879229 || Stefano Zacchiroli > Margarita Manterola > Charles Plessy = Wouter Verhelst
+c1f38d929dad3b8de5389ce50ee739e6 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+21b7d9c9fd853376a86c7d86c84428ec || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+dfae287c67061d8c68b3c966dc5ecc3a || Stefano Zacchiroli > Charles Plessy > Wouter Verhelst > Margarita Manterola > None Of The Above
+c054bf534448929feb823463b5f2f21b || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+d870320b66fda5dc2fd28a7bc0ad8cde || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy > None Of The Above
+7b8aa259b261788631b4d9280ed57523 || Margarita Manterola
+a7f16ababd9ee816ac0b7c39edf2d55a || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+9ba9b87586a74ca5fdc0cbaebbb55eef || Margarita Manterola = Stefano Zacchiroli > Charles Plessy > Wouter Verhelst > None Of The Above
+fef52f2e91cce0854e4dd0a4c4aaf408 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Charles Plessy
+e1a0c13c152d022be0b3da4a67485419 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+74ef801dc736bc057f095ed83b83ceee || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+7e8eccc39d5ec9ef6469f17ccbe81330 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst
+f3492776d65dd56456843c33a9e8be7e || Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > Margarita Manterola > None Of The Above
+9ce1c1960061a6903145894762ee66da || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > None Of The Above > Charles Plessy
+f05fcf747e107b3bf3d44d35bc3176d9 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+3f45e37bc76c904af82896a5887c4403 || Charles Plessy = Margarita Manterola > Stefano Zacchiroli = Wouter Verhelst > None Of The Above
+7217862bfaaba79b22fb9d405492d568 || Stefano Zacchiroli > None Of The Above
+fa0f5823da801816dbccf72b7d59ec77 || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+701d401baf89fb2c1e45519d784f789c || Margarita Manterola > None Of The Above > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy
+30d930f6002b371039f2c4a4550033e8 || Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > Charles Plessy > None Of The Above
+245f28be7ec5a23ea58741c5e4103ffa || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Margarita Manterola > Charles Plessy
+96c0682f1fd3de9eed60288ae0f5e192 || Wouter Verhelst > Margarita Manterola > Stefano Zacchiroli > Charles Plessy > None Of The Above
+41e7a32869eccc90670315ea87eb47ba || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > Margarita Manterola
+3c2e372f37b20ae2b5fbff8c5a7d7571 || Margarita Manterola > Wouter Verhelst > None Of The Above
+bef9c6797fb1d75d71bf1cc00b67eeef || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > Margarita Manterola
+b683c38b13246485c40390edcc8cf1ff || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > Charles Plessy
+f9b95a789950b1a192b0f1f86b3aac4c || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Charles Plessy
+b5766e58036f5af800c6c1410043375e || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above
+798b88896c9c16afdc34539259710921 || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy = Margarita Manterola
+1baa6b3e5d1bf30226603bf6548fe753 || Stefano Zacchiroli > None Of The Above > Margarita Manterola > Wouter Verhelst
+714f9d1632d50cff56d1890d3b3fe5ab || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+558f6ffbce3252eb6519454cee3b53cd || Stefano Zacchiroli > None Of The Above
+4d46d37a60302a1a4eedb677745c8d25 || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > Margarita Manterola
+52fbe543ece29e3fe2f1bcb597362ed4 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Charles Plessy
+59c989f91aab0be7c82e92edc1aed7ed || Wouter Verhelst > Margarita Manterola
+5b3e8fc57752c9c1c21c8a1aa68c0e4e || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+c51d33c26f195c736a2aa7632987588d || Wouter Verhelst > Margarita Manterola = Stefano Zacchiroli > None Of The Above > Charles Plessy
+d522ea557fa879c8d5a89d896f9d1424 || Stefano Zacchiroli = Wouter Verhelst > Margarita Manterola > Charles Plessy > None Of The Above
+e1e6acd7aa6f1fddcc52f50d454ceb78 || Margarita Manterola = Stefano Zacchiroli = Wouter Verhelst
+b5fc2c7cfc1bb96deb68cd4c0209aabb || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Margarita Manterola > Charles Plessy
+9fd7dfab141ab9b6ef8d67417c91f2f3 || Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > Charles Plessy > None Of The Above
+fb970778e2a351b3c1bbf577edaad088 || Wouter Verhelst > Stefano Zacchiroli > Charles Plessy > Margarita Manterola > None Of The Above
+12fbf50db8b55096b7a580ee566b744a || Margarita Manterola = Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Charles Plessy
+5603fae9e682db2ea93d0ec52db5fd8f || Stefano Zacchiroli > Wouter Verhelst > Charles Plessy = Margarita Manterola
+7fc3a75e2f0632f42133381f00031345 || Margarita Manterola > Stefano Zacchiroli > Wouter Verhelst > Charles Plessy > None Of The Above
+9b1118dfabbefc22f4ac48cc34f7e12d || Stefano Zacchiroli > Wouter Verhelst > None Of The Above > Margarita Manterola > Charles Plessy
+466a30a46897ff776d73940509128088 || Margarita Manterola > Charles Plessy > Wouter Verhelst > Stefano Zacchiroli > None Of The Above
+ba8d8f21800a39c890497a230139df0c || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy
+87ecb2960e8fd0c995faf1289d3e05b7 || Stefano Zacchiroli
+d2b8043ab9df209fd48b56206d968b71 || Charles Plessy > Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > None Of The Above
+db597bd0a29821db41f27a72e24ac5cf || Stefano Zacchiroli > Margarita Manterola = Wouter Verhelst > Charles Plessy
+29a0e51d0560ebeca3ea38bf817c8094 || Margarita Manterola > Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Charles Plessy
+4434aa78ec35f996919ae30e99c82ca7 || Charles Plessy > Wouter Verhelst > Stefano Zacchiroli > Margarita Manterola > None Of The Above
+f382b768f9724629d873b5059117b15b || Margarita Manterola = Wouter Verhelst > Stefano Zacchiroli > None Of The Above > Charles Plessy
+90baa646d8a4f3b8a323c6365917fbca || Stefano Zacchiroli > Wouter Verhelst > Margarita Manterola > None Of The Above > Charles Plessy

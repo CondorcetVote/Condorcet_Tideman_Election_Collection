@@ -1,0 +1,407 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+#/Candidates: Steve McIntyre ; Raphael Hertzog ; Marc Brockschmidt ; None Of The Above
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+0c1f2e033bce34b086e3dfc44bf2be73 || Marc Brockschmidt > None Of The Above > Raphael Hertzog > Steve McIntyre
+95d4007b7158a71f9843773ba88e38ba || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+94fb3e3ed86134b3918d32f113252fca || Steve McIntyre > None Of The Above > Marc Brockschmidt > Raphael Hertzog
+ed0370dfb2af2deacc79d29f27ef3342 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+2e2ef72dfb52632fe0d53c9aae41144b || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+170dd426039eaf5aa7b73f34764c831d || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog
+c7cb23446d29c5171006265506262606 || Marc Brockschmidt > None Of The Above > Raphael Hertzog > Steve McIntyre
+8721102903681cb30d47912dd2b43967 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+6321a9e1d066e6094f166c29129e13ef || Marc Brockschmidt > Raphael Hertzog > None Of The Above = Steve McIntyre
+99a88d938a9282396feb9a22264e2328 || Marc Brockschmidt = Raphael Hertzog > Steve McIntyre
+dfca5ffcadb2e705adf10bc7503ded9c || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+af7911861843e8ff69f6828921b5b584 || Steve McIntyre > Marc Brockschmidt > None Of The Above > Raphael Hertzog
+779caf791b178007ed5134d023bbd3d7 || Steve McIntyre > None Of The Above
+20301a5121581e1d778251bb2aaa2b8e || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+3c56f7af69dc2eb1dc7014b3d35ba787 || Steve McIntyre > Marc Brockschmidt > None Of The Above > Raphael Hertzog
+3afc8edc7bec6357540e10cbb0340bc2 || Steve McIntyre > None Of The Above > Marc Brockschmidt = Raphael Hertzog
+135774400226f519d5bc8480e9adebc0 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+3db71e1f9cc10fc4bcc5b01431cfc03b || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+78a7b922b6c6acca90d2ad85e859a315 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+594f4fe4d76db71c97b16ddb38915dcf || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+8a5850a917a70575c571f0e2fae43637 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+c1d48d1db9e011e59374c3d047f3179f || Marc Brockschmidt > Raphael Hertzog = Steve McIntyre > None Of The Above
+d8d0ffa0d8217b93f7533110dd31392a || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+bddb64bf0167da0d8187bd0781cc354f || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+01cf8a283bdec52000585887d197778d || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre
+1c8f02130b898efce50824f1bbac1aae || None Of The Above > Marc Brockschmidt > Raphael Hertzog = Steve McIntyre
+2ee473fa3d6e38cfaf65f33f390761a4 || Marc Brockschmidt > None Of The Above
+ce6456af547b3c8472cdb56749dac923 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+8c58eac634118f66e716571b5f88b1bc || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+86b03022c97f9d95dd6ae29a3f3bf8f0 || Raphael Hertzog > Steve McIntyre > None Of The Above > Marc Brockschmidt
+7c9e0313aa4c6c68cf0c3c6300a82e70 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+9325170201c189fb01b8f62474e0d3f9 || Raphael Hertzog = Steve McIntyre > Marc Brockschmidt
+4c93e5072e46b316172cc50425a5f138 || Steve McIntyre > None Of The Above > Raphael Hertzog > Marc Brockschmidt
+9959458fe45ffd83adcde5ab366b41e1 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+d83293bb7be9802fdef59b32ca18f928 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+57740ac0a281621dc04cfad53819e672 || Steve McIntyre > Marc Brockschmidt > None Of The Above
+f93690660d405d1519e9f0e8869a215e || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+8421c34fc1fc5193bf09f9ee12cc74d4 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+126152d64efb29418ec2f8b990c92138 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+42c37785d2462995ec18118180e63882 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+8c75df2c85b0cca8e60f10e05276f99b || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+3c0903094a263627bf0b45a80c5e0a3a || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+f310fad7d0ab92b9ae1f902153992e8d || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+748e6194a336a7c02a2b96cd01d7029b || Marc Brockschmidt = Steve McIntyre > Raphael Hertzog > None Of The Above
+28bbedce83b073afdb11c69df1bcf9a9 || Marc Brockschmidt = Steve McIntyre > None Of The Above > Raphael Hertzog
+4460c7a6b00c3736dd37f761d102826c || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+e274f9b1e7c388de837864eafe479e3f || Raphael Hertzog
+a270c9d59c97d3da50f93a90c03ad1f4 || Raphael Hertzog > Steve McIntyre > None Of The Above
+ae33e0d7af95cd1082ed788e7c2d3206 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+e5de109318c77d78c77becdc66d499e3 || Marc Brockschmidt = Raphael Hertzog = Steve McIntyre > None Of The Above
+5f7b15db30ea73f159d3711eee35b4e9 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog
+325f840c90b21bbfd9c424a6dce93f7a || Raphael Hertzog > None Of The Above
+67eaede3027abaf60d9761e135dcf5d8 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog
+a1aacce54e98b323675a825749febbe3 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+a21562c8ad040d0e85166bf3230d9abb || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+be170d77e68c3f75e36d2a3bb36378dd || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+f84c076498926d62b6a0c9ae5cffce00 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+2ce54d91a6e71efcbc37c63d4260135a || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog
+fdff750ad088aa00445e3602975a0bcf || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+92981405d9db9869dcfd9377c242a54f || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+d3e7396e1298c2fbfff350d9a5643fb4 || None Of The Above > Steve McIntyre > Marc Brockschmidt = Raphael Hertzog
+2fcdcbeaea4226da004a7e12b855acd7 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+744cdb21cf92b6ff4edb6d275ed1447f || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+e85e7fae4c10a6198c089169f4257cb4 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+dcc0da00cc42048d6c33f04b5d880a7d || Marc Brockschmidt > None Of The Above
+725e3a020ddfb36dede094e4eeab4883 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+05e9ec22894f90b75a80cc98c62ce987 || None Of The Above
+2639f5b1e9ce9c370ac2c0c1d34478ba || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+8d64f445c10cb340de5ef0beddeea1db || Marc Brockschmidt = None Of The Above > Raphael Hertzog = Steve McIntyre
+6b362bdc94d058a33622b4d7e62324a1 || Steve McIntyre > None Of The Above > Marc Brockschmidt > Raphael Hertzog
+da475c7bf153418a35a466b57cba39ef || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+a75ec026365396653e17ca06cb80dd45 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+2a9df172fc790254a3f1ec2d02611256 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+a3456da60a1e35bcbbfaca1c07494103 || Marc Brockschmidt > None Of The Above > Steve McIntyre > Raphael Hertzog
+1f3b617c733a51fed6804ae9bd619511 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+51cb8958aed107ed05313f983948dc5e || Raphael Hertzog > Marc Brockschmidt = Steve McIntyre
+81d2c883cd441338261c55ec654c3ad4 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+6ce4fa05a14263de318c6fa75f81455e || Raphael Hertzog > Marc Brockschmidt = Steve McIntyre > None Of The Above
+c592b79cc306143050808a6624cab40d || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+25186fb0b50cb481c0ae2bb65f039c65 || Marc Brockschmidt > None Of The Above > Raphael Hertzog = Steve McIntyre
+a01fbfff625bd9e0a37b46d9b6ffd9e6 || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+8f808df818df23d97cdd500ec22f228a || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+a2773941ae66857402fba4ed47112598 || Raphael Hertzog > None Of The Above > Marc Brockschmidt > Steve McIntyre
+ccdcce005aecae936aa91bddf047922c || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+1cb94e9d1d78e36131bc6730f4edf45c || Raphael Hertzog > None Of The Above > Marc Brockschmidt = Steve McIntyre
+4246ddc005de7859a4e6bc7bff2b447a || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+47c00cac3b8b2154bb721b53a1f58fc3 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+ec33f43fdcbb108ff6e0c99b0f684739 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre
+86c35cea80ee5e9807db089ac3764d90 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+e07c7f325ecb0434622daac2b07050b9 || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+dcd4efe97fca696dc8a075dd99cda509 || Marc Brockschmidt > None Of The Above = Steve McIntyre > Raphael Hertzog
+3fd97fe8fabb7b40b28e898bad241b34 || None Of The Above
+7e36b919464186f33cd8e0d48ba8beec || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre
+4a7a0a382b082da3ea514af6c7bf45a7 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+ce745929626a90d6d851d3d9a327974a || Marc Brockschmidt > Raphael Hertzog = Steve McIntyre
+c22f3a23362666e5c9aec4b20160ff90 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+87ff512f0a693be91f396b7d62f04f3a || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+3e243e660dc88ee484ab0a0eac093d89 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+dc1e9bb76b55dd1adef0206adfecc166 || Marc Brockschmidt > Raphael Hertzog = Steve McIntyre > None Of The Above
+e3dde5d4aa25fd0b96e43974179fff92 || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+e5c5498639947eb7f4e4114fccbe4d20 || Marc Brockschmidt = Raphael Hertzog > None Of The Above > Steve McIntyre
+ab3764c8e41462a185b983dac0d4a74e || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+d6bb40d17268145f3ece64b18b1d8617 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+77117084962c74fc1a41d273d9286f9c || Marc Brockschmidt = Raphael Hertzog = Steve McIntyre > None Of The Above
+f1b51f2e642d6e89d039b4142170a273 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+94ba63e46dc6808e1df00c8d29787a9b || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+25a95753f464c86aa25948d107af7468 || Raphael Hertzog > Steve McIntyre
+319eb844fb954b62604699dcea8e93aa || Steve McIntyre > Marc Brockschmidt > None Of The Above > Raphael Hertzog
+fecc54d2d4574624d2ebb816a4939fbc || Raphael Hertzog > Steve McIntyre > None Of The Above > Marc Brockschmidt
+e9d39a8717316c752e65eb5b9662f41c || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+3e5d6d527c218404aa739f6923eba341 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+3f6eff2a922fa1179959c3502d67aae1 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+d19cc4345f889966906c81e472d1a18b || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+4107bf1ce3fdffc9aa4d52de56c20373 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+987e24ac14ade78f00f9a1e9c1e2a5fa || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+5fc68a31904a5b944ac12513be4094f5 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+14b589665517d41ce33e6db02e549a8b || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+a855eaea7da5584a9283263652aeb625 || None Of The Above
+c301500f3f512f8fdb7d90467926e086 || Steve McIntyre > Marc Brockschmidt > None Of The Above > Raphael Hertzog
+cfe0c730d90ba60aa37f135d6787fc24 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+fc712c11d55deebedfb8bac18691ee97 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre
+b658a744b4fa6de9dfb5443577d8b507 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+400088f9d8ed409a9dbd38431f5fcfdf || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre
+67e796f83dddc3c796caa46ef77102a6 || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+6897dc3fe4369fbb8e20a5d4b91d2769 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+fb7a5f0ef946e446b5857bd5458e2a25 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+17bbe87bcc985ee04cd74dbeb6b745d5 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+a70d441abfc35823395e52ef78f23e41 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+1382f72bd9264a0a79bbb81181b87342 || Raphael Hertzog > Marc Brockschmidt
+9ff08d38aea4513ac602b80eefccebbf || Marc Brockschmidt > None Of The Above > Raphael Hertzog = Steve McIntyre
+2d6f59fb6ac5c238d70b9543c2dc41fe || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+67bb6575dfb1672a34f902590d69469b || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+1a8f0d1d4d31352f89b6f150026bdb46 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+fb2efb0caba6ba68011945e8047913d1 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+53ad97e2dc76c9a0d56c06e027aa1836 || Steve McIntyre > Raphael Hertzog
+27fb8ada68f09c60fcc4cda2ab432457 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+781eb98b94444b4b0d278bfedca3f771 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+473a10fb59e38f309cb189eb9efac3b1 || Raphael Hertzog > None Of The Above
+41655c3c9e68800d06020c08033159a2 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+91ddf1405f8ee2369ab65986738ee312 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+0a426bf0452872697d74551f75d1cb22 || Steve McIntyre
+dd0027836ecd7309ca0e77c18ba25f3d || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+ea2814355d0eee3ad67969532a77e796 || Raphael Hertzog
+f25b8d69bfac2ac3ccac10ff01477d4c || Raphael Hertzog > None Of The Above > Steve McIntyre > Marc Brockschmidt
+02eb972d4b4783e075a65479f3a9b864 || Steve McIntyre
+d3a7debeaed6aa2b5942a6f3cd22ae37 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+add19fc7cfc65a6f34a99bf1d6707943 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+a667b19c95f005efdc38594ba582cf70 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+e5cacdf9719b577656a8164a996fa8e8 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+a6dc9515efe87b1b1d536497a855e53e || Steve McIntyre > None Of The Above > Marc Brockschmidt > Raphael Hertzog
+e5570eaa4fd80b5e2f59ee891fcbc32d || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+dd230a72059a407927c2e89aed6714d9 || Raphael Hertzog
+b5f3b385d440f71bff6896c678028799 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+ca966f5c61281c6d7f2099c746d306f9 || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+5f6ea956df4324aa5156912874bf16cd || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+5c2892ac7f951bd4756c44c4c0ce941b || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog
+ea6763b0b29bb0fc528389ddfd976e7a || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+af287985596585db3335b4f8b15b2de8 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+6bd415c321ad13fe451f5cf3573a479a || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+7b62a29ae4addc1c9b27745394a649d7 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog
+63c0d9277f66588fdd356bc2e01c3f47 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+248dee28e059d7b6662d218cff8750ef || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+23c79cc8bdad0237243b812b15b01b4a || Marc Brockschmidt > Raphael Hertzog > None Of The Above = Steve McIntyre
+7e507f4ab1b08234e48e463e4516fdf6 || Marc Brockschmidt > None Of The Above > Raphael Hertzog > Steve McIntyre
+bf05f9b04ccfd61d70e7e9d0162de967 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+0068426c28df4ae2bd3ab771f8bab1ef || Raphael Hertzog > Marc Brockschmidt = Steve McIntyre > None Of The Above
+91b85b9cb80bbb57255fc904495247da || Raphael Hertzog > Marc Brockschmidt
+20878d52bf943aced438a575e4f30651 || Raphael Hertzog > Steve McIntyre
+87732bf6b02bf7e68d960c3e1b298dda || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+fc052bdcbb16bdf2217c50e9979a0f82 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+15f8f372795efa18620d3e9bb6225628 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+aacb6cb593ed3296ccefe4e47d4f169d || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+332aebccf265af992ca116f82f243313 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+58b60731c0597a0bbff67f868a5da194 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+2f28c0d04214dd0c5fb67ae5665d40bb || Marc Brockschmidt = Steve McIntyre > None Of The Above > Raphael Hertzog
+0fbeeec175ce4845a5e863a8b1190d81 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+fe5bce3eea0c908d32b66f686c1c29de || Marc Brockschmidt = Steve McIntyre > Raphael Hertzog
+61a793cccf1de54828c75e3bbc3ee9a5 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+03967029c5f983d916cef6724c2785d7 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+c5c01c28f64a9ac3e9e07150791a2526 || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+28087e1d9d03c306348cff3ecde40ae4 || None Of The Above > Marc Brockschmidt > Steve McIntyre > Raphael Hertzog
+e2f8082ea045d77a1e0a82bb8f8c2ebf || None Of The Above > Marc Brockschmidt = Steve McIntyre > Raphael Hertzog
+d47f1f7f011c21a1906f1752463e379c || Steve McIntyre
+d662d64011a8cffd822a72740833c1e4 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+011352ddb790ff64943427412a11983e || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+3f96063b5c3c67fa1fee6ec831a8164f || Raphael Hertzog > Steve McIntyre > None Of The Above > Marc Brockschmidt
+b4ff41af39027179674c944e5fd942e4 || Marc Brockschmidt > None Of The Above > Raphael Hertzog > Steve McIntyre
+022f37d4532b3cf9608c311bffda2cea || None Of The Above > Raphael Hertzog > Marc Brockschmidt > Steve McIntyre
+5957ce241c3766567afde3dec833adf9 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+18a448bf33775ebe750057a387a8b580 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+f69cc7049f6062840af9490b5575b4d3 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+547face265ab9e059ec060bbadb7a0e3 || Steve McIntyre > Raphael Hertzog
+d323cbef884a39efbd8957cf435a105a || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+2f76d7b82219db40df86f8cfaf6cac1c || Raphael Hertzog > Steve McIntyre > None Of The Above > Marc Brockschmidt
+8b212c0c0347241746d688cac2a57ecf || Raphael Hertzog > Steve McIntyre > None Of The Above > Marc Brockschmidt
+f309ac1aade64484aea34a28a17935df || None Of The Above
+b6d3cbcbd1a982b18fcb1c1724e32dd9 || None Of The Above > Marc Brockschmidt > Raphael Hertzog = Steve McIntyre
+3aec1c7bb09005d2695fa7a96110b532 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+57988efc8c2721921efe0db460ceff12 || Steve McIntyre > None Of The Above > Raphael Hertzog > Marc Brockschmidt
+1e85b8aa11a8452d8e17a70dc83fb253 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog
+195bf9b941bc7566bdb5efe53a63717a || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+134d3846c1d82f7b95e43d52b89d1f63 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+0698e2ab0c6d9b59bc90807ea5530a1e || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+3efdfddeef4c4b98fc5fa035e2f01454 || Steve McIntyre > Marc Brockschmidt > None Of The Above > Raphael Hertzog
+1a6d4013f04c1a5fe934f31c6258ed36 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+49d5d2074c3b728434ad7157b23ede4d || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+2dd7b3496231a30e024eb9d8eacdea9c || None Of The Above > Marc Brockschmidt = Raphael Hertzog = Steve McIntyre
+0e7be936669c2a61e75f449a05a3f62e || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+d0b1e4db3bfc7bed0acd1fb5d59eb92b || Marc Brockschmidt = Steve McIntyre > None Of The Above > Raphael Hertzog
+4b16cd87e5e4f449510bf60e58d5495f || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+48499240b0462468cfde2f8d6015282f || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+fb5ecc9be26c877862d1fa0cd53b9c28 || None Of The Above
+2df5c1789e5859cdcf62e038e7e8b7e0 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+55b9c67cf52f6ffe20cc9bb79f832d92 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+9458b45e7103f07769266642859f024f || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+a19fc38bc5ee5d21c053e0a9dffd3548 || Steve McIntyre > None Of The Above
+11250891309852fa603e460259302db5 || Marc Brockschmidt = Raphael Hertzog = Steve McIntyre > None Of The Above
+d74bb71600a3cc6ac09d6b56a4226235 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+fac8d4386c522c4d069cc32a736695f7 || Marc Brockschmidt > None Of The Above = Steve McIntyre > Raphael Hertzog
+e4672e49d5cb06942495ceb71bbcd066 || Raphael Hertzog > Steve McIntyre > None Of The Above > Marc Brockschmidt
+b6426a00109f280cc7f93406d2f2f763 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+4eee89f1101af811672d621af0c067f3 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+52b06cee68a83c24fb725f7f1568761b || Raphael Hertzog > None Of The Above
+0601cf427d1367a8a9988ee66e4cf76d || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+a5f55ce11aee0a63410c4547da661a49 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+22555622535703323ab360c85cddc558 || Steve McIntyre > None Of The Above > Marc Brockschmidt > Raphael Hertzog
+9cdd28b26854b2d423066d070b5e9694 || Raphael Hertzog > Marc Brockschmidt = Steve McIntyre > None Of The Above
+ad128a454b23f932b84811901b9572ab || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+35be5c1d0a599117d5df8e4ca65bbc7d || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+dde9449286dab56915e49692b2b200f8 || Steve McIntyre > Raphael Hertzog > None Of The Above > Marc Brockschmidt
+3dbb4a3d5bcb9d9921c6663ddd8819ae || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+d5ae26abbb7b8b0a73305c612aa1348d || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+a5ba18639999f8f2829b8299d98ffff0 || Marc Brockschmidt > Raphael Hertzog > None Of The Above > Steve McIntyre
+c1f5be9d5a6ff9c4a8a569f60440adb6 || Marc Brockschmidt > None Of The Above > Raphael Hertzog > Steve McIntyre
+cbec5f1529506b235120e95e277f8f92 || Steve McIntyre > None Of The Above
+fa4470b97538c9c6947ed7e5675baa07 || Steve McIntyre > Marc Brockschmidt
+ebc627f9e4d7dbfff5ec3101d18f4969 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+89d32ec4bbe515644e8364297ffcf581 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+cd0f6f65492bece7c749ebd1208f0833 || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre
+3ef71984c5ff7bbdac2d4559065735ae || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+b337ce0efdadf9b6f3bcf479a7eb5f88 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+8d39eb14bc09464b14dcf68bb029dad0 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+1162f8342415f983a21ecd7546b14c5a || None Of The Above > Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+ff0e1d81b77c342a8350173d8b39b80a || Marc Brockschmidt = Raphael Hertzog > Steve McIntyre > None Of The Above
+cdd45c5c3a571944cc11da30768bb756 || None Of The Above
+ad87b01a4d0dcc2ed589763865cf6011 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+62f3875ca800339415dad4faeb22c124 || Raphael Hertzog > Steve McIntyre > None Of The Above > Marc Brockschmidt
+68baf6aef5a494d9f974c55ed0373d11 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+684f2568c9a7e093d168cd05bd6da333 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+245881eb8ba27d458b2010fdebefd673 || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+91a0b7539a4300c2c429215bbd0d60d6 || None Of The Above
+8cd99bb25e1fa9ddc7985692618bb77b || Marc Brockschmidt = Raphael Hertzog = Steve McIntyre
+131bae0ca0a07df2305f013fe3febd14 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+6c485bf424728a9be1ba37d3cb0a0530 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog
+3921564104aaf4a7824ea506d521eda0 || Raphael Hertzog > None Of The Above
+ed9b6d841412ac93f153302c037aae14 || Marc Brockschmidt > Raphael Hertzog > None Of The Above > Steve McIntyre
+461189e7c0cb70189331e9c22b8e1cab || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+afab197af483c583e09183d715962de0 || Steve McIntyre > None Of The Above
+4a6bdaaf73f704358f4cbde984741751 || Marc Brockschmidt > Raphael Hertzog = Steve McIntyre > None Of The Above
+5b80fe763ad1260ca6ef72b0968eb928 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+8dda5cc8e878e8f4f8e31e121d68ae70 || Marc Brockschmidt > Raphael Hertzog = Steve McIntyre > None Of The Above
+8e590d6bcb29f1c7963b2bf3da539681 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+4463130dacff49917d0a9ba284732dc9 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre
+bb796d993dad815493c81b568047788b || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+eb0bdf4595fc1987870fe5cfd7a9ac22 || Raphael Hertzog > Marc Brockschmidt = Steve McIntyre > None Of The Above
+8bfcb0b027988a3d72975d79e8cb1b77 || Marc Brockschmidt = Steve McIntyre > Raphael Hertzog > None Of The Above
+ccfd2c3437e97c1baca4147eee19a370 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog
+abaa2bb4c288a539a301b3e14ae345a1 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+931a6ac2b5d8c23968e9022d63516f3b || Marc Brockschmidt > None Of The Above > Steve McIntyre > Raphael Hertzog
+db1baeebc6d47d1c729f17d60f8eb56e || Marc Brockschmidt
+7f86f682c469c5ae0525f1830ae75a87 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+6fb86a4bb8d9cd693e6cf7363e7c3c52 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+c7bde5bca636dd5c87ed9b90eeb1b117 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+fcb386a66e9894f95a544b10a7b0c05a || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+ab7f200ae010ec6d690cc882866d8694 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+81ab5e8c90d34afb555c1df005dcc084 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+01dac73abb1825915400bc57b57c4af4 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+d52a048201de92815966f84b16947eca || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+a5266c7d15c940733c250cc6f02c0a5c || Raphael Hertzog > Steve McIntyre
+482cf8cf297be6bcb5796bfd7e7c9078 || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+6f6429751d751f0b865c822cda6c2c4a || Steve McIntyre > None Of The Above > Marc Brockschmidt > Raphael Hertzog
+3a72c76fbc9b27a4cd11a1de42c47de8 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+94f3782b8505596b4c87c1d9860919bb || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+45e537f8512c5a12aa2b64f654e27c9a || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+ffa0e6b4ac821c03fbe7057c8065e8ea || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre
+4f583eaf654a0b79d91edb46872dc4ad || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+8c28093b80c1fe096f5174d3ba09d85c || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+1986de9226b3ac5cf31659896cd5b3f1 || Raphael Hertzog > None Of The Above > Steve McIntyre > Marc Brockschmidt
+cab9f6fdf94a564a101f8ab85867fb94 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+8ce0ee1ebb2ed387505e7fe5b6483663 || Marc Brockschmidt > Raphael Hertzog = Steve McIntyre
+cd21428e0f3bce6dde29fdf474efdeef || Steve McIntyre > Raphael Hertzog
+1178802d81c845a467de36a61ce37816 || Marc Brockschmidt > None Of The Above > Raphael Hertzog
+1325eff45ba227c98a882f17a01c0138 || None Of The Above > Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+482da386928789925d71c3676bc80ed1 || Raphael Hertzog > Marc Brockschmidt = Steve McIntyre
+3775bc510d04049c781bc1bcf327fc08 || Steve McIntyre > Raphael Hertzog > None Of The Above > Marc Brockschmidt
+a83afec921715bf94a273b553ec0d789 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre
+c7600812f89e5eeb219149b8e67cdc1e || Steve McIntyre > None Of The Above > Raphael Hertzog > Marc Brockschmidt
+5b783a2ae5ae911b5ea9cbb71ab7882d || Steve McIntyre > Raphael Hertzog
+4b2326066fab133765c7d03abc1129d1 || Raphael Hertzog
+02ec2c012de60d26653cd9431e848f2e || Steve McIntyre > Raphael Hertzog > None Of The Above > Marc Brockschmidt
+7026a74e822e69f5af853f07b9cae456 || Raphael Hertzog > Marc Brockschmidt > None Of The Above > Steve McIntyre
+13d58687d52ff4537b7230e3ac0dde19 || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+673f5991076c87f04e7678a3e3807296 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+7d33663069ea9d65727138633df05992 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+b3bd1c1b2626b9f9dbea01b570896b20 || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+d1db9c281e56ac74c89a1b4db7d43b93 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+53fdec323b1fa9544c7f38ea4a935a99 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+cdba7d6e50941bf2d3dde7e7261bfa72 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+347eef2c668455775094a9f30a00524e || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+67a129637f026b2144dd2d1ea8e45865 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+943591467d5465123d776a9f21aeda45 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+5484ef84cd7536c2158e863b615fe953 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+2942c714de1d0376b6091bc715a0cda1 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+7dcc82acfc31160bf0394b804a33a59e || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+b89703317c73231e8076077656f4daed || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+1d08e0c9ed156a440d5708cfd891eae5 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+3cb9324fbe573a4ee0815077e74d2c76 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+3a539697226e3919f6ca403eb4d25bc9 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+99c25c67ac9073d237caae6db9961d48 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+7d0aba760124fb27ffb8c8b13891c7f0 || Marc Brockschmidt > Raphael Hertzog = Steve McIntyre
+f9003b00bf414f855642eb3f452b7697 || Marc Brockschmidt
+4678b6395dc858aa90774248800e0de7 || Raphael Hertzog = Steve McIntyre
+bd5db6642f98d40f911b23513246c6e4 || Marc Brockschmidt = Raphael Hertzog = Steve McIntyre > None Of The Above
+8dfa58e6c19823cf1074d5f5e49eb8e6 || None Of The Above > Marc Brockschmidt > Steve McIntyre > Raphael Hertzog
+d40deea870e38e8107d958a0c5c95165 || Steve McIntyre > Marc Brockschmidt > None Of The Above > Raphael Hertzog
+6957e092ca9ba939582ef6f76261c4b9 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+1ebec8f6e05bcd49e7f8d544a858114c || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt
+b562a3775208b0fbde63a7e55eb44ead || Raphael Hertzog = Steve McIntyre > Marc Brockschmidt > None Of The Above
+9c4c18e50a20f7f8a8ed76c1b1af6a2d || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+785b953fe060282216b4a810ca2bcf97 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+4c89303962e65f072be73263635e7b57 || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+2c6cbbad7abe1a12707d4362bbdb43d6 || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+ac414ca7d71c1bb6d20c6679866b02c6 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+28a62ed5a0ac7c360d744f0922c07303 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+da8b0befe4229cdb2f857a201a63c61a || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+a16142956744ae82842c0b7d8f52703c || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+9a16d9cbffc939ad90b75e18c9a2e2c9 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+9e67a35c3d72ef590ec9901d13513cfd || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+312f858ff8ccd9f1dadb20edde40d912 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+62b7e60882e89c3345569c1cb3db1242 || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre
+7257a49e4e2924b09ecb3aaa262471ec || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+88b4d45e73f834d4b6a5340bafd3eec3 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+dfc545edeb3fce81af59406643c1e098 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+b8d0fadba08d20dee8f8868db56d89d6 || Marc Brockschmidt > None Of The Above > Steve McIntyre > Raphael Hertzog
+303446bb23973e7b27784cd4af230a0e || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+74365fe15447430d7e17710b8c106fca || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre
+0a3e25636201e86f7617b40f28ae99a9 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+fb7739f193bf8d4c02e5922d85a7b59f || None Of The Above > Marc Brockschmidt > Steve McIntyre > Raphael Hertzog
+d9fd6b03298186f4db5fb960c7a88ed5 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+ebeda6c5a762c66df192bda822218269 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+b8a31059555cc9a416d3bbec312b838d || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+e5241815c7a08e6a3e0d9cf4107046ba || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+a6574233d4bf5698f91af4208dcf14f4 || Steve McIntyre > None Of The Above > Marc Brockschmidt = Raphael Hertzog
+044d3d32a701dd0107ed86e1b622306f || Steve McIntyre > Raphael Hertzog
+930f3903afa34e8d00e013931c1a5a2e || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+4dd819f65fa9f36c85e6a21a6ed04285 || Steve McIntyre > Marc Brockschmidt
+1608a5daf56cc8bfcb4418f88346d919 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+7dd7b045ae296adc6ad4b3054afa6df0 || Raphael Hertzog > Marc Brockschmidt = Steve McIntyre > None Of The Above
+114ef9c2fc29b5ab792b93721dad66da || Marc Brockschmidt > Steve McIntyre > None Of The Above > Raphael Hertzog
+f97edbae1749d2f0741c20418cd77882 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+73eac89f9bb40548b38e0e972d8816d6 || Marc Brockschmidt = Raphael Hertzog = Steve McIntyre
+740294805c6eb73f4bb2e3ef2a409c9c || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+f5f95bcf9617ffa8c74c155f93666938 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+d63b1f361e5038fc53d5de14401fd4db || Steve McIntyre > Raphael Hertzog > None Of The Above > Marc Brockschmidt
+92ab76d04c86a3ded3c934ade2e08d63 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+1673445c0173240779af522684918728 || Marc Brockschmidt > Raphael Hertzog > Steve McIntyre > None Of The Above
+ed0db17c960164446a50bede5f88bd2e || Raphael Hertzog > Steve McIntyre > None Of The Above > Marc Brockschmidt
+9e43b5f29ab9ca86a349398a0e5ed726 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+3225abce4561f74e110684934cf459f4 || Raphael Hertzog
+14741f633f87f0eb855d95e31ef3e598 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog
+829189e0bc287e8b743b4b13a023d1c3 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+65af7d429bad2a6a240526ba4dcc2818 || Marc Brockschmidt > Raphael Hertzog = Steve McIntyre > None Of The Above
+9a6e3c18360a1f5b1b8d612cafc2813c || Steve McIntyre > Raphael Hertzog > None Of The Above > Marc Brockschmidt
+66ef49d52e26d80d197dfefca94087f9 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+3bb1ae38a71d6102a1b50ac1d717a061 || Marc Brockschmidt > Steve McIntyre > None Of The Above = Raphael Hertzog
+64a9e142021e133db37028fcfc9986bb || Raphael Hertzog > Marc Brockschmidt = Steve McIntyre > None Of The Above
+a38f4182ffa329797f6aed7a55a3be89 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog
+39f16f16a602bfa08eaa3e3d8f214f69 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt
+dba50e2c0d766b082fa0bb49223c1aeb || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+690d2493b81f1bcd33d3f99e27b905e1 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+fc45868b82a91178a28ea50ab3d8ef29 || Raphael Hertzog > Marc Brockschmidt > Steve McIntyre > None Of The Above
+8622aae13703441dbaab37d43a557f51 || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+a455f9ecf309f97dd6e3c7a66acf6589 || Steve McIntyre > Marc Brockschmidt > None Of The Above > Raphael Hertzog
+d72175d0996f5f6f21da713c2349356f || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+6f5079aeb3d93356447055abb6685ca6 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+45f7f4960ab49f46e0aaf156d1de251b || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog > None Of The Above
+db4cf7c12f8dae8bc534698d4817c624 || Marc Brockschmidt > Raphael Hertzog > None Of The Above > Steve McIntyre
+fe9bc633323c1a4d23a3cef5a4450faf || Steve McIntyre > Raphael Hertzog > Marc Brockschmidt > None Of The Above
+e4109543e8eac0e58670e9c296dfd6a2 || Raphael Hertzog > Marc Brockschmidt > None Of The Above > Steve McIntyre
+8f14d108063e07e443696c76836def7e || Marc Brockschmidt > Raphael Hertzog = Steve McIntyre
+64e5804bf724ee474e5dacf59f3f3f93 || Steve McIntyre > Marc Brockschmidt > Raphael Hertzog > None Of The Above
+f186a5735b9641250ed328a2c832400e || None Of The Above
+0fdb5ee4c38e1c2f0dd942aedd5f9303 || Marc Brockschmidt = Raphael Hertzog = Steve McIntyre > None Of The Above
+eb037806cc4ecd7ca27d9cbd21b33814 || Steve McIntyre > None Of The Above > Marc Brockschmidt > Raphael Hertzog
+d9199d0d9474afb06dffeb8f043f57e8 || Marc Brockschmidt > Steve McIntyre > Raphael Hertzog
+73bfe1e6196f5cbabcd6c6dd604ca48c || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog > None Of The Above
+ff3c885dceead80609d14f87bb1351e5 || Marc Brockschmidt = Raphael Hertzog = Steve McIntyre
+369ec5a558e25b689c35b5b36d085cfe || Raphael Hertzog > Marc Brockschmidt
+91b0acad2a2339c98f70d9009fbf3416 || Raphael Hertzog > Steve McIntyre > Marc Brockschmidt > None Of The Above
+99f51ef970fa7759166c828a41d0e946 || Steve McIntyre > Marc Brockschmidt = Raphael Hertzog
+2d8df63db4d4dbe95bf76d23c5cf3068 || Marc Brockschmidt > None Of The Above > Steve McIntyre > Raphael Hertzog

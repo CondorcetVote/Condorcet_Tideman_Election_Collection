@@ -1,0 +1,488 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+#/Candidates: Wouter Verhelst ; Aigars Mahinovs ; Gustavo Franco ; Sam Hocevar ; Steve McIntyre ; Raphaël Hertzog ; Anthony Towns ; Simon Richter ; None Of The Above
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+5de2d9bdec162e7ad7d475f7a3a912e0 || Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst > None Of The Above > Anthony Towns
+82779753e0665892a0168183b4d03db6 || Sam Hocevar > Wouter Verhelst > Raphaël Hertzog > Anthony Towns > Steve McIntyre > Gustavo Franco > None Of The Above > Simon Richter > Aigars Mahinovs
+8fc3f20b27697bbc84c5d14782ce29cb || Sam Hocevar > Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Wouter Verhelst > None Of The Above > Anthony Towns = Simon Richter = Steve McIntyre
+85a74c0916cb5df9b7c33fa49230ce73 || Raphaël Hertzog > Steve McIntyre > Sam Hocevar
+ec0aeebf04b664751df5a3113cdba64b || Raphaël Hertzog > Steve McIntyre
+3bc131481a5f0ac8d07748b93e275f0c || Steve McIntyre > Anthony Towns > Sam Hocevar > Simon Richter > None Of The Above
+4e58d78db380234727c3170416c9720d || Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter > None Of The Above > Anthony Towns
+737552a1b770c84bf44b12990d0344fc || Sam Hocevar > Gustavo Franco > Wouter Verhelst > Anthony Towns > Steve McIntyre > Raphaël Hertzog > Simon Richter > None Of The Above > Aigars Mahinovs
+5b6ecb7d1eff7fd31097659d49f7f9e7 || Gustavo Franco > Aigars Mahinovs > Sam Hocevar > Anthony Towns > Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > Simon Richter
+0b946ed4c6fb3f3751e0886822eb7871 || Anthony Towns > Wouter Verhelst > Gustavo Franco > Raphaël Hertzog > Steve McIntyre > Aigars Mahinovs > Sam Hocevar > Simon Richter > None Of The Above
+c6fa84467050016ffaf55542b74fbb8b || Steve McIntyre = Wouter Verhelst > Sam Hocevar > Simon Richter > Gustavo Franco > Anthony Towns = Raphaël Hertzog > Aigars Mahinovs
+c93cc619a255967030ffab7df2ef66d3 || Anthony Towns > Raphaël Hertzog > None Of The Above
+9897dfb2d83c8aa480ece204e81e2254 || Sam Hocevar > Steve McIntyre > Gustavo Franco > Wouter Verhelst > Anthony Towns = Raphaël Hertzog > None Of The Above > Simon Richter > Aigars Mahinovs
+00115bf3d3b02e3449305ebb7dfe375c || Sam Hocevar > Simon Richter > Wouter Verhelst > None Of The Above > Aigars Mahinovs = Gustavo Franco > Raphaël Hertzog > Anthony Towns = Steve McIntyre
+5cca377bbf7b08de0245764a31300820 || Steve McIntyre > Sam Hocevar > None Of The Above > Raphaël Hertzog > Gustavo Franco > Aigars Mahinovs = Anthony Towns = Wouter Verhelst > Simon Richter
+f71e69ff5942550e11505ef6896a0612 || None Of The Above
+5e3bd536aaec6eb14614b2a33d55b855 || Wouter Verhelst > Steve McIntyre > Gustavo Franco > Raphaël Hertzog > None Of The Above > Aigars Mahinovs = Simon Richter > Sam Hocevar > Anthony Towns
+a995aeb8bcb4b412ec7e795dfad9164b || Raphaël Hertzog > Gustavo Franco > Wouter Verhelst > Sam Hocevar > Steve McIntyre > Anthony Towns > Aigars Mahinovs > Simon Richter > None Of The Above
+2931ffdcf2d0e5e76131053141afbb28 || Raphaël Hertzog > Sam Hocevar > Anthony Towns > Steve McIntyre > Wouter Verhelst > None Of The Above
+16fb70036d9ef9054ee5e18490e65ffa || Sam Hocevar > Anthony Towns
+fcd1442e37dcd5b93e80630452beba06 || Steve McIntyre > Anthony Towns > Wouter Verhelst > Aigars Mahinovs = Raphaël Hertzog = Sam Hocevar > Simon Richter > Gustavo Franco
+570a5ee57b184758b7101bef1376512c || Wouter Verhelst > Steve McIntyre > Gustavo Franco > Raphaël Hertzog > Anthony Towns > Sam Hocevar > Simon Richter > Aigars Mahinovs > None Of The Above
+58a680be2eba20a5c56e0136c755e46c || Sam Hocevar
+8b4c2ac7df2dc0520d2dfc324f0938f4 || Wouter Verhelst > Steve McIntyre > Sam Hocevar > Raphaël Hertzog > Gustavo Franco > Simon Richter > Anthony Towns > Aigars Mahinovs > None Of The Above
+9faa59f85f4ef321bd3b7b1eb95a962c || Steve McIntyre > Anthony Towns = Sam Hocevar > Raphaël Hertzog > None Of The Above > Simon Richter = Wouter Verhelst > Aigars Mahinovs = Gustavo Franco
+6fd0574788f5e39d2f3ef5f419ff45d7 || Anthony Towns > Steve McIntyre > Raphaël Hertzog
+3e4019943e1c2a06086b8fa9b7f26b13 || Sam Hocevar > Wouter Verhelst > Steve McIntyre > Raphaël Hertzog > None Of The Above > Anthony Towns > Gustavo Franco > Aigars Mahinovs > Simon Richter
+7f12cd29047b33dbbd39f1baf299b2d6 || Wouter Verhelst > Steve McIntyre > Sam Hocevar > Raphaël Hertzog > Gustavo Franco > Aigars Mahinovs > Simon Richter > None Of The Above > Anthony Towns
+b5164cdf1389b949b2e9c9bcef97bfe0 || Aigars Mahinovs > Anthony Towns > Sam Hocevar > Gustavo Franco > Raphaël Hertzog > Steve McIntyre > Wouter Verhelst > Simon Richter > None Of The Above
+883b71a74f1dafdbabe41b7e9bd282dc || Wouter Verhelst > Steve McIntyre > Anthony Towns
+6cede7d373127b3f776572492f2013df || Sam Hocevar > Gustavo Franco > None Of The Above > Simon Richter > Raphaël Hertzog = Steve McIntyre = Wouter Verhelst > Aigars Mahinovs = Anthony Towns
+c57f0d386ac109a968890e96494c7d19 || Sam Hocevar > Gustavo Franco > Raphaël Hertzog > Wouter Verhelst > None Of The Above > Steve McIntyre > Anthony Towns > Simon Richter > Aigars Mahinovs
+e2f6b90c93ada18c05c4577f432b8249 || Gustavo Franco > Raphaël Hertzog > Sam Hocevar > Steve McIntyre > Wouter Verhelst > None Of The Above = Simon Richter > Anthony Towns > Aigars Mahinovs
+c8e99a4c0bce7b29dd319d798d917808 || Gustavo Franco > None Of The Above > Aigars Mahinovs = Anthony Towns = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst
+9f8220bf2318e743aedba861ea728594 || Anthony Towns > Wouter Verhelst > Simon Richter > Raphaël Hertzog > Steve McIntyre
+b75d57ab25da0dd20ba763e25a1e2f8e || Raphaël Hertzog > Wouter Verhelst > Sam Hocevar = Steve McIntyre > Anthony Towns > Gustavo Franco > Simon Richter > None Of The Above > Aigars Mahinovs
+38dd111235919341e256ca0beae75233 || Gustavo Franco > Steve McIntyre > Anthony Towns = Sam Hocevar > Wouter Verhelst > Raphaël Hertzog > None Of The Above > Aigars Mahinovs = Simon Richter
+2e12a634b4335369041e17192818ea4f || Sam Hocevar > Gustavo Franco > Simon Richter = Wouter Verhelst > Aigars Mahinovs > Anthony Towns = Raphaël Hertzog = Steve McIntyre > None Of The Above
+3951ed0cce057646f9cd78208b87c5f4 || Sam Hocevar > Aigars Mahinovs > Simon Richter > Gustavo Franco > Raphaël Hertzog > Wouter Verhelst > None Of The Above
+c8875690b94b5698d52a48e068928d98 || Steve McIntyre > Anthony Towns > Gustavo Franco > Aigars Mahinovs > Raphaël Hertzog = Wouter Verhelst > None Of The Above > Sam Hocevar > Simon Richter
+e205db0ec3a7fc454c6f4050e47aa992 || Raphaël Hertzog > Gustavo Franco > Sam Hocevar > Wouter Verhelst > Anthony Towns > Steve McIntyre > None Of The Above > Simon Richter > Aigars Mahinovs
+6dbff1a985e92da42f3fcec7a19307a0 || Sam Hocevar > Gustavo Franco
+23101224c5d0d377cef8f5e4c2e45045 || Wouter Verhelst > Sam Hocevar > None Of The Above > Aigars Mahinovs = Anthony Towns = Gustavo Franco = Raphaël Hertzog = Simon Richter = Steve McIntyre
+1eaaa132079955ea5589485e843646eb || Wouter Verhelst > Steve McIntyre > Sam Hocevar > Raphaël Hertzog > None Of The Above > Anthony Towns > Gustavo Franco > Aigars Mahinovs > Simon Richter
+a2a6d73a291f23663332156edc849cf5 || Raphaël Hertzog = Sam Hocevar > Gustavo Franco > None Of The Above > Wouter Verhelst > Simon Richter > Steve McIntyre > Aigars Mahinovs > Anthony Towns
+88ea4569c43c1736b4c505603916a859 || Gustavo Franco > None Of The Above > Sam Hocevar > Wouter Verhelst > Raphaël Hertzog > Steve McIntyre > Anthony Towns > Simon Richter > Aigars Mahinovs
+90d3b334e399882da35d69bc72726027 || Wouter Verhelst > Raphaël Hertzog > None Of The Above = Sam Hocevar = Steve McIntyre > Aigars Mahinovs = Gustavo Franco = Simon Richter > Anthony Towns
+cf3b91dea6391a8a3331d13eddd10b59 || None Of The Above
+e0dd82a30b72c1fa483215469f1b6972 || Sam Hocevar > Simon Richter > None Of The Above > Wouter Verhelst > Gustavo Franco = Raphaël Hertzog = Steve McIntyre > Aigars Mahinovs = Anthony Towns
+d7dab11af00b8028015098df5a1d3cb6 || Sam Hocevar > Wouter Verhelst > Steve McIntyre > Gustavo Franco > Simon Richter > None Of The Above > Aigars Mahinovs > Raphaël Hertzog > Anthony Towns
+43b414518d6603d5345ec4bfd08c7a53 || Anthony Towns
+b4b6417a49c0b1f38aa73adf0fde98fb || Steve McIntyre > Anthony Towns > Raphaël Hertzog > Wouter Verhelst > Gustavo Franco > Sam Hocevar > Simon Richter > Aigars Mahinovs
+16dafaa67afe1f28ad17f007e1eafb85 || Anthony Towns > Steve McIntyre
+864d806937c7b6ee21e381f6e8b6d699 || Steve McIntyre > Anthony Towns > None Of The Above
+abab795f67d507315e39b28884ee1247 || Steve McIntyre > Wouter Verhelst > Gustavo Franco = Raphaël Hertzog > Sam Hocevar > Aigars Mahinovs = Anthony Towns = Simon Richter
+1435df948819103e326dd285a870d7be || Anthony Towns > None Of The Above
+9a71f50326a4cc423e78b705efba39bc || Sam Hocevar > Gustavo Franco = Steve McIntyre > Anthony Towns = Wouter Verhelst > None Of The Above
+3d0d30383706da28452caee427ad520f || Wouter Verhelst > Sam Hocevar > None Of The Above > Raphaël Hertzog > Gustavo Franco > Steve McIntyre > Simon Richter > Anthony Towns > Aigars Mahinovs
+6595f5ab403c46ae3e5ebee012b5b439 || Steve McIntyre > Anthony Towns > Wouter Verhelst > None Of The Above > Raphaël Hertzog > Simon Richter > Aigars Mahinovs = Gustavo Franco > Sam Hocevar
+3d0e67d584384018f0dd6960a604665e || Raphaël Hertzog = Sam Hocevar > None Of The Above
+45f67677e48ce5733169537737c8e461 || Anthony Towns = Steve McIntyre > Raphaël Hertzog > Aigars Mahinovs > Sam Hocevar > Wouter Verhelst > None Of The Above > Gustavo Franco = Simon Richter
+62866e67f4dce3a01f3d970befc95175 || Anthony Towns > Raphaël Hertzog > Steve McIntyre > None Of The Above
+b73343c1560d714e065e72a8565036f3 || Steve McIntyre > Anthony Towns > Raphaël Hertzog > Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter
+97a23e6b79f7ee634d2521fbb1808ace || Steve McIntyre > Wouter Verhelst > Anthony Towns > Raphaël Hertzog > Sam Hocevar > None Of The Above > Aigars Mahinovs > Gustavo Franco > Simon Richter
+402b4bd1a358667dd1e695f510948f0a || Steve McIntyre > Anthony Towns = Gustavo Franco > Simon Richter > Raphaël Hertzog > Sam Hocevar > Wouter Verhelst > Aigars Mahinovs
+9008efe86a4ccaf437bf00c126f2a81c || Sam Hocevar > Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > Anthony Towns > Gustavo Franco > Aigars Mahinovs > Simon Richter > None Of The Above
+072cc65cd6b7e037301594be54a56afa || Sam Hocevar > Raphaël Hertzog > Anthony Towns > Steve McIntyre > Wouter Verhelst > Gustavo Franco > None Of The Above
+f8c7983399cfc9acb1e38054d970f9ed || Sam Hocevar > Raphaël Hertzog = Steve McIntyre > Gustavo Franco = Simon Richter > Aigars Mahinovs = Wouter Verhelst > None Of The Above > Anthony Towns
+3458172b1523f8ea96785bc156581a31 || Sam Hocevar > Gustavo Franco > Wouter Verhelst > Raphaël Hertzog = Steve McIntyre > Anthony Towns > None Of The Above > Aigars Mahinovs = Simon Richter
+2e78f4e0c2f641934c56fc7f8910b066 || Gustavo Franco = Sam Hocevar = Wouter Verhelst > Raphaël Hertzog = Steve McIntyre > Simon Richter > None Of The Above > Aigars Mahinovs = Anthony Towns
+7c747a75c8a8afe77d20f0949b3aaa83 || Raphaël Hertzog > Wouter Verhelst > Anthony Towns = None Of The Above
+f5fcaf54dce30ace7adc8688d2ba8aab || Sam Hocevar > None Of The Above
+8b433ccb9ae7e3b131f703d1a271edeb || Anthony Towns = Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter
+875dbffdbe89c5dbd8e832e6b892712f || Sam Hocevar > Steve McIntyre > Raphaël Hertzog > Gustavo Franco > Wouter Verhelst > Aigars Mahinovs > Anthony Towns > Simon Richter
+1def3be27460b7c59799672e535beef5 || Sam Hocevar > Raphaël Hertzog > Gustavo Franco > Wouter Verhelst
+59b6c624b34091e14cc3ca2c490b3719 || Sam Hocevar > Gustavo Franco > Wouter Verhelst > Anthony Towns > Raphaël Hertzog > Steve McIntyre > Aigars Mahinovs > None Of The Above > Simon Richter
+fb92a33b945d36f3f8051c0049a96646 || Sam Hocevar > Gustavo Franco > Wouter Verhelst > Steve McIntyre > None Of The Above > Aigars Mahinovs = Raphaël Hertzog > Anthony Towns = Simon Richter
+3a0053ac583871542503eb0e8dba7fee || Steve McIntyre > Anthony Towns > Wouter Verhelst > Raphaël Hertzog > None Of The Above > Simon Richter > Aigars Mahinovs = Gustavo Franco > Sam Hocevar
+0bbf5448890cfcf57a0fed19efa324cd || Steve McIntyre > Anthony Towns > Wouter Verhelst > Sam Hocevar > Raphaël Hertzog > None Of The Above > Gustavo Franco > Aigars Mahinovs > Simon Richter
+e7db684ce9919802b57a0a3b55468098 || Aigars Mahinovs = Anthony Towns = Gustavo Franco = None Of The Above = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst
+f39d939d8095f8e539388aa988c0713c || Anthony Towns > Raphaël Hertzog > Steve McIntyre > Sam Hocevar > Wouter Verhelst > Gustavo Franco > None Of The Above > Aigars Mahinovs > Simon Richter
+44d42fde51290d065e8efeb787eeacc7 || Gustavo Franco > Raphaël Hertzog = Sam Hocevar > Steve McIntyre > Wouter Verhelst > None Of The Above > Aigars Mahinovs = Anthony Towns = Simon Richter
+a42d1851a9bbd882d354c2caabef93df || Anthony Towns = Raphaël Hertzog > Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter = Steve McIntyre > None Of The Above
+035fd8c2be571cf93a1632554513f8cc || Steve McIntyre > Raphaël Hertzog > Anthony Towns > Wouter Verhelst > Sam Hocevar > Gustavo Franco > Simon Richter > None Of The Above > Aigars Mahinovs
+030e90534cb75b16ea78229227fb81c8 || Sam Hocevar > Raphaël Hertzog > Steve McIntyre > Anthony Towns > Gustavo Franco > None Of The Above > Simon Richter > Wouter Verhelst > Aigars Mahinovs
+b2bbee806824f770133b7aa3af04bf27 || Raphaël Hertzog > Steve McIntyre > Anthony Towns > Wouter Verhelst > None Of The Above > Simon Richter > Gustavo Franco > Aigars Mahinovs > Sam Hocevar
+8d2aaa61f2b975ca1de55236c2c9a36c || Anthony Towns > Steve McIntyre
+c8ff3b650fcd6dc86d5337961f30d55c || Sam Hocevar > Gustavo Franco > Raphaël Hertzog > Aigars Mahinovs = Simon Richter > None Of The Above = Steve McIntyre = Wouter Verhelst > Anthony Towns
+e99a33058dcf1248134f26daf9d9167c || None Of The Above > Steve McIntyre > Simon Richter > Wouter Verhelst > Aigars Mahinovs > Gustavo Franco > Sam Hocevar > Raphaël Hertzog > Anthony Towns
+6feefc11d1ba5bbd386a5cbe2cc54c7e || Sam Hocevar > Gustavo Franco > Simon Richter > Aigars Mahinovs > None Of The Above > Wouter Verhelst > Raphaël Hertzog > Steve McIntyre > Anthony Towns
+4c8e050da3f0d40830aa649c7e7eef41 || Sam Hocevar > Wouter Verhelst > Steve McIntyre > Anthony Towns > Raphaël Hertzog > Aigars Mahinovs > Gustavo Franco > Simon Richter
+f45968e0d9b48d70e9f19016d2e6a3bd || Sam Hocevar > Anthony Towns > Raphaël Hertzog > Steve McIntyre > Gustavo Franco > Wouter Verhelst > None Of The Above
+94d47901ffa8a4cbc53abdbb7440bf77 || Anthony Towns > Raphaël Hertzog > Steve McIntyre > Wouter Verhelst > Gustavo Franco > Aigars Mahinovs > Simon Richter > None Of The Above > Sam Hocevar
+a143468aa15a1fac903dad4bc7af7356 || Anthony Towns > Raphaël Hertzog > Steve McIntyre > Wouter Verhelst > Sam Hocevar > Simon Richter > Gustavo Franco > Aigars Mahinovs > None Of The Above
+8388d60c8a8500ae717f3d47417a985e || Sam Hocevar > Wouter Verhelst > Raphaël Hertzog > Steve McIntyre > Aigars Mahinovs > Gustavo Franco > Simon Richter > None Of The Above > Anthony Towns
+50bd4fd15d40600ffe7dd0812ec7d487 || Wouter Verhelst > Sam Hocevar > Steve McIntyre > None Of The Above > Simon Richter > Raphaël Hertzog > Gustavo Franco > Anthony Towns > Aigars Mahinovs
+d60ebd8b7797248e8004fee92e1dc707 || Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > Anthony Towns > Gustavo Franco > Sam Hocevar > None Of The Above > Simon Richter > Aigars Mahinovs
+f31d5f580cfa6b93b359d4250dfcccbb || Anthony Towns > None Of The Above
+9e56fde5c2185837f240f02771659a7b || Steve McIntyre > Anthony Towns
+1fc8967dfc0c77a494b799309ab589af || Anthony Towns > Wouter Verhelst > Raphaël Hertzog > Steve McIntyre > Sam Hocevar > None Of The Above
+9368b647e156b39acfb14c4862fc8ddf || Raphaël Hertzog > Sam Hocevar > Steve McIntyre > Aigars Mahinovs > Wouter Verhelst > Simon Richter > Gustavo Franco > None Of The Above > Anthony Towns
+7a4c4f1b8f580c452f80b0e593376072 || Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst > Anthony Towns = None Of The Above
+26940b24a7153e4da66d8a52f8c66220 || Steve McIntyre > Anthony Towns > Sam Hocevar > Wouter Verhelst > Raphaël Hertzog > None Of The Above
+84b093a44ffc6d107ad7b469e127fe8f || Sam Hocevar > None Of The Above > Simon Richter > Anthony Towns > Raphaël Hertzog > Steve McIntyre > Gustavo Franco > Aigars Mahinovs > Wouter Verhelst
+70aebffad84baefadee4ec11a6b10ee9 || Sam Hocevar > Raphaël Hertzog > Gustavo Franco > Steve McIntyre > Anthony Towns > Wouter Verhelst > Simon Richter > Aigars Mahinovs > None Of The Above
+940ea2aff5130d4c31a871681bc6eb80 || Wouter Verhelst > Sam Hocevar > Gustavo Franco > Raphaël Hertzog = Steve McIntyre > None Of The Above > Anthony Towns = Simon Richter > Aigars Mahinovs
+e283a692d7c5e21f3e5a06620e761753 || Steve McIntyre > Raphaël Hertzog = Sam Hocevar > Simon Richter = Wouter Verhelst > Anthony Towns > Gustavo Franco > None Of The Above > Aigars Mahinovs
+ed9c42f95476d5bd9aa25c322dfa2abb || Raphaël Hertzog > Steve McIntyre > Sam Hocevar > Anthony Towns > Gustavo Franco > Wouter Verhelst > None Of The Above
+3db6fc96af0bed387e7767d885d15129 || Anthony Towns > None Of The Above
+401e66df6743eef21ac0a9521d03ba1e || Wouter Verhelst > Raphaël Hertzog > Steve McIntyre > None Of The Above > Simon Richter > Anthony Towns > Sam Hocevar > Aigars Mahinovs > Gustavo Franco
+6a2f93593aa6209a0d2ed1033c8d0cea || Anthony Towns > Steve McIntyre > Gustavo Franco > Raphaël Hertzog > Wouter Verhelst > None Of The Above > Simon Richter > Aigars Mahinovs > Sam Hocevar
+30cc4fa4575d8924b52b7bd22938ccd5 || Anthony Towns
+8e290f67b1359e2b42030d0f4b3b14fe || Anthony Towns > Steve McIntyre > Raphaël Hertzog = Simon Richter = Wouter Verhelst > None Of The Above > Aigars Mahinovs = Gustavo Franco = Sam Hocevar
+b81159450b1dbf5e247f6699978a3771 || Sam Hocevar > Gustavo Franco > Steve McIntyre > Simon Richter > Anthony Towns = Raphaël Hertzog > Aigars Mahinovs = Wouter Verhelst > None Of The Above
+e35a7bcac43b3c7f49865a65d170efe0 || Sam Hocevar > Gustavo Franco > Raphaël Hertzog = Wouter Verhelst
+f2d740fc3d33021470ad78feb1787295 || Raphaël Hertzog > None Of The Above
+a8f3dbec826cecf4654d28cb7e006750 || Sam Hocevar > Anthony Towns > Raphaël Hertzog > Wouter Verhelst > Simon Richter > Steve McIntyre > Gustavo Franco > Aigars Mahinovs > None Of The Above
+36c1c8a5adacaee09ec26e74e5098de3 || Anthony Towns > Raphaël Hertzog > Sam Hocevar > Gustavo Franco > Wouter Verhelst > Steve McIntyre > Aigars Mahinovs > Simon Richter > None Of The Above
+84a54ab0641b9672ed1e1c01ee747e3e || Wouter Verhelst > Steve McIntyre > Anthony Towns > Raphaël Hertzog > Sam Hocevar > Gustavo Franco > Simon Richter > Aigars Mahinovs
+dce81c3b9ecfbf1b1577c3f3ebf7637e || Sam Hocevar > Gustavo Franco > Wouter Verhelst > Steve McIntyre > None Of The Above > Aigars Mahinovs = Raphaël Hertzog > Anthony Towns = Simon Richter
+d3e512c9b0b9475517276aa35e19b57f || Raphaël Hertzog > Sam Hocevar > Steve McIntyre = Wouter Verhelst > Anthony Towns > None Of The Above > Simon Richter > Aigars Mahinovs = Gustavo Franco
+e04c48b370b8ec4f3d2a6fe55104d45d || Steve McIntyre > Anthony Towns > Wouter Verhelst > Raphaël Hertzog
+7deb96af26706c3e7faaecd287f6f9a7 || Simon Richter > Anthony Towns
+067301f57174bdc1a190047ca71d8d28 || Sam Hocevar > Anthony Towns > Steve McIntyre = Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Simon Richter > None Of The Above
+b93c1808abc7145a2fb50fd805702b98 || Wouter Verhelst > Anthony Towns > Steve McIntyre > Simon Richter > None Of The Above
+4f2512ecc8efddc9978f9f3b4645097b || Raphaël Hertzog
+1de2591052e74e0f671172e880a358ab || Sam Hocevar > Steve McIntyre > Wouter Verhelst > Anthony Towns > Gustavo Franco > Raphaël Hertzog > Simon Richter > Aigars Mahinovs > None Of The Above
+0e4617eea72f2a15fb4e98e84b1000d0 || Steve McIntyre > Raphaël Hertzog > Sam Hocevar > Anthony Towns > Wouter Verhelst > Aigars Mahinovs > Gustavo Franco > Simon Richter > None Of The Above
+c72d232fd42efce75e8b49c00458659a || Anthony Towns = Wouter Verhelst > Aigars Mahinovs > Raphaël Hertzog = Simon Richter > Gustavo Franco > Steve McIntyre > Sam Hocevar > None Of The Above
+4889813b13967043023bfd00795b41f2 || Anthony Towns = Gustavo Franco = Raphaël Hertzog = Steve McIntyre > Sam Hocevar
+cd594cd6d4b3a85bdd1dedfdd3149231 || Sam Hocevar > Anthony Towns > None Of The Above > Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Simon Richter = Steve McIntyre = Wouter Verhelst
+ec51b658d6c78a199790d601c5e4cfa4 || Anthony Towns > Gustavo Franco > Simon Richter > Raphaël Hertzog > Sam Hocevar > Aigars Mahinovs > Wouter Verhelst > Steve McIntyre > None Of The Above
+67cf31ba28bb7dceb57ee8f68b4a311a || Sam Hocevar > Steve McIntyre > Raphaël Hertzog > Anthony Towns > Wouter Verhelst > None Of The Above > Simon Richter > Gustavo Franco > Aigars Mahinovs
+7e36458326b532e5fbdace7230536504 || Sam Hocevar > Anthony Towns > Raphaël Hertzog
+fd041dbe5623c65f56351d3d4b929456 || Anthony Towns > Simon Richter > Raphaël Hertzog > Steve McIntyre > Sam Hocevar > Gustavo Franco > Aigars Mahinovs > Wouter Verhelst > None Of The Above
+4d58d5cf2f37d1440b2a07fab7151f54 || Steve McIntyre > Anthony Towns > Raphaël Hertzog > Sam Hocevar > Wouter Verhelst > Gustavo Franco > None Of The Above > Aigars Mahinovs > Simon Richter
+b09ed6026229caa68d66e730fb8a4a8b || None Of The Above
+02d3929e6d994cb541659531e10dd7aa || Gustavo Franco = Sam Hocevar = Wouter Verhelst > Raphaël Hertzog
+4c5ab909158a181c387fa45034e609ee || Anthony Towns = Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > None Of The Above > Sam Hocevar > Aigars Mahinovs = Gustavo Franco = Simon Richter
+a71096e3aada5291d8c20019760ef560 || Anthony Towns > Raphaël Hertzog = Steve McIntyre = Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = Sam Hocevar > Simon Richter
+a01ea206af27afcbe5264456be6348c7 || Gustavo Franco > Sam Hocevar > Raphaël Hertzog > Steve McIntyre > Aigars Mahinovs > Wouter Verhelst > None Of The Above > Anthony Towns > Simon Richter
+ce7e62d5da29d0823d96ca6e026d3dc4 || Sam Hocevar > None Of The Above
+35fea1c47efd4f97d02b482a001aa6be || Wouter Verhelst > Raphaël Hertzog > Steve McIntyre
+9b1fc26351bca7560c19d6e3990d5f2a || Steve McIntyre > Anthony Towns > Wouter Verhelst > Aigars Mahinovs > Raphaël Hertzog > Gustavo Franco > Simon Richter > Sam Hocevar > None Of The Above
+144afb1c547f39986811fd947dec72a2 || Steve McIntyre > Raphaël Hertzog > Sam Hocevar > Anthony Towns > Wouter Verhelst > Gustavo Franco > Aigars Mahinovs = None Of The Above = Simon Richter
+6098c043773d4fb0710e15c0a8b71231 || Sam Hocevar > Gustavo Franco > Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > Anthony Towns > None Of The Above > Simon Richter > Aigars Mahinovs
+a782449c23cf84a322be471a9c452cdf || Steve McIntyre > Sam Hocevar > Anthony Towns > Gustavo Franco > Wouter Verhelst > Raphaël Hertzog > Aigars Mahinovs > Simon Richter > None Of The Above
+56506a20b0acefd21d9a6e354fdc36fd || Sam Hocevar > Wouter Verhelst > None Of The Above > Steve McIntyre > Simon Richter > Raphaël Hertzog > Gustavo Franco > Aigars Mahinovs > Anthony Towns
+458b63db0a1dc0ec93adf00be7abc8f2 || Raphaël Hertzog > Steve McIntyre > Wouter Verhelst > Anthony Towns > Gustavo Franco > Sam Hocevar > None Of The Above > Aigars Mahinovs > Simon Richter
+c46e4526db436392ed366f88a5d9d496 || Anthony Towns = Raphaël Hertzog > Gustavo Franco = Sam Hocevar = Simon Richter = Steve McIntyre > None Of The Above
+f871c7777a9e4012481323c57d89bcb7 || Raphaël Hertzog > Wouter Verhelst > Steve McIntyre > Sam Hocevar > Gustavo Franco > Aigars Mahinovs > Simon Richter > None Of The Above > Anthony Towns
+080d2758523efa3ccebbe873f6ef197c || Sam Hocevar > None Of The Above
+71496d6e09335081ac4e49a8c506e40c || Steve McIntyre > Wouter Verhelst > Anthony Towns > Sam Hocevar > None Of The Above
+d943b69cf304d61feda9e36c8c4b3c00 || Sam Hocevar > Steve McIntyre > Anthony Towns = Wouter Verhelst > Gustavo Franco
+fdb2b8c51eb9739f9eca1138eab195f0 || Raphaël Hertzog > Anthony Towns > Gustavo Franco > Steve McIntyre > Sam Hocevar > None Of The Above
+4df1e71f298c322bc241fc3c94996b64 || Sam Hocevar > Gustavo Franco > Raphaël Hertzog > Simon Richter = Steve McIntyre = Wouter Verhelst > Aigars Mahinovs = Anthony Towns
+2e6c1b374f54014bdb31a41e5b9919dd || Raphaël Hertzog > Wouter Verhelst > Sam Hocevar > Aigars Mahinovs = Gustavo Franco = Simon Richter > None Of The Above > Steve McIntyre > Anthony Towns
+10cdc8478283ac2642a3fd78d353935e || Sam Hocevar > Anthony Towns > Steve McIntyre > Gustavo Franco = Raphaël Hertzog > Aigars Mahinovs = None Of The Above = Simon Richter = Wouter Verhelst
+b87266251cfc78a497895e4dc71208dd || Sam Hocevar > Raphaël Hertzog > Gustavo Franco > None Of The Above > Wouter Verhelst > Steve McIntyre > Simon Richter > Aigars Mahinovs > Anthony Towns
+ff06deda5f6815ea89c5b43de59af03c || Raphaël Hertzog > Sam Hocevar > Steve McIntyre > Anthony Towns > Wouter Verhelst > Gustavo Franco > None Of The Above > Simon Richter > Aigars Mahinovs
+2aacea3dacd4d5f4d05571faa1138a12 || Aigars Mahinovs = Anthony Towns = Gustavo Franco = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst > None Of The Above
+8b0caf9a0a525c75f012189dff836d36 || Sam Hocevar = Steve McIntyre = Wouter Verhelst > None Of The Above > Simon Richter > Gustavo Franco > Aigars Mahinovs > Raphaël Hertzog > Anthony Towns
+b75cde399f6e1d6be9706d6c16ae8f37 || Anthony Towns > Steve McIntyre > Raphaël Hertzog > Sam Hocevar > Wouter Verhelst > None Of The Above
+ae449dfeff4775355b9ca663e30a4fab || None Of The Above > Aigars Mahinovs = Anthony Towns = Gustavo Franco = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst
+2f58a9c394d01d254755ec3bc9acc29a || Anthony Towns > Steve McIntyre > Gustavo Franco > Wouter Verhelst > Sam Hocevar > Raphaël Hertzog > Aigars Mahinovs > Simon Richter
+e9a2552055e05d8261082c09d2d10e86 || Sam Hocevar > Raphaël Hertzog > None Of The Above
+59b3cc4f7d1ef6c906101ca6bfdc6e77 || Sam Hocevar > Steve McIntyre > None Of The Above > Wouter Verhelst
+de294802bfd760bcdfde37d1949ab495 || Sam Hocevar > Wouter Verhelst > Raphaël Hertzog > Steve McIntyre > Gustavo Franco > Anthony Towns > None Of The Above > Aigars Mahinovs = Simon Richter
+7f1b781af70c0a2565851ad537c3aa59 || Anthony Towns > Wouter Verhelst > Raphaël Hertzog > Steve McIntyre > Simon Richter > Sam Hocevar > Gustavo Franco > Aigars Mahinovs > None Of The Above
+e87f371d4979e1e96d10f4410516c9a2 || Steve McIntyre > Sam Hocevar > Anthony Towns = Raphaël Hertzog > Wouter Verhelst > Gustavo Franco = Simon Richter > Aigars Mahinovs > None Of The Above
+1d596053c880a9e08bd0e4e6375244ea || None Of The Above
+3ab4be2a34d570562d6101145e7829bd || Raphaël Hertzog > Anthony Towns > Aigars Mahinovs > Gustavo Franco = None Of The Above = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst
+0582f1ee87127997455fb714808a4a32 || Sam Hocevar > Raphaël Hertzog > Steve McIntyre = Wouter Verhelst > None Of The Above
+a4fbd4c9df212fcc42a6a556c1095454 || Steve McIntyre > Wouter Verhelst > None Of The Above > Sam Hocevar > Simon Richter > Aigars Mahinovs > Gustavo Franco > Raphaël Hertzog > Anthony Towns
+480de81efc20be2b13db3df1c10c28cc || Sam Hocevar > Steve McIntyre > Anthony Towns > Gustavo Franco > Aigars Mahinovs = Raphaël Hertzog = Simon Richter = Wouter Verhelst > None Of The Above
+c431f05de380f86bffa3eff6dbf55910 || Sam Hocevar > Raphaël Hertzog > None Of The Above
+76c519562f2b6ece724663f9057bfec6 || Steve McIntyre > Raphaël Hertzog > Wouter Verhelst
+eabd71100caacd9886ac112755b9c80a || Anthony Towns > Steve McIntyre > Sam Hocevar > Gustavo Franco > Raphaël Hertzog > None Of The Above > Aigars Mahinovs = Simon Richter = Wouter Verhelst
+8677b137910cd002ae49b912effc89c6 || Anthony Towns > Steve McIntyre > Raphaël Hertzog = Sam Hocevar > Gustavo Franco > Simon Richter = Wouter Verhelst > Aigars Mahinovs > None Of The Above
+c15eaa53b3868422a7491e4cee1e468b || Sam Hocevar > Gustavo Franco > Raphaël Hertzog > Wouter Verhelst > Steve McIntyre > Simon Richter > Anthony Towns > Aigars Mahinovs > None Of The Above
+3eb456075d86629034f72794d01d77ec || Anthony Towns > Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > Gustavo Franco > None Of The Above > Simon Richter > Aigars Mahinovs > Sam Hocevar
+63bcbbf01456a69ed0dc1148a8fd7999 || Anthony Towns > Raphaël Hertzog > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst > None Of The Above
+f269f96fc40edf20bee614999098e2db || Sam Hocevar > Steve McIntyre > None Of The Above
+07280de9e2136d41e3abba5df1eafc2d || Anthony Towns > Steve McIntyre > Gustavo Franco = Sam Hocevar > Raphaël Hertzog > None Of The Above > Aigars Mahinovs = Simon Richter = Wouter Verhelst
+5a3aedc715ab8b5a71d0af8d0f3cee7a || Steve McIntyre > Simon Richter > Anthony Towns > None Of The Above
+f7c8d103b7493a94de336d5bfedfdea9 || Steve McIntyre = Wouter Verhelst > Raphaël Hertzog > Gustavo Franco = Sam Hocevar > Simon Richter > Aigars Mahinovs = Anthony Towns = None Of The Above
+a4056d79e458ba9b240937109c5c961f || Wouter Verhelst > Steve McIntyre > Anthony Towns > Sam Hocevar > None Of The Above
+88545fcc0c659eac3e994d9c80be08ab || Anthony Towns > Raphaël Hertzog > Sam Hocevar > Steve McIntyre > Wouter Verhelst > Gustavo Franco > Simon Richter > Aigars Mahinovs > None Of The Above
+52bbdf64b4d6045954fdc56688ef66fa || Sam Hocevar > Raphaël Hertzog > Aigars Mahinovs = Anthony Towns = Gustavo Franco = Simon Richter = Steve McIntyre = Wouter Verhelst > None Of The Above
+747a037ddc920c6d131ae249173ed0d0 || Raphaël Hertzog > Sam Hocevar > Wouter Verhelst > None Of The Above > Gustavo Franco > Aigars Mahinovs = Simon Richter > Steve McIntyre > Anthony Towns
+dd7c59a028b7d3dd0bcfa56701d40bf6 || Raphaël Hertzog > Aigars Mahinovs = Anthony Towns = Gustavo Franco = None Of The Above = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst
+f2d58336c99b6b56b96fe1bd70fcb506 || Sam Hocevar > None Of The Above > Gustavo Franco > Aigars Mahinovs > Raphaël Hertzog = Simon Richter > Wouter Verhelst > Anthony Towns = Steve McIntyre
+f1a36539afe221432a673fddfacd84e9 || Wouter Verhelst > Sam Hocevar > Steve McIntyre > None Of The Above > Raphaël Hertzog > Simon Richter > Gustavo Franco > Anthony Towns > Aigars Mahinovs
+be5c2112e5bd09fe9771dd7cba3c80c5 || Anthony Towns > Steve McIntyre > Raphaël Hertzog > None Of The Above > Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter
+f3de32932dfe8c46bf9af8368ddea379 || Anthony Towns > Steve McIntyre > Raphaël Hertzog
+018c4083746f12acae080ac80441d5ba || Sam Hocevar > Gustavo Franco > None Of The Above > Simon Richter > Wouter Verhelst > Aigars Mahinovs > Steve McIntyre > Raphaël Hertzog > Anthony Towns
+b1b6ccdfc44a7489a0f530c19f83c935 || Raphaël Hertzog > Steve McIntyre > Sam Hocevar > Wouter Verhelst > Anthony Towns > None Of The Above > Simon Richter > Gustavo Franco > Aigars Mahinovs
+210d724ac9d0af7aeb53d86a93bc501f || Raphaël Hertzog > Anthony Towns > Steve McIntyre > Wouter Verhelst
+493f32eb0149a3778cc9248bd7b1b623 || Raphaël Hertzog > Wouter Verhelst > Sam Hocevar > Aigars Mahinovs > Simon Richter > Gustavo Franco > None Of The Above > Steve McIntyre > Anthony Towns
+53e63d6e4958e51e99d0bcb5f566fb6c || Anthony Towns > Wouter Verhelst > Gustavo Franco > Steve McIntyre > Simon Richter > None Of The Above > Aigars Mahinovs = Raphaël Hertzog = Sam Hocevar
+eb34f24957923357cc0e4e1fa2e6a840 || Sam Hocevar > Raphaël Hertzog > Steve McIntyre > Anthony Towns > Wouter Verhelst > Gustavo Franco > Aigars Mahinovs > Simon Richter > None Of The Above
+4561d375465b5cc82ba5b7da0647ca8a || Raphaël Hertzog > Steve McIntyre > Gustavo Franco > Sam Hocevar > Wouter Verhelst > None Of The Above > Anthony Towns > Aigars Mahinovs = Simon Richter
+00ffe84df2b1202dfdc005900fc11f5c || Steve McIntyre > Anthony Towns > Wouter Verhelst
+02ee19e06db684d192fd1e833b21287e || Sam Hocevar > Gustavo Franco > Wouter Verhelst > Raphaël Hertzog = Steve McIntyre > Anthony Towns > Aigars Mahinovs = Simon Richter > None Of The Above
+98f1438393ae5a3e6dccd71a34f3f88e || Steve McIntyre > Simon Richter > None Of The Above
+bdfb1dc25bcf3d9b8bf8edf095fb59ef || Wouter Verhelst > Raphaël Hertzog > Sam Hocevar = Steve McIntyre > Anthony Towns = Gustavo Franco > Aigars Mahinovs = Simon Richter
+cb6919843f9fb2e1bafefb6a413afd8a || Anthony Towns > Aigars Mahinovs = Raphaël Hertzog = Sam Hocevar = Steve McIntyre = Wouter Verhelst > Simon Richter > None Of The Above > Gustavo Franco
+8844e5b2800219ada59963f2b54fdab5 || Aigars Mahinovs = Anthony Towns = Gustavo Franco = None Of The Above = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst
+86d8197150520a659727c56b269c6b2c || Sam Hocevar > Anthony Towns > Raphaël Hertzog > Steve McIntyre > None Of The Above
+6014b669eaaf068938c4bd76fc0c6503 || Gustavo Franco > None Of The Above > Aigars Mahinovs > Raphaël Hertzog = Sam Hocevar = Simon Richter = Wouter Verhelst
+3984cf2163162502529cb13d78956780 || Simon Richter > Raphaël Hertzog > None Of The Above > Aigars Mahinovs = Anthony Towns = Gustavo Franco = Sam Hocevar = Steve McIntyre = Wouter Verhelst
+98177070aac46939e188e030e3d62496 || None Of The Above > Sam Hocevar > Wouter Verhelst > Simon Richter > Steve McIntyre > Gustavo Franco > Raphaël Hertzog > Anthony Towns > Aigars Mahinovs
+6d467c6f4cedf79ce0c4e9d8f4408ed8 || Steve McIntyre > Raphaël Hertzog > Anthony Towns > Wouter Verhelst > None Of The Above
+49012c3bdd90f1745b8d16df135a5571 || Sam Hocevar > Gustavo Franco > Wouter Verhelst > Raphaël Hertzog > None Of The Above > Simon Richter > Steve McIntyre > Aigars Mahinovs > Anthony Towns
+0c08ea573d54ea48a8763efaa6d17337 || Sam Hocevar > None Of The Above
+296887cb5532784f210a1c7caa48db27 || Gustavo Franco > Raphaël Hertzog > Sam Hocevar = Wouter Verhelst > Anthony Towns = Steve McIntyre > Simon Richter > Aigars Mahinovs > None Of The Above
+dab3b11f08a9e01169d6cdfd1cec9e47 || Sam Hocevar > None Of The Above > Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Simon Richter = Steve McIntyre = Wouter Verhelst > Anthony Towns
+f58b879a15f04ff62a942cb69d0fad16 || Raphaël Hertzog > Anthony Towns > Simon Richter
+39126fb06601fdfc55c10d7470a0e764 || Anthony Towns > Steve McIntyre > Gustavo Franco > Raphaël Hertzog > Sam Hocevar > Wouter Verhelst > Aigars Mahinovs > Simon Richter > None Of The Above
+32a1fcb031835d8de9eba04ef66c8b22 || Sam Hocevar > Raphaël Hertzog > Anthony Towns > Steve McIntyre > Wouter Verhelst > Gustavo Franco > None Of The Above > Simon Richter > Aigars Mahinovs
+6223e697bbeaa08d50cc4937e16196a9 || Steve McIntyre > Sam Hocevar > Anthony Towns = Wouter Verhelst > Raphaël Hertzog > Gustavo Franco > None Of The Above > Simon Richter > Aigars Mahinovs
+a85b88c2163821431424202c3509bb74 || Wouter Verhelst > Steve McIntyre > Anthony Towns > Sam Hocevar > Raphaël Hertzog > Simon Richter > Gustavo Franco > Aigars Mahinovs > None Of The Above
+513d840e74cc85a997055c4118844cbc || Anthony Towns > Wouter Verhelst > Raphaël Hertzog > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter = Steve McIntyre > None Of The Above
+acda34550cf3809cb8752ce647109d78 || Anthony Towns > None Of The Above
+2e74a63c4d6b9e1a4eca6c8da108097f || Steve McIntyre > Sam Hocevar > Anthony Towns > None Of The Above
+fc31b6fe22604434cf3e425fc3ffe475 || Raphaël Hertzog > Gustavo Franco = Sam Hocevar = Wouter Verhelst
+02d0f4e29ce8b6c12c39098673eb50eb || Sam Hocevar > None Of The Above > Raphaël Hertzog > Gustavo Franco > Simon Richter > Aigars Mahinovs = Wouter Verhelst > Anthony Towns = Steve McIntyre
+83e3167965de09ca3cded63c7dcb8e8c || Sam Hocevar > Gustavo Franco > Wouter Verhelst
+5321943134fdaac12c2571361e3209c2 || Steve McIntyre
+5ea27f991311bef0452ff35feeae5f1a || Sam Hocevar > Wouter Verhelst > Gustavo Franco > Simon Richter > Raphaël Hertzog > None Of The Above = Steve McIntyre > Aigars Mahinovs > Anthony Towns
+3a7bf3609002ea58d4357ebc5a17a691 || Sam Hocevar > Gustavo Franco > Raphaël Hertzog = Simon Richter = Wouter Verhelst > Anthony Towns = Steve McIntyre > Aigars Mahinovs
+a2c5fa69b9bc838371d7f3bb230bdde7 || Aigars Mahinovs > Steve McIntyre > Raphaël Hertzog = Simon Richter > Gustavo Franco > Sam Hocevar = Wouter Verhelst > Anthony Towns > None Of The Above
+70f7918a20744aae8c73a3c7d09efeaa || Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > Anthony Towns = Sam Hocevar > Gustavo Franco = Simon Richter > Aigars Mahinovs > None Of The Above
+93596e6dd5046fec39b84360d73237b2 || Steve McIntyre > Raphaël Hertzog > Wouter Verhelst
+22dfa2efcfe4ce437a5896b2521424b5 || Sam Hocevar > Gustavo Franco > Raphaël Hertzog > None Of The Above
+c3079709aa5e629e38f289c9179eb487 || Anthony Towns > Raphaël Hertzog = Steve McIntyre = Wouter Verhelst > Sam Hocevar > None Of The Above > Aigars Mahinovs = Gustavo Franco = Simon Richter
+852c672036e2c380fd3b72c1fcd3820a || Anthony Towns > Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > Aigars Mahinovs = Gustavo Franco = None Of The Above = Sam Hocevar = Simon Richter
+da7b8095312ae94fa3c3ec1c58f230af || Sam Hocevar > Aigars Mahinovs = Gustavo Franco > Raphaël Hertzog > Wouter Verhelst > None Of The Above = Simon Richter > Anthony Towns = Steve McIntyre
+dcdd3b22679d894baf2dfdf578abeca6 || Sam Hocevar > Wouter Verhelst > Simon Richter > Raphaël Hertzog > Steve McIntyre > Aigars Mahinovs > None Of The Above
+aefc7247dc28f1e1f741258306679c4d || Steve McIntyre > Sam Hocevar > Anthony Towns > None Of The Above > Gustavo Franco = Raphaël Hertzog = Wouter Verhelst > Aigars Mahinovs = Simon Richter
+ae3901f16520b90f7aa52ba483dd40ca || Steve McIntyre > Wouter Verhelst > Sam Hocevar > Raphaël Hertzog > Gustavo Franco > Simon Richter > Anthony Towns > None Of The Above > Aigars Mahinovs
+8047f51cee67e205bbacaa777348e469 || Steve McIntyre > Wouter Verhelst > Raphaël Hertzog
+372bd24e089a9d7726756e056802735b || None Of The Above
+8ae4163bfa6a1b0bf41ce4c37b911506 || Sam Hocevar > Raphaël Hertzog > Anthony Towns = Gustavo Franco = Steve McIntyre > Wouter Verhelst > Simon Richter > None Of The Above > Aigars Mahinovs
+763173424abf54ffb1736849a11ff871 || Raphaël Hertzog > Steve McIntyre > Sam Hocevar > Anthony Towns > Wouter Verhelst > None Of The Above
+258a5db24ad7f2ecaec5e42a9d4705d7 || Sam Hocevar > Raphaël Hertzog > Gustavo Franco = Steve McIntyre = Wouter Verhelst > Aigars Mahinovs = Simon Richter > None Of The Above > Anthony Towns
+51ee8107224ef5a0621e57733cc0d8d5 || Wouter Verhelst > Sam Hocevar > Steve McIntyre > Gustavo Franco > Raphaël Hertzog > Aigars Mahinovs > Anthony Towns > Simon Richter > None Of The Above
+e4cf8161965f37b27645edc0c2ad4af2 || Sam Hocevar > Raphaël Hertzog > Anthony Towns > Steve McIntyre > Gustavo Franco > Wouter Verhelst > Aigars Mahinovs > None Of The Above > Simon Richter
+94ea66e5524ad103fd2a4e825e80e5be || Sam Hocevar > Raphaël Hertzog > Steve McIntyre > Wouter Verhelst > Anthony Towns > Simon Richter > None Of The Above > Gustavo Franco > Aigars Mahinovs
+d90bacaf87ee54e879d6916b9007638f || Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > Anthony Towns > Gustavo Franco = Sam Hocevar > None Of The Above > Aigars Mahinovs = Simon Richter
+3dc49a068780f6485d0af621b5b8e911 || Anthony Towns > Steve McIntyre > Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = None Of The Above > Raphaël Hertzog = Sam Hocevar = Simon Richter
+31cf29e73d41b93fdf933a091a5e3b22 || Raphaël Hertzog > Sam Hocevar > Gustavo Franco > Aigars Mahinovs > None Of The Above > Simon Richter = Wouter Verhelst > Steve McIntyre > Anthony Towns
+4d398272cc170b83d1d4bb38e046b231 || Steve McIntyre > Anthony Towns > Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Sam Hocevar = Simon Richter = Wouter Verhelst > None Of The Above
+66a5fd284dd053f97f856ee85c064206 || Anthony Towns = Gustavo Franco = Raphaël Hertzog > Sam Hocevar > Wouter Verhelst > Aigars Mahinovs = Simon Richter = Steve McIntyre > None Of The Above
+f6d23c2a3aa9a7b241bb6a4f1b9cd157 || Anthony Towns > Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > None Of The Above
+f5032d096a80595a75c731f0db8f9ac5 || Wouter Verhelst > Simon Richter > Anthony Towns > Raphaël Hertzog > Steve McIntyre > Aigars Mahinovs > None Of The Above > Sam Hocevar > Gustavo Franco
+451d02c778b4afcdc4ce933e6b6e4cdb || Sam Hocevar = Wouter Verhelst > Gustavo Franco = Raphaël Hertzog > None Of The Above = Steve McIntyre > Aigars Mahinovs = Anthony Towns = Simon Richter
+2f3ebbed8bc9ded4a725d93ce1c4973c || Steve McIntyre > Raphaël Hertzog > Anthony Towns > Gustavo Franco = Sam Hocevar > Wouter Verhelst > None Of The Above > Aigars Mahinovs = Simon Richter
+8be65a7c019f5cc303ade7d1d3f607d4 || Sam Hocevar > Gustavo Franco > None Of The Above > Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > Aigars Mahinovs = Simon Richter > Anthony Towns
+d644146add46155ca62cb86ee7b1626d || Anthony Towns = Steve McIntyre > Wouter Verhelst > None Of The Above
+1dd2140c3af1fb9bbc08a46cfdbcad0d || Sam Hocevar > Wouter Verhelst > None Of The Above > Aigars Mahinovs = Gustavo Franco = Simon Richter > Raphaël Hertzog = Steve McIntyre > Anthony Towns
+84a85cc820ae48b691b69f9ff507b878 || Sam Hocevar > Steve McIntyre = Wouter Verhelst > Raphaël Hertzog > Anthony Towns > Aigars Mahinovs = Gustavo Franco = Simon Richter > None Of The Above
+1ec1989a8abac2bca278edad96c8f0ab || Raphaël Hertzog = Steve McIntyre > Wouter Verhelst > Sam Hocevar > Simon Richter > Anthony Towns = Gustavo Franco > Aigars Mahinovs = None Of The Above
+d83c3ddd0ab56881474bae3be7adc135 || Sam Hocevar > Raphaël Hertzog = Steve McIntyre > Wouter Verhelst > Gustavo Franco > None Of The Above > Anthony Towns = Simon Richter > Aigars Mahinovs
+f49c6238d3620d159421dc3c0c51e5ea || Sam Hocevar > Raphaël Hertzog > Wouter Verhelst > Steve McIntyre > None Of The Above
+742bc19e1efd4ea4529403ac053fe1ac || Sam Hocevar > Steve McIntyre > Wouter Verhelst > Anthony Towns > Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Simon Richter > None Of The Above
+a1d8322a946514463c0a47f2391e59ca || Sam Hocevar > None Of The Above > Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > Gustavo Franco > Anthony Towns > Aigars Mahinovs > Simon Richter
+e3f5d8bdb0547e74aedb0e067def31e2 || None Of The Above
+7b04ca30a2af51a6389ba498a7efbe7b || Sam Hocevar > Steve McIntyre > Raphaël Hertzog > Gustavo Franco > Aigars Mahinovs > Wouter Verhelst > Simon Richter > Anthony Towns > None Of The Above
+ee8968ac72017b229193e8f2e775916a || Steve McIntyre > Wouter Verhelst > Anthony Towns > None Of The Above > Gustavo Franco = Raphaël Hertzog > Sam Hocevar > Simon Richter > Aigars Mahinovs
+e571ea4a611d3982521507b44422f9cb || Wouter Verhelst > Sam Hocevar > Steve McIntyre > Raphaël Hertzog > Anthony Towns > None Of The Above > Gustavo Franco > Simon Richter > Aigars Mahinovs
+bd4b6e615fa5c8154f0a7c92298d5e37 || Raphaël Hertzog > Wouter Verhelst > None Of The Above
+a656f68b43f6a033893898d9e59f5591 || Raphaël Hertzog > Sam Hocevar = Wouter Verhelst > Aigars Mahinovs = Gustavo Franco > None Of The Above > Anthony Towns = Simon Richter = Steve McIntyre
+27eba01b3562e3b6276fbeb2d77775cd || Anthony Towns > Wouter Verhelst
+f03249c241b60383117b06fcdd94cb13 || Raphaël Hertzog > Anthony Towns = Steve McIntyre = Wouter Verhelst > Gustavo Franco = Sam Hocevar = Simon Richter > Aigars Mahinovs > None Of The Above
+667913ce66544f3c55ea195672a54ea3 || Sam Hocevar > Gustavo Franco > None Of The Above > Simon Richter > Aigars Mahinovs > Raphaël Hertzog > Wouter Verhelst > Steve McIntyre > Anthony Towns
+3f87280c40b2088ab06d8a46be823698 || Sam Hocevar > Simon Richter > Gustavo Franco = Raphaël Hertzog = Steve McIntyre = Wouter Verhelst > None Of The Above > Aigars Mahinovs > Anthony Towns
+bf2ce69341e0fe56af28e6c601e151d4 || Anthony Towns > Raphaël Hertzog > Wouter Verhelst > Steve McIntyre > Sam Hocevar > Gustavo Franco > Aigars Mahinovs > Simon Richter > None Of The Above
+c85dec9e5ccb61ed8e6676fc02478fdb || Sam Hocevar > Gustavo Franco = Raphaël Hertzog > Steve McIntyre = Wouter Verhelst > Anthony Towns > None Of The Above > Simon Richter > Aigars Mahinovs
+960d0f72870bafad41b2519819370285 || Anthony Towns > Wouter Verhelst > Steve McIntyre
+56327ec0402144a7af744a7da21be341 || Sam Hocevar > Raphaël Hertzog > Wouter Verhelst > Simon Richter > Aigars Mahinovs = Gustavo Franco > Anthony Towns = Steve McIntyre > None Of The Above
+e19b33e179295b1cde6f2c888ffe4720 || Sam Hocevar > Wouter Verhelst > Steve McIntyre > Raphaël Hertzog > None Of The Above > Anthony Towns = Gustavo Franco > Aigars Mahinovs = Simon Richter
+01f1ba9478f9c851737cabdedb2918b7 || Anthony Towns > Steve McIntyre > Raphaël Hertzog > Sam Hocevar = Wouter Verhelst > Gustavo Franco = Simon Richter > Aigars Mahinovs > None Of The Above
+06c43c5f70b81389c0f940c0e83811ce || Steve McIntyre > Sam Hocevar > Raphaël Hertzog > None Of The Above > Aigars Mahinovs = Anthony Towns = Gustavo Franco = Simon Richter = Wouter Verhelst
+75992f292891b0aafc6e2f5c6a0ba054 || Anthony Towns > Steve McIntyre > Sam Hocevar > Raphaël Hertzog > Wouter Verhelst > Gustavo Franco > Simon Richter > Aigars Mahinovs
+f1983b48853dcba93afda7f745e9d724 || Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst > None Of The Above
+aa9ddaef3c62aec7e66552179a27f613 || None Of The Above
+5ce16651123c955d0c75ea4416759586 || Sam Hocevar = Steve McIntyre > Anthony Towns = Raphaël Hertzog = Wouter Verhelst > None Of The Above > Aigars Mahinovs = Gustavo Franco = Simon Richter
+e677ea5d9d11e73d5740d9dd98e80cc0 || Sam Hocevar > Raphaël Hertzog > Gustavo Franco > None Of The Above
+11704a4fd006ce5fe2dd8c7219b6b1ee || Raphaël Hertzog > Sam Hocevar = Steve McIntyre = Wouter Verhelst > None Of The Above
+2018f2fb975f57cbcad50930f27d9f92 || Anthony Towns > Steve McIntyre > None Of The Above > Wouter Verhelst
+8bc0c1a4347c03ade54ef74480c7f0b8 || Steve McIntyre > Anthony Towns > Wouter Verhelst > Raphaël Hertzog > Gustavo Franco > None Of The Above > Aigars Mahinovs > Simon Richter > Sam Hocevar
+91c3356f3a8be093e9a439206742130b || None Of The Above > Raphaël Hertzog > Steve McIntyre > Wouter Verhelst
+44300321087cf840cdba98efa91e0d5c || None Of The Above
+911309d8774584421cb2207b6688f6c8 || Anthony Towns > Steve McIntyre > Raphaël Hertzog > Gustavo Franco > Sam Hocevar > None Of The Above > Aigars Mahinovs > Simon Richter > Wouter Verhelst
+534dc18fa8968c8d6afbe6e7bb1bb4ab || Anthony Towns > Wouter Verhelst > Raphaël Hertzog > Steve McIntyre > Sam Hocevar > Simon Richter > None Of The Above
+27b493deda85a020b32d87f2a866140c || Wouter Verhelst > Gustavo Franco > Sam Hocevar > Simon Richter > Aigars Mahinovs = Raphaël Hertzog > Steve McIntyre > None Of The Above > Anthony Towns
+eb59e40399d66c00c246325bdfb6dfea || Steve McIntyre > Anthony Towns > None Of The Above
+7fcc00f3a13c0ad091fba88aaba22878 || Wouter Verhelst > Simon Richter > Aigars Mahinovs = Gustavo Franco = Sam Hocevar > None Of The Above > Steve McIntyre > Raphaël Hertzog > Anthony Towns
+097a5794e1fb240f5526780034d80156 || Sam Hocevar > Steve McIntyre > Gustavo Franco > Wouter Verhelst > Simon Richter > None Of The Above > Raphaël Hertzog > Aigars Mahinovs > Anthony Towns
+b5308be450ff392d904ae96e23074a08 || Sam Hocevar > Anthony Towns = Steve McIntyre > Aigars Mahinovs > Wouter Verhelst > Raphaël Hertzog > Gustavo Franco = None Of The Above > Simon Richter
+a1b4a901e1c09daaaf14499fe2ee0660 || Steve McIntyre > Anthony Towns > Sam Hocevar > Raphaël Hertzog > Wouter Verhelst > None Of The Above > Aigars Mahinovs > Gustavo Franco > Simon Richter
+750c674329b6075fb8274dfdbcf4d9c5 || Steve McIntyre > Gustavo Franco = Sam Hocevar > Wouter Verhelst > Raphaël Hertzog
+448873ddcd452b462cf4c5dd0ffb82b6 || Anthony Towns
+3948e05c633c5791fcd756d1ccd76392 || Anthony Towns > Steve McIntyre > Wouter Verhelst > None Of The Above > Simon Richter > Raphaël Hertzog > Sam Hocevar > Gustavo Franco > Aigars Mahinovs
+1a13f53484c844bda94aa55636aff06b || Raphaël Hertzog > Anthony Towns = Steve McIntyre > Sam Hocevar = Wouter Verhelst > None Of The Above > Aigars Mahinovs = Gustavo Franco = Simon Richter
+747164c51703185ac5ec34ebc70db2df || Wouter Verhelst > Steve McIntyre > None Of The Above = Sam Hocevar > Raphaël Hertzog > Simon Richter > Aigars Mahinovs = Gustavo Franco > Anthony Towns
+97872544e77cc4c586d827660254e426 || Anthony Towns > Raphaël Hertzog > Sam Hocevar > Steve McIntyre > Simon Richter
+04a7bf5b89fb416de7a3a1e87fe0583b || Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > Anthony Towns > None Of The Above > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter
+0396ea3ecdbe8ddc983c9b8ade292b32 || Raphaël Hertzog > Steve McIntyre > Anthony Towns > Wouter Verhelst > None Of The Above
+8931ea4448a7a7c42160a2fbd3b2a2c0 || Anthony Towns > Steve McIntyre > Raphaël Hertzog
+b0aa48e827229ff7b892d83101b40a4a || Wouter Verhelst > Raphaël Hertzog > Sam Hocevar > Anthony Towns > Gustavo Franco > None Of The Above > Aigars Mahinovs = Simon Richter = Steve McIntyre
+3ba3a82e8832bf7b8a0026227927807b || Sam Hocevar > Steve McIntyre > Anthony Towns > Wouter Verhelst > Gustavo Franco > Aigars Mahinovs > Raphaël Hertzog > Simon Richter
+7c85d2372017f0ee0fb704ed172eb683 || Wouter Verhelst > Steve McIntyre > Raphaël Hertzog > Simon Richter > None Of The Above > Anthony Towns > Sam Hocevar > Aigars Mahinovs > Gustavo Franco
+156186b54bff4c7907b5df6464d8feed || None Of The Above
+b3231587079f02856a593300acadbbf5 || None Of The Above > Aigars Mahinovs > Raphaël Hertzog > Steve McIntyre > Wouter Verhelst > Gustavo Franco > Anthony Towns = Sam Hocevar = Simon Richter
+7fb70747a0d5320877d28d97b770920b || Steve McIntyre > Anthony Towns > None Of The Above > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter = Wouter Verhelst > Raphaël Hertzog
+e26de25d1a566a20401ae8057f545102 || Steve McIntyre > Anthony Towns > Wouter Verhelst > None Of The Above
+764f8e7a378d3f6c76ac132e57108cde || Steve McIntyre > Raphaël Hertzog > Anthony Towns > Wouter Verhelst > Sam Hocevar > Gustavo Franco > Simon Richter > None Of The Above > Aigars Mahinovs
+fd2b183c89c1fd2f05d3359d678caf89 || Sam Hocevar > Steve McIntyre = Wouter Verhelst > Anthony Towns = Raphaël Hertzog = Simon Richter > Gustavo Franco > None Of The Above > Aigars Mahinovs
+7234ee67b6ca1902ab2e00ef7d720df2 || Anthony Towns > Raphaël Hertzog > None Of The Above > Wouter Verhelst > Aigars Mahinovs > Gustavo Franco > Sam Hocevar > Steve McIntyre > Simon Richter
+1c0e8c39dbb2b38a75a4c3f19ac9259f || Sam Hocevar > Anthony Towns > Steve McIntyre = Wouter Verhelst > Raphaël Hertzog > Aigars Mahinovs = Gustavo Franco = Simon Richter > None Of The Above
+aca0c504d4bd9914379976fe1d18b275 || Steve McIntyre > Anthony Towns > Raphaël Hertzog = Wouter Verhelst > Gustavo Franco > Aigars Mahinovs = Sam Hocevar > Simon Richter > None Of The Above
+e0764d62ddad54b8b6e98fb089a17fe3 || Anthony Towns > Raphaël Hertzog > Steve McIntyre > Wouter Verhelst > Sam Hocevar > Gustavo Franco = Simon Richter > Aigars Mahinovs > None Of The Above
+9769a406a06a0235a504476dd27df65b || Steve McIntyre > Raphaël Hertzog > Anthony Towns > Sam Hocevar = Wouter Verhelst > None Of The Above > Aigars Mahinovs = Gustavo Franco > Simon Richter
+e24806bcab753eb0ba0a3645ceab0539 || Wouter Verhelst > None Of The Above
+44be34c4339cbd9e9518dd50174ae944 || Aigars Mahinovs = Anthony Towns = Gustavo Franco = None Of The Above = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst
+4500e4f45a2f577bd8143c772d67f5c1 || Raphaël Hertzog > Sam Hocevar > Wouter Verhelst > Gustavo Franco > Simon Richter > None Of The Above > Aigars Mahinovs > Steve McIntyre > Anthony Towns
+a25a9bb597997a98ae0f32aeb41955ee || Sam Hocevar > Simon Richter > Wouter Verhelst > None Of The Above > Gustavo Franco > Aigars Mahinovs > Raphaël Hertzog > Steve McIntyre > Anthony Towns
+cad4db5728398cf2f58caa33c919cb3e || Wouter Verhelst > Raphaël Hertzog > Sam Hocevar > Gustavo Franco > Simon Richter > None Of The Above > Steve McIntyre > Anthony Towns > Aigars Mahinovs
+4cbc67bce81623d5f6dbf5b689855ecb || Steve McIntyre > Anthony Towns > Sam Hocevar > Wouter Verhelst > Gustavo Franco = Raphaël Hertzog > None Of The Above > Simon Richter > Aigars Mahinovs
+e3799870d31e15c5fc2602f337564757 || Gustavo Franco > Sam Hocevar > Wouter Verhelst > Raphaël Hertzog > Steve McIntyre > None Of The Above > Simon Richter > Aigars Mahinovs > Anthony Towns
+05e3025d083f1c723df5f62ff1a9f2d6 || Sam Hocevar > Raphaël Hertzog > Gustavo Franco > None Of The Above
+75c92f1fe4b33daf63318c3443d6eeb8 || Raphaël Hertzog > Steve McIntyre > Sam Hocevar = Wouter Verhelst
+8f5b77fe9bb0791771c04c3bec9cf71c || Anthony Towns > Raphaël Hertzog > Sam Hocevar > Steve McIntyre > Gustavo Franco > Simon Richter > Wouter Verhelst > Aigars Mahinovs > None Of The Above
+608fd99471a69c86da4fd9b2d65e4041 || Anthony Towns = Raphaël Hertzog > Gustavo Franco = Steve McIntyre = Wouter Verhelst > Aigars Mahinovs = Sam Hocevar > Simon Richter
+3792a22312edbe0119f58f0429208ea0 || Gustavo Franco = Sam Hocevar = Wouter Verhelst > Aigars Mahinovs = Simon Richter > Raphaël Hertzog = Steve McIntyre > None Of The Above > Anthony Towns
+fd7444f48ce4680da423975408624084 || Wouter Verhelst > Steve McIntyre > Sam Hocevar > Raphaël Hertzog > Gustavo Franco > Simon Richter > Anthony Towns > None Of The Above > Aigars Mahinovs
+7bb119c375699411e19265067c0d488d || Raphaël Hertzog > Wouter Verhelst > Steve McIntyre > Gustavo Franco > Aigars Mahinovs > Anthony Towns > Sam Hocevar > Simon Richter > None Of The Above
+65f8f21944b9a1cf3b5aafacb1595a19 || Sam Hocevar > Raphaël Hertzog > Wouter Verhelst > Gustavo Franco > Steve McIntyre > Anthony Towns > Aigars Mahinovs > None Of The Above > Simon Richter
+fcd68ade4a0848e838425841f1f6e173 || Anthony Towns > Steve McIntyre > None Of The Above > Wouter Verhelst > Raphaël Hertzog
+5ae533c50c1040e84e4e4c67889e6cf4 || Anthony Towns > Simon Richter > None Of The Above > Wouter Verhelst > Aigars Mahinovs > Gustavo Franco > Sam Hocevar > Steve McIntyre > Raphaël Hertzog
+d8d3bf624b18531382e159cd2beecef5 || None Of The Above
+6c811386473a4cd9689934c381a2e223 || Sam Hocevar = Steve McIntyre > None Of The Above > Raphaël Hertzog > Gustavo Franco > Anthony Towns > Wouter Verhelst > Aigars Mahinovs = Simon Richter
+702f6278c262559addeab19aa451d47d || None Of The Above
+163467838b8b0a764368392812d20cf0 || Steve McIntyre > Sam Hocevar > Anthony Towns > Gustavo Franco > None Of The Above
+872bb1d79a6c6efbfedd09fa4144b98d || Sam Hocevar > None Of The Above > Steve McIntyre > Simon Richter > Wouter Verhelst > Anthony Towns > Raphaël Hertzog > Aigars Mahinovs > Gustavo Franco
+838574ea391956187d09cef22818cca3 || Anthony Towns > None Of The Above
+ce617eff7e6139505741b9395fafe735 || Anthony Towns > Raphaël Hertzog
+5a48e39939f7eccc20f36e873cece388 || Sam Hocevar > Wouter Verhelst > Gustavo Franco > None Of The Above > Steve McIntyre > Raphaël Hertzog > Aigars Mahinovs > Simon Richter > Anthony Towns
+4127f49f613bd079a5c61bfaf27f9fb8 || Raphaël Hertzog = Wouter Verhelst > Steve McIntyre > Anthony Towns > None Of The Above > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter
+18669f7a2e8fd42eb615471c7a24988d || Sam Hocevar > Gustavo Franco > None Of The Above > Raphaël Hertzog > Aigars Mahinovs > Simon Richter > Anthony Towns > Steve McIntyre > Wouter Verhelst
+8ea420445c49abc20903ad72e0115f01 || Raphaël Hertzog = Steve McIntyre > Anthony Towns = Sam Hocevar > None Of The Above > Aigars Mahinovs = Gustavo Franco = Simon Richter = Wouter Verhelst
+cea35d528fb437c707a4f3da25e8ee04 || Wouter Verhelst > Steve McIntyre > Raphaël Hertzog > None Of The Above > Aigars Mahinovs > Gustavo Franco > Sam Hocevar > Simon Richter > Anthony Towns
+cb1b0ff1dc395c3629f4d27db93c35be || Sam Hocevar > Raphaël Hertzog > Wouter Verhelst > Gustavo Franco > Steve McIntyre > Anthony Towns > Simon Richter > None Of The Above > Aigars Mahinovs
+958f9f64e3fec695230fa900dd9d58f9 || Sam Hocevar > Steve McIntyre > Anthony Towns = Raphaël Hertzog = Wouter Verhelst > Gustavo Franco > Simon Richter > None Of The Above > Aigars Mahinovs
+eca2dce469616c429cb8ecb5050f3940 || Sam Hocevar > Anthony Towns > Raphaël Hertzog > Aigars Mahinovs > Wouter Verhelst > Simon Richter
+731c3fbc78d38d309c49ee6012bcea39 || Anthony Towns > Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > None Of The Above
+5ca9803e8d3b2752f96c95cb2f3f9af1 || Steve McIntyre > Anthony Towns = Raphaël Hertzog > Wouter Verhelst
+58f0a8ba4dd1b1606b58057f565a30fd || Sam Hocevar > Anthony Towns > Raphaël Hertzog > Steve McIntyre = Wouter Verhelst > Gustavo Franco > None Of The Above > Aigars Mahinovs > Simon Richter
+5f38bdb077a31e32187baa761e7cc636 || Anthony Towns > Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > Gustavo Franco > None Of The Above
+a466b5b91e43b9a61af656da6d530627 || Sam Hocevar > Gustavo Franco > Simon Richter > None Of The Above > Raphaël Hertzog = Wouter Verhelst > Aigars Mahinovs > Steve McIntyre > Anthony Towns
+8b3755dc6ef27e43a346c9a9403e27ed || Sam Hocevar > Gustavo Franco > None Of The Above
+30c4333004e45f08bb7b8d84f4de638b || Wouter Verhelst > None Of The Above
+62f3466069f39f60b3910e8d32edc347 || None Of The Above > Anthony Towns = Wouter Verhelst > Sam Hocevar = Steve McIntyre
+013cae7d31d7a577bbca3c9e2bb498d8 || Anthony Towns > Wouter Verhelst
+6daae1c6289aedde583e1e967615e82c || Sam Hocevar > Raphaël Hertzog > Wouter Verhelst > Anthony Towns = Steve McIntyre > None Of The Above > Aigars Mahinovs = Gustavo Franco = Simon Richter
+91df45e7019d8976f0dd31f2c8dbcce8 || Anthony Towns > Raphaël Hertzog > Steve McIntyre > Wouter Verhelst > Gustavo Franco > Aigars Mahinovs = None Of The Above = Sam Hocevar = Simon Richter
+a505bedf414f1415bd751b6ae28804b5 || Raphaël Hertzog = Sam Hocevar > Aigars Mahinovs = Gustavo Franco > Steve McIntyre > None Of The Above
+96fcdcb871e4abe1af7547e0c231331c || Steve McIntyre > Wouter Verhelst > Anthony Towns > Gustavo Franco = Raphaël Hertzog = Sam Hocevar > Aigars Mahinovs = Simon Richter > None Of The Above
+ea0bce5bb1aff2deeab387c4e4ed9c3a || Steve McIntyre > Anthony Towns > Sam Hocevar > Raphaël Hertzog > None Of The Above > Simon Richter > Wouter Verhelst > Gustavo Franco > Aigars Mahinovs
+3ad68bd9961a5c5744f52647e2f2504e || Raphaël Hertzog > Steve McIntyre > Sam Hocevar > Anthony Towns > Wouter Verhelst > Simon Richter > Gustavo Franco > None Of The Above > Aigars Mahinovs
+917ce5f81938ef83a4f3db51ae6178bd || Steve McIntyre > Wouter Verhelst > None Of The Above > Raphaël Hertzog = Sam Hocevar > Aigars Mahinovs = Anthony Towns = Gustavo Franco = Simon Richter
+976ffc2fe7dc2d4cad3a8f07f68339c4 || Wouter Verhelst > Sam Hocevar > Raphaël Hertzog > Gustavo Franco > Simon Richter > Aigars Mahinovs > None Of The Above > Anthony Towns = Steve McIntyre
+bdde81ba338ddcb33001f359c5214c90 || Anthony Towns > Steve McIntyre > Sam Hocevar = Wouter Verhelst > Raphaël Hertzog > None Of The Above > Aigars Mahinovs = Gustavo Franco = Simon Richter
+95f8d0bd38affe6ae9c3d71d2199ac42 || Steve McIntyre > Anthony Towns > Sam Hocevar > Raphaël Hertzog > Aigars Mahinovs = Gustavo Franco = Simon Richter = Wouter Verhelst > None Of The Above
+50b490bb14d6fed354dbab130f07da2e || Steve McIntyre > Anthony Towns > Raphaël Hertzog > Wouter Verhelst > None Of The Above > Sam Hocevar > Aigars Mahinovs > Gustavo Franco > Simon Richter
+eac404717952d119d722f2f15fd3cd00 || Wouter Verhelst > Simon Richter > Sam Hocevar > Aigars Mahinovs > Gustavo Franco > Raphaël Hertzog > Steve McIntyre > Anthony Towns
+2d5ea2b98b818352b34e4344a91f1fc1 || Steve McIntyre > Wouter Verhelst > Aigars Mahinovs > Raphaël Hertzog > Anthony Towns > Simon Richter > None Of The Above > Sam Hocevar > Gustavo Franco
+5c1a7e3719bf2ce986c1d39d18548f34 || Raphaël Hertzog > None Of The Above > Aigars Mahinovs = Anthony Towns = Gustavo Franco = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst
+bd66e05d62ac660c5c74ee274107628e || None Of The Above
+6b78eb57b435fbf29633bf1abe9a27c3 || Raphaël Hertzog > Wouter Verhelst > Simon Richter > Anthony Towns > Steve McIntyre > None Of The Above
+24d7edbaee90b8e5fb8d800ed2ddf351 || Sam Hocevar > Gustavo Franco > Wouter Verhelst > Raphaël Hertzog > Anthony Towns > Steve McIntyre > None Of The Above > Simon Richter > Aigars Mahinovs
+868b4a0cf7ac9e47f64659670b7c247d || Wouter Verhelst > Raphaël Hertzog > Gustavo Franco > Steve McIntyre > Anthony Towns > Sam Hocevar > Aigars Mahinovs > Simon Richter > None Of The Above
+8c40da82b9b3ab4983d5326de87c781b || Sam Hocevar > Raphaël Hertzog > Wouter Verhelst > Steve McIntyre > Gustavo Franco > Anthony Towns > Aigars Mahinovs > Simon Richter
+dfe43345c1dc20f29c8750eb06067da1 || Steve McIntyre > Anthony Towns > Wouter Verhelst > Aigars Mahinovs > Gustavo Franco > Sam Hocevar > Raphaël Hertzog > Simon Richter > None Of The Above
+82b5dfb5c8756f3902cb2553309ac0d3 || Steve McIntyre > Raphaël Hertzog = Wouter Verhelst > Anthony Towns > Gustavo Franco = Simon Richter > None Of The Above > Aigars Mahinovs > Sam Hocevar
+c5b28d9d485fb3841d31e82438e42ac2 || None Of The Above > Aigars Mahinovs = Anthony Towns = Gustavo Franco = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst
+175d997dcbc410c4386c00e826b51273 || Steve McIntyre > Sam Hocevar > Anthony Towns > Wouter Verhelst > Raphaël Hertzog > None Of The Above > Aigars Mahinovs = Gustavo Franco = Simon Richter
+d91be484ccc0cbaf2ebbb274b14f71e7 || Sam Hocevar > Gustavo Franco > Wouter Verhelst > Aigars Mahinovs = Raphaël Hertzog = Simon Richter > None Of The Above > Anthony Towns = Steve McIntyre
+e5f837e3b0a4408b9a201a0014a43f07 || Sam Hocevar > Raphaël Hertzog > None Of The Above
+452ee865caf3d481994da4d869701f76 || Anthony Towns > Sam Hocevar > Aigars Mahinovs = Gustavo Franco = None Of The Above = Raphaël Hertzog = Simon Richter = Steve McIntyre = Wouter Verhelst
+ae95067b3585cd16a60ac24685b2a0c4 || Wouter Verhelst > Sam Hocevar = Steve McIntyre > Anthony Towns = Raphaël Hertzog > None Of The Above
+e98d8eded90d2fec8bb9c3eaa5de2fcb || Steve McIntyre > Wouter Verhelst > Anthony Towns
+a3e5a1018c069d7e9c86668465ce0a32 || Steve McIntyre > Anthony Towns > Sam Hocevar > Gustavo Franco > None Of The Above > Raphaël Hertzog > Wouter Verhelst > Simon Richter > Aigars Mahinovs
+ae9aad17831770e8909ee41908a8f2dd || Anthony Towns > Steve McIntyre > None Of The Above > Wouter Verhelst > Simon Richter > Raphaël Hertzog > Sam Hocevar > Gustavo Franco > Aigars Mahinovs
+8573c551f716d78cad467d17a1df1121 || Steve McIntyre > Anthony Towns > Sam Hocevar > None Of The Above
+1352574fa909e3b2eb1667a250596344 || Raphaël Hertzog > Sam Hocevar = Wouter Verhelst > Aigars Mahinovs = Gustavo Franco > Simon Richter = Steve McIntyre > None Of The Above > Anthony Towns
+4bac6c66bd4a909a4ba0bf446640aaa0 || Gustavo Franco = Sam Hocevar > Wouter Verhelst > Aigars Mahinovs = Steve McIntyre > None Of The Above
+847d6aeab5fbb1a3849b7e44e6dea116 || Wouter Verhelst > Sam Hocevar > Gustavo Franco > Raphaël Hertzog > Simon Richter > Aigars Mahinovs > None Of The Above > Steve McIntyre > Anthony Towns
+04d3d08aae2a5406a086129a5a8281b3 || Wouter Verhelst > None Of The Above
+a00acc5da9cdae31356f3e4446d83487 || Anthony Towns = Steve McIntyre > Raphaël Hertzog = Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter
+bec3edbf12bb2f0cff96073fb638b078 || Gustavo Franco > Sam Hocevar > Raphaël Hertzog = Wouter Verhelst > Steve McIntyre > Simon Richter > None Of The Above > Aigars Mahinovs > Anthony Towns
+073499ac9d86f36aa314e3a0fdd6d41b || Wouter Verhelst > Steve McIntyre > Anthony Towns > Simon Richter > Gustavo Franco > Raphaël Hertzog > Sam Hocevar > None Of The Above > Aigars Mahinovs
+25cd17899934e7aec5c36d412b143fa1 || Sam Hocevar > Gustavo Franco = Raphaël Hertzog > Wouter Verhelst
+36432746596bd9078c342e86b4803786 || Anthony Towns > Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > Sam Hocevar > Aigars Mahinovs > Gustavo Franco > Simon Richter > None Of The Above
+8b8c6575aedff7a0ce8363ad23de6965 || Anthony Towns > Steve McIntyre > Wouter Verhelst > Sam Hocevar > Raphaël Hertzog > Simon Richter > Gustavo Franco > Aigars Mahinovs > None Of The Above
+c46c4edbb67cc243051f483fad0b27d9 || Raphaël Hertzog > Anthony Towns = Steve McIntyre > Simon Richter > None Of The Above
+9639e14905858627e4069e1362be836d || Sam Hocevar > Raphaël Hertzog > Steve McIntyre > Anthony Towns > Gustavo Franco > None Of The Above = Simon Richter = Wouter Verhelst > Aigars Mahinovs
+2dd0cd8630c080193e998b85a9c6b343 || Wouter Verhelst > Steve McIntyre > Anthony Towns
+e722c36ade585eeb09e41475fd6b2645 || Sam Hocevar > Gustavo Franco = Raphaël Hertzog > Steve McIntyre = Wouter Verhelst > None Of The Above > Aigars Mahinovs = Simon Richter > Anthony Towns
+9598237dcc4e6c2d69ae1386004cf2ab || Gustavo Franco > Raphaël Hertzog > Wouter Verhelst > Anthony Towns > Sam Hocevar
+5a550769adc0cd30c8c143b008536098 || Anthony Towns > Raphaël Hertzog > Steve McIntyre > Sam Hocevar > Wouter Verhelst > Aigars Mahinovs > Gustavo Franco > Simon Richter > None Of The Above
+df42a1a9e276a8f937aaa517f9989a63 || Steve McIntyre > Anthony Towns > Sam Hocevar
+2cc98e3ff1202694eaf23af0203dcbe7 || Anthony Towns > Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > Sam Hocevar > None Of The Above
+aa11975d8353c88727b59a6a65eec05e || Steve McIntyre > Anthony Towns > Raphaël Hertzog > Gustavo Franco = Wouter Verhelst > Aigars Mahinovs = Sam Hocevar = Simon Richter > None Of The Above
+973b9384b33e21e06b79676b6132982e || Sam Hocevar > Gustavo Franco > Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > Simon Richter > Aigars Mahinovs > Anthony Towns > None Of The Above
+0b768ad1c7eba0d6af8ce4f9013d3067 || Simon Richter > Raphaël Hertzog > None Of The Above > Steve McIntyre > Sam Hocevar > Gustavo Franco > Aigars Mahinovs > Wouter Verhelst > Anthony Towns
+a3ebcb8830c373594a6949bbab3ef605 || Raphaël Hertzog > Steve McIntyre > Gustavo Franco > Sam Hocevar > Wouter Verhelst > Simon Richter > None Of The Above > Aigars Mahinovs > Anthony Towns
+fcdb1e90e4e87f0b313fa3c4ed30daa1 || Anthony Towns > Raphaël Hertzog > Gustavo Franco > Wouter Verhelst > Sam Hocevar > Steve McIntyre > Aigars Mahinovs > Simon Richter > None Of The Above
+8270767ec9af8ff30163c1ba11219d57 || Sam Hocevar > Gustavo Franco > Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > Anthony Towns > None Of The Above > Simon Richter > Aigars Mahinovs
+c863b36f1e9bb6a2e0689b07c7cec405 || Sam Hocevar > Raphaël Hertzog > Gustavo Franco > Wouter Verhelst > Steve McIntyre > None Of The Above > Aigars Mahinovs > Simon Richter > Anthony Towns
+2048937296216731b4942f13234732c7 || Anthony Towns = Steve McIntyre > Raphaël Hertzog = Sam Hocevar > Gustavo Franco = Wouter Verhelst > Aigars Mahinovs > Simon Richter
+c722315d845bf3b8900873f01a1b6d80 || Steve McIntyre > Wouter Verhelst > Aigars Mahinovs = Anthony Towns = Simon Richter > Gustavo Franco > Raphaël Hertzog > Sam Hocevar > None Of The Above
+1c74a47b123bf2fff4df65a6a82ba0d7 || Sam Hocevar > Steve McIntyre > Anthony Towns > Gustavo Franco > Raphaël Hertzog > None Of The Above > Simon Richter > Wouter Verhelst > Aigars Mahinovs
+b513e43d27e8ef8fbab1397c1ef0177c || Anthony Towns
+2e60fd12c3c8b523560d212c0f8a520e || Steve McIntyre > Sam Hocevar > Wouter Verhelst > Raphaël Hertzog > Anthony Towns > None Of The Above > Aigars Mahinovs > Gustavo Franco > Simon Richter
+ed7047447d8c83123d10ce83371b048f || Anthony Towns > Sam Hocevar > Steve McIntyre > Wouter Verhelst > None Of The Above > Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Simon Richter
+06a00e033e301fed22a75c8eed28c2b6 || Raphaël Hertzog > Anthony Towns > Sam Hocevar > None Of The Above
+e57783d1b8b193db6d2b0cca96f0907d || Steve McIntyre > Anthony Towns = Sam Hocevar > Raphaël Hertzog > Wouter Verhelst > Gustavo Franco = None Of The Above > Aigars Mahinovs = Simon Richter
+c9e848ed71b49de37adb3729c610981f || Anthony Towns = Steve McIntyre > Gustavo Franco = Sam Hocevar > Raphaël Hertzog > None Of The Above > Aigars Mahinovs = Simon Richter = Wouter Verhelst
+104644f9f0daa43db0ecba9a425b7552 || Steve McIntyre > Anthony Towns > Raphaël Hertzog > Gustavo Franco = Wouter Verhelst > Sam Hocevar > Simon Richter > None Of The Above > Aigars Mahinovs
+7d05d0a4355829223b4bcaaf18e0292c || Wouter Verhelst > Simon Richter > Steve McIntyre > Gustavo Franco = None Of The Above > Sam Hocevar > Raphaël Hertzog > Aigars Mahinovs > Anthony Towns
+aa785047e901d85ceaddb8d39ac8fbb9 || Raphaël Hertzog > Steve McIntyre > Anthony Towns > Sam Hocevar > Gustavo Franco > Wouter Verhelst > Simon Richter > None Of The Above > Aigars Mahinovs
+673220b63776cf4cdba842d83802a29f || Wouter Verhelst > Steve McIntyre > None Of The Above > Raphaël Hertzog > Simon Richter > Gustavo Franco > Sam Hocevar > Anthony Towns > Aigars Mahinovs
+cfca0279d8f7a4c7a75288e05c3d7c23 || Anthony Towns = Sam Hocevar = Steve McIntyre > Wouter Verhelst > None Of The Above
+e26b476320b331b4f47d01807dce2e1f || Anthony Towns > None Of The Above
+9091a67166331b5b8a0af81dcaebc1c7 || Wouter Verhelst > Sam Hocevar > Gustavo Franco = Simon Richter > Raphaël Hertzog = Steve McIntyre > Anthony Towns > None Of The Above > Aigars Mahinovs
+a25d9aef343ebfcc2fd8eff632042e68 || Gustavo Franco > Sam Hocevar > None Of The Above > Aigars Mahinovs = Anthony Towns = Raphaël Hertzog = Simon Richter = Steve McIntyre = Wouter Verhelst
+26e7e3c411611e9dfa6cb5e12041091a || Steve McIntyre > Anthony Towns > Wouter Verhelst > Raphaël Hertzog
+2be1f033b4144e56b1e29b207a014de3 || Anthony Towns > Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter > None Of The Above
+a127843a35f49ec7900797879d5582aa || Anthony Towns > Sam Hocevar > Gustavo Franco > Steve McIntyre > Wouter Verhelst > Raphaël Hertzog > None Of The Above > Aigars Mahinovs > Simon Richter
+ef7cbe1df6a2e3f9c18c0236739a4469 || Steve McIntyre > Raphaël Hertzog > Gustavo Franco = Sam Hocevar > Anthony Towns > None Of The Above > Aigars Mahinovs = Wouter Verhelst > Simon Richter
+c0141e6786e1d7fa0ec6f14ab42af5db || Steve McIntyre = Wouter Verhelst > Raphaël Hertzog > Simon Richter > Anthony Towns = Gustavo Franco > None Of The Above > Aigars Mahinovs = Sam Hocevar
+9880d041dcc6b49ad32ae1b87d20874e || Raphaël Hertzog > Steve McIntyre > Sam Hocevar > Anthony Towns > Wouter Verhelst > None Of The Above > Gustavo Franco > Aigars Mahinovs > Simon Richter
+5a5536130285fa1f49e59b12f284bfb4 || Anthony Towns > Sam Hocevar > Gustavo Franco > Wouter Verhelst > Steve McIntyre > Simon Richter > Raphaël Hertzog > Aigars Mahinovs > None Of The Above
+36cddfe1a10d5d4ec18789f68652cce0 || Sam Hocevar > Gustavo Franco > Raphaël Hertzog > Wouter Verhelst > Anthony Towns > Steve McIntyre > Aigars Mahinovs > Simon Richter
+e81b6f4d2d685a1f0f7199fc6602e78f || Gustavo Franco > Sam Hocevar > Raphaël Hertzog > Steve McIntyre > Anthony Towns > Simon Richter > Wouter Verhelst > Aigars Mahinovs > None Of The Above
+b47401bedd3e9c14d3083857473a2e0a || Sam Hocevar > Gustavo Franco > Raphaël Hertzog > Steve McIntyre > Anthony Towns > Wouter Verhelst > None Of The Above > Aigars Mahinovs > Simon Richter
+38552e43c001aac5248885ded1cdb116 || Raphaël Hertzog > Wouter Verhelst > Anthony Towns > Steve McIntyre > None Of The Above
+d85a7e66322100d2efcbc8ca51ce86f1 || Raphaël Hertzog = Sam Hocevar > Steve McIntyre > None Of The Above > Gustavo Franco = Wouter Verhelst > Anthony Towns > Aigars Mahinovs = Simon Richter
+a3875fe4e1af9d07cf9efc661954e838 || Raphaël Hertzog > Wouter Verhelst > Gustavo Franco > Sam Hocevar > Steve McIntyre > None Of The Above > Aigars Mahinovs > Anthony Towns > Simon Richter
+646a655c6c6b8ff073cb74cb8abdfdf0 || Raphaël Hertzog = Wouter Verhelst > Gustavo Franco > Anthony Towns > Aigars Mahinovs = None Of The Above = Sam Hocevar = Simon Richter = Steve McIntyre
+434d6c54c6ee22d9838c17dcde1e8714 || Steve McIntyre
+db0ba98892501139afd8e3590c2388ef || Aigars Mahinovs = Anthony Towns = Gustavo Franco = None Of The Above = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst
+c96fd6283ac8460dde8b4ef281ec6f03 || Gustavo Franco = Sam Hocevar = Wouter Verhelst > Raphaël Hertzog = Steve McIntyre > Anthony Towns > Aigars Mahinovs = Simon Richter
+af7339fc519870f144e700dfd1366b98 || Wouter Verhelst > Raphaël Hertzog = Sam Hocevar > Gustavo Franco > Steve McIntyre > Simon Richter > None Of The Above > Aigars Mahinovs > Anthony Towns
+9054f0443ce90b42d1d5d8915e6670a7 || Gustavo Franco = Sam Hocevar > Raphaël Hertzog > Wouter Verhelst > Anthony Towns
+fdbd02faf74cf40038c7f81887c5b1e1 || Sam Hocevar > None Of The Above
+ecd69fce4975cfe9f7291bbeb992bd24 || Sam Hocevar > Gustavo Franco > Steve McIntyre = Wouter Verhelst > None Of The Above > Anthony Towns = Raphaël Hertzog > Aigars Mahinovs = Simon Richter
+6dc06d9ae7f4482b0f54b52fe8b71bf4 || Gustavo Franco > Steve McIntyre > Sam Hocevar > Wouter Verhelst > Anthony Towns > Raphaël Hertzog > Aigars Mahinovs > Simon Richter > None Of The Above
+307439b033a02f983be37e6b0dec868e || Sam Hocevar > Gustavo Franco > Raphaël Hertzog = Wouter Verhelst > Anthony Towns = Steve McIntyre > Aigars Mahinovs = Simon Richter
+196cc4e7fca7d16acb693b92d6513e40 || Sam Hocevar > Wouter Verhelst > Gustavo Franco > Anthony Towns > Raphaël Hertzog = Steve McIntyre > Simon Richter > Aigars Mahinovs = None Of The Above
+73d1b0b63a1d17919b20b8c0bea1f0a6 || Aigars Mahinovs > Sam Hocevar > Gustavo Franco > Raphaël Hertzog > Steve McIntyre > Wouter Verhelst > Simon Richter > None Of The Above > Anthony Towns
+cb63ad319b5aa1a7c7aed178ddda311b || Sam Hocevar > Wouter Verhelst > Steve McIntyre > Anthony Towns = Raphaël Hertzog > Gustavo Franco > Aigars Mahinovs = None Of The Above = Simon Richter
+21d94a46a5a9162b906f4c4f985131c2 || Sam Hocevar > Gustavo Franco > Wouter Verhelst > None Of The Above > Anthony Towns = Steve McIntyre > Raphaël Hertzog > Aigars Mahinovs = Simon Richter
+f077e7bd35a3194915b3002853a9e374 || Sam Hocevar > Raphaël Hertzog > Gustavo Franco = Wouter Verhelst > None Of The Above = Steve McIntyre > Aigars Mahinovs = Simon Richter
+c93781659b330e3322699299d7b0263f || Sam Hocevar > Anthony Towns > Raphaël Hertzog > Gustavo Franco
+92a18fedc75e10f238b593a1068cdb2e || Anthony Towns > Wouter Verhelst > None Of The Above
+9fb47f93ec4ad670378899f259e1cd2c || Sam Hocevar > Gustavo Franco > None Of The Above > Simon Richter > Wouter Verhelst > Steve McIntyre > Raphaël Hertzog > Aigars Mahinovs > Anthony Towns
+0dd48de8586a03bc634d5b7f88f2ad09 || Wouter Verhelst > Sam Hocevar > Simon Richter > Raphaël Hertzog > Gustavo Franco > None Of The Above > Steve McIntyre > Aigars Mahinovs > Anthony Towns
+6461f50716c1241c1e94c44d01b9d223 || Anthony Towns > Steve McIntyre > Raphaël Hertzog > Gustavo Franco > Sam Hocevar > None Of The Above > Wouter Verhelst > Simon Richter > Aigars Mahinovs
+61b0198899c64e3f3893662524afbd13 || Raphaël Hertzog > Sam Hocevar > None Of The Above > Aigars Mahinovs = Anthony Towns = Gustavo Franco = Simon Richter = Steve McIntyre = Wouter Verhelst
+bfa429a7aa1dd33851efb4deb1a182db || Steve McIntyre > Wouter Verhelst
+8be478fdc7fc4f6c5f5ec767c26b7070 || Sam Hocevar = Wouter Verhelst > Steve McIntyre > None Of The Above > Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Simon Richter > Anthony Towns
+9ebf1d644affd657f6c8aacb7893ad70 || Gustavo Franco > Sam Hocevar > Wouter Verhelst > None Of The Above > Simon Richter > Aigars Mahinovs > Anthony Towns > Steve McIntyre > Raphaël Hertzog
+a6ebe2e8cad2d93c0034ea8a1f800a36 || Anthony Towns > Aigars Mahinovs = Gustavo Franco = Raphaël Hertzog = Sam Hocevar = Simon Richter = Steve McIntyre = Wouter Verhelst > None Of The Above
+6524617fc241314119683ac3aa923033 || Gustavo Franco > Raphaël Hertzog = Sam Hocevar > Steve McIntyre > Anthony Towns = Wouter Verhelst > Aigars Mahinovs = Simon Richter
+8f663a21f0cbff38bd59272657674974 || Sam Hocevar > Gustavo Franco > Anthony Towns = Steve McIntyre > Aigars Mahinovs = Raphaël Hertzog = Wouter Verhelst > None Of The Above > Simon Richter
+56947a39e87ec487c5587de1974d2266 || Steve McIntyre > Raphaël Hertzog > Anthony Towns > Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = Sam Hocevar = Simon Richter > None Of The Above
+774b5d5acbfd0c28486987b6e2858ff2 || Anthony Towns = Steve McIntyre > Wouter Verhelst > Aigars Mahinovs = Gustavo Franco = Sam Hocevar > Raphaël Hertzog = Simon Richter
+7ad3a7548af383e4c6e556f064821e87 || Sam Hocevar > Gustavo Franco > None Of The Above > Simon Richter > Raphaël Hertzog > Wouter Verhelst > Aigars Mahinovs > Steve McIntyre > Anthony Towns

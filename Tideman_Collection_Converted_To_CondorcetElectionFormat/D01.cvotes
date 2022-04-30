@@ -1,0 +1,316 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+#/Candidates: Branden Robinson ; Anand Kumria ; Ben Collins ; Bdale Garbee ; None Of The Above
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins
+Ben Collins > Bdale Garbee > Anand Kumria > Branden Robinson
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria
+Bdale Garbee > Ben Collins > Branden Robinson
+Ben Collins > Bdale Garbee > Branden Robinson > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson
+Bdale Garbee > Ben Collins > Branden Robinson > None Of The Above > Anand Kumria
+Ben Collins > Bdale Garbee
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins
+Bdale Garbee > Ben Collins > Anand Kumria > Branden Robinson
+Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria > None Of The Above
+Branden Robinson > Bdale Garbee > Anand Kumria > Ben Collins > None Of The Above
+Ben Collins > Branden Robinson > None Of The Above
+Branden Robinson > Bdale Garbee > Ben Collins > Anand Kumria > None Of The Above
+Ben Collins > Bdale Garbee
+Bdale Garbee > Ben Collins > None Of The Above > Anand Kumria > Branden Robinson
+Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above > Branden Robinson
+Ben Collins > Branden Robinson > Bdale Garbee > None Of The Above > Anand Kumria
+Ben Collins > Bdale Garbee > None Of The Above > Anand Kumria
+Bdale Garbee > Ben Collins > Branden Robinson
+Ben Collins > Bdale Garbee > Branden Robinson > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > Bdale Garbee > Ben Collins > None Of The Above > Anand Kumria
+Bdale Garbee > Ben Collins > Branden Robinson > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson > Anand Kumria > Bdale Garbee > None Of The Above
+Ben Collins > Branden Robinson
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria > None Of The Above
+Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above > Ben Collins
+Bdale Garbee > Ben Collins > None Of The Above > Branden Robinson > Anand Kumria
+Bdale Garbee
+Ben Collins > Bdale Garbee > Branden Robinson
+Branden Robinson > Bdale Garbee > None Of The Above > Anand Kumria > Ben Collins
+Branden Robinson > Bdale Garbee > Ben Collins > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee
+Ben Collins > Branden Robinson > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above > Anand Kumria
+Branden Robinson > Ben Collins > Bdale Garbee
+Ben Collins > Branden Robinson > Anand Kumria > Bdale Garbee > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria
+Ben Collins > Branden Robinson
+Ben Collins > Bdale Garbee
+Bdale Garbee > Branden Robinson > None Of The Above > Ben Collins
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins
+None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > Bdale Garbee > None Of The Above
+Ben Collins > Bdale Garbee > None Of The Above > Anand Kumria > Branden Robinson
+None Of The Above > Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Ben Collins > Bdale Garbee > Anand Kumria
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Ben Collins
+Branden Robinson > Ben Collins > Anand Kumria
+Bdale Garbee > Anand Kumria > None Of The Above > Ben Collins > Branden Robinson
+Branden Robinson > Ben Collins > None Of The Above > Anand Kumria > Bdale Garbee
+Branden Robinson > Bdale Garbee
+Ben Collins > Bdale Garbee > Anand Kumria > Branden Robinson > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson > None Of The Above > Anand Kumria
+Bdale Garbee > Ben Collins > None Of The Above
+Bdale Garbee > Branden Robinson > Ben Collins
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee
+Anand Kumria > Ben Collins > Bdale Garbee > Branden Robinson > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Anand Kumria > Branden Robinson
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson
+Ben Collins > Bdale Garbee > Branden Robinson
+Ben Collins > Branden Robinson > Anand Kumria > Bdale Garbee
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria
+Bdale Garbee
+Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria > None Of The Above
+Bdale Garbee > Branden Robinson > Ben Collins > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson > Anand Kumria > Bdale Garbee > None Of The Above
+Bdale Garbee > Ben Collins
+Bdale Garbee > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson > None Of The Above > Anand Kumria
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above > Anand Kumria
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria
+Branden Robinson > Ben Collins > Bdale Garbee
+Branden Robinson > Bdale Garbee > None Of The Above
+Branden Robinson > Ben Collins > Anand Kumria > Bdale Garbee > None Of The Above
+Branden Robinson > Ben Collins > Anand Kumria > Bdale Garbee > None Of The Above
+Branden Robinson > Bdale Garbee > Ben Collins > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee
+Bdale Garbee > Ben Collins > Branden Robinson > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria
+Bdale Garbee > Branden Robinson > Ben Collins
+Bdale Garbee > Branden Robinson > Anand Kumria > Ben Collins > None Of The Above
+Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above > Branden Robinson
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson
+Branden Robinson > Bdale Garbee > None Of The Above > Anand Kumria > Ben Collins
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above > Anand Kumria
+Bdale Garbee > Ben Collins > Anand Kumria > None Of The Above > Branden Robinson
+Branden Robinson > Bdale Garbee > Anand Kumria > Ben Collins > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson > None Of The Above > Anand Kumria > Bdale Garbee
+Branden Robinson > Ben Collins > None Of The Above
+Ben Collins > None Of The Above
+Branden Robinson > Bdale Garbee
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Ben Collins > Branden Robinson > Anand Kumria > Bdale Garbee > None Of The Above
+Branden Robinson > Ben Collins
+Anand Kumria > Bdale Garbee > Ben Collins > Branden Robinson
+Ben Collins > Branden Robinson > Anand Kumria
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > None Of The Above
+Branden Robinson > Ben Collins > Anand Kumria > Bdale Garbee
+Branden Robinson > Ben Collins > Anand Kumria > Bdale Garbee > None Of The Above
+Ben Collins > Bdale Garbee > Branden Robinson > None Of The Above
+Branden Robinson > Bdale Garbee > Ben Collins > Anand Kumria > None Of The Above
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Ben Collins > Bdale Garbee > Branden Robinson > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Anand Kumria > Bdale Garbee > Ben Collins > Branden Robinson
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria
+Branden Robinson > Ben Collins > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > None Of The Above > Anand Kumria
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee
+Branden Robinson > Bdale Garbee > Ben Collins
+Bdale Garbee > Ben Collins > Branden Robinson
+Ben Collins > Bdale Garbee > None Of The Above > Branden Robinson > Anand Kumria
+Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria > None Of The Above
+Branden Robinson > Bdale Garbee > Ben Collins > Anand Kumria
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above
+Ben Collins > Bdale Garbee > None Of The Above > Branden Robinson
+Bdale Garbee > Ben Collins > None Of The Above > Anand Kumria > Branden Robinson
+Ben Collins > Bdale Garbee > Branden Robinson
+Ben Collins > Bdale Garbee > Branden Robinson > None Of The Above
+Bdale Garbee > Branden Robinson > Ben Collins > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Ben Collins > Bdale Garbee > None Of The Above
+Branden Robinson > Bdale Garbee > None Of The Above > Anand Kumria > Ben Collins
+Branden Robinson > Bdale Garbee > Ben Collins > Anand Kumria > None Of The Above
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria
+Bdale Garbee > Anand Kumria > None Of The Above > Ben Collins > Branden Robinson
+Bdale Garbee > None Of The Above
+Ben Collins > Branden Robinson
+Ben Collins > Branden Robinson > Bdale Garbee
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above
+Ben Collins > Anand Kumria > Branden Robinson > Bdale Garbee > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria
+Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria
+Ben Collins > Bdale Garbee > None Of The Above
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria > None Of The Above
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee
+Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria
+Branden Robinson > Bdale Garbee > None Of The Above > Ben Collins > Anand Kumria
+Ben Collins > Branden Robinson > Anand Kumria
+Branden Robinson > Bdale Garbee > Ben Collins > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > None Of The Above > Bdale Garbee > Anand Kumria > Ben Collins
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above > Anand Kumria
+Ben Collins > Anand Kumria
+Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above > Ben Collins
+Bdale Garbee > Anand Kumria > Branden Robinson > None Of The Above
+Branden Robinson > Bdale Garbee > Ben Collins
+Branden Robinson > Bdale Garbee > Ben Collins > None Of The Above > Anand Kumria
+Ben Collins > Bdale Garbee > Anand Kumria > Branden Robinson > None Of The Above
+Bdale Garbee > Branden Robinson
+Ben Collins > Bdale Garbee > None Of The Above > Anand Kumria > Branden Robinson
+Bdale Garbee > Ben Collins > None Of The Above > Anand Kumria > Branden Robinson
+Branden Robinson > Ben Collins
+Branden Robinson > Ben Collins > None Of The Above > Anand Kumria > Bdale Garbee
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee > None Of The Above
+Bdale Garbee > Ben Collins > Anand Kumria > Branden Robinson > None Of The Above
+None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Anand Kumria > Branden Robinson > None Of The Above
+Bdale Garbee > Anand Kumria > Ben Collins > Branden Robinson
+Bdale Garbee > None Of The Above > Anand Kumria > Branden Robinson > Ben Collins
+Ben Collins > Branden Robinson
+Ben Collins
+Branden Robinson > Bdale Garbee > Ben Collins > None Of The Above > Anand Kumria
+Branden Robinson > Ben Collins
+Bdale Garbee > Ben Collins > None Of The Above > Anand Kumria > Branden Robinson
+Ben Collins > Branden Robinson > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria > None Of The Above
+None Of The Above > Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Ben Collins > Bdale Garbee
+Branden Robinson > Bdale Garbee > None Of The Above > Anand Kumria > Ben Collins
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Ben Collins > Branden Robinson > None Of The Above > Bdale Garbee > Anand Kumria
+Branden Robinson > None Of The Above > Bdale Garbee > Ben Collins > Anand Kumria
+Ben Collins > Bdale Garbee > Branden Robinson > None Of The Above > Anand Kumria
+Ben Collins > Bdale Garbee > Branden Robinson > None Of The Above
+Ben Collins > Bdale Garbee > Branden Robinson
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > None Of The Above > Anand Kumria
+Bdale Garbee > Branden Robinson > None Of The Above > Anand Kumria > Ben Collins
+Bdale Garbee > Anand Kumria > None Of The Above > Branden Robinson > Ben Collins
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria > None Of The Above
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee
+Branden Robinson > Ben Collins > Bdale Garbee
+Bdale Garbee > Branden Robinson > Ben Collins > None Of The Above
+Ben Collins > Branden Robinson > Anand Kumria > Bdale Garbee > None Of The Above
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria
+Bdale Garbee > Ben Collins > Branden Robinson
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Ben Collins > Bdale Garbee
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson
+Branden Robinson > Ben Collins
+Ben Collins > Branden Robinson > Anand Kumria > Bdale Garbee > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson
+Branden Robinson > Ben Collins
+Branden Robinson > Bdale Garbee > Ben Collins > Anand Kumria
+Bdale Garbee > None Of The Above > Branden Robinson > Ben Collins > Anand Kumria
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria
+Anand Kumria > Ben Collins > Branden Robinson > Bdale Garbee
+Ben Collins > Branden Robinson > Bdale Garbee
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > None Of The Above
+Branden Robinson > Bdale Garbee > None Of The Above > Ben Collins > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Branden Robinson > Ben Collins > None Of The Above > Anand Kumria
+Branden Robinson > Ben Collins > None Of The Above > Bdale Garbee > Anand Kumria
+Ben Collins > Bdale Garbee > Anand Kumria
+Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria > None Of The Above
+Branden Robinson
+Ben Collins > Branden Robinson > Bdale Garbee > Anand Kumria
+Branden Robinson > Bdale Garbee > Ben Collins > Anand Kumria
+Bdale Garbee > Ben Collins > None Of The Above > Branden Robinson
+Bdale Garbee > Branden Robinson > None Of The Above
+Ben Collins > Bdale Garbee > Anand Kumria > Branden Robinson
+Branden Robinson > Ben Collins > Bdale Garbee
+Bdale Garbee > Ben Collins > None Of The Above
+Bdale Garbee > None Of The Above
+Branden Robinson > Bdale Garbee > Anand Kumria > Ben Collins > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson > None Of The Above > Anand Kumria
+Bdale Garbee > Anand Kumria > Ben Collins > Branden Robinson
+Ben Collins > Bdale Garbee > Branden Robinson > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson > None Of The Above > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee
+Bdale Garbee > None Of The Above > Branden Robinson
+Bdale Garbee > Branden Robinson > Ben Collins > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+None Of The Above > Branden Robinson > Bdale Garbee > Anand Kumria > Ben Collins
+Ben Collins > Bdale Garbee > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee > None Of The Above
+Branden Robinson > Bdale Garbee > None Of The Above
+Ben Collins > Bdale Garbee > None Of The Above > Branden Robinson > Anand Kumria
+Branden Robinson > Bdale Garbee > Ben Collins > Anand Kumria
+Branden Robinson > Bdale Garbee > Ben Collins > Anand Kumria
+Bdale Garbee > Branden Robinson > None Of The Above
+Branden Robinson > Ben Collins
+Bdale Garbee > Ben Collins > None Of The Above > Branden Robinson > Anand Kumria
+Ben Collins > Anand Kumria > Branden Robinson > Bdale Garbee > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > Branden Robinson > Anand Kumria > None Of The Above
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria
+Ben Collins > Branden Robinson > Bdale Garbee
+Branden Robinson > Ben Collins > Bdale Garbee > Anand Kumria > None Of The Above
+Bdale Garbee > Ben Collins > None Of The Above > Anand Kumria > Branden Robinson
+Bdale Garbee > Ben Collins > None Of The Above
+Ben Collins
+Branden Robinson > Bdale Garbee > Ben Collins > None Of The Above > Anand Kumria
+Bdale Garbee
+Bdale Garbee > Branden Robinson > Anand Kumria > Ben Collins
+Ben Collins > Branden Robinson > Bdale Garbee
+Bdale Garbee > Branden Robinson > Ben Collins
+Branden Robinson > None Of The Above
+Ben Collins > Branden Robinson

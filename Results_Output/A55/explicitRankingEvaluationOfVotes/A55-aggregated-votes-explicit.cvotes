@@ -1,5 +1,5 @@
 # Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
-# For a better readability of the results, the last rank has been interpreted and added when absent from the original ballot. If you are looking for the most faithful conversion to the original, look for the Explicit file instead of this one (Implicit), a file whose header can easily be modified to make it Implicit and strictly equal to this one.
+# For a better readability of the results, the last rank has been interpreted and added when absent from the original ballot. If you are looking for the most faithful conversion to the original, look at the 'Tideman_Collection_Converted_To_CondorcetElectionFormat' folder.
 #/Candidates: 1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7 ; 8 ; 9 ; 10
 #/Number of Seats: 5
 #/Implicit Ranking: false

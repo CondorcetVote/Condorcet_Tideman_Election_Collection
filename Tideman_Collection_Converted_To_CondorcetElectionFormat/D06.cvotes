@@ -1,0 +1,427 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+#/Candidates: Jeroen van Wolffelaar ; Ari Pollak ; Steve McIntyre ; Anthony Towns ; Andreas Schuldei ; Jonathan aka Ted Walther ; Bill Allombert ; None of the Above
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+1d7ba886e62a2cf64379a5c8f8032cc2 || Anthony Towns > Steve McIntyre > Andreas Schuldei > Bill Allombert > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+5983810b34693310479f3b26eda85177 || Andreas Schuldei = Anthony Towns > Jeroen van Wolffelaar = Steve McIntyre > Bill Allombert > None of the Above
+1ccb15e79dc5734b217fb8e3fb296b9d || Anthony Towns = Jeroen van Wolffelaar > Andreas Schuldei = Steve McIntyre > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+52b444e0fb8778d31d52efb6b6e88401 || Steve McIntyre > Anthony Towns > None of the Above > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+b2c77c75a0747fc1b6019ca54d76aa42 || Steve McIntyre > Jeroen van Wolffelaar > None of the Above
+21acf319d1a9185b36fa065c649ca1da || None of the Above
+5778a0e6c4c15de35a92c85c66e1ecff || Anthony Towns > Steve McIntyre
+9b76679e424a887ccf80f506ab8ba81c || Andreas Schuldei > Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+fdab256bb874774d3a67547f88f23ffc || Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > Anthony Towns > Andreas Schuldei > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+b71d5f0a6e58b4e6ec2d81bce6160799 || Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei > Steve McIntyre > Bill Allombert
+29a8468f09b317cea6b6c3defdccb513 || Anthony Towns > Bill Allombert > Ari Pollak > Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Jonathan aka Ted Walther > None of the Above
+b13ae01b3143d7287e099f3746e80211 || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Jonathan aka Ted Walther > Ari Pollak
+321ab097081bea5d4ee967f670fe9998 || Steve McIntyre > Anthony Towns > Andreas Schuldei > Bill Allombert = Jeroen van Wolffelaar
+df985c5e22db36646fd9e6ceb594cefc || Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > Andreas Schuldei > Bill Allombert > None of the Above > Jonathan aka Ted Walther > Ari Pollak
+0ffef79d2a2f58928e677160ffa6eaaf || Steve McIntyre > None of the Above
+64fe866fc009aa01fddff32268b6d0fe || Ari Pollak > Anthony Towns > Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > None of the Above > Jonathan aka Ted Walther
+205d5eea98ef53d8fdc77c04a5a55a08 || Steve McIntyre > Bill Allombert > Anthony Towns > Andreas Schuldei = Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+cc9da13d222a4e987f3dcc1286e86827 || Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+0c7f3ca5b9d12d159428aaa3c28b319c || Bill Allombert > Andreas Schuldei > Ari Pollak > Steve McIntyre > None of the Above > Jeroen van Wolffelaar > Anthony Towns > Jonathan aka Ted Walther
+38957e1d01d3bd1798f21d8ede7570f2 || Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Anthony Towns > Jonathan aka Ted Walther
+15251ab0ced1f920959a4fe6edcc4bc4 || Anthony Towns > Bill Allombert > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+69b76a672ecc2038ff585f19129330dd || Steve McIntyre > Bill Allombert > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+618ae0bdab9d6c79a9fdb01636c579b2 || Anthony Towns > Steve McIntyre > Andreas Schuldei
+be3d804ecf4b6d120b05acf9a51410b5 || Jeroen van Wolffelaar > Andreas Schuldei > Anthony Towns = Bill Allombert > Steve McIntyre > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+7aa0f0fb4f7c64ae913ab0e56066d4cd || None of the Above > Andreas Schuldei
+25f689d866a88ee2a9759568fd3fe005 || Jeroen van Wolffelaar > Bill Allombert = Steve McIntyre > Andreas Schuldei = Anthony Towns > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+5cdaab4305428a8ca58a3cbfe59b95b3 || Anthony Towns > Steve McIntyre > Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+06d4fb088c5f5ab2f64c18a34431b745 || Anthony Towns > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Jonathan aka Ted Walther > Ari Pollak
+e365550e0d6b3b06e7ee847cadf96d76 || Andreas Schuldei > Jeroen van Wolffelaar > Anthony Towns = Steve McIntyre > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+def821da56979f9a5343e8794c7357ee || Bill Allombert > Steve McIntyre > Anthony Towns > Andreas Schuldei = Jeroen van Wolffelaar > None of the Above > Ari Pollak = Jonathan aka Ted Walther
+d5ec4a853775b7fa030c6b75145d03b3 || Anthony Towns > Steve McIntyre > None of the Above
+215d5062f2fcf07a9d59c35dcdda3a0d || Anthony Towns > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > Bill Allombert > None of the Above > Jonathan aka Ted Walther
+edb43166e6c262a6ac65d292187449d4 || Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > None of the Above
+a0cb8268f78214afec42e6553ee02d2e || Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Steve McIntyre > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+4ce63b670a52419f8049c5e8f48f2374 || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+6a8df1962f5c4e3366670b09cf584e49 || Anthony Towns > None of the Above > Andreas Schuldei = Ari Pollak = Bill Allombert = Jeroen van Wolffelaar = Jonathan aka Ted Walther = Steve McIntyre
+652d3d17e3f31a54c6cac6bccc7bc88f || Andreas Schuldei = Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+0fdfbdf716e0ad87f34c8dc36f0dd787 || Jeroen van Wolffelaar > Ari Pollak > Anthony Towns > Bill Allombert = Steve McIntyre > None of the Above > Andreas Schuldei = Jonathan aka Ted Walther
+add8d5d6a42dd64dabda529e5f1164a1 || Bill Allombert
+34364576fff96cc923019d044992dc4f || Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Bill Allombert > Jonathan aka Ted Walther > Anthony Towns
+572294825056c43dd29e7ceec5527807 || Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Anthony Towns > Ari Pollak > Bill Allombert > None of the Above > Jonathan aka Ted Walther
+a05bdb2c64d2cb6c815da770610dcf5a || Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Anthony Towns > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+1df47bf79ec9072715c1f02becca192a || Bill Allombert > Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei = Jonathan aka Ted Walther = Steve McIntyre > None of the Above > Ari Pollak
+6be1de6c656087ef4e3cddec0ca4f721 || Jeroen van Wolffelaar = Steve McIntyre > Andreas Schuldei > None of the Above > Anthony Towns = Ari Pollak = Bill Allombert = Jonathan aka Ted Walther
+11c02dd825a181522f347b6f01f3d8cd || Andreas Schuldei = Anthony Towns = Steve McIntyre > Ari Pollak = Bill Allombert = Jeroen van Wolffelaar > None of the Above > Jonathan aka Ted Walther
+5cac77e9526f23ce4a1a16abb26db617 || Anthony Towns > Andreas Schuldei = Jeroen van Wolffelaar = Steve McIntyre > Ari Pollak = Bill Allombert > None of the Above
+8cab4abee238fa92f915cad6c207d015 || Jeroen van Wolffelaar > Andreas Schuldei = Anthony Towns > Ari Pollak = Bill Allombert = None of the Above = Steve McIntyre > Jonathan aka Ted Walther
+8e7d53af5d79a4f02e3b953ddf6a90a7 || Ari Pollak > Anthony Towns > None of the Above
+9b8e13faa9eee964c4d036d6d2026cd8 || Andreas Schuldei = Steve McIntyre > Anthony Towns = Jeroen van Wolffelaar > Bill Allombert > Jonathan aka Ted Walther > Ari Pollak
+4da78e380dd0348cc23b08d202b06b07 || Bill Allombert > Andreas Schuldei = Anthony Towns = Jeroen van Wolffelaar = Steve McIntyre > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+04941b0b82c4ad0ecaa0bd3fabb99747 || Steve McIntyre > Bill Allombert > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Andreas Schuldei > Anthony Towns > Jonathan aka Ted Walther
+40436efc84e638cb88ed622cf391ac95 || Jeroen van Wolffelaar > Steve McIntyre > Bill Allombert > Anthony Towns > Andreas Schuldei > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+c20db1801a0ce83d3a1708284fbf7d41 || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Jonathan aka Ted Walther
+79da07c69774e5c02f4e965acfa12659 || Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Anthony Towns > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+13466aa166e8bd33ecdd22225732b46f || Steve McIntyre > Anthony Towns > Bill Allombert > Andreas Schuldei = Jeroen van Wolffelaar > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+6ef35eb5863c7622f262b63762b06785 || Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+51eebd2937a95059c8f412ec1f65d37a || Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > None of the Above > Bill Allombert > Jonathan aka Ted Walther
+64b30ef5c9727a7a5eb97188e853cce7 || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Ari Pollak > Andreas Schuldei > Bill Allombert = Jonathan aka Ted Walther = None of the Above
+3486cec2aa47163e4c31cbfdd3cd8c18 || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+4d559753e30e204760c1173e07bc12bc || Bill Allombert = Steve McIntyre > Ari Pollak > Andreas Schuldei = Jeroen van Wolffelaar > Anthony Towns > None of the Above > Jonathan aka Ted Walther
+b72b0c7346dfb180fe295b9c983b8e06 || Anthony Towns = Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > None of the Above > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+d0bfe4b03c6987e34cab3b1f88d38d68 || Ari Pollak > Anthony Towns > Bill Allombert > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > None of the Above > Jonathan aka Ted Walther
+11747aa6d4fbdd0bc1c502abd5cc0420 || Steve McIntyre > Bill Allombert > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther > Andreas Schuldei > Anthony Towns
+39c0873fb3ea788c2e784b7a59de432e || Jeroen van Wolffelaar > Bill Allombert > Steve McIntyre > None of the Above > Andreas Schuldei > Anthony Towns > Ari Pollak > Jonathan aka Ted Walther
+6c0e7bb7ed471b66889ae35209a0f65c || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak = Jonathan aka Ted Walther
+2fcb54e96e72615d584d25a764bb5bdf || None of the Above
+a59dd95cdf8f9320fb4316a0bd302b12 || Andreas Schuldei > Steve McIntyre > Bill Allombert > Anthony Towns > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+bcf0c7f540325d0565c55d2bc46e7d00 || Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > None of the Above > Andreas Schuldei > Ari Pollak > Bill Allombert > Jonathan aka Ted Walther
+c7f910e0cdc01d325af5b4250154829a || None of the Above > Andreas Schuldei > Bill Allombert = Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Ari Pollak > Jonathan aka Ted Walther
+0c2c1c6a578b0d200e4043e51db02810 || Andreas Schuldei > None of the Above > Ari Pollak = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > Jonathan aka Ted Walther > Anthony Towns
+2e7d77538990c1e31d13b741940a4d02 || Anthony Towns > Steve McIntyre
+943d20eb0ed12484d06d2d021b7d459f || Anthony Towns > Andreas Schuldei > Ari Pollak > Steve McIntyre > Bill Allombert = Jeroen van Wolffelaar > None of the Above > Jonathan aka Ted Walther
+f658fcba86c86801db4ad3ea978b7761 || Anthony Towns > None of the Above > Bill Allombert > Ari Pollak > Steve McIntyre > Andreas Schuldei > Jonathan aka Ted Walther > Jeroen van Wolffelaar
+d8ec1af3f585b8406f61540f0e66d04c || Anthony Towns > Ari Pollak > None of the Above > Steve McIntyre > Bill Allombert > Jeroen van Wolffelaar > Andreas Schuldei > Jonathan aka Ted Walther
+f5e5faa5d9b53a8dab2adcdc0986e179 || Jonathan aka Ted Walther > Bill Allombert > None of the Above > Andreas Schuldei > Anthony Towns > Jeroen van Wolffelaar > Ari Pollak > Steve McIntyre
+94d43e38f7c76a6d5524d247a2f45656 || Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > None of the Above > Anthony Towns = Ari Pollak = Jonathan aka Ted Walther
+348339ee1016d2f9411784048cba11f9 || Bill Allombert > Ari Pollak > None of the Above > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei = Anthony Towns > Jonathan aka Ted Walther
+9885e78df0246087d547089844cc9e8a || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+dd6b581b2a8f63cdd34653d489356195 || Anthony Towns = Jeroen van Wolffelaar > Andreas Schuldei
+0ae4501dc5ce4048066354d5c3d4af7d || Anthony Towns > Steve McIntyre > Andreas Schuldei
+69edd0c955e9bc8fa84ac20a77e20e20 || Andreas Schuldei = Jeroen van Wolffelaar > Anthony Towns > Steve McIntyre > None of the Above > Bill Allombert > Ari Pollak = Jonathan aka Ted Walther
+262face2bb4273375e9fd76c6a2509e5 || Ari Pollak > Anthony Towns > Andreas Schuldei > Bill Allombert
+1b3a3bdbd0a179980483e416e0795baa || Anthony Towns > Bill Allombert = Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Jonathan aka Ted Walther > None of the Above > Ari Pollak
+46bc6540158fc0daec9c70cf5bd82d84 || Bill Allombert > Steve McIntyre > None of the Above
+f176ab1b4ae7b5e58dac00e245e03d48 || Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Bill Allombert > None of the Above > Anthony Towns > Ari Pollak > Jonathan aka Ted Walther
+bbe25dc3ce2685837c519f081ea64b2f || Anthony Towns = Jeroen van Wolffelaar > Andreas Schuldei = Steve McIntyre > Ari Pollak = Bill Allombert > None of the Above > Jonathan aka Ted Walther
+c8a8f8868387fe1c329d3ae032db683f || Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Steve McIntyre > Ari Pollak > Bill Allombert > Jonathan aka Ted Walther > None of the Above
+c1f1fe56c798749ee68b66cbefe622fe || Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei = Bill Allombert = Steve McIntyre > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+f243ecb479123642450e3dbda3206fbf || Bill Allombert
+fd6d9b3830630169e825007f13ebe8bf || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > None of the Above > Bill Allombert > Ari Pollak > Andreas Schuldei > Jonathan aka Ted Walther
+d981046fdf12bc06d3323f4818b4ecf8 || Jeroen van Wolffelaar = Steve McIntyre > Andreas Schuldei = Anthony Towns > Ari Pollak = Bill Allombert > Jonathan aka Ted Walther
+526319ee2e62ce669f3c423d19db5253 || Steve McIntyre > Anthony Towns > Andreas Schuldei > Bill Allombert > Jeroen van Wolffelaar > Ari Pollak > Jonathan aka Ted Walther > None of the Above
+b612cf7fa381d20e570a6ffe96c69c1f || Andreas Schuldei > None of the Above
+ce1ce9b1c098572142b1e14267f7119d || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > Andreas Schuldei > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+2b78c2b02dd6ef88c3cbf08bf34b6ba9 || Andreas Schuldei > Bill Allombert > Ari Pollak > None of the Above > Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Jonathan aka Ted Walther
+2e6cf5d0919e44bab5da343986d4bdaa || Anthony Towns > Steve McIntyre > Andreas Schuldei > None of the Above
+84ae6893f6d9ac51da736a8fd218d5ee || Anthony Towns > Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > Jonathan aka Ted Walther > Ari Pollak > None of the Above
+89cdcd02e654e8a01c3bc22339b25c2a || None of the Above > Anthony Towns > Steve McIntyre > Andreas Schuldei > Bill Allombert > Jeroen van Wolffelaar > Jonathan aka Ted Walther > Ari Pollak
+203b053779120f7f124741e55d4b6b29 || Jeroen van Wolffelaar > Anthony Towns > Steve McIntyre > None of the Above > Jonathan aka Ted Walther > Bill Allombert > Andreas Schuldei > Ari Pollak
+9b780b86648711a1a6c88ed6062ebe58 || Steve McIntyre > Jeroen van Wolffelaar > None of the Above > Anthony Towns > Andreas Schuldei > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+2c8f95554a9870c50b5cf3efb76ce7d7 || Bill Allombert > Andreas Schuldei = Anthony Towns = Jeroen van Wolffelaar = Steve McIntyre > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+ffd9b278ed3fc7fa8c4035f36b37bb6a || Andreas Schuldei > Steve McIntyre > Anthony Towns = Jeroen van Wolffelaar > None of the Above > Ari Pollak = Bill Allombert > Jonathan aka Ted Walther
+930472fe08a877860f3bd36f9732866d || Bill Allombert > None of the Above > Ari Pollak > Andreas Schuldei > Jeroen van Wolffelaar > Anthony Towns > Steve McIntyre > Jonathan aka Ted Walther
+a47a0563c7c4bc859513d9ec77b0984c || Andreas Schuldei > Steve McIntyre > None of the Above > Bill Allombert > Jonathan aka Ted Walther > Ari Pollak > Jeroen van Wolffelaar > Anthony Towns
+34d620519358d03577e5f4ecfa085193 || Anthony Towns > Bill Allombert > Steve McIntyre > None of the Above
+89273c0a7ef50e10c75bac6225f3bca5 || Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei
+7d7a168f75df077736c4c8b5b16bbf8a || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther > None of the Above
+0566a2deea82f48a34909f42ae9c1d2f || Anthony Towns > Bill Allombert > None of the Above
+bd91b538b63952989e69a4e741d267f3 || Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+141aa11e71c9d7f13fd8581d6d121683 || Bill Allombert > Andreas Schuldei > Jeroen van Wolffelaar > Jonathan aka Ted Walther > None of the Above > Anthony Towns > Ari Pollak > Steve McIntyre
+87cd81732ba07d494b1ad21c416e3c53 || Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Bill Allombert > Ari Pollak > Andreas Schuldei > None of the Above > Jonathan aka Ted Walther
+fed9917aad1b843920ab9e0fb6a76432 || Bill Allombert > Andreas Schuldei = Anthony Towns = Steve McIntyre > Ari Pollak = Jeroen van Wolffelaar > None of the Above > Jonathan aka Ted Walther
+a0d57e402df787ea900f5eeece60f3e8 || None of the Above
+699d933ac9270b5c0899393464e23445 || Bill Allombert > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > None of the Above > Anthony Towns = Jonathan aka Ted Walther
+a92e12939d92e230cc4dcd7ac3b7500f || Andreas Schuldei > Anthony Towns > None of the Above
+393df9cd1a4acd036136e1fc18a0c202 || Andreas Schuldei > None of the Above
+1b3e06fed30a0d10951c3bd6e23e684b || Anthony Towns > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+075af50b08f18d3fe215f462a8c40186 || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > None of the Above > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+443fd55c64badfef00ebfda88060560c || Anthony Towns > Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > Ari Pollak = None of the Above > Jonathan aka Ted Walther
+bb4f3af2fab5aebe4040ca0b744d8bc6 || Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns
+93326e4606370bcce0447aa5ce18ba26 || Steve McIntyre > Bill Allombert > None of the Above
+2e2226b7b3b0149cb44cc35b8197240c || Jeroen van Wolffelaar > Anthony Towns > Steve McIntyre > Ari Pollak > Andreas Schuldei > Bill Allombert > None of the Above > Jonathan aka Ted Walther
+75859a51ce1826198d24cd3ff31e3405 || Anthony Towns > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Jonathan aka Ted Walther > Ari Pollak
+7ebf1d0373d3e34891dfcc755b965b10 || Steve McIntyre > Bill Allombert > Anthony Towns > Ari Pollak > Jeroen van Wolffelaar > None of the Above > Andreas Schuldei > Jonathan aka Ted Walther
+13bb5bb80516771d4ae60dd1a16124bb || Steve McIntyre > Anthony Towns > Andreas Schuldei > Bill Allombert > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+340999c0ec581eddc1d6acba03f969a4 || Bill Allombert > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > None of the Above
+b6952712bcfc67e75d9c782d96843e07 || Andreas Schuldei = Jeroen van Wolffelaar = Steve McIntyre > Anthony Towns = Bill Allombert
+58e6eeed6d3a00cb716cc87b7db3cbfb || Anthony Towns > Andreas Schuldei > Steve McIntyre > Ari Pollak > Jeroen van Wolffelaar > Jonathan aka Ted Walther > Bill Allombert > None of the Above
+ba1699941ee575f6e854e62ec5007945 || Andreas Schuldei > Steve McIntyre > None of the Above > Bill Allombert > Jeroen van Wolffelaar > Ari Pollak > Jonathan aka Ted Walther > Anthony Towns
+290a2e2c02659c0ec9ab08a2d228bd50 || Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Jonathan aka Ted Walther > Steve McIntyre > Ari Pollak = Bill Allombert
+de1f95854235d0483efc9ba459e2d155 || Anthony Towns > None of the Above
+74898729967bb36fd06baa6c5dbbf901 || Anthony Towns > Steve McIntyre > Bill Allombert > Andreas Schuldei = Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+c92e606be125ec4d1d5348223c021933 || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+481a1776d8ec86ec99298e18464ae19d || Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > Ari Pollak > None of the Above > Anthony Towns > Jonathan aka Ted Walther
+66956aa6b91cc91bbce99a525643a438 || Bill Allombert > Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+d4ca50a32d95adcbe73d15b846e5a63a || Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Anthony Towns > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+774848bf48af2111487fb965a3be58d6 || Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > Steve McIntyre > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+2551e91a8e7668cbb0f482ccc10f32ed || Jeroen van Wolffelaar > Ari Pollak > Bill Allombert > None of the Above > Steve McIntyre > Andreas Schuldei > Anthony Towns > Jonathan aka Ted Walther
+a0f24ccf79099b4bac8832749743f2be || Anthony Towns > Steve McIntyre > Bill Allombert > Andreas Schuldei > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+4d0c9446881c4754e30bc6b3bb3fad0b || Steve McIntyre > Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > Jonathan aka Ted Walther > Ari Pollak > None of the Above
+d0d775364c3a7da51432c79ec8387bf1 || Steve McIntyre > Andreas Schuldei > Anthony Towns > Jeroen van Wolffelaar > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+b64c8d26c985b4703b63f55221828d2e || Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > None of the Above > Ari Pollak = Bill Allombert = Jonathan aka Ted Walther = Steve McIntyre
+3eaba62f35ffa84dfe02ed2e90370ba3 || Andreas Schuldei > Steve McIntyre > None of the Above > Bill Allombert > Ari Pollak > Anthony Towns > Jeroen van Wolffelaar > Jonathan aka Ted Walther
+71255bd645f2f58654624ead16febd52 || Steve McIntyre > Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > None of the Above
+eb77b4378a3ffb30e767d6e6f0b41509 || Anthony Towns > Andreas Schuldei = Jeroen van Wolffelaar > Bill Allombert > Steve McIntyre > Ari Pollak = Jonathan aka Ted Walther
+04c2bd919aabbc157d74dda7e91b6bdd || Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > Bill Allombert > Andreas Schuldei > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+00711d1fbb56afd0595c77ff5dcfd988 || Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Bill Allombert > Andreas Schuldei > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+4a12429299445d2bf6fd5436910f75f5 || Jeroen van Wolffelaar > Steve McIntyre > Bill Allombert > Anthony Towns > Andreas Schuldei > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+37af528b7e9a225e32477d730bdcfe59 || Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > Bill Allombert > None of the Above > Anthony Towns > Jonathan aka Ted Walther
+587fa0665ae596a95d7ece13e2ce22cc || Anthony Towns > Andreas Schuldei = Steve McIntyre > Jeroen van Wolffelaar > Ari Pollak > Bill Allombert > None of the Above > Jonathan aka Ted Walther
+3d51934b51002a07f91417cf34d2c554 || Jeroen van Wolffelaar > Andreas Schuldei > Anthony Towns > None of the Above
+0f761b0ce435d6ce62d64b3e22aba016 || Anthony Towns > Bill Allombert > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+16c3c50d7d6b5328531543a784d54aae || Jeroen van Wolffelaar > None of the Above
+7cef1bfed93d560db0f7e586c036d63e || Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+9bc3d5b8ab15177cf1faacda4dd2f426 || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther > None of the Above
+fed32a2c4312d80a1435f0c87413d924 || Anthony Towns > Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > None of the Above > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+f1475c21940d4e495f12a3627d81c640 || Anthony Towns > Steve McIntyre > Andreas Schuldei = Jeroen van Wolffelaar > Ari Pollak = Bill Allombert > None of the Above > Jonathan aka Ted Walther
+8612593f5f075ad538bebb8165af866f || Andreas Schuldei > Steve McIntyre
+0c3e2026ceeaf3bb82ecc8b83f1b5441 || Steve McIntyre > Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+684beceb9005f15e19ed8c95a6af19f8 || Anthony Towns > None of the Above > Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Ari Pollak > Bill Allombert > Jonathan aka Ted Walther
+622a15b70c1d7ea1e7025072a2a7e2cd || Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > Andreas Schuldei > Anthony Towns > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+561b5f127729b6e0e562218fbb540e37 || Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar = Jonathan aka Ted Walther = Steve McIntyre > Anthony Towns > None of the Above > Ari Pollak
+354690c06e2ee7233cdcd8cab7dbcef0 || Andreas Schuldei > Jeroen van Wolffelaar
+0efe4848150319dfe4b4524d9f35dd74 || Anthony Towns > Andreas Schuldei > Ari Pollak > Jeroen van Wolffelaar > Steve McIntyre > Jonathan aka Ted Walther > Bill Allombert
+aab4b685acc5e43beb6f8d98169a10f2 || Jonathan aka Ted Walther > Jeroen van Wolffelaar
+1ae6b329601fbff1b14a8b51f0729238 || Steve McIntyre > None of the Above > Andreas Schuldei > Bill Allombert > Ari Pollak > Jeroen van Wolffelaar > Anthony Towns > Jonathan aka Ted Walther
+722e6a02a32db6af4d96f2d5d78b5c10 || Andreas Schuldei > Jeroen van Wolffelaar > Steve McIntyre > None of the Above > Ari Pollak > Anthony Towns > Bill Allombert
+9572bca2548943135baf0cebea660970 || Steve McIntyre > Jonathan aka Ted Walther > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Ari Pollak > Anthony Towns > None of the Above
+d4d735f042dec1bd930e08049675cba6 || Ari Pollak > Andreas Schuldei = Anthony Towns = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > None of the Above > Jonathan aka Ted Walther
+d993813864820064f475cde6cff78bb0 || Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > Andreas Schuldei > Bill Allombert > None of the Above > Jonathan aka Ted Walther > Ari Pollak
+4dfad67ff5f70d006506079f9cda1498 || Jeroen van Wolffelaar > Andreas Schuldei > Anthony Towns > None of the Above
+b2a922593853e7dde04ec157b5eb2a22 || Andreas Schuldei = Bill Allombert = Steve McIntyre > Anthony Towns = Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+505ad37f22f3aeacb75e1c80ad4e98a2 || Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Anthony Towns > Bill Allombert > Jonathan aka Ted Walther > Ari Pollak
+3f34c5e7b1f8aea7c21ff1d9791dea70 || Andreas Schuldei = Anthony Towns = Jeroen van Wolffelaar > Steve McIntyre > None of the Above > Bill Allombert > Ari Pollak = Jonathan aka Ted Walther
+9eafa3d8c4420ad1128cb4f092e85d0d || Andreas Schuldei > Steve McIntyre > Bill Allombert > None of the Above > Jeroen van Wolffelaar > Anthony Towns > Jonathan aka Ted Walther > Ari Pollak
+5fd942211bf7a1bc00e25baedd68337d || None of the Above
+1d970b99347c3280a291c795349be841 || Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > None of the Above
+551853e032d3af216766cf5ce628b048 || Anthony Towns > Ari Pollak > Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > None of the Above > Jonathan aka Ted Walther
+af6f53e4eecb7025fc1a2aaf56bbc8ea || Anthony Towns > None of the Above > Andreas Schuldei = Ari Pollak = Bill Allombert = Jeroen van Wolffelaar = Jonathan aka Ted Walther = Steve McIntyre
+6b5b8478d87ea4cccb5d8bb47598c7fc || Anthony Towns > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+e9c7cbd222a7208679e79883f086c980 || None of the Above > Andreas Schuldei > Steve McIntyre > Bill Allombert > Ari Pollak > Anthony Towns = Jeroen van Wolffelaar > Jonathan aka Ted Walther
+77f7d77ae0c49c073bd10ca29972341f || Bill Allombert > None of the Above > Anthony Towns > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > Jonathan aka Ted Walther
+2dde0c5c869860ab65fbf9a1989a4fae || Andreas Schuldei > Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+04d00c5ac8f72303e41ce4aed80031de || Jeroen van Wolffelaar > Andreas Schuldei > Steve McIntyre > Anthony Towns = Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+e51f673ed77a5eeb528ca6fcf9d8ccf6 || Steve McIntyre > Andreas Schuldei > None of the Above > Ari Pollak = Jeroen van Wolffelaar > Anthony Towns = Bill Allombert = Jonathan aka Ted Walther
+3e634a2cd14108e31728ec7297633408 || Anthony Towns > Andreas Schuldei > Bill Allombert
+a2ddcdf092cf246bb6eebb19d49b735d || Andreas Schuldei = Anthony Towns = Ari Pollak = Bill Allombert = Jeroen van Wolffelaar = Jonathan aka Ted Walther = Steve McIntyre
+7fcb58961f970342e55ada51e4ecdf3f || Andreas Schuldei = Anthony Towns > Jeroen van Wolffelaar = Steve McIntyre > Bill Allombert > None of the Above > Jonathan aka Ted Walther > Ari Pollak
+5e3ec904295fbd5630c752f0de8cd691 || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Bill Allombert > Andreas Schuldei > Ari Pollak > Jonathan aka Ted Walther > None of the Above
+da73a4f7b6d4a13ce0c3d05588bb236a || None of the Above > Andreas Schuldei = Anthony Towns = Ari Pollak = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > Jonathan aka Ted Walther
+606507e3764d93396765c376d9da1742 || Andreas Schuldei > Anthony Towns > Jeroen van Wolffelaar
+383bf17a69d06d7a5a21f54aac301802 || Bill Allombert > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > Anthony Towns > Jonathan aka Ted Walther > None of the Above
+e23ca002e58c630692b28dffa1ca297a || Steve McIntyre > Andreas Schuldei > Anthony Towns > Jeroen van Wolffelaar > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+20069e176e4483f8da1e51a0b6123867 || Anthony Towns > Steve McIntyre > Bill Allombert > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+e414567128a8f008ab77e198e1cc3f29 || Ari Pollak > Jeroen van Wolffelaar = Steve McIntyre > Andreas Schuldei = Anthony Towns = Bill Allombert > None of the Above > Jonathan aka Ted Walther
+02330a44c97af838a81d6292573b4eda || Anthony Towns > Jonathan aka Ted Walther > Jeroen van Wolffelaar
+c8c545e83d619d2114c0fbccd7b2958d || Anthony Towns > Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak = Jonathan aka Ted Walther
+81a34863eddb1ace447f03e0ee8c5ed5 || Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Anthony Towns > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+471075a14f0204d43966bc7ed1836380 || Andreas Schuldei = Anthony Towns > Bill Allombert = Steve McIntyre > Ari Pollak = Jeroen van Wolffelaar > Jonathan aka Ted Walther
+1f090b828641f58f23077ed9e63dfb9a || Steve McIntyre > Anthony Towns = Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+cdcce2c16bb4f2c65e021adf8189ca54 || Jeroen van Wolffelaar > Andreas Schuldei = Steve McIntyre > Bill Allombert > Jonathan aka Ted Walther > Anthony Towns = Ari Pollak > None of the Above
+c282080f91976a8fe8705e95304dbaae || Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > Anthony Towns > Bill Allombert = Steve McIntyre > None of the Above > Jonathan aka Ted Walther
+6f3d994c2b76ad7a3394bc780d7773f9 || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Ari Pollak > Bill Allombert > Andreas Schuldei > None of the Above > Jonathan aka Ted Walther
+1a6ce57f379a856ae765619df2d11c9e || Anthony Towns > Bill Allombert > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+bb36796a34d9d3018d43c00f5521877b || Anthony Towns = Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > None of the Above > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+8710ae17f79d0f7ca6f5867d6aa5cf1b || Anthony Towns > Andreas Schuldei > Ari Pollak > Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > Jonathan aka Ted Walther > None of the Above
+76f747f526e28529b540f767b3d7ae86 || Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > Anthony Towns > None of the Above > Ari Pollak = Jonathan aka Ted Walther
+181472faa895b41286461d7547d71b66 || Steve McIntyre > Andreas Schuldei = Anthony Towns > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+a8d023d434d82734f3a5a80d04a1940c || Andreas Schuldei > Bill Allombert > Jeroen van Wolffelaar
+36b8cae2b98fc3db9eaf959f44311cad || Steve McIntyre > Andreas Schuldei > Anthony Towns > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther > Bill Allombert
+5f9a087e69c3bc94d0aaa7346dfa4785 || Bill Allombert = Steve McIntyre > Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+1a1a17ae3c0c5e477cc7bb9a49460610 || Anthony Towns > Steve McIntyre > Bill Allombert > None of the Above > Jeroen van Wolffelaar > Jonathan aka Ted Walther > Ari Pollak > Andreas Schuldei
+a43c376a51775634062ca0d3e6fb94ea || Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei
+260e30bedea0c52b1bbb0a2815e6816d || Bill Allombert > Jeroen van Wolffelaar > Andreas Schuldei > None of the Above > Anthony Towns = Ari Pollak = Jonathan aka Ted Walther = Steve McIntyre
+b91f1cd1a266f0b83a19773de41a57b2 || Anthony Towns > Ari Pollak > Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > None of the Above > Jonathan aka Ted Walther
+ba73f9b8cd0b382e601b0af0628ef9c7 || Bill Allombert > Jonathan aka Ted Walther > Andreas Schuldei = Steve McIntyre > Anthony Towns
+a533eb573a0c666ebeaa75520fd8a0ad || Steve McIntyre > Andreas Schuldei > Anthony Towns > Jeroen van Wolffelaar > Ari Pollak > Bill Allombert > Jonathan aka Ted Walther > None of the Above
+85447b4a780d6cb76155430f94ba2fc3 || Andreas Schuldei = Anthony Towns = Jeroen van Wolffelaar > Bill Allombert = Steve McIntyre > Ari Pollak = None of the Above > Jonathan aka Ted Walther
+cea1a6ed78c00e4f6766f26d5680bc0b || Jeroen van Wolffelaar > Andreas Schuldei = Ari Pollak = Bill Allombert = Steve McIntyre > Anthony Towns > None of the Above > Jonathan aka Ted Walther
+521f0599b9293761a8c6d5c4c9331b27 || Anthony Towns = Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > None of the Above > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+dc2f98656a8658910368c59f0dd29d64 || Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Anthony Towns > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+73f124f4951b7fa4be929348f4f69893 || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei
+a4f78f197aebe3725b28ad6cd81ee791 || Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert
+833ec1a121582f4862b3918f3c217648 || None of the Above > Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Anthony Towns > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+28ca97fcaa707b3da1fdbc9ff16e9dd9 || Andreas Schuldei > Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Ari Pollak = Bill Allombert = Jonathan aka Ted Walther
+551578fff90d4efa1a448ae18662b966 || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+ee72bed75ddee0ab99928a1ec84be049 || Anthony Towns > Steve McIntyre > Andreas Schuldei > Bill Allombert > Jeroen van Wolffelaar > Jonathan aka Ted Walther > None of the Above > Ari Pollak
+7ecd14e14664e97b71ed6fd6ae9e3289 || Anthony Towns > Steve McIntyre > Andreas Schuldei = Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+91fdfe530a9b91bb007556beb10bff1f || Steve McIntyre > Anthony Towns
+68565639059e4fc6b990d804f9233fa5 || Anthony Towns > Steve McIntyre > Andreas Schuldei = Jeroen van Wolffelaar
+b97c6eede494b947bb16ccb17ceeb69b || Steve McIntyre > Anthony Towns > Bill Allombert > Ari Pollak > None of the Above
+06d98fd115fe376920e2d2ac512aa2ca || Jeroen van Wolffelaar > Andreas Schuldei > Steve McIntyre > Anthony Towns > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+8a82b70816aaad1d467758c5812d58ef || Andreas Schuldei = Anthony Towns = Steve McIntyre
+66848b8170c2db2f2abe6b25d1e5c9c0 || Jeroen van Wolffelaar = Steve McIntyre > Andreas Schuldei > Anthony Towns > Bill Allombert > Ari Pollak = None of the Above > Jonathan aka Ted Walther
+3f065a7957d7f390a3e061b7900c6f96 || Steve McIntyre > Anthony Towns
+29cfdb2a407276bfbe3b15b376c3011e || Bill Allombert > Jeroen van Wolffelaar = None of the Above > Andreas Schuldei > Ari Pollak > Steve McIntyre > Anthony Towns = Jonathan aka Ted Walther
+d2660f925cdf7652cd288a335c36c087 || Bill Allombert > Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > None of the Above
+f682962b778365ed60bb1c5689922ddc || Steve McIntyre > Bill Allombert > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+baaa4948103cdcfd22a35bab497498c8 || Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Anthony Towns > Bill Allombert > Jonathan aka Ted Walther > None of the Above > Ari Pollak
+ab8689d544892cd98a8934d8177071e0 || Bill Allombert > Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Ari Pollak > Andreas Schuldei > None of the Above > Jonathan aka Ted Walther
+1efbf206b794d5fb465fb09e03963969 || Anthony Towns > Steve McIntyre > Andreas Schuldei = Jeroen van Wolffelaar > Bill Allombert > Jonathan aka Ted Walther > None of the Above > Ari Pollak
+3aaeacf14b78212fc8fa472c8f4cf291 || Anthony Towns > None of the Above > Jonathan aka Ted Walther > Jeroen van Wolffelaar > Bill Allombert > Steve McIntyre > Andreas Schuldei > Ari Pollak
+df78f6e49831939364f72a3b240b9445 || Steve McIntyre > Anthony Towns > Bill Allombert > Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+0b0b628b347f4e8b1eacb899b3af83c8 || Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Anthony Towns > Ari Pollak > Jonathan aka Ted Walther
+b4b1a3fbd7496fec1aec1b05d975ce4e || Steve McIntyre > Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+267a89c4fb685ae9469a29d520501c9e || Jeroen van Wolffelaar > Andreas Schuldei > Anthony Towns > Steve McIntyre > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+de972272af8ce405a6d182a9fd720bed || Andreas Schuldei > Anthony Towns = Jeroen van Wolffelaar > Steve McIntyre
+38bc1b80864acc40b59a5f3a87693a82 || Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Steve McIntyre > Bill Allombert > Ari Pollak > None of the Above
+8509328895c9bcbcb30aaf4d77caf046 || Andreas Schuldei > Steve McIntyre > Bill Allombert > Anthony Towns > Jonathan aka Ted Walther > Jeroen van Wolffelaar > Ari Pollak > None of the Above
+f2a9a4977ed875007ebd63fdbbdf9c16 || Andreas Schuldei > Jeroen van Wolffelaar = Steve McIntyre > Bill Allombert > Anthony Towns > None of the Above > Ari Pollak
+2bdd09c10af28c9a7db48531e5055746 || Jeroen van Wolffelaar > Anthony Towns > Jonathan aka Ted Walther > Steve McIntyre > Bill Allombert > Ari Pollak > Andreas Schuldei
+bc60c46c4d479dd14d2cc82aeb76ae47 || Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert
+f5751d54419ec48b51a3aa539c2a06f2 || Steve McIntyre > Andreas Schuldei > Jonathan aka Ted Walther > Bill Allombert > Jeroen van Wolffelaar > Anthony Towns > None of the Above > Ari Pollak
+48e4faceb12114a34875fb10c515c822 || Andreas Schuldei > Jeroen van Wolffelaar > Anthony Towns > Steve McIntyre > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther > None of the Above
+b5e89830a69176124166c80f0b73d943 || Andreas Schuldei > Anthony Towns = Bill Allombert > Jonathan aka Ted Walther = Steve McIntyre > Ari Pollak = Jeroen van Wolffelaar > None of the Above
+2fa36fb883943603b77ef6bf7134650a || Andreas Schuldei > Bill Allombert > Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+edbce0a99d07f4a9fb0cc89c5a721adf || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre
+e62a26583df4a6e9cf8327504ee1c440 || Anthony Towns > Bill Allombert > Andreas Schuldei > Jeroen van Wolffelaar = Steve McIntyre > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+0af4d0d55a6e24603b8cc2c6d171e3d8 || Anthony Towns > Andreas Schuldei > Steve McIntyre > Ari Pollak > Bill Allombert > Jeroen van Wolffelaar > Jonathan aka Ted Walther > None of the Above
+beb78a9a14abd6efcf872f3d3eb2595a || Andreas Schuldei > Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+e40a9c140998105c697a3ffc81b2b18e || Bill Allombert > Jeroen van Wolffelaar > Andreas Schuldei = Anthony Towns = Steve McIntyre > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+47a15efec113b8dbcd8ea622e8ec3aa7 || Anthony Towns > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+b01b57e2760c298b03c10098b8667bf7 || Andreas Schuldei > Anthony Towns = Ari Pollak = Bill Allombert = Jeroen van Wolffelaar = Jonathan aka Ted Walther = Steve McIntyre
+c0214391f78a07db85d9a510b3088a12 || Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak = Bill Allombert = Steve McIntyre > None of the Above > Jonathan aka Ted Walther
+b62553d8cda24607d9dbe18d2e796636 || Anthony Towns > None of the Above
+f3ff3af00d333aa9fd7984a25ea0ea4a || Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > Anthony Towns > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+ef27166a1513ed44afa951b0d6aad90b || Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+c86ee3b3bf804b13420b7114d04ffd83 || Anthony Towns > Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+d89199800cbeefe076ea5e42d0d6338e || Anthony Towns
+a5689afcb25e65fe5558cb0f5f22699d || Bill Allombert > Anthony Towns > Steve McIntyre
+b63567bab3d8fd1d73f39085391ac1c7 || Anthony Towns > Andreas Schuldei > Bill Allombert > Ari Pollak > Jeroen van Wolffelaar > Steve McIntyre > Jonathan aka Ted Walther > None of the Above
+7f27ce42b144eae453bb61a6679623b1 || Andreas Schuldei = Jeroen van Wolffelaar > Anthony Towns = Steve McIntyre > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+9046bb5a0c4fed095c518dd8ea647cea || Steve McIntyre > Anthony Towns > Bill Allombert > Andreas Schuldei = Jeroen van Wolffelaar > None of the Above
+7cb8db4791e5c0b553d0da00e8184616 || Anthony Towns > Andreas Schuldei > Bill Allombert > Jonathan aka Ted Walther > None of the Above
+89480e5e36bc818d11ad4da244c3c805 || Bill Allombert > Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+3081e523fa72f996c616dd249737d60d || Steve McIntyre > Bill Allombert > Andreas Schuldei > Anthony Towns > Jeroen van Wolffelaar > Jonathan aka Ted Walther > Ari Pollak > None of the Above
+800a4c20e9e64739289bf4e806378988 || Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Bill Allombert > None of the Above > Ari Pollak = Jonathan aka Ted Walther
+039cfc7b5204fa3bbc8ed947957b277d || Andreas Schuldei = Anthony Towns = Ari Pollak = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > None of the Above > Jonathan aka Ted Walther
+d951b48292a445b1e19c1c3d167b7c78 || Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei > Ari Pollak = Bill Allombert = Jonathan aka Ted Walther
+6444ff6d1f40b53c4cae53de0439bb92 || Steve McIntyre > Andreas Schuldei > Ari Pollak = Bill Allombert = Jeroen van Wolffelaar > Anthony Towns = Jonathan aka Ted Walther
+a367913ddf67262c843a076f1ec663a8 || Anthony Towns
+08a9efef2a901bfa6d1cf0ece23943fb || Anthony Towns > Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar = Jonathan aka Ted Walther = Steve McIntyre > Ari Pollak = None of the Above
+18c3d5e7bce1aa7fd7e660db6e252bcd || Anthony Towns
+1b1aa1f2cc3e5f80232808ec00291fc7 || Jeroen van Wolffelaar
+555b6a094b7aa7955193ed50b8871719 || Ari Pollak > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Anthony Towns = None of the Above > Bill Allombert > Jonathan aka Ted Walther
+114f8d914a5df96a3ae6689301f6af20 || Andreas Schuldei > Anthony Towns = Jeroen van Wolffelaar > Ari Pollak = Bill Allombert = Jonathan aka Ted Walther = Steve McIntyre > None of the Above
+3e022fc2787ac2bb6d663bc94c27cf0e || Anthony Towns > Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > Jonathan aka Ted Walther > None of the Above
+0cfe14ad878eff2ab4614834bb9fd5c7 || Anthony Towns > Steve McIntyre > None of the Above > Bill Allombert > Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > Jonathan aka Ted Walther
+9828017e89e92b41ee082bb845663625 || Bill Allombert > Steve McIntyre > Anthony Towns > Jonathan aka Ted Walther > Ari Pollak > None of the Above > Andreas Schuldei > Jeroen van Wolffelaar
+7b431d7d3418db13aa16e20da8a417fe || Andreas Schuldei = Anthony Towns = Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+ab0ecb700d02967f06c555fe36ecd42c || Bill Allombert > None of the Above > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > Steve McIntyre > Jonathan aka Ted Walther > Anthony Towns
+cd4deb457556d9f90f4c8d19ab91f880 || Anthony Towns > Steve McIntyre > Bill Allombert > None of the Above > Jeroen van Wolffelaar > Ari Pollak > Andreas Schuldei > Jonathan aka Ted Walther
+9e8ccce13ca29b67e0e2f7d4a5313444 || Anthony Towns > Steve McIntyre > Andreas Schuldei > None of the Above
+b20a8c621150cb660bf724d9e655aaff || Steve McIntyre > Anthony Towns > None of the Above
+9e9268214073491f5471592b8d289cf2 || Jeroen van Wolffelaar > Anthony Towns > Steve McIntyre > Andreas Schuldei > Ari Pollak = Bill Allombert = None of the Above
+2a0ca8001e353f88c40571d996f32bb3 || Andreas Schuldei = Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+c830ac007ae86215f5e3e421f8b05c8c || Anthony Towns > Steve McIntyre > Ari Pollak > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > None of the Above > Jonathan aka Ted Walther
+9e0616daa64466947d9a786dc367e397 || Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei = Bill Allombert = Steve McIntyre > None of the Above > Ari Pollak = Jonathan aka Ted Walther
+15ac14e7afb0425ca30b3594ec2e6d81 || Andreas Schuldei > Anthony Towns = Ari Pollak = Bill Allombert = Jeroen van Wolffelaar = Jonathan aka Ted Walther = Steve McIntyre > None of the Above
+9f7562106c9e7aca42589dceff287c0c || Anthony Towns = Jeroen van Wolffelaar > Andreas Schuldei > Steve McIntyre > Bill Allombert > Ari Pollak > None of the Above
+880fcfe863faa4ce8dd22bb97387351f || Anthony Towns = Jeroen van Wolffelaar > Andreas Schuldei = Steve McIntyre > Ari Pollak = Bill Allombert > None of the Above > Jonathan aka Ted Walther
+d8074543780301c50b56615e7007e6c9 || Jeroen van Wolffelaar > Andreas Schuldei > Steve McIntyre > Ari Pollak > None of the Above
+bc5d66627de5e5fa2c3f22483fbd9ae0 || None of the Above > Jeroen van Wolffelaar > Bill Allombert > Steve McIntyre > Anthony Towns > Andreas Schuldei = Ari Pollak > Jonathan aka Ted Walther
+9b4d5196c5861f43f84eb5a90d386732 || Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > Anthony Towns > Andreas Schuldei > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+6392474f4a775a992cb2506ed288ab40 || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar
+5cdf7d656bca6562e10328de20f0ed69 || Steve McIntyre > Anthony Towns > Bill Allombert
+b27d3f0640a314d33bc6ad346b98b0e4 || Steve McIntyre > Anthony Towns > Andreas Schuldei = Jeroen van Wolffelaar
+411f9f37f6f24b3c7b673f3648aeaacf || Jeroen van Wolffelaar > Andreas Schuldei > Steve McIntyre > None of the Above
+32a2ff36efed47b5f45498c8acbb21d2 || Bill Allombert > None of the Above > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > Steve McIntyre > Anthony Towns > Jonathan aka Ted Walther
+df5cc376c3ecba2825adc9947f20757a || Bill Allombert = Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei = Ari Pollak > None of the Above > Jonathan aka Ted Walther
+80209162b8c7b1ba2ad71877e8d51153 || Andreas Schuldei = Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns = Bill Allombert > Ari Pollak > None of the Above
+9ffe0ca817cb02a9eaabebe53e824b4f || Jeroen van Wolffelaar = Steve McIntyre > Andreas Schuldei = Anthony Towns > Bill Allombert > Ari Pollak = Jonathan aka Ted Walther = None of the Above
+56bce963ba4cd5f28860358950998828 || Andreas Schuldei > None of the Above > Anthony Towns > Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > Ari Pollak > Jonathan aka Ted Walther
+cc3185d62934d4bd50e6edd9754b37c3 || Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > None of the Above > Anthony Towns = Ari Pollak = Bill Allombert = Jonathan aka Ted Walther
+fa1b8ba74186465d36c7e7434c5784f5 || Bill Allombert > Jeroen van Wolffelaar > Ari Pollak > Anthony Towns > Andreas Schuldei > None of the Above > Jonathan aka Ted Walther > Steve McIntyre
+e2326f5bd39399b9d28eb7be7d1823a7 || Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > None of the Above > Bill Allombert > Anthony Towns > Ari Pollak > Jonathan aka Ted Walther
+2121b9021124043d7349c32e2f858d22 || Anthony Towns > Andreas Schuldei
+fa16b6b9af98e29380a86a6fedcf0f00 || Anthony Towns > Steve McIntyre > Bill Allombert > None of the Above > Andreas Schuldei > Jeroen van Wolffelaar > Jonathan aka Ted Walther > Ari Pollak
+33abe04e778991d8de766861d39324d5 || Andreas Schuldei = Jeroen van Wolffelaar > Anthony Towns = Steve McIntyre > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+c71db3061b853baeb3f9b6ad5e4fb4d3 || Steve McIntyre > Jonathan aka Ted Walther > None of the Above > Ari Pollak > Anthony Towns > Bill Allombert > Andreas Schuldei = Jeroen van Wolffelaar
+240a1d5f7fc9227051d43d7f642bfc32 || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > None of the Above > Andreas Schuldei > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+cdde362f02085d20f8912b6dec5470ed || Bill Allombert > Jeroen van Wolffelaar > Ari Pollak > None of the Above > Andreas Schuldei > Anthony Towns > Jonathan aka Ted Walther > Steve McIntyre
+b49af1186dbb0b248b8212e54b570f89 || Anthony Towns = Steve McIntyre > Andreas Schuldei = Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak
+aa1333bb4777ab1561aa462433af27a1 || Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar = Steve McIntyre > Bill Allombert > Ari Pollak = None of the Above > Jonathan aka Ted Walther
+aaa073ff487e6fa9f2cde048a420d1ed || Bill Allombert = Steve McIntyre > Andreas Schuldei = Anthony Towns = Jeroen van Wolffelaar > None of the Above > Ari Pollak = Jonathan aka Ted Walther
+080b246a2cb565fe85393ddf1830ad79 || Anthony Towns > Steve McIntyre > Andreas Schuldei = Ari Pollak = Bill Allombert = Jeroen van Wolffelaar > None of the Above > Jonathan aka Ted Walther
+1a307458ea414869b8e6d2a056f7819b || Anthony Towns = Bill Allombert > Andreas Schuldei = Jeroen van Wolffelaar > Jonathan aka Ted Walther = Steve McIntyre > None of the Above > Ari Pollak
+fcef91d6f8104aba23e9033fa5a2e7a9 || Anthony Towns > None of the Above > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Jonathan aka Ted Walther > Ari Pollak > Bill Allombert
+14be0f2cf36f0f77f921234203fe51d9 || Steve McIntyre > Bill Allombert = Jeroen van Wolffelaar > Anthony Towns = Ari Pollak > Andreas Schuldei > None of the Above > Jonathan aka Ted Walther
+85c37d57cee1b7f9e31fdc1e34024b99 || Steve McIntyre > Bill Allombert > Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > Anthony Towns > None of the Above > Jonathan aka Ted Walther
+59d43bd00cc40321e33f961d34403d73 || Anthony Towns > Jeroen van Wolffelaar
+ea5c635a481beb24051676e2d426935d || Anthony Towns > Andreas Schuldei = Jeroen van Wolffelaar > Steve McIntyre > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+09d4bb9d0ace04fd0a9e67dbdc980a81 || Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther > None of the Above
+555df6c79e30b20a85b258744015a460 || Steve McIntyre > Anthony Towns
+664aaae907754c218eac78449302f107 || Steve McIntyre
+d789918d625bdc8ae57a87f0705620ed || Andreas Schuldei > Jeroen van Wolffelaar = Steve McIntyre > Anthony Towns > Ari Pollak = Bill Allombert > None of the Above > Jonathan aka Ted Walther
+d7d14ed77eabdba10e897fbaf2508e70 || Anthony Towns > Andreas Schuldei = Jeroen van Wolffelaar > Ari Pollak = Steve McIntyre > Bill Allombert > None of the Above > Jonathan aka Ted Walther
+d6e4dcdfcfd41c24c1de5b894c9702d7 || Steve McIntyre > Anthony Towns > None of the Above > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Jonathan aka Ted Walther > Ari Pollak
+1abd54f13f8097d2a939e213e859600c || Steve McIntyre > Anthony Towns > Bill Allombert > Ari Pollak > Andreas Schuldei > Jeroen van Wolffelaar > None of the Above > Jonathan aka Ted Walther
+dd25c2f04bd766b0427e3de9ba9a6e95 || Andreas Schuldei > Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+28de4db63bb2206140a978135ffe3d61 || Anthony Towns > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > Jonathan aka Ted Walther > None of the Above > Ari Pollak
+20487b8523ed033494835b1c09ebf88c || Andreas Schuldei = Steve McIntyre > Anthony Towns = Ari Pollak = Bill Allombert = Jeroen van Wolffelaar > None of the Above > Jonathan aka Ted Walther
+f7c3b8576bc0f154a8f22b148bee01e6 || Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > Andreas Schuldei > Bill Allombert > None of the Above
+893ec7e08d3f0a4b55b9e5af1c018571 || None of the Above > Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > Bill Allombert > Jonathan aka Ted Walther
+142ef6f2613c2c7a4c9f65f51f274f22 || Bill Allombert > Anthony Towns = Steve McIntyre > Andreas Schuldei = Jonathan aka Ted Walther > None of the Above > Ari Pollak = Jeroen van Wolffelaar
+e992b4e6302811b0dacc8289bb937da8 || Bill Allombert > None of the Above > Steve McIntyre > Andreas Schuldei > Anthony Towns > Ari Pollak > Jeroen van Wolffelaar > Jonathan aka Ted Walther
+1af31da3d1e8c52683b8bbb1454d0602 || Jeroen van Wolffelaar = Steve McIntyre > Anthony Towns > Bill Allombert > None of the Above > Ari Pollak > Andreas Schuldei > Jonathan aka Ted Walther
+61a4382c2834aeb1b8de6db72539a121 || Andreas Schuldei > Anthony Towns > Steve McIntyre > None of the Above > Ari Pollak = Bill Allombert = Jeroen van Wolffelaar > Jonathan aka Ted Walther
+c337202ec1ddd673ad1d71a41fffe614 || Jeroen van Wolffelaar = Steve McIntyre > Andreas Schuldei = Anthony Towns > Ari Pollak = Bill Allombert > None of the Above > Jonathan aka Ted Walther
+acf1a7f99572aeca10950b8f4ee88bc2 || Steve McIntyre > Anthony Towns > None of the Above
+88e1f5b9709fa6f5c2080ad5da7f87df || Anthony Towns > Bill Allombert = Steve McIntyre > Andreas Schuldei = Jeroen van Wolffelaar > None of the Above > Ari Pollak = Jonathan aka Ted Walther
+0172f801214d54119c7320e04cb59ad7 || Steve McIntyre > Anthony Towns > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > Jonathan aka Ted Walther > Ari Pollak > None of the Above
+b2d836dc52f53c12697de54978316b00 || None of the Above
+5fef8b71aa06f647c9a52a7ead8bbfce || Anthony Towns > Andreas Schuldei = Steve McIntyre > Bill Allombert = Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+319f2f745f8282276b6a2af328eeffda || Anthony Towns
+f9579c15d964b1a777aed3162173866f || Andreas Schuldei > Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+c23ba38e315a59cfd72d02a8276989de || None of the Above
+039d5c78c555881a2db18baad15f6086 || Andreas Schuldei > Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > Bill Allombert > None of the Above > Jonathan aka Ted Walther > Ari Pollak
+74c86a247f9a38a56fb06204b4da00b1 || Andreas Schuldei > Anthony Towns > Jonathan aka Ted Walther > Steve McIntyre
+a661b740a120439c99dab3592bd05dcc || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > Bill Allombert > None of the Above > Jonathan aka Ted Walther
+ef39e11380318138a04cde2f0b0577b8 || Anthony Towns > Andreas Schuldei > Bill Allombert = Jeroen van Wolffelaar = Jonathan aka Ted Walther = None of the Above = Steve McIntyre > Ari Pollak
+13408a29aa3f41d950ced5fa5e89a307 || Steve McIntyre > Anthony Towns > Andreas Schuldei
+7eb1177e865f30c3f9a72a4a9f722d03 || Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > Jonathan aka Ted Walther > Ari Pollak > Bill Allombert > Andreas Schuldei = None of the Above
+7dd94fc57a410a4d1c874cbb185f4b4f || Steve McIntyre > Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > Jonathan aka Ted Walther > Ari Pollak > None of the Above
+0b7ba5275881a9304c9616f9d7174095 || Andreas Schuldei > Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > None of the Above > Jonathan aka Ted Walther > Bill Allombert > Ari Pollak
+8ae29c87282779a1ff916ef08cfd85bd || Bill Allombert > Andreas Schuldei > Steve McIntyre > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther > Anthony Towns
+dcfbc0e94ee6f3e1a32ede7176501b64 || Anthony Towns > Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Ari Pollak
+99c1e35449f51f788bfbf950d5261ceb || Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Bill Allombert > Andreas Schuldei > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+a8ae3bffdd433278f62ac6ad06daa43f || Anthony Towns = Steve McIntyre > Jeroen van Wolffelaar > Andreas Schuldei = Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+9a3e83ef7a2582aa568c341e68823554 || Jeroen van Wolffelaar > Anthony Towns = Steve McIntyre > Andreas Schuldei = Bill Allombert > None of the Above > Ari Pollak = Jonathan aka Ted Walther
+e0b11ad010d1d899e1f4a2c0b78cb5a1 || Bill Allombert > Anthony Towns = Steve McIntyre > Andreas Schuldei > Ari Pollak = Jeroen van Wolffelaar = Jonathan aka Ted Walther > None of the Above
+aab8a4cf861fd4849b53eb06e100b165 || Anthony Towns > Jeroen van Wolffelaar > Bill Allombert > Steve McIntyre > Andreas Schuldei > None of the Above > Jonathan aka Ted Walther > Ari Pollak
+23ce463064353d726caea161a0abc3e4 || Anthony Towns > None of the Above > Jonathan aka Ted Walther
+04acdb573b3b20aa0746a6b0b499bd89 || Andreas Schuldei > Jeroen van Wolffelaar > Anthony Towns > Steve McIntyre
+45757642be8c7fe6b2c99dc3433af51c || Steve McIntyre > Andreas Schuldei > Bill Allombert > None of the Above > Anthony Towns > Jeroen van Wolffelaar > Ari Pollak > Jonathan aka Ted Walther
+dd71fe62536a3125f7e1a8c33fedcd81 || Anthony Towns > Steve McIntyre > Bill Allombert > Andreas Schuldei > Jeroen van Wolffelaar > None of the Above > Ari Pollak = Jonathan aka Ted Walther
+fc636c8e3c7845d365814f3b69ea2fb1 || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Bill Allombert > Andreas Schuldei > Ari Pollak > None of the Above
+bb79a341d25da6da950b6a7da21ee856 || Steve McIntyre > Anthony Towns > Bill Allombert > Jeroen van Wolffelaar > Ari Pollak > Andreas Schuldei > None of the Above > Jonathan aka Ted Walther
+8e8b4a402102c9ce44033364e4b33322 || Steve McIntyre > Anthony Towns > Andreas Schuldei = Jeroen van Wolffelaar > Bill Allombert > None of the Above
+9df7140f924e1aba6d7022604a60db5c || Anthony Towns > Steve McIntyre > Andreas Schuldei = Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+e79947e2ef56bbc2e402589447c016f2 || Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei = Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+9bfc20fbf724f484d785f413124458d7 || Steve McIntyre > None of the Above > Andreas Schuldei = Bill Allombert > Ari Pollak > Anthony Towns = Jeroen van Wolffelaar > Jonathan aka Ted Walther
+a7137d5e63595dc3abd876e227bd3d74 || Anthony Towns > Andreas Schuldei > Ari Pollak > Bill Allombert > None of the Above > Jonathan aka Ted Walther > Steve McIntyre > Jeroen van Wolffelaar
+ee28b414256ed28d559c699519d0bdab || Steve McIntyre > Anthony Towns > Bill Allombert > Andreas Schuldei > Jeroen van Wolffelaar > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+dbc3b2ae38b6586b001983934b6a1dc8 || Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns > Andreas Schuldei > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther > None of the Above
+0b47129f951218caf8b1bf35f1fd0cc9 || Anthony Towns = Steve McIntyre > Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar > Ari Pollak = Jonathan aka Ted Walther
+57d7997f3990f03a8d15d5192ca81830 || Steve McIntyre > Anthony Towns > Andreas Schuldei > Jeroen van Wolffelaar > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+d549175168c301e2c826ac5c00b45c3e || Steve McIntyre > Bill Allombert > Anthony Towns = Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+9b8898579f751d6abfbc9b4b591b914f || Anthony Towns > Steve McIntyre > Bill Allombert > None of the Above > Jeroen van Wolffelaar > Andreas Schuldei > Ari Pollak > Jonathan aka Ted Walther
+01299188960b4b3239a0cad2d4c42c5e || Jeroen van Wolffelaar > Anthony Towns > Steve McIntyre > Andreas Schuldei > Bill Allombert > Ari Pollak > None of the Above > Jonathan aka Ted Walther
+174c2e9763e3269e5f62119e56671c30 || Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei > Ari Pollak > Bill Allombert > None of the Above > Jonathan aka Ted Walther
+286076c0ce373a2037e3d4fb50f3f2da || Jeroen van Wolffelaar > Andreas Schuldei = Steve McIntyre > Bill Allombert > Anthony Towns > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+e28c6ab23da73f62876fad302d2f5950 || Bill Allombert > Anthony Towns > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+0bb9a47e90f076aa0242d26857cf733c || Anthony Towns > Andreas Schuldei > Steve McIntyre > Ari Pollak > Jeroen van Wolffelaar > None of the Above > Bill Allombert > Jonathan aka Ted Walther
+a77e6c989eb7a4c4d5b19fedcef8705e || Steve McIntyre > Anthony Towns > Bill Allombert > Ari Pollak > Andreas Schuldei = Jeroen van Wolffelaar > None of the Above > Jonathan aka Ted Walther
+8e7dd62b11322a6e742b2bbe8f2ef16d || Steve McIntyre > Anthony Towns = Ari Pollak = Jeroen van Wolffelaar > Andreas Schuldei > Bill Allombert > None of the Above > Jonathan aka Ted Walther
+95e58cd7c48aea7e1a0cbab5c9ca608b || Anthony Towns > Steve McIntyre > Andreas Schuldei = Bill Allombert = Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+d292ee2b1542abec738eaea6a7c35f51 || Steve McIntyre > Anthony Towns > Andreas Schuldei = Jeroen van Wolffelaar > Bill Allombert > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+6bc4bed870490203fe2def3874706a8c || Anthony Towns > Jeroen van Wolffelaar = Steve McIntyre > None of the Above > Bill Allombert
+84c82862270ca5c33895c5a7edd0fba1 || Anthony Towns > Andreas Schuldei > Steve McIntyre > Bill Allombert > None of the Above > Ari Pollak > Jeroen van Wolffelaar > Jonathan aka Ted Walther
+f9ded889c2208134f80b6f3ad150738f || Steve McIntyre > Bill Allombert > Jeroen van Wolffelaar > None of the Above > Anthony Towns > Andreas Schuldei = Ari Pollak = Jonathan aka Ted Walther
+2fa85770cdc7a7e320f2fdc20b93e5b9 || Steve McIntyre > Anthony Towns > Andreas Schuldei > None of the Above
+e3adcc29425fcbc749d7731ac264d691 || Bill Allombert > Ari Pollak > None of the Above > Andreas Schuldei = Anthony Towns = Jeroen van Wolffelaar = Jonathan aka Ted Walther = Steve McIntyre
+fcdf69793004c8b7a09b6f0be12d53c4 || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Bill Allombert > None of the Above
+30863ace9b616d8a4a697e9a029df9a4 || Andreas Schuldei = Jeroen van Wolffelaar > Steve McIntyre > Anthony Towns = Bill Allombert > Ari Pollak = None of the Above > Jonathan aka Ted Walther
+8dd85a4c80afca93265d58cf1b37758d || Anthony Towns > Bill Allombert > Steve McIntyre > Andreas Schuldei > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+3dafd70470d24f4249c7da00b6301317 || Steve McIntyre > Bill Allombert > Jeroen van Wolffelaar > None of the Above > Ari Pollak > Andreas Schuldei > Anthony Towns > Jonathan aka Ted Walther
+62d875af374ae6b616b439767b517f79 || Andreas Schuldei > Anthony Towns = Ari Pollak = Bill Allombert = Jeroen van Wolffelaar = Jonathan aka Ted Walther = Steve McIntyre
+931d0912646dae05376667f24d2d5b10 || Andreas Schuldei > Anthony Towns = Bill Allombert = Steve McIntyre > Jeroen van Wolffelaar = Jonathan aka Ted Walther
+1641b004e994796ee4667fa8b8b2c4a1 || Steve McIntyre > Andreas Schuldei = Anthony Towns > Ari Pollak = Bill Allombert = Jeroen van Wolffelaar = Jonathan aka Ted Walther
+e3e90e7d278a0399b0c2668dae4abeb3 || Anthony Towns > Bill Allombert > Jonathan aka Ted Walther
+c613606c0e07b2900ad7d0532228e1a7 || Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei > Ari Pollak > Steve McIntyre > None of the Above
+2e46d7dbdd4a0e31fecfd9d26d97a836 || Andreas Schuldei > None of the Above > Steve McIntyre > Anthony Towns > Bill Allombert > Jeroen van Wolffelaar > Ari Pollak > Jonathan aka Ted Walther
+d5ea3a2298070dd799f20a00ce8febed || Andreas Schuldei = Anthony Towns > Bill Allombert = Jeroen van Wolffelaar = Steve McIntyre > Ari Pollak = None of the Above > Jonathan aka Ted Walther
+d2d1a54dba89b27b56559a2ab3e2ba80 || Anthony Towns > Jeroen van Wolffelaar > Ari Pollak > Steve McIntyre > None of the Above > Bill Allombert > Andreas Schuldei > Jonathan aka Ted Walther
+d13925332cc5d4ada191a5df1ea404db || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > None of the Above > Jonathan aka Ted Walther > Bill Allombert > Ari Pollak
+191ed8bf19c5cb6d6871d7782eced295 || Jeroen van Wolffelaar > Steve McIntyre > Andreas Schuldei > Anthony Towns > Bill Allombert > Jonathan aka Ted Walther > Ari Pollak > None of the Above
+f504e2dd66052cd618b2619f21afd3f6 || Anthony Towns > Jeroen van Wolffelaar > Steve McIntyre
+aead9fe58962a052073c3eba978ce3e0 || Anthony Towns = Steve McIntyre > Jeroen van Wolffelaar > Bill Allombert > Andreas Schuldei > None of the Above > Ari Pollak > Jonathan aka Ted Walther
+d4a556f9a1d5712704424e39c69bd139 || Steve McIntyre > Jeroen van Wolffelaar > Anthony Towns > Andreas Schuldei > None of the Above > Bill Allombert > Ari Pollak > Jonathan aka Ted Walther
+47c90820c612b4b9288405afa3ec8dfa || Anthony Towns > Jonathan aka Ted Walther > Jeroen van Wolffelaar

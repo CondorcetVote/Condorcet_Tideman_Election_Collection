@@ -67,13 +67,16 @@ ini_set('memory_limit', '8192M');
         $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = $specifications;
         $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: true);
 
-        // Explicit Ranking OFF
+       // Official conversion to .cvotes
+       $results[$name]['condorcetFormatVotes']['officialCvotesConversion'] = $specifications;
+       $results[$name]['condorcetFormatVotes']['officialCvotesConversion'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: !str_starts_with($name, 'D') ? true : false, includeTags: true, inContext: false);
+
+        // Explicit Ranking
         $election->setImplicitRanking(false);
         computeResults($election, 'explicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
         $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] = $specifications;
-        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] .= "# For a better readability of the results, the last rank has been interpreted and added when absent from the original ballot. If you are looking for the most faithful conversion to the original, look for the Explicit file instead of this one (Implicit), a file whose header can easily be modified to make it Implicit and strictly equal to this one.\n";
+        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] .= "# For a better readability of the results, the last rank has been interpreted and added when absent from the original ballot. If you are looking for the most faithful conversion to the original, look at the 'Tideman_Collection_Converted_To_CondorcetElectionFormat' folder.\n";
         $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: false);
-
 
     endforeach;
 
@@ -115,6 +118,7 @@ ini_set('memory_limit', '8192M');
         // Condorcet Format
         file_put_contents("$base_dir/implicitRankingEvaluationOfVotes/$name-aggregated-votes-implicit.cvotes", $election['condorcetFormatVotes']['implicitRankingEvaluationOfVotes']);
         file_put_contents("$base_dir/explicitRankingEvaluationOfVotes/$name-aggregated-votes-explicit.cvotes", $election['condorcetFormatVotes']['explicitRankingEvaluationOfVotes']);
+        file_put_contents(__DIR__."/../Tideman_Collection_Converted_To_CondorcetElectionFormat/$name.cvotes", $election['condorcetFormatVotes']['officialCvotesConversion']);
     endforeach;
 
     # Export Pairwise
