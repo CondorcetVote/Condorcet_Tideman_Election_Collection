@@ -1,3 +1,8 @@
+#/Candidates: A ; B ; C ; D ; E ; F ; G ; H ; I ; J ; K ; L ; M ; N
+#/Number of Seats: 12
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
 M > J > F > D > N > H > K > C > A > G > B > L > E > I * 2
 A > B > M > D > C > J > I > E > K > L > N > H > F > G * 1
 A > G > F > J > K > B > I > D > H > L > C = E = M = N * 1

@@ -3,7 +3,7 @@
 #/Implicit Ranking: false
 #/Weight Allowed: false
 
-{{EMPTY_VOTE_IN_CONTEXT}} * 11
+/EMPTY_RANKING/ * 11
 4 * 7
 5 > 4 * 6
 3 > 1 > 2 > 5 > 4 > 6 * 5

@@ -1,3 +1,8 @@
+#/Candidates: A ; B ; C ; D
+#/Number of Seats: 2
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
 A > B = C = D * 23
 B > A = C = D * 18
 A > B > D > C * 16

@@ -1,3 +1,8 @@
+#/Candidates: Jonathan Carter ; Sruthi Chandran ; Brian Gupta ; None Of The Above
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
 Jonathan Carter > Brian Gupta > Sruthi Chandran > None Of The Above * 52
 Jonathan Carter > Sruthi Chandran > Brian Gupta > None Of The Above * 47
 Jonathan Carter > Sruthi Chandran > None Of The Above > Brian Gupta * 39

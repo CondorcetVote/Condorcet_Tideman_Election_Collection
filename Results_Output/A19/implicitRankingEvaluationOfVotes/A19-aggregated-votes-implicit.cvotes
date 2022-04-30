@@ -1,3 +1,8 @@
+#/Candidates: A ; B ; C ; D ; E ; F ; G
+#/Number of Seats: 3
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
 G > A = B = C = D = E = F * 9
 E > G > A = B = C = D = F * 8
 F > A = B = C = D = E = G * 8

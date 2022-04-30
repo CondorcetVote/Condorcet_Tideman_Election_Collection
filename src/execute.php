@@ -34,7 +34,7 @@ ini_set('memory_limit', '8192M');
 
     $i = 0;
     foreach ($scandir as $fileName) :
-        $tideman_collection_list[\str_replace(['.HIL', '.debian_votes'. '.cvotes'], ['',''], $fileName)] = $dir.$fileName;
+        $tideman_collection_list[\str_replace(['.HIL', '.debian_votes', '.cvotes'], ['','',''], $fileName)] = $dir.$fileName;
         if ($isTest && ++$i > 4) : break; endif; # Uncomment for quick dev tests
     endforeach;
 
@@ -62,12 +62,12 @@ ini_set('memory_limit', '8192M');
         // Implicit Ranking
         !$election->getImplicitRankingRule() && $election->setImplicitRanking(false); # Security, default must be true.
         computeResults($election, 'implicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
-        $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = $election->getVotesListAsString();
+        $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: true);
 
         // Explicit Ranking OFF
         $election->setImplicitRanking(false);
         computeResults($election, 'explicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
-        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] = CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false);
+        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] = CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: false);
 
 
     endforeach;

@@ -1,3 +1,8 @@
+#/Candidates: Candidate  1 ; Candidate  2 ; Candidate  3 ; Candidate  4 ; Candidate  5 ; Candidate  6 ; Candidate  7 ; Candidate  8 ; Candidate  9 ; Candidate 10
+#/Number of Seats: 3
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
 Candidate  3 > Candidate  1 > Candidate  2 = Candidate  4 = Candidate  5 = Candidate  6 = Candidate  7 = Candidate  8 = Candidate  9 = Candidate 10 * 13
 Candidate  1 > Candidate  3 > Candidate  2 = Candidate  4 = Candidate  5 = Candidate  6 = Candidate  7 = Candidate  8 = Candidate  9 = Candidate 10 * 9
 Candidate  1 > Candidate  3 > Candidate  9 > Candidate  2 = Candidate  4 = Candidate  5 = Candidate  6 = Candidate  7 = Candidate  8 = Candidate 10 * 9

@@ -1,3 +1,8 @@
+#/Candidates: A ; B ; C ; D ; E ; F ; G ; H ; I ; J ; K ; L ; M ; N ; O ; P ; Q
+#/Number of Seats: 5
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
 E > I > J > K > Q > A = B = C = D = F = G = H = L = M = N = O = P * 5
 F > A > B > N > P > C = D = E = G = H = I = J = K = L = M = O = Q * 3
 F > B > N > P > A > C = D = E = G = H = I = J = K = L = M = O = Q * 3

@@ -1,3 +1,8 @@
+#/Candidates: 1 ; 2 ; 3 ; 4 ; 5
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
 4 > 1 = 2 = 3 = 5 * 29
 3 > 1 = 2 = 4 = 5 * 22
 5 > 1 = 2 = 3 = 4 * 6

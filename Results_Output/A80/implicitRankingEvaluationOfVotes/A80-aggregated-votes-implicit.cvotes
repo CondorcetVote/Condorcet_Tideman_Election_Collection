@@ -1,3 +1,8 @@
+#/Candidates: 1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7
+#/Number of Seats: 5
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
 1 > 5 > 3 > 6 > 4 > 7 > 2 * 3
 3 > 1 > 6 > 2 = 4 = 5 = 7 * 3
 5 > 1 = 2 = 3 = 4 = 6 = 7 * 3
