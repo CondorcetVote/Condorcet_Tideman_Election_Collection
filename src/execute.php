@@ -59,15 +59,20 @@ ini_set('memory_limit', '8192M');
         $results[$name] = [];
         $results[$name]['number_of_seats'] = $election->getNumberOfSeats();
 
+        $specifications = "# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat\n";
+
         // Implicit Ranking
         !$election->getImplicitRankingRule() && $election->setImplicitRanking(false); # Security, default must be true.
         computeResults($election, 'implicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
-        $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: true);
+        $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = $specifications;
+        $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: true);
 
         // Explicit Ranking OFF
         $election->setImplicitRanking(false);
         computeResults($election, 'explicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
-        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] = CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: false);
+        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] = $specifications;
+        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] .= "# For a better readability of the results, the last rank has been interpreted and added when absent from the original ballot. If you are looking for the most faithful conversion to the original, look for the Explicit file instead of this one (Implicit), a file whose header can easily be modified to make it Implicit and strictly equal to this one.\n";
+        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: false);
 
 
     endforeach;

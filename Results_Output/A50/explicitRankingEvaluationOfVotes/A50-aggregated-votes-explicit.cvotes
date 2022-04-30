@@ -1,3 +1,5 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+# For a better readability of the results, the last rank has been interpreted and added when absent from the original ballot. If you are looking for the most faithful conversion to the original, look for the Explicit file instead of this one (Implicit), a file whose header can easily be modified to make it Implicit and strictly equal to this one.
 #/Candidates: A ; B ; C ; D
 #/Number of Seats: 1
 #/Implicit Ranking: false
