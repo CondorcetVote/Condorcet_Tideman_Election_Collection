@@ -1,4 +1,6 @@
 # Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+
+# This election has 561 votes
 # For a better readability of the results, the last rank has been interpreted and added when absent from the original ballot. If you are looking for the most faithful conversion to the original, look at the 'Tideman_Collection_Converted_To_CondorcetElectionFormat' folder.
 #/Candidates: A ; B ; C ; D
 #/Number of Seats: 1

@@ -1,4 +1,6 @@
 # Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+
+# This election has 575 votes
 #/Candidates: A ; B ; C ; D ; E ; F ; G ; H ; I ; J ; K ; L ; M
 #/Number of Seats: 3
 #/Implicit Ranking: true
