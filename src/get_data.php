@@ -6,7 +6,7 @@
 declare(strict_types=1);
 
 
-$dir = __DIR__.'/../Input_Tideman_Election_Collection/';
+$dir = __DIR__.'/../Input_TidemanElectionCollection/';
 
 // Official
 for ($i = 1 ; $i <= 99 ; $i++) :

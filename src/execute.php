@@ -27,7 +27,7 @@ ini_set('memory_limit', '8192M');
 
     $tideman_collection_list = [];
 
-    $dir = __DIR__.'/../Input_Tideman_Election_Collection/';
+    $dir = __DIR__.'/../Input_TidemanElectionCollection/';
 
     $scandir = \array_diff(\scandir($dir), ['.', '..']);
     natsort($scandir);
@@ -104,7 +104,7 @@ ini_set('memory_limit', '8192M');
                     ],
                     \JSON_PRETTY_PRINT);
 
-                $dir = $base_dir = __DIR__."/../Results_Output/$name";
+                $dir = $base_dir = __DIR__."/../Output_Results/$name";
                 $create_dir($dir);
 
                 $dir .= "/$mode";
@@ -119,7 +119,7 @@ ini_set('memory_limit', '8192M');
         // Condorcet Format
         file_put_contents("$base_dir/implicitRankingEvaluationOfVotes/$name-aggregated-votes-implicit.cvotes", $election['condorcetFormatVotes']['implicitRankingEvaluationOfVotes']);
         file_put_contents("$base_dir/explicitRankingEvaluationOfVotes/$name-aggregated-votes-explicit.cvotes", $election['condorcetFormatVotes']['explicitRankingEvaluationOfVotes']);
-        file_put_contents(__DIR__."/../Tideman_Collection_Converted_To_CondorcetElectionFormat/$name.cvotes", $election['condorcetFormatVotes']['officialCvotesConversion']);
+        file_put_contents(__DIR__."/../Conversion_To_CondorcetElectionFormat/$name.cvotes", $election['condorcetFormatVotes']['officialCvotesConversion']);
     endforeach;
 
     # Export Pairwise
@@ -137,7 +137,7 @@ ini_set('memory_limit', '8192M');
         echo "Write Condorcet Winner/Loser: $name - $mode\n";
 
         foreach (['explicitRankingEvaluationOfVotes', 'implicitRankingEvaluationOfVotes'] as $mode) :
-            $path = __DIR__."/../Results_Output/$name/$mode/$name-$mode-Condorcet.json";
+            $path = __DIR__."/../Output_Results/$name/$mode/$name-$mode-Condorcet.json";
 
             file_put_contents($path, json_encode(['Condorcet Winner' => $electionResults['CondorcetWinner'][$mode], 'Condorcet Loser' => $electionResults['CondorcetLoser'][$mode]], \JSON_PRETTY_PRINT));
         endforeach;
