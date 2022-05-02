@@ -125,7 +125,7 @@ ini_set('memory_limit', '8192M');
     # Export Pairwise
     foreach ($results as $name => $electionResults) :
             foreach ($electionResults['Pairwise'] as $mode => $pairwise) :
-                $path = __DIR__."/../Results_Output/$name/$mode/$name-$mode-Pairwise.json";
+                $path = __DIR__."/../Output_Results/$name/$mode/$name-$mode-Pairwise.json";
 
                 echo "Write Pairwise: $name - $mode\n";
                 file_put_contents($path, json_encode($pairwise, \JSON_PRETTY_PRINT));
