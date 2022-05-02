@@ -65,7 +65,7 @@ ini_set('memory_limit', '8192M');
         // Implicit Ranking
         !$election->getImplicitRankingRule() && $election->setImplicitRanking(false); # Security, default must be true.
         computeResults($election, 'implicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
-        $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = $specifications;
+        $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = $specifications . $numberOfVotes;
         $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: true);
 
        // Official conversion to .cvotes

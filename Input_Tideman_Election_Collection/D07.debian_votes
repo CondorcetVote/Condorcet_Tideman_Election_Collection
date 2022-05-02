@@ -1,6 +1,6 @@
 
-		       Tally Sheet for the votes cast. 
- 
+		       Tally Sheet for the votes cast.
+
    The format is:
        "V: vote 		MD5SUM"
  You may locate the MD5SUM corresponding to a debian login ID,
@@ -8,8 +8,8 @@
  by simply running md5sum. Forexample, for login ID srivasta, and
  the secret token 0123456789ABCDE, the following invocation works:
    % echo "srivasta 0123456789ABCDE" | md5sum
- The vote block represents the ranking given to each of the 
- candidates by the voter. 
+ The vote block represents the ranking given to each of the
+ candidates by the voter.
  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -18,7 +18,7 @@
    |/  Option 3-------->: Gustavo Franco
    ||/  Option 4------->: Sam Hocevar
    |||/  Option 5------>: Steve McIntyre
-   ||||/  Option 6----->: Raphaël Hertzog
+   ||||/  Option 6----->: RaphaÃ«l Hertzog
    |||||/  Option 7---->: Anthony Towns
    ||||||/  Option 8--->: Simon Richter
    |||||||/  Option 9-->: None Of The Above
