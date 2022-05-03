@@ -2,7 +2,7 @@
 
 Tideman Election Dataset 
 ===========================
-Computed under Condorcet PHP, with all methods and mods.
+Computed under [Condorcet PHP](https://github.com/julien-boudry/Condorcet), with all methods and mods.
 ---------
     
 #### _From: https://rangevoting.org/TidemanData.html_
