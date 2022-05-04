@@ -1,0 +1,362 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+
+# This election has 354 votes
+#/Candidates: Felix Lechner ; Jonathan Carter ; Hideki Yamane ; None of the above
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+0062f33895e4bba8e9d9f49914acc899efe5b09c840f6c2b947068672e4d336f || Jonathan Carter > Hideki Yamane = None of the above > Felix Lechner
+07fe14816b87e33066fc58b16401ee87ee57cdcf3a172fc7a8b2f6632f1538d2 || Jonathan Carter > Hideki Yamane > None of the above
+081317ac6d96accfba346c2594a33ae3f846f4dd167c1fbfc3a2922ae46f3738 || Jonathan Carter > Hideki Yamane > None of the above
+096b4afd298c00293508d38e3471768b904e4fc9f27a939085cce5042e3400fa || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+09cc9062c2142a22498980377e405d77b12538286b8c6492a2d3a37ce097ec74 || Hideki Yamane = Jonathan Carter > None of the above > Felix Lechner
+0a40d51841cd515c96b2442fe4f7813f63dab1d71b5566aec4ec31d15cee8db8 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+0b60bb8400749bef91e691c1a7745d6dff8d4a2243118c2be3ca5c69b2f875c6 || Jonathan Carter > None of the above > Hideki Yamane
+0ba2ffe1eb42fb9e2d76db159da96e0658e49438373150f246390c89084c1c82 || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+0e873fccc50ad780326f58ac7c702e9bdd3205071ad2048b6ba725c91b10ad04 || Hideki Yamane = Jonathan Carter > None of the above > Felix Lechner
+0eb900c2d28e9082e44897863c0c02dd3629ef7e45d47b0d4b5cd2309b681ffb || None of the above > Hideki Yamane > Felix Lechner > Jonathan Carter
+0ef4c56f571fdb5afbeb28a6df768b3a8e1e21b0df1d8075e2403adbb63f21ac || Felix Lechner = Jonathan Carter > Hideki Yamane > None of the above
+102035f3a814b77efaa9aeb83c6f528264d2ed5918fd0e2cbaade51ca8389b11 || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+102b88eec457d9e28449249c4d3312648c7fb9a33aa77e73dd775c0a2f75ad8c || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+103d6f1a4cb5ee1b75d084ecb339788ceecfeaae118f5b66b8ff5389747c23af || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+10dcd5ca069ad261c98cdab67bcca0f6798dd4c9223e31c2a91023563b1a664e || None of the above
+11134037695c9318506c0d8b8b7dc8b65c23e0fc2411c59cca5891a95707fce3 || Hideki Yamane > Jonathan Carter > None of the above
+11e8f285998083d114df620f700f5fc3dde62e790049470dea219653bf542867 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+12065c38af22c7d3cde6822bafd27cbb46d67d29fd7b9f3d7b8ffe3efdda28fd || Jonathan Carter > Hideki Yamane > Felix Lechner
+12c7398d0e09cf3b05921d3d2b9ecf0e021068a70a41a5aa7beaa3308e4a926d || Jonathan Carter > Hideki Yamane > None of the above
+1362dae4ebb7e3f14d5931c54275da13ebf2e4621cd6a7d21abdf4a729d531a1 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+1411987cb7ebebcd0f08e8b4b07886a9fa811095d588bfff6d217561b5e7fd33 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+14949f9934d25009534cd7721b21e138c5bb39abea1b74237f6d09ef1093f979 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+15cc09b83455f2ca8fcd61b8d54a85155bb8b79f21ba837b80772fedf0c8bc68 || Jonathan Carter > Felix Lechner > None of the above > Hideki Yamane
+16d7262a70389e5a22514c7e3c2a030c6361efae84968a188978df5868b0819b || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+183faf11e12535a0ba17086ec309a6279413bd7978b75947c2d49395fd545b58 || Jonathan Carter > None of the above
+188a25d7045c4b03cda57322b076b6c20dae0c36f1fcbb5ffc543495fe2d0cc9 || Jonathan Carter > Hideki Yamane > Felix Lechner
+1898daa802d0cd1a709b5253c18bc29998857ef22e18e24db2f2576365c49587 || Jonathan Carter > None of the above
+1a9c28c1b9d8e8dc4a8ece762905c0a833a8a499f922dfbbf9074e5b3f81e374 || Jonathan Carter > Hideki Yamane > None of the above
+1aba7fdb12a434e859ab4c12bd171347645be6177ab903a7b09362553a494f12 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+1c1245a3417effd6d956ccdbad217d76e8a7738a302c4473b36893a986ee5722 || Jonathan Carter > Hideki Yamane > Felix Lechner
+1d50e96fd9fe5d0e163a6e19712921699c99f44a18c11b908888ff2c4c39296d || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+1d66a671c9746d67d45bc30ebc3b14028d45a3f9d7e9513ece664d8cc0d9d758 || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+1dd7f97f265674cd3a4356bffecf7a77582976f009ad97dd3dd3b4132ccc16a9 || Felix Lechner > None of the above > Hideki Yamane > Jonathan Carter
+1dfd38cf7a0cde8fce2dba89e0aa1d065997c911a34558d947fc57b277c07fc3 || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+1f0ba5c07d3d7de35f6de991708f0956b4f58b79148750ae36a671e67355d3a2 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+210dc66046c0749d9963b8f7491c4c65c942422486c625523a3abd94618b1306 || Hideki Yamane = Jonathan Carter > None of the above > Felix Lechner
+222709fe574a870a9fce72fca935e8ab0a3919085d9caf0263427dca52b48bc6 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+25b0022b8e97de9a1686ba486882214ad44139722e9ed5e52139c8a485712551 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+264c3bde73df123fc9ecc4f80b6d9f60cbad3a5e4e764db451ac61aa820d6914 || Felix Lechner > Jonathan Carter > Hideki Yamane
+270c8264603bbb622d882cc823521bbcf28f04827f74e8c7ce2ceb747f26418a || Felix Lechner > Hideki Yamane > None of the above > Jonathan Carter
+285b3c84baff6bf01633892cea8c4085f70830636aee217d9639913ecee3ea1d || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+29bc83087df6eb7842f7005d2f8ae0b1b6f3ecc301dbd2650a5677352f672b4f || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+29d3f1ce228af79b9fd80e775994ef5d07a88eb44ea6fcbf826948b77af0dd88 || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+2a36ee4a729a367c39cf42cdb2c182f76aa528ffe6b0554d2f83ee9acf5c84d0 || Hideki Yamane = Jonathan Carter > None of the above > Felix Lechner
+2af87ecb8390815409e212816ec8ea4f1c039a41d478433cc8c5c9fbcda1642b || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+2aff81602793fd84331b392199ea51e6bcede69276f6e23254a89b9789aade34 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+2b90db5907b9ae7ffa6f7194d20a91fda728a162ea6003bd68d929956afc91d1 || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+2bcb5725fee6710a5c15b6b96f26b5f6b062f1aaae664ff735e69a7363b057b6 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+2d0c31ec714b39fa7517a2b652ce57976e20fb82ecb970887c0bc7ae37e95fa2 || Hideki Yamane > Jonathan Carter > None of the above
+2d7f694b38dd8f67029a1f7c960114bde88e453b759139c226fb452136bef210 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+2dfa7b13f8b2f6d03ffebea263164c3df4e6033dc76175d9417e6ca65bc95276 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+2fe0649662a63a68297a22790aa9b6599c2c3ba491584c8932d511745c49ee0f || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+30104c6644b8928fa3c4353ccb1df3a57c002e281e05b507547ad60e715ce7ab || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+313e5be2e4f64561b5e2d5abba6c8caab8fb701be9b8f5a5c4b4851b9b87f543 || Jonathan Carter > Hideki Yamane > Felix Lechner
+3164a3fee069e7a51356517aec50eafc7c9aa8c47bbf772091f8d3329aec4f5f || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+31c1d7ba052d6a4cfc3ef69b1884a0a1d939e70bbadcddfadecceb8b816f0b4d || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+325dc2492582b4b3b8d8fb4ca50820d759bd9f21de669c15796d0350e5fff8b7 || Hideki Yamane > Jonathan Carter
+34b2382ea0d9db37c29f7f7cde1efb72d5aadac0404350b356df1b2b795ce928 || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+34f6e416bada9e1a19e8585f12d6c2ca920e50bf736f55274d474cd2ab19b3a8 || Jonathan Carter > Hideki Yamane
+35044c17d5f009c3eb1accc8d05256ba9dd839a199ad8a50e30458a9a330bb71 || Jonathan Carter
+352a42b21770968b7eca512474c7a15b58fa2f286087c450976cbd86b8c7a900 || Jonathan Carter > Hideki Yamane > Felix Lechner
+3593f5cc1e29e73e1c2a9189ffebba49e316022fe1c219855f01066fff2064d8 || Hideki Yamane = Jonathan Carter > Felix Lechner > None of the above
+36497da45e758ebf56b2673ebee12eb2f5dd54fc4976d4d5f45068f6d86c15ae || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+368d0f121dca949331ba8fee07b8ac14f595518c549702e248c90b5ef75e689f || Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above
+36a53cd1a53aec0cb5cc47aea41650b63824949dddf4cd343d40e555381fcf37 || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+3715a834de9dc5d0d05f5724a8db4d3e92fb17c2437d40c4b20791a6820920fe || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+3a7e724c9fd2f2a000e4ef0f86dffab6a7dbf4c0e8f3a7381ca5ec9e8985235b || Felix Lechner > Hideki Yamane > Jonathan Carter > None of the above
+3b32f064d5daaa8cc1df089b07d02b8adcb16a7c273ad6440e38bbd8e5247f23 || Jonathan Carter > Felix Lechner = Hideki Yamane > None of the above
+3c15ef561fa9dabdf15128e38683b225117d23a7fec49b0bde152c5c337c6d2b || Hideki Yamane > Felix Lechner > Jonathan Carter > None of the above
+3c1f4a69f1834a5523f81f96d53523a5336e834584e86659da3b7a19e0a75b0b || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+3c5e080840db1324f356125bae0440ada0d0276a963a13d3a1f520fd24016863 || Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above
+3c807e7935b3c9b014f9b854367545b073de5604ba047170a82465d79b9952ee || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+3cb55cbf5d2309dd1fba62f521f649577e13ddcc8485b812fca6d68144fe6e91 || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+3d095e213dfd915f05f2154475b5fb204a4abf19020621d935386c7ac20d7783 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+3f8d11c2183ee6228731c665400b178aea5405dcee03dad14ea255b34de8df48 || Jonathan Carter > Hideki Yamane > Felix Lechner
+40062320194a5602e459734902166556722b8b7478ce6bb11364238fba601977 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+403be67d68ce41dc10c6895bbf800d4fb620962188bd4e18dc8c0308559662b0 || Jonathan Carter > Felix Lechner > Hideki Yamane
+410dafb4258f2f6f388a04f5f7fff17d0ed454722d3f691e4a3c2dc60e58a347 || Felix Lechner = Hideki Yamane = Jonathan Carter = None of the above
+41af95ca33b8812ec62b597819839ea7a7dec71461b816b601ac3b9d106a3f44 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+4214e36689aec9ba07287fd94edbcbdd019a0560b471858937a9d0bc41efa33d || Hideki Yamane > Felix Lechner
+42444e4498dffbb6870c2fe5dd06d86f55f17bc44acba82e6898fd5a2966cec6 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+4307b0ca3c5d0c4704f826c13a22b507cea7026c36de3f5c034a99bd45d4b988 || Hideki Yamane > Felix Lechner > Jonathan Carter > None of the above
+4614badf78c74b327beba067ceece8b04cf206c815a94d117e21908fcb49f995 || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+47381fef45e6ca7b40730a92b9a66b0bc6988a20e9a0b2656ae76ba0f334354e || Felix Lechner > Hideki Yamane > Jonathan Carter > None of the above
+474ea80d6c815b5be6e22aefb9c744845e7b6d226300100734960874fb8afb6f || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+480116487ec46fb8c0eec67f5182eafd3b29633812fb96647ff2217e68a984c8 || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+490ec4e768bf12892fc751a8a4380c05615e5d5869650bb56f9488a2f25bb6e4 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+4927e631e71c950e1820065fbcf9a24cdf88e4ebc122a1bc397fa30fc1c09a2e || Hideki Yamane = Jonathan Carter > None of the above
+4add6e17a8c1c320863765a3692c1454c33938d321a14355ae1586da3538edf4 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+4b1a541b541f2a55695dbd5ced5dd95f024f937edfa3fcb8a72f5dab1228ca86 || Hideki Yamane = Jonathan Carter > None of the above
+4bfeecc4a039a701c0ef321df297380f17830ecb8f1cda1b140dff4859e63eb5 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+4c0bcdf624faf6bfb8986ddd2159b8c058fcbc5602aea084411d5bf8c8a6a840 || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+50d2e531fda7a6d8037f86ac805b6a7daff092b5c301e0dc879a2edd6bc46587 || Jonathan Carter > Felix Lechner = Hideki Yamane = None of the above
+522c7a375d98efba865b391b348f75638d0f35852e7c6b661688053d65a197cf || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+5262b5055d80bbc1d9a952d7ef15b16d987a4d959353df97a3cd6c5e055c394d || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+5367e8806189d6dcd667001b618355c400e736bfe96947be27e047669b25e916 || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+55793144911e26f7c8bf48d1e6edbc2a6056c3579f58dc2c0ba1d907e978edd4 || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+56d3cbec7c73618b25d3dee182e633373517eddd689d58ce4e85dc1a778a7f26 || Felix Lechner = Hideki Yamane > None of the above > Jonathan Carter
+56f409525f7c075f0649c00585290af59a289f7b956eb8f5731eff66050aa532 || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+576ffe2e0c6080be789efa3f5801d76ecfd90b37f9ceeadeecd8c9c88cc946a4 || Jonathan Carter > Hideki Yamane > Felix Lechner
+579e66c6c1c62db5e412afd1a8600eeb338d98ec4efdbdcf54beccae657965a3 || Hideki Yamane > Felix Lechner > None of the above > Jonathan Carter
+57d045ac80dd0ca5227750d3a15c0209e0a34196eb632422bd75d390ca3a161b || Jonathan Carter > Hideki Yamane > None of the above
+5902349c46dfe378eb328517d222f693756da84b27d98f7ce95992c5101dff72 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+592b9430a1f6cfb47529138177296c950fc4948f7b3315f68155f20ddf5af764 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+599e9801870ed65d020954f46aa3a55e2fcfe42aaf476a3a1e8afdb1c0685568 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+5a340e94969708ff75519f393dc9e943568263a42437cc6e4bd396fdb3ff49d4 || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+5a72b725f221f021fb608888c4a6e52095b6c790ca5b02db7dc7f1219aedaa36 || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+5af9a5ffe10fcde98badd2d0763e8e5f115dcb6d1f30a018968a4f214b6126df || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+5b7c468ef9053779949e0323d1754e85d6a6608b34d9f0d098966d261c60a42c || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+5bcc1b8161dd273e2eeaa9806aea7bc69544fe002f44024305426ed6ac46c347 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+5c2ba20ba5a563658fce217e5c947c1e6dbfa3edeb21eab24633e20171a0bd28 || Jonathan Carter = None of the above > Hideki Yamane > Felix Lechner
+5df0e63bdfb0e9d28b1c903e167b40157b2f3b6b9f4532312ffd8404d5803a46 || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+5ed92780cec469355bf1965711bb7b24772779bb9238e3242035733d24d0790d || Jonathan Carter > Hideki Yamane > None of the above
+5fd8721a78707d0b89ecc8ee88b4fc28fe058ebcc41b89998ec15c96ec0ddfdd || Hideki Yamane > None of the above > Jonathan Carter > Felix Lechner
+6002f1952c00da9dff675945956b3b261c8ba426073c3619730559354c34c31e || None of the above > Hideki Yamane > Felix Lechner > Jonathan Carter
+604d3fc911063103294777b7fd06dcd0ebb9c9d5b2cb5b76aea478f8d7265978 || Felix Lechner > Jonathan Carter > None of the above
+610ac42eb459c9ceb668616709df2120e6f1815d52c30c5bf82dbc7e29d591b9 || None of the above > Jonathan Carter > Felix Lechner > Hideki Yamane
+6115968b7c7ed74a82155863e4c9a4df5b7d18dda0fbcd17e3c528eddea08306 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+6149da28e1be5ab450be351ed0f4974c328daa220192db5c26935c4c925ec5c2 || Hideki Yamane > Felix Lechner > Jonathan Carter > None of the above
+616e18158e08b4528e62f28bd453705b50586c140d30dfc7ad1d24fbedfda55c || Jonathan Carter > Felix Lechner = Hideki Yamane > None of the above
+61b5022a890572479acba9a355e379e1fb7c168306dc089e689a8ee8e5e7aeb4 || Felix Lechner > Jonathan Carter > Hideki Yamane
+61ffb78e685ee8f76476d6338e05f2a6de7bf7f9acaa394c1128fbcff0f5fe82 || Hideki Yamane > None of the above > Felix Lechner > Jonathan Carter
+620c701dc9282d98a4aa4da832b55c60d62d0e03f2b9ba6fc1a8599181b7157b || Jonathan Carter > Hideki Yamane > None of the above
+63dcaa0b7e4e66ab0785e0d419370102d7afa5898415ddc9b4308cdf13d05efd || Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above
+64cc167c3d8a24b6253f08197fd289a9aa0a7b046d110e97430a6404e6289fd1 || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+6557d8d41c5aede327a6b2c0f0c65dd91ad2bc8fb79d9e144fd6915d31fa994a || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+66a4507f26a47f34615afa6eec52be7a751e215a8b4fbe9d49062ce7f72b44c2 || Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above
+66d2d9c253cac774551f6984c5fb130c885d60f05a45347f9476c22e825f70ab || Jonathan Carter > Felix Lechner = Hideki Yamane
+687d697ab917afc9a50f236a875adb0d20a680aac240fd2e45db9845720dcb25 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+68f939e345ed4fca3950d13fb682971462b48a2bd3e02b655db4c2c410cca959 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+69ac088e873a431811a6b46d2ee2deced27d18c0b7824ae7509b0d7c638f5479 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+69f0885bd0ed1cbc16216cac523c6ab14e6230662de682ddece340a886f9ab05 || Jonathan Carter > Hideki Yamane = None of the above > Felix Lechner
+6a19c27f8f1c9f610ea192513ee13b9b2097192e5134efd85c1452363cea9a91 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+6b37430b65351c20c4f72dc18460117dab4d0793a2a4c70f6702cffd062f794e || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+6b697eafaee88b4c1912cb89ecfc1c0248ba9b5331332540a254ecc82f3e249e || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+6ca78038ae750c586de7fd492d19b4bf978a3d65434de6f20c64f2de29b077fa || Jonathan Carter > None of the above
+6d59396bc1de9e2fe7ae5592c1d4b8f48c3f231f5dc62524df41ea0f3350295e || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+6d715fd9ff888f279ceba7d09a4a0d98c58371207470417730e5cb720ef6d62e || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+6debf100f50fc3fe4afdeaca0c14c24add2e27e84aeb4aad8e949cd31d44a587 || Jonathan Carter
+6e9ead52631bd559074d33eda12d6537bf70f39bd8cfeb967bc5ea7908153180 || Jonathan Carter > Felix Lechner = Hideki Yamane = None of the above
+6f8a967d6c6a84e9d4e96efb8efad33a3664de9706a13072c6e40836ae9c7e98 || Hideki Yamane = Jonathan Carter > None of the above > Felix Lechner
+70c2196e0c579be06f2d11f7fe2027725d59d86f14801328d4eaccf191e71f96 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+728c39e02a870a21ffa097a6c2ba4b3a3e552073b31be9ad4785cc6ee7484d26 || Felix Lechner > Jonathan Carter > Hideki Yamane
+72c2c134d0a543debe80ee9ef011669284316356e093761adf2a758f49ddc1f8 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+742396da5a15b1567660e4eea0f61accfffb11dbdb44eb3a372cf99eac9de0fe || Felix Lechner > Hideki Yamane = Jonathan Carter > None of the above
+7454a448d950ba4182350ad648a5e64190ed6dc1d0e3c7715a2110bb2fecb9e8 || Jonathan Carter > None of the above > Felix Lechner > Hideki Yamane
+74e5c7c5e54df9e694ed8cc78b8f81174fe79c5a12cc0a0eb436daf428b68a75 || Hideki Yamane > Felix Lechner > Jonathan Carter
+74fa775fd82271c87c80fcbb6446bbce5da5527265e5626d143addf29b0b7b9f || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+768674a3ee306d648ab774cde1c67456f4b73b103505644517fc95863c8dbb95 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+76ced592cd78c6f4ed87aaa71d24eebe158d121b93de47bed20c40e5a6435c0f || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+7709a29493e0623f31ba8ae78113bf10a94a2bdc7ebd65888ad1f71f345e1edc || Jonathan Carter > Felix Lechner = Hideki Yamane > None of the above
+790015c1a9a9803dabc05efcaee1c217ac75897a3bf9982ee14dd88806503a11 || Jonathan Carter > Hideki Yamane > None of the above
+793b79338f16897be5e72752991c24abb1da3f3ea0a3338f490c1dff72005382 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+7aa6827b11934d3670da6bb876577bcc999eccbea05e1eb1835938dcbe7f296e || Felix Lechner > Hideki Yamane > Jonathan Carter > None of the above
+7c06fc341fc9af25d00c352a9b02727c141cc7200f98c39e642571e856b85da3 || Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above
+7d0766d15caba631dab657256eb46c6e8e24fbd92a78df62338c93103fd66ee8 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+7d831f16132ef96ae28f379f5e224f36b4e07d842e5f8b525b85a34eb50d2ceb || Jonathan Carter > Felix Lechner > Hideki Yamane
+7e639a36062e35c289b8828928504d30b86c54ceef4d614e403a01e652be85e4 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+7e9d1fc37a83c4f959c932e352e91613987ce83451e857fdac67ac88cc0a7ff7 || Felix Lechner > Hideki Yamane > Jonathan Carter > None of the above
+7fd6d40e6dde8338ed77ad67df725321653b503365dc94ee62c0c4b6bb3cc0d9 || Hideki Yamane > Felix Lechner > Jonathan Carter
+806229d2c842ce7adffa1eae6158602b6d0b9dc90204b6382c60e98eb19f2b3b || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+830ec8218fdd568bf0dadf20c404c5e1cbeb1c567b2edb32025c7dcaca97c751 || Jonathan Carter > Felix Lechner = Hideki Yamane
+8456425eba02621acfee7ab04c01e67acc7613881e6b3599a75fa00bc8998d8e || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+8473a6de161a3f40c8f4195c7f62b6ad2104cf843a9c1ad4ba4e309279940822 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+849c2c9208703090f519cbb4833877be4bec7b5dd19fb166eb0a041e1bdf871b || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+84dd2ae89648dcfaa3000578b8bcad897276075cde83fce3ed4c0c38fed1e5af || None of the above > Jonathan Carter > Felix Lechner > Hideki Yamane
+882e079aaeaa509eb70f298f5ec55b7cce2c92c2dfb66be79dfb7f965a832540 || Jonathan Carter > None of the above > Felix Lechner = Hideki Yamane
+89371e41a49ce8f8e1d45cb3adb58bfcf7f422662a5e79e89d7640bab7926cc1 || None of the above > Jonathan Carter > Hideki Yamane
+895e1d9a53272ae51a791ba67439546b756733b31fdb4ec24fd25376961e91f6 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+899a328585cdddcde5dc46dfc08f3774263130d4ed5aa3cb2f513d50710c94fc || Jonathan Carter > Hideki Yamane > None of the above
+89d5c03116741932ff359325d126b8bb2688ff277d9e2a9dd80694125201d842 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+8a94f2556731f083f6f193cd0048b9601e9356ebf7b169f6f75775cbc89d2a82 || Jonathan Carter > None of the above > Felix Lechner = Hideki Yamane
+8bdd4598323edf18d89be39a22da49e853d69a4de3649ea660b9ad0a93c0d114 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+8ceb7d405d049f2bc7eb680b41ad27e8b180845dc6cf6c32d27caf9b73be7acf || Jonathan Carter > None of the above > Felix Lechner = Hideki Yamane
+8d33bf5f6ba6cb05f60dfb4240fb46386eab47174a6ea5e3a0bfd6132f57b81d || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+8da96e6664367546c52e1eca8b517bb06b436521edff9406211538c6fb73fa9c || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+8ea3070fab4db9f5ca19ad277c9aefcc8b23784997b074452d447ab7e986bef3 || Jonathan Carter > Hideki Yamane > None of the above
+8f98b26ecc1567372c58d77eb4ea8b927c62c15b97b6d49bddb0b358d71f2f45 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+8f99d843027be14431456f9a162077f325c961ab894977098a8df2d153bae5da || Jonathan Carter > None of the above > Felix Lechner = Hideki Yamane
+8f9f061edfdf81a21dfa7f226c7e80d750511db0814ea34be4051b0e2854bf8e || Jonathan Carter
+8fd7c6b2dfa90a2b48c42811bcf439edb7c611bbc1cfd5984295d5889e561f1f || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+90a9ab62356ab74d2567d95a664944436e5bdeedd0be243f13737bd9d3c1ff58 || Felix Lechner > Hideki Yamane > Jonathan Carter > None of the above
+90f4e6193cbe976b897da0150a64a001fd8a4639715da2ebaf9a7456ce7bb6a2 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+91177198e1acb28feb1429ec43dc835cb825250080c2b0fd6c191b4894df59ac || Jonathan Carter > Hideki Yamane > None of the above
+91277dc39ff44cdb206643af3ece2d590fa84039d865f28583c130e3b6e6eb17 || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+916376b4fa5aeb763432dfcaca1d0aa1916424f0df70d9302ef0fa8f52ca8029 || Jonathan Carter > Felix Lechner = Hideki Yamane > None of the above
+91d0c211ae4e452b04415262acf5d81b4b34669f1df9e457659256ffc02bb823 || Felix Lechner > Hideki Yamane > None of the above > Jonathan Carter
+92a6ca5abedd24d161aaba8fa95c02ba756d3f8c4e65265d5fa49050d65b16be || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+93399964dd275576e6198297e41a415a3ecd3335665e17d2af43a866052679b7 || Jonathan Carter > None of the above
+93492b992099e10514d196d8ac5e9f27e673b0b0cc5abc83eadbfa92aeb207b6 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+93d063dbadff3ffffc9fb54c1cead8e843a59072d27b6fdf95a9e2846fe8ac37 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+948332584be0befec00fbec3fd4de2b3717b0303344983fda648d2432b6b2932 || Felix Lechner > Hideki Yamane > Jonathan Carter > None of the above
+94ca1af7c7a8c5194a13fb7c46d8c5d97ede3d9aa718f4fe30191b9e7e73f3fe || Jonathan Carter > None of the above
+979f0c7ae7c90168a454ef78cbbebf4821e8f1a9b61d96fdce027c11d385bf4f || Felix Lechner > Hideki Yamane > Jonathan Carter
+981f650067184fd9ac6de086367fe77d45a3afa9ae9de3a20c44f34722710fb0 || Hideki Yamane > None of the above > Jonathan Carter > Felix Lechner
+987dc10c073584d8e37f5d6ed50c00217c0745d9f044249952fb34711f7b11e3 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+98d4555d9f25483d07394f7114fb8242117df39f9c2d1608450ebbea5f232bdc || Jonathan Carter > Felix Lechner > Hideki Yamane
+98fbd50b70ff82b78e621da54c2547b3b57475a5edc5bedcd2ae3109a4f74395 || Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above
+99eea7bfe602e30e3baedbe6288cce83d2e6999bc2fdd47cefb7ea8979026986 || Jonathan Carter > Felix Lechner = Hideki Yamane
+9a23492fa75da781b4c5e5dd6add01a2e6003f5ec775c296608b05e325a2ee94 || Hideki Yamane > Felix Lechner > None of the above > Jonathan Carter
+9a995bed22f866f84b46949bc2581c45914298511b57b2fe56e60418173d63e0 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+9b8fdd4f5514b19469714fd48990b08cb9540d28f7e428a1c9b22549631570e4 || Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above
+9c0283834977325318f13cff73a6a54d64dabf53beeb13ccb5c3325e8055eb17 || Jonathan Carter > Hideki Yamane > Felix Lechner = None of the above
+9cd7c97be49f7f330cb39db775a1c3093a00357afd76fd322aa95e5d41789778 || Felix Lechner > Hideki Yamane > Jonathan Carter > None of the above
+9dc98949c291a125a619b3ade1f6c01830f75e4e968871ae52130d2a8af580a9 || Jonathan Carter > Felix Lechner > None of the above > Hideki Yamane
+9ee799bc850bbd9389acc55b487107465ae026dac4cd32072c3f9381f915a010 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+9eff1630b1c48f8d764977c8074499a03bca5a19c6be65e71e7fa7154de92a8a || Jonathan Carter > Felix Lechner > Hideki Yamane
+9f61b5e01615d9fcccf53abdfebc3d26db6daa8540c53ab02a147dfd6f9bc45e || Hideki Yamane > None of the above
+9fb97b929113cb3dd568e74288ed17c84bdac93fd68998572c70618de6c7a46e || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+a10df6b45b7629347d73370b0d566587caef58bd955fc1d620012b5fd42efef4 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+a13f0fe2efe0ddd6568cb82e5bbb8d4d1a6a57d0e87a94913e1dce5f236de531 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+a3f07942ab780280ee17a9eca065c1d9587bdb7799ddaf158c360e27aae8861c || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+a459f7ed3115ce78826eb0fb26650130f7aa3774a7a3559364220e0b7d86ec47 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+a66f5adf226eda05b51416e129d96ad5bf8ca887aa45b7e8b1ff7e5bec274dd9 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+a6de84cb7d263639b15e069e2bb9182a3d3c57bc7f32d2d1f82d445759d713f5 || Felix Lechner > Hideki Yamane = Jonathan Carter
+a70269ec1608adfaa2ac9722c42cf02942e1dc77d28167682aec0fec9202478d || Jonathan Carter > Felix Lechner = Hideki Yamane > None of the above
+a7e59ffa76bd3c3e4f49c20de071fb04542c2becff751d92a0e32d478a76b0ee || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+a83af9f9327a3c57bc056a130f286407de3c1abee26fe9c6b76a67d85f792393 || Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above
+a9469128e55d4b3970209dd691f3d3e12a4ace5d7b7fb98702183f02e44ccc94 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+a95ab6ba080ff8d959a86585b46f43c2a0c718cfb937d03102a04fefd7306599 || Hideki Yamane > Jonathan Carter > Felix Lechner
+a998457752b6da9509877e3803a18c977f5a7d6ea7cbf5a22ed7b126c1bbfda3 || Felix Lechner = Jonathan Carter > Hideki Yamane > None of the above
+a9b4918af14db46c4f66868ea60a863e55c3f6bd86b62aa7233d7e9e2f0f2844 || Jonathan Carter > Felix Lechner > Hideki Yamane
+ab678c26a7fbb43f1ca17ac518e6f42fd44e4b9458e04ae066dead6774241f84 || Jonathan Carter > None of the above
+ac5315ee7c0c1966dfde3c3aef8a3605e42a89b504952397aabecb19d3f06af7 || Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner
+ac5fc54e6dc8f739da773b949899628336ebb1ea34a8b1ca51fcf322bfa5d82f || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+ad820fe10be52f064ee17ccbce8cf298939874c8c3d69ee2002e540ac3c9355b || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+aece0d6ef4880928123b5a2ad5e9ac644f96f9ee3a9e3c85aad63151874eb135 || Felix Lechner > Jonathan Carter > Hideki Yamane
+af6895d0b0eff0399950d179a4dce61f402abaad511148fbc1f29447cdbf3ba1 || Hideki Yamane = Jonathan Carter > None of the above > Felix Lechner
+b0303ddf4793d164c7a5d3e7b6acc912cd6dce5b936093750a53c9933858f874 || Jonathan Carter > Felix Lechner > None of the above
+b084d39849cdc4fe6f3a194d4e14717c12fbc65834fee1354ad6fdf4e0830c53 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+b0f853e7161becb48bd5f2537e1b91084260e4ab1429009a4246b50b5ef0a0ba || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+b10df79b08373cd5f71a9149437b9d05d0a014ea4388127d53caed761762cd05 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+b17ef2b5cddb5557ddb4206e336fa41c727f3c666ba4fc8a8486287c042a305f || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+b2c2145d801ac2b07508287274ea368f41addbaf45328eeb0ff7133aaa8d0e9c || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+b2f0e5d8f5685254c414d71e0d4fb09e95ce716fc9918308233889094613fcfc || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+b343a12367d1555683a72b12fff80491ccc18d97fcb43097cfca699acac8b03a || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+b41c0bca4c41d7c9b3e2088bfa14e31e9ecb0f2c9fd00d0a5a105a8929e487bf || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+b45171f128c548c8f969c5bdf33e40f506ce257549c1191bc464c5df711241aa || None of the above > Jonathan Carter > Hideki Yamane > Felix Lechner
+b53b60f13b5ddbc000ad48488bcc62a4da67101e33dd7d5ffc81603c637fef5d || Jonathan Carter > Felix Lechner = Hideki Yamane > None of the above
+b554388450583ac63884fd1b174b80a3960069731336c44a008a300b45c6e165 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+b77e8b3e5b85a68212974ccde760a91fc504f9fc1de1489da043d60db03037a2 || Felix Lechner > None of the above
+b7900cbec21362fcfb69576bdc6b7108cc1baafac8483f34c0a6fb2d1523193b || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+b7d4490cee15a2038a03866593e8fc0763bbb827f5b2cb38bc17e9d2100b81b3 || Hideki Yamane > None of the above > Jonathan Carter > Felix Lechner
+b876d7384f271cf61321b4493ec21cb50987084adb39c43f3164a9b05081fad3 || Felix Lechner > Hideki Yamane > None of the above > Jonathan Carter
+b8aa2c00e39179599ef166d48452ae89b8de77f1aaec5d0b13b2a2a4f116c64a || Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above
+b8b8adc6a04408496156be7227ef097612fdbb6807b073b1b948ee4ee2a46a10 || Jonathan Carter > None of the above
+b95bb7b1fb542be4fd368ab8278d3098971a72e62eea0ee44b72a0b28238643f || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+ba1ff36e7bc591599e44078b918c89289e49462dfc144c9e6a74f5ac57a0c0a0 || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+bab779eedec3061416698e1e758f0b75b74d3fd0e83bc4561c28400090edaa8e || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+bb2d7e5e347ef8d955b6f2e4488a21cbb920c20d603a066c4a7272fec8ab6d88 || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+bb9f3f310dbdeb08d28af12c4257e71e854bc2315a69789f67b5b944bfc71ce7 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+bcf4e1f1c6cb38b1d8d68c3bcb526c23862c2edb44e89b9102883e29ac894563 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+bcf89b9831464b98708c616e620a88a2f5cd0fdbb2d6d8c24d9bbac0318dcaf0 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+beab6d941519d8d835d3d4513974dae2b1fa2091dd76b87d8721b94e22c334d7 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+bf476c06adeae8666746cd5ce390e5dd3f8306553a7add3f9d66e320f33ec886 || Jonathan Carter > Hideki Yamane > None of the above
+c0cc20c8c73ed0415b4c65070b03c2fa6c5c0aef1b67416a228ab889d3d7ef50 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+c10a1bc1d11b9e082e0a46e42b0046c5fb6136e87d54dc31537b4b9bca496035 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+c130a441395c09a451948ffad0fb7c69d96fa1cc3ede024abdd9f79f6e4ef932 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+c15a27f6a9ec57f6b427c01ef799f4760e329aed671fde502657832b123e675e || Jonathan Carter > Hideki Yamane > Felix Lechner
+c15b5261339add1163ffcf72c3e9087bc6661683baff7dbbfb9894f9391c86a3 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+c263ecf5e88b7ae733f4b52b64f144d99f60d9ec38e25eeb9d4f060e5c3291cb || Felix Lechner > Jonathan Carter > Hideki Yamane
+c2b7101e0799818e7d298b0415a4448628f8e921a4443e0c35100e7985493e7f || Jonathan Carter > None of the above > Felix Lechner = Hideki Yamane
+c430f50b056b038e3da40171577bb88372742222120a8651107033190f6bdcdb || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+c45ba3dc0c09beb560bd0b8d1b688b40d8a2ced435f81fd167d2bf69b75af8d1 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+c532abd3a7da8f07f2c98353622f2d49f891275e459af99afee182ecff690a6c || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+c7912cfd2b1ae1c45ad4793ea0b7691295a2248d22f5796b5a88081c97a7a7c1 || Felix Lechner > Jonathan Carter > None of the above > Hideki Yamane
+c94a0eeef9601056d7004d078aa6d253148d1c2671a85e2aae076fd009d2e86f || Felix Lechner > Jonathan Carter > None of the above > Hideki Yamane
+cb1e0ee7b3d0a9945a871fa4925a2b72e935d345816aeb537add08c2d80f2941 || Hideki Yamane > Jonathan Carter > None of the above
+cb6f57704088cf936f6d2e2e67e5311c9c90cafcfbba4dd8d81197a2350b3a76 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+cbdb59be1087c01efe3cd479c083724455184c896c70801ec43947ac6696fe80 || Hideki Yamane > Felix Lechner > None of the above > Jonathan Carter
+cc9559e14e0fdec1aa4d48cba84cd863bdd2a3e163d7201ad169c8cd704baf35 || Jonathan Carter > Hideki Yamane
+cd9f30125571735444927d89a7484217839b38f7afd920c39519bd228cc0249a || Hideki Yamane > Jonathan Carter > Felix Lechner
+cee31cfe7f6726e4bfb7c7e06439de4d93ddc9147577ebeceb30da4514dd02a0 || Felix Lechner > Hideki Yamane > Jonathan Carter
+cf1c995b9317f93ae495157f2559346103e8ddf795832d616b2affe3d243b31d || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+cf384ee79b0d3720eaeb5719f8249562952ec1d683fa08b7d6b95d3eb5a1d071 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+d0ebca653486286556dc9d15b4e644d0e95b6d58506c50276069c6c65dfc7e9c || Jonathan Carter > None of the above
+d26a353230fb13b7458773fc55671289839bc80260e06dc10987388f7770ff21 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+d373fe2b4d10655239659406b5d8eed566911275a6ea98a96c7a3880cca16a42 || Hideki Yamane = Jonathan Carter > None of the above > Felix Lechner
+d63599b7ef73d797574633de372dc2689a114e7059f82f90cb18784c12409bb8 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+d6eac899e16b426d33024eaec356d3c779d2c1b3b9a72f984753c9eb129138f8 || Felix Lechner = None of the above
+d85e96b13b44277d8f576dcd35175992ac9d02f3bbf931a766de80ec4ab5f09e || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+d978870cd19991a55aedf0052c3044e972022ff362f388e118e6ecfebce7571f || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+d9f62cd2fd2f9c993ebede1842e16ba99560e20d0778fb273edf1545f6d509bb || Hideki Yamane > Jonathan Carter = None of the above
+daa0961b536d3277c1a4e1534b695012e85e1360da7500141652c6451c44cc01 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+daf0f7aafebeda49b2145d951d65d9c990a5bf7810070cd117051e20413dcbc6 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+db50d21e18138ef7ad6d8d9c5999d6690479ac7935fe37748e8a78f06eee21bb || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+dc0286b0c3c5ed66b421e7551278f7951962e259894491c1288ac88bd1d0940f || Jonathan Carter
+dc1329a36b98aba6dc2385db0dd89f45e618c9d250d9b93a7fe5dc5488260b3e || Jonathan Carter > Felix Lechner > Hideki Yamane = None of the above
+dcb369861d70f725b89a236ce8b0b72af99201b03cb3c87232bed32562fcff5e || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+dcc3d00b358a39cdc5e91105805b02144276dfaf6d9dcfd882831bd539525a53 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+dcf8ff5e9da889d45ea0eb865608da3fd719528eaf4de12d79ff3c622354f4ce || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+dd08dd78a8580ed6c64d4fdbb70acf2c0837caa351801540bccceaea5b582b98 || Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above
+dd5c9c2cdc7e796e59e53eb2edcb0059b8d0f1db7ae0129582ff30e0619b3e2d || Jonathan Carter > None of the above
+dd763311688d583aa89c25fb321fe7d1575210758ced1dcf8eed0cfba3d7acba || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+ddec1dfee24abb180787b54da0518535e304976d4642da424ef7fb27384b25f0 || Jonathan Carter
+de6ccd6c9865465e84b6df30141519568a310709094ecaeb2ece98a75bd1d63c || Felix Lechner > Hideki Yamane > Jonathan Carter > None of the above
+df2c8428c41a9e98e2d70336d72ff23465102994452e6ec9b09043aba1fd809d || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+df92c089b3e5877dd34e81cfbb954c2c8a46ab9c976c3b558f069e5ebd5a5602 || Jonathan Carter > None of the above > Felix Lechner = Hideki Yamane
+dfe679a56973e3de943f688dca434d2977d17f50695e0750bbd38f25342beac0 || Felix Lechner = Hideki Yamane = Jonathan Carter
+e00d41a9a60e34617c6c7bd019617a4e85af27a5c34e38603ee0131f5b71dcb4 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+e072244beb64c51838d53c131625c7f4b45021acf3cf62681144e5b5fb339a2b || Jonathan Carter > Hideki Yamane > Felix Lechner
+e0a60a57dfe038d36a2d594212b582842a0b8ee44da8169ad2e5ead4508f9677 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+e151e78a81714eb47a64a3a75f9e97228cf8e211324a5d18bdeda2aad4bee12c || Jonathan Carter > Hideki Yamane > None of the above
+e3ccb17a458c6871bce4e409d50f548c9581044740a496f8e11d31ff29d9737d || Jonathan Carter > Felix Lechner = Hideki Yamane > None of the above
+e4d0d9a3cddf3d9f4b8696546b5a943cc670c6b83e668f8ddbfd439b90cf3e5e || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+e50d1410ec42e60eff400a10d2b7314696786cf034610588b0472f4d42cc5f7c || Jonathan Carter > Hideki Yamane > Felix Lechner
+e57d825f2e5f13fb49af9db27eec9c9afe55e72b3297b2329d550ab2ace45701 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+e5c5d6cc2b06842a35fcc85cd664cef6aee9b7e7227b3b176a006f2691b31740 || Felix Lechner = Jonathan Carter > Hideki Yamane > None of the above
+e5d515add1b5aa1a78e7188474c99637286c8846d2fb8dd80bbada7639b32787 || Jonathan Carter > Felix Lechner > Hideki Yamane
+e6c4fd456d76d86e1e4ad991f2277b585f2e8ec65f0903ee533e02cda7442109 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+e7f894db44dd6a5a5c5a5b6f97b73f239878e51f60c90bb6e70f45bd06e0af9f || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+e81f4d5eb5a84c4d72604912bd385e2b601097194010a7db6c82be197b1c6fbe || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+e888514379a80ba190540782a773882d0f93ee5c84b28d9a346cb37530eb9ee8 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+eb2d12e28bd4deac4200a3088dd23c80507669b77ceb481902ffcd8bf502e013 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+eb7ca396941800c2a99d35e68f87662f6ddbbbb5f6bf31c3e0fa66d21e85d875 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+eb97ba0cf92f21a94aadc3b462b993ba86f97dd0a192425924a945ed39c0c484 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+ed9a532f5a554a88a92853dcf594a2088eab9f03a59d1548cadf734601d569ce || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+edd3bdf07105d0aba30e8be72db32856b9a74f9ff101104a167ea265e2b932bd || Hideki Yamane > Jonathan Carter > Felix Lechner
+ee0b91db0c9e14d980eef4467ffce1d9a1ee9c7e0553e260418202a7a94ae6b3 || Jonathan Carter > Hideki Yamane > Felix Lechner
+ee486d5bf56e6a1d82fa902ac4a5a055521218944fad54f1c9ca206641000f3d || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+ee61f81518580b7c645731e78f872b514b8f3b9835a42f841242ce2436e966a7 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+ef29c74dd6f1a0c2ce5f1616c935a9df437f0ec014bd920eb428e8a68bedb958 || Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above
+f063f32036d93e9f694171115ee80f0259138dbd5c6720932a46aae69157e644 || Hideki Yamane > Felix Lechner > Jonathan Carter > None of the above
+f088985684c0af148c208813ebd2a1cf9b8b2032396215512d7bfd63c743bfff || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+f0b205c96f1a28a3e9326ba8c146af3de4a85d84bd590db158d1969a99ec2015 || Jonathan Carter > Felix Lechner > Hideki Yamane
+f104eb08487db7ee11846244d80819ef0aced43652da814ccacb47bed9ef1fa7 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+f1298cf34f1c28b26bf5ac923ad6564de1a387914e0905f5de561167be89aef9 || Jonathan Carter > Hideki Yamane > None of the above
+f12a8f9881991175048b4106d3c7d736610ae7a542ebe49e777dfd8a62378bf3 || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+f13aae87c95d3c000f06f8dbbde21a9d0dfcaa3fcbfba2109d7877e594876d67 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+f250cabbab773acd575332518bdedf35417b01004af4c7c5ff5b0b1fda21944b || Jonathan Carter > None of the above > Felix Lechner = Hideki Yamane
+f257997619f1e52eda5774301abb0e98782584831e9c194fa4512b71cd0b4ad2 || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+f2a575e126ca00d60167452cb4df504e9bec4bfadd912c4e231f039cc32dc568 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+f3591035cbfdea59d523f3f79f6c37acb5357be831309805fc8598eed5f046fe || Jonathan Carter > None of the above > Felix Lechner = Hideki Yamane
+f4982b05655cb41c4f02ccd279687f9c61dd8674f5701010963f109e3ca490aa || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+f56239a58ff38a084f361ae3ba8aecc91391657937f82defd795122cea8f38de || Hideki Yamane > Jonathan Carter > Felix Lechner
+f5c6dbbdf2fe93ea2ab5b40ab5ae43d3f3eb981b607b78c427270673c8acb9b5 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+f5dfe061813772a6c2fe316f3f6d4e4f619a873ce0a4ee974e0a122e8f5ae32d || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+f62df483ab859360af91bd3bbde8e34856497bf2fa9658c13de37792b425500f || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+f63d29d005e497e8a19b0bc917333a492664f703201cf1f5aa8dd70e40fb7938 || Jonathan Carter > Felix Lechner > Hideki Yamane
+f656c0d3302f402d5fb27a06e98502f974a7ecf15832bbc7d46d99fe05bc69c0 || Jonathan Carter > None of the above > Felix Lechner = Hideki Yamane
+f70c7b55e65e49e326ecf2908ceea8d8df3a42b1d4df78befe66ee723db05a0c || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+f8b8d8cf072afd9edcf18bb522d4341819c484522402f4b5030fc997115e14d9 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+fa7aea4ea37353348f3fce8dd1344029f1cd3a82a8ad42e90586b9b35e8ccf05 || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner
+fb1e50551e62ef4611fd7ce1aaf1b6bf1543edf2a08abf7c54de6b66c7e77dfc || Hideki Yamane
+fc2724dda376313155e4810259901fd67a7e0c0047d83034c0abd4c80b20b559 || Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above
+fc5b852399cb4de0c78c2611317d125db164dcabc75e3499ead2f2b732df0c91 || Hideki Yamane = Jonathan Carter > None of the above > Felix Lechner
+fc5e5f3ca3b1108c92e3c2046779f9c18b39ac69d418bcdd9c04bea3a0dc305b || Jonathan Carter > Felix Lechner = Hideki Yamane > None of the above
+fc776023621cd9916a618e5c45d0eb882b9ede6a3f0ae28f6f60670e5abe2dc1 || Hideki Yamane = Jonathan Carter > Felix Lechner = None of the above
+fdb47dd4e170f26a08e2180efa8132e32c445c31e7920c801a88a1f83657fd61 || Felix Lechner > Hideki Yamane > Jonathan Carter > None of the above
+fe3ee93d458287024adf8583c700f8d0c52adb69fed1414eb9116811f94dcb5e || Jonathan Carter > None of the above
+fec85fef83595a5a36a2a7a1071b44ec92cf77e6c7efc8d8aadeb19e1427a4bb || Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above
+fee5be3fb694438b1b94c5ff9c2f7b9f4bb787eef36abbe0a450042f47411ae4 || Felix Lechner > Jonathan Carter > None of the above > Hideki Yamane
+fefad28717093ebcb8f9738ddb96b8910569398a32d793a7a874a3c5250c75d0 || Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner
+ffbd7b561944ff9eee0ffe3070b1ff8f92bf4ce36950b1b26f71230f67f1df20 || Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner

@@ -1,0 +1,51 @@
+# Specifications: https://github.com/CondorcetPHP/CondorcetElectionFormat
+
+# This election has 354 votes
+#/Candidates: Felix Lechner ; Jonathan Carter ; Hideki Yamane ; None of the above
+#/Number of Seats: 1
+#/Implicit Ranking: true
+#/Weight Allowed: false
+
+Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner * 109
+Jonathan Carter > Felix Lechner > Hideki Yamane > None of the above * 36
+Jonathan Carter > Hideki Yamane > Felix Lechner > None of the above * 32
+Jonathan Carter > None of the above > Felix Lechner = Hideki Yamane * 19
+Hideki Yamane > Jonathan Carter > None of the above > Felix Lechner * 18
+Felix Lechner > Jonathan Carter > Hideki Yamane > None of the above * 15
+Hideki Yamane > Jonathan Carter > Felix Lechner > None of the above * 15
+Jonathan Carter > None of the above > Hideki Yamane > Felix Lechner * 15
+Felix Lechner > Hideki Yamane > Jonathan Carter > None of the above * 11
+Jonathan Carter > Felix Lechner = Hideki Yamane > None of the above * 11
+Hideki Yamane = Jonathan Carter > None of the above > Felix Lechner * 10
+Jonathan Carter > Felix Lechner = Hideki Yamane = None of the above * 7
+Hideki Yamane > Felix Lechner > Jonathan Carter > None of the above * 6
+Felix Lechner > Jonathan Carter > None of the above > Hideki Yamane * 4
+Felix Lechner = Jonathan Carter > Hideki Yamane > None of the above * 3
+Felix Lechner > Hideki Yamane > None of the above > Jonathan Carter * 3
+Hideki Yamane > Felix Lechner > None of the above > Jonathan Carter * 3
+Hideki Yamane > None of the above > Jonathan Carter > Felix Lechner * 3
+Jonathan Carter > Felix Lechner > None of the above > Hideki Yamane * 3
+Jonathan Carter > Hideki Yamane > Felix Lechner = None of the above * 3
+Felix Lechner > Hideki Yamane = Jonathan Carter > None of the above * 2
+Jonathan Carter > Hideki Yamane = None of the above > Felix Lechner * 2
+None of the above > Hideki Yamane > Felix Lechner > Jonathan Carter * 2
+None of the above > Jonathan Carter > Felix Lechner > Hideki Yamane * 2
+None of the above > Jonathan Carter > Hideki Yamane > Felix Lechner * 2
+Felix Lechner = Hideki Yamane = Jonathan Carter = None of the above * 1
+Felix Lechner = Hideki Yamane = Jonathan Carter > None of the above * 1
+Felix Lechner = Hideki Yamane > None of the above > Jonathan Carter * 1
+Felix Lechner = None of the above > Hideki Yamane = Jonathan Carter * 1
+Felix Lechner > None of the above > Hideki Yamane = Jonathan Carter * 1
+Felix Lechner > None of the above > Hideki Yamane > Jonathan Carter * 1
+Hideki Yamane = Jonathan Carter > Felix Lechner = None of the above * 1
+Hideki Yamane = Jonathan Carter > Felix Lechner > None of the above * 1
+Hideki Yamane > Felix Lechner = Jonathan Carter = None of the above * 1
+Hideki Yamane > Felix Lechner > Jonathan Carter = None of the above * 1
+Hideki Yamane > Jonathan Carter = None of the above > Felix Lechner * 1
+Hideki Yamane > Jonathan Carter > Felix Lechner = None of the above * 1
+Hideki Yamane > None of the above > Felix Lechner = Jonathan Carter * 1
+Hideki Yamane > None of the above > Felix Lechner > Jonathan Carter * 1
+Jonathan Carter = None of the above > Hideki Yamane > Felix Lechner * 1
+Jonathan Carter > Felix Lechner > Hideki Yamane = None of the above * 1
+Jonathan Carter > None of the above > Felix Lechner > Hideki Yamane * 1
+None of the above > Felix Lechner = Hideki Yamane = Jonathan Carter * 1

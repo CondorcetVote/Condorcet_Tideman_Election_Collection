@@ -1,0 +1,26 @@
+{
+    "Ranking": "Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Felix Lechner": {
+            "Jonathan Carter": 0,
+            "Hideki Yamane": 0,
+            "None of the above": 0
+        },
+        "Jonathan Carter": {
+            "Felix Lechner": 294,
+            "Hideki Yamane": 266,
+            "None of the above": 327
+        },
+        "Hideki Yamane": {
+            "Felix Lechner": 229,
+            "Jonathan Carter": 0,
+            "None of the above": 290
+        },
+        "None of the above": {
+            "Felix Lechner": 188,
+            "Jonathan Carter": 0,
+            "Hideki Yamane": 0
+        }
+    }
+}

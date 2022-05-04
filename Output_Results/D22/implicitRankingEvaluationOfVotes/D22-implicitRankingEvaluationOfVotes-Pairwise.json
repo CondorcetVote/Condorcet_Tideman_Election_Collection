@@ -1,0 +1,70 @@
+{
+    "Felix Lechner": {
+        "win": {
+            "Jonathan Carter": 52,
+            "Hideki Yamane": 84,
+            "None of the above": 151
+        },
+        "null": {
+            "Jonathan Carter": 8,
+            "Hideki Yamane": 41,
+            "None of the above": 15
+        },
+        "lose": {
+            "Jonathan Carter": 294,
+            "Hideki Yamane": 229,
+            "None of the above": 188
+        }
+    },
+    "Jonathan Carter": {
+        "win": {
+            "Felix Lechner": 294,
+            "Hideki Yamane": 266,
+            "None of the above": 327
+        },
+        "null": {
+            "Felix Lechner": 8,
+            "Hideki Yamane": 19,
+            "None of the above": 5
+        },
+        "lose": {
+            "Felix Lechner": 52,
+            "Hideki Yamane": 69,
+            "None of the above": 22
+        }
+    },
+    "Hideki Yamane": {
+        "win": {
+            "Felix Lechner": 229,
+            "Jonathan Carter": 69,
+            "None of the above": 290
+        },
+        "null": {
+            "Felix Lechner": 41,
+            "Jonathan Carter": 19,
+            "None of the above": 11
+        },
+        "lose": {
+            "Felix Lechner": 84,
+            "Jonathan Carter": 266,
+            "None of the above": 53
+        }
+    },
+    "None of the above": {
+        "win": {
+            "Felix Lechner": 188,
+            "Jonathan Carter": 22,
+            "Hideki Yamane": 53
+        },
+        "null": {
+            "Felix Lechner": 15,
+            "Jonathan Carter": 5,
+            "Hideki Yamane": 11
+        },
+        "lose": {
+            "Felix Lechner": 151,
+            "Jonathan Carter": 327,
+            "Hideki Yamane": 290
+        }
+    }
+}
