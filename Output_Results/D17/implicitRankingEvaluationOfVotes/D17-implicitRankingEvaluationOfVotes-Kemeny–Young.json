@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3507c8ba93b8b1151e744520234cd230696f3b8b04a0dee04c83a4875beafff5
-size 1207
+{
+    "Ranking": "Chris Lamb > Mehdi Dogguy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 765,
+        "rankingScore": [
+            {
+                "1": "Mehdi Dogguy",
+                "2": "Chris Lamb",
+                "3": "None Of The Above",
+                "score": 734
+            },
+            {
+                "1": "Mehdi Dogguy",
+                "2": "None Of The Above",
+                "3": "Chris Lamb",
+                "score": 443
+            },
+            {
+                "1": "Chris Lamb",
+                "2": "Mehdi Dogguy",
+                "3": "None Of The Above",
+                "score": 765
+            },
+            {
+                "1": "Chris Lamb",
+                "2": "None Of The Above",
+                "3": "Mehdi Dogguy",
+                "score": 483
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Mehdi Dogguy",
+                "3": "Chris Lamb",
+                "score": 161
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Chris Lamb",
+                "3": "Mehdi Dogguy",
+                "score": 192
+            }
+        ]
+    }
+}

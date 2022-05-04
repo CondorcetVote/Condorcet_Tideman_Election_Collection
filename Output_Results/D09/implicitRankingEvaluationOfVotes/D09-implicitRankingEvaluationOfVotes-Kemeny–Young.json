@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99fc8d26afafed1d849e35f3e60ab6371aaf903348d6552053657ae314a252e8
-size 1277
+{
+    "Ranking": "Steve McIntyre > Stefano Zacchiroli > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 837,
+        "rankingScore": [
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Steve McIntyre",
+                "3": "None Of The Above",
+                "score": 794
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "None Of The Above",
+                "3": "Steve McIntyre",
+                "score": 487
+            },
+            {
+                "1": "Steve McIntyre",
+                "2": "Stefano Zacchiroli",
+                "3": "None Of The Above",
+                "score": 837
+            },
+            {
+                "1": "Steve McIntyre",
+                "2": "None Of The Above",
+                "3": "Stefano Zacchiroli",
+                "score": 537
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Stefano Zacchiroli",
+                "3": "Steve McIntyre",
+                "score": 187
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Steve McIntyre",
+                "3": "Stefano Zacchiroli",
+                "score": 230
+            }
+        ]
+    }
+}

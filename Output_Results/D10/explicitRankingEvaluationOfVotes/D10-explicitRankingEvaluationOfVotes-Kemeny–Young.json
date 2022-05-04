@@ -1,3 +1,969 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:733d80bb3e327dda7a4ce0fb716d0f819e7186b30fa90023d9993e2714d661a2
-size 32254
+{
+    "Ranking": "Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 2689,
+        "rankingScore": [
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Wouter Verhelst",
+                "3": "Charles Plessy",
+                "4": "Margarita Manterola",
+                "5": "None Of The Above",
+                "score": 2408
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Wouter Verhelst",
+                "3": "Charles Plessy",
+                "4": "None Of The Above",
+                "5": "Margarita Manterola",
+                "score": 2159
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Wouter Verhelst",
+                "3": "Margarita Manterola",
+                "4": "Charles Plessy",
+                "5": "None Of The Above",
+                "score": 2656
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Wouter Verhelst",
+                "3": "Margarita Manterola",
+                "4": "None Of The Above",
+                "5": "Charles Plessy",
+                "score": 2660
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Wouter Verhelst",
+                "3": "None Of The Above",
+                "4": "Charles Plessy",
+                "5": "Margarita Manterola",
+                "score": 2163
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Wouter Verhelst",
+                "3": "None Of The Above",
+                "4": "Margarita Manterola",
+                "5": "Charles Plessy",
+                "score": 2411
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Charles Plessy",
+                "3": "Wouter Verhelst",
+                "4": "Margarita Manterola",
+                "5": "None Of The Above",
+                "score": 2151
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Charles Plessy",
+                "3": "Wouter Verhelst",
+                "4": "None Of The Above",
+                "5": "Margarita Manterola",
+                "score": 1902
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Charles Plessy",
+                "3": "Margarita Manterola",
+                "4": "Wouter Verhelst",
+                "5": "None Of The Above",
+                "score": 2180
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Charles Plessy",
+                "3": "Margarita Manterola",
+                "4": "None Of The Above",
+                "5": "Wouter Verhelst",
+                "score": 1912
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Charles Plessy",
+                "3": "None Of The Above",
+                "4": "Wouter Verhelst",
+                "5": "Margarita Manterola",
+                "score": 1634
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Charles Plessy",
+                "3": "None Of The Above",
+                "4": "Margarita Manterola",
+                "5": "Wouter Verhelst",
+                "score": 1663
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Margarita Manterola",
+                "3": "Wouter Verhelst",
+                "4": "Charles Plessy",
+                "5": "None Of The Above",
+                "score": 2685
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Margarita Manterola",
+                "3": "Wouter Verhelst",
+                "4": "None Of The Above",
+                "5": "Charles Plessy",
+                "score": 2689
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Margarita Manterola",
+                "3": "Charles Plessy",
+                "4": "Wouter Verhelst",
+                "5": "None Of The Above",
+                "score": 2428
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Margarita Manterola",
+                "3": "Charles Plessy",
+                "4": "None Of The Above",
+                "5": "Wouter Verhelst",
+                "score": 2160
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Margarita Manterola",
+                "3": "None Of The Above",
+                "4": "Wouter Verhelst",
+                "5": "Charles Plessy",
+                "score": 2421
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Margarita Manterola",
+                "3": "None Of The Above",
+                "4": "Charles Plessy",
+                "5": "Wouter Verhelst",
+                "score": 2164
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "None Of The Above",
+                "3": "Wouter Verhelst",
+                "4": "Charles Plessy",
+                "5": "Margarita Manterola",
+                "score": 1895
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "None Of The Above",
+                "3": "Wouter Verhelst",
+                "4": "Margarita Manterola",
+                "5": "Charles Plessy",
+                "score": 2143
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "None Of The Above",
+                "3": "Charles Plessy",
+                "4": "Wouter Verhelst",
+                "5": "Margarita Manterola",
+                "score": 1638
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "None Of The Above",
+                "3": "Charles Plessy",
+                "4": "Margarita Manterola",
+                "5": "Wouter Verhelst",
+                "score": 1667
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "None Of The Above",
+                "3": "Margarita Manterola",
+                "4": "Wouter Verhelst",
+                "5": "Charles Plessy",
+                "score": 2172
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "None Of The Above",
+                "3": "Margarita Manterola",
+                "4": "Charles Plessy",
+                "5": "Wouter Verhelst",
+                "score": 1915
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Stefano Zacchiroli",
+                "3": "Charles Plessy",
+                "4": "Margarita Manterola",
+                "5": "None Of The Above",
+                "score": 2218
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Stefano Zacchiroli",
+                "3": "Charles Plessy",
+                "4": "None Of The Above",
+                "5": "Margarita Manterola",
+                "score": 1969
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Stefano Zacchiroli",
+                "3": "Margarita Manterola",
+                "4": "Charles Plessy",
+                "5": "None Of The Above",
+                "score": 2466
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Stefano Zacchiroli",
+                "3": "Margarita Manterola",
+                "4": "None Of The Above",
+                "5": "Charles Plessy",
+                "score": 2470
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Stefano Zacchiroli",
+                "3": "None Of The Above",
+                "4": "Charles Plessy",
+                "5": "Margarita Manterola",
+                "score": 1973
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Stefano Zacchiroli",
+                "3": "None Of The Above",
+                "4": "Margarita Manterola",
+                "5": "Charles Plessy",
+                "score": 2221
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Charles Plessy",
+                "3": "Stefano Zacchiroli",
+                "4": "Margarita Manterola",
+                "5": "None Of The Above",
+                "score": 1916
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Charles Plessy",
+                "3": "Stefano Zacchiroli",
+                "4": "None Of The Above",
+                "5": "Margarita Manterola",
+                "score": 1667
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Charles Plessy",
+                "3": "Margarita Manterola",
+                "4": "Stefano Zacchiroli",
+                "5": "None Of The Above",
+                "score": 1776
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Charles Plessy",
+                "3": "Margarita Manterola",
+                "4": "None Of The Above",
+                "5": "Stefano Zacchiroli",
+                "score": 1485
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Charles Plessy",
+                "3": "None Of The Above",
+                "4": "Stefano Zacchiroli",
+                "5": "Margarita Manterola",
+                "score": 1376
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Charles Plessy",
+                "3": "None Of The Above",
+                "4": "Margarita Manterola",
+                "5": "Stefano Zacchiroli",
+                "score": 1236
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Margarita Manterola",
+                "3": "Stefano Zacchiroli",
+                "4": "Charles Plessy",
+                "5": "None Of The Above",
+                "score": 2326
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Margarita Manterola",
+                "3": "Stefano Zacchiroli",
+                "4": "None Of The Above",
+                "5": "Charles Plessy",
+                "score": 2330
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Margarita Manterola",
+                "3": "Charles Plessy",
+                "4": "Stefano Zacchiroli",
+                "5": "None Of The Above",
+                "score": 2024
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Margarita Manterola",
+                "3": "Charles Plessy",
+                "4": "None Of The Above",
+                "5": "Stefano Zacchiroli",
+                "score": 1733
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Margarita Manterola",
+                "3": "None Of The Above",
+                "4": "Stefano Zacchiroli",
+                "5": "Charles Plessy",
+                "score": 2039
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Margarita Manterola",
+                "3": "None Of The Above",
+                "4": "Charles Plessy",
+                "5": "Stefano Zacchiroli",
+                "score": 1737
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "None Of The Above",
+                "3": "Stefano Zacchiroli",
+                "4": "Charles Plessy",
+                "5": "Margarita Manterola",
+                "score": 1682
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "None Of The Above",
+                "3": "Stefano Zacchiroli",
+                "4": "Margarita Manterola",
+                "5": "Charles Plessy",
+                "score": 1930
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "None Of The Above",
+                "3": "Charles Plessy",
+                "4": "Stefano Zacchiroli",
+                "5": "Margarita Manterola",
+                "score": 1380
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "None Of The Above",
+                "3": "Charles Plessy",
+                "4": "Margarita Manterola",
+                "5": "Stefano Zacchiroli",
+                "score": 1240
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "None Of The Above",
+                "3": "Margarita Manterola",
+                "4": "Stefano Zacchiroli",
+                "5": "Charles Plessy",
+                "score": 1790
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "None Of The Above",
+                "3": "Margarita Manterola",
+                "4": "Charles Plessy",
+                "5": "Stefano Zacchiroli",
+                "score": 1488
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Stefano Zacchiroli",
+                "3": "Wouter Verhelst",
+                "4": "Margarita Manterola",
+                "5": "None Of The Above",
+                "score": 1849
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Stefano Zacchiroli",
+                "3": "Wouter Verhelst",
+                "4": "None Of The Above",
+                "5": "Margarita Manterola",
+                "score": 1600
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Stefano Zacchiroli",
+                "3": "Margarita Manterola",
+                "4": "Wouter Verhelst",
+                "5": "None Of The Above",
+                "score": 1878
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Stefano Zacchiroli",
+                "3": "Margarita Manterola",
+                "4": "None Of The Above",
+                "5": "Wouter Verhelst",
+                "score": 1610
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Stefano Zacchiroli",
+                "3": "None Of The Above",
+                "4": "Wouter Verhelst",
+                "5": "Margarita Manterola",
+                "score": 1332
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Stefano Zacchiroli",
+                "3": "None Of The Above",
+                "4": "Margarita Manterola",
+                "5": "Wouter Verhelst",
+                "score": 1361
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Wouter Verhelst",
+                "3": "Stefano Zacchiroli",
+                "4": "Margarita Manterola",
+                "5": "None Of The Above",
+                "score": 1659
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Wouter Verhelst",
+                "3": "Stefano Zacchiroli",
+                "4": "None Of The Above",
+                "5": "Margarita Manterola",
+                "score": 1410
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Wouter Verhelst",
+                "3": "Margarita Manterola",
+                "4": "Stefano Zacchiroli",
+                "5": "None Of The Above",
+                "score": 1519
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Wouter Verhelst",
+                "3": "Margarita Manterola",
+                "4": "None Of The Above",
+                "5": "Stefano Zacchiroli",
+                "score": 1228
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Wouter Verhelst",
+                "3": "None Of The Above",
+                "4": "Stefano Zacchiroli",
+                "5": "Margarita Manterola",
+                "score": 1119
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Wouter Verhelst",
+                "3": "None Of The Above",
+                "4": "Margarita Manterola",
+                "5": "Stefano Zacchiroli",
+                "score": 979
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Margarita Manterola",
+                "3": "Stefano Zacchiroli",
+                "4": "Wouter Verhelst",
+                "5": "None Of The Above",
+                "score": 1738
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Margarita Manterola",
+                "3": "Stefano Zacchiroli",
+                "4": "None Of The Above",
+                "5": "Wouter Verhelst",
+                "score": 1470
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Margarita Manterola",
+                "3": "Wouter Verhelst",
+                "4": "Stefano Zacchiroli",
+                "5": "None Of The Above",
+                "score": 1548
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Margarita Manterola",
+                "3": "Wouter Verhelst",
+                "4": "None Of The Above",
+                "5": "Stefano Zacchiroli",
+                "score": 1257
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Margarita Manterola",
+                "3": "None Of The Above",
+                "4": "Stefano Zacchiroli",
+                "5": "Wouter Verhelst",
+                "score": 1179
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "Margarita Manterola",
+                "3": "None Of The Above",
+                "4": "Wouter Verhelst",
+                "5": "Stefano Zacchiroli",
+                "score": 989
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "None Of The Above",
+                "3": "Stefano Zacchiroli",
+                "4": "Wouter Verhelst",
+                "5": "Margarita Manterola",
+                "score": 1041
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "None Of The Above",
+                "3": "Stefano Zacchiroli",
+                "4": "Margarita Manterola",
+                "5": "Wouter Verhelst",
+                "score": 1070
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "None Of The Above",
+                "3": "Wouter Verhelst",
+                "4": "Stefano Zacchiroli",
+                "5": "Margarita Manterola",
+                "score": 851
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "None Of The Above",
+                "3": "Wouter Verhelst",
+                "4": "Margarita Manterola",
+                "5": "Stefano Zacchiroli",
+                "score": 711
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "None Of The Above",
+                "3": "Margarita Manterola",
+                "4": "Stefano Zacchiroli",
+                "5": "Wouter Verhelst",
+                "score": 930
+            },
+            {
+                "1": "Charles Plessy",
+                "2": "None Of The Above",
+                "3": "Margarita Manterola",
+                "4": "Wouter Verhelst",
+                "5": "Stefano Zacchiroli",
+                "score": 740
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Stefano Zacchiroli",
+                "3": "Wouter Verhelst",
+                "4": "Charles Plessy",
+                "5": "None Of The Above",
+                "score": 2545
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Stefano Zacchiroli",
+                "3": "Wouter Verhelst",
+                "4": "None Of The Above",
+                "5": "Charles Plessy",
+                "score": 2549
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Stefano Zacchiroli",
+                "3": "Charles Plessy",
+                "4": "Wouter Verhelst",
+                "5": "None Of The Above",
+                "score": 2288
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Stefano Zacchiroli",
+                "3": "Charles Plessy",
+                "4": "None Of The Above",
+                "5": "Wouter Verhelst",
+                "score": 2020
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Stefano Zacchiroli",
+                "3": "None Of The Above",
+                "4": "Wouter Verhelst",
+                "5": "Charles Plessy",
+                "score": 2281
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Stefano Zacchiroli",
+                "3": "None Of The Above",
+                "4": "Charles Plessy",
+                "5": "Wouter Verhelst",
+                "score": 2024
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Wouter Verhelst",
+                "3": "Stefano Zacchiroli",
+                "4": "Charles Plessy",
+                "5": "None Of The Above",
+                "score": 2355
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Wouter Verhelst",
+                "3": "Stefano Zacchiroli",
+                "4": "None Of The Above",
+                "5": "Charles Plessy",
+                "score": 2359
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Wouter Verhelst",
+                "3": "Charles Plessy",
+                "4": "Stefano Zacchiroli",
+                "5": "None Of The Above",
+                "score": 2053
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Wouter Verhelst",
+                "3": "Charles Plessy",
+                "4": "None Of The Above",
+                "5": "Stefano Zacchiroli",
+                "score": 1762
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Wouter Verhelst",
+                "3": "None Of The Above",
+                "4": "Stefano Zacchiroli",
+                "5": "Charles Plessy",
+                "score": 2068
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Wouter Verhelst",
+                "3": "None Of The Above",
+                "4": "Charles Plessy",
+                "5": "Stefano Zacchiroli",
+                "score": 1766
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Charles Plessy",
+                "3": "Stefano Zacchiroli",
+                "4": "Wouter Verhelst",
+                "5": "None Of The Above",
+                "score": 1986
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Charles Plessy",
+                "3": "Stefano Zacchiroli",
+                "4": "None Of The Above",
+                "5": "Wouter Verhelst",
+                "score": 1718
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Charles Plessy",
+                "3": "Wouter Verhelst",
+                "4": "Stefano Zacchiroli",
+                "5": "None Of The Above",
+                "score": 1796
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Charles Plessy",
+                "3": "Wouter Verhelst",
+                "4": "None Of The Above",
+                "5": "Stefano Zacchiroli",
+                "score": 1505
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Charles Plessy",
+                "3": "None Of The Above",
+                "4": "Stefano Zacchiroli",
+                "5": "Wouter Verhelst",
+                "score": 1427
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "Charles Plessy",
+                "3": "None Of The Above",
+                "4": "Wouter Verhelst",
+                "5": "Stefano Zacchiroli",
+                "score": 1237
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "None Of The Above",
+                "3": "Stefano Zacchiroli",
+                "4": "Wouter Verhelst",
+                "5": "Charles Plessy",
+                "score": 1990
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "None Of The Above",
+                "3": "Stefano Zacchiroli",
+                "4": "Charles Plessy",
+                "5": "Wouter Verhelst",
+                "score": 1733
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "None Of The Above",
+                "3": "Wouter Verhelst",
+                "4": "Stefano Zacchiroli",
+                "5": "Charles Plessy",
+                "score": 1800
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "None Of The Above",
+                "3": "Wouter Verhelst",
+                "4": "Charles Plessy",
+                "5": "Stefano Zacchiroli",
+                "score": 1498
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "None Of The Above",
+                "3": "Charles Plessy",
+                "4": "Stefano Zacchiroli",
+                "5": "Wouter Verhelst",
+                "score": 1431
+            },
+            {
+                "1": "Margarita Manterola",
+                "2": "None Of The Above",
+                "3": "Charles Plessy",
+                "4": "Wouter Verhelst",
+                "5": "Stefano Zacchiroli",
+                "score": 1241
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Stefano Zacchiroli",
+                "3": "Wouter Verhelst",
+                "4": "Charles Plessy",
+                "5": "Margarita Manterola",
+                "score": 1604
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Stefano Zacchiroli",
+                "3": "Wouter Verhelst",
+                "4": "Margarita Manterola",
+                "5": "Charles Plessy",
+                "score": 1852
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Stefano Zacchiroli",
+                "3": "Charles Plessy",
+                "4": "Wouter Verhelst",
+                "5": "Margarita Manterola",
+                "score": 1347
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Stefano Zacchiroli",
+                "3": "Charles Plessy",
+                "4": "Margarita Manterola",
+                "5": "Wouter Verhelst",
+                "score": 1376
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Stefano Zacchiroli",
+                "3": "Margarita Manterola",
+                "4": "Wouter Verhelst",
+                "5": "Charles Plessy",
+                "score": 1881
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Stefano Zacchiroli",
+                "3": "Margarita Manterola",
+                "4": "Charles Plessy",
+                "5": "Wouter Verhelst",
+                "score": 1624
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Wouter Verhelst",
+                "3": "Stefano Zacchiroli",
+                "4": "Charles Plessy",
+                "5": "Margarita Manterola",
+                "score": 1414
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Wouter Verhelst",
+                "3": "Stefano Zacchiroli",
+                "4": "Margarita Manterola",
+                "5": "Charles Plessy",
+                "score": 1662
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Wouter Verhelst",
+                "3": "Charles Plessy",
+                "4": "Stefano Zacchiroli",
+                "5": "Margarita Manterola",
+                "score": 1112
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Wouter Verhelst",
+                "3": "Charles Plessy",
+                "4": "Margarita Manterola",
+                "5": "Stefano Zacchiroli",
+                "score": 972
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Wouter Verhelst",
+                "3": "Margarita Manterola",
+                "4": "Stefano Zacchiroli",
+                "5": "Charles Plessy",
+                "score": 1522
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Wouter Verhelst",
+                "3": "Margarita Manterola",
+                "4": "Charles Plessy",
+                "5": "Stefano Zacchiroli",
+                "score": 1220
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Charles Plessy",
+                "3": "Stefano Zacchiroli",
+                "4": "Wouter Verhelst",
+                "5": "Margarita Manterola",
+                "score": 1045
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Charles Plessy",
+                "3": "Stefano Zacchiroli",
+                "4": "Margarita Manterola",
+                "5": "Wouter Verhelst",
+                "score": 1074
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Charles Plessy",
+                "3": "Wouter Verhelst",
+                "4": "Stefano Zacchiroli",
+                "5": "Margarita Manterola",
+                "score": 855
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Charles Plessy",
+                "3": "Wouter Verhelst",
+                "4": "Margarita Manterola",
+                "5": "Stefano Zacchiroli",
+                "score": 715
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Charles Plessy",
+                "3": "Margarita Manterola",
+                "4": "Stefano Zacchiroli",
+                "5": "Wouter Verhelst",
+                "score": 934
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Charles Plessy",
+                "3": "Margarita Manterola",
+                "4": "Wouter Verhelst",
+                "5": "Stefano Zacchiroli",
+                "score": 744
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Margarita Manterola",
+                "3": "Stefano Zacchiroli",
+                "4": "Wouter Verhelst",
+                "5": "Charles Plessy",
+                "score": 1741
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Margarita Manterola",
+                "3": "Stefano Zacchiroli",
+                "4": "Charles Plessy",
+                "5": "Wouter Verhelst",
+                "score": 1484
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Margarita Manterola",
+                "3": "Wouter Verhelst",
+                "4": "Stefano Zacchiroli",
+                "5": "Charles Plessy",
+                "score": 1551
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Margarita Manterola",
+                "3": "Wouter Verhelst",
+                "4": "Charles Plessy",
+                "5": "Stefano Zacchiroli",
+                "score": 1249
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Margarita Manterola",
+                "3": "Charles Plessy",
+                "4": "Stefano Zacchiroli",
+                "5": "Wouter Verhelst",
+                "score": 1182
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Margarita Manterola",
+                "3": "Charles Plessy",
+                "4": "Wouter Verhelst",
+                "5": "Stefano Zacchiroli",
+                "score": 992
+            }
+        ]
+    }
+}

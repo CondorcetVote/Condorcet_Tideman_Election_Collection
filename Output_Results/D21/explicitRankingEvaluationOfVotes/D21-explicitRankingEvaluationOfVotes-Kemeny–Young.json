@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5e2d3d4663435e739663811ef71c45290c9f3614378236b3955419e91a7132f
-size 1263
+{
+    "Ranking": "Jonathan Carter > Sruthi Chandran > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 813,
+        "rankingScore": [
+            {
+                "1": "Jonathan Carter",
+                "2": "Sruthi Chandran",
+                "3": "None Of The Above",
+                "score": 813
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "None Of The Above",
+                "3": "Sruthi Chandran",
+                "score": 635
+            },
+            {
+                "1": "Sruthi Chandran",
+                "2": "Jonathan Carter",
+                "3": "None Of The Above",
+                "score": 635
+            },
+            {
+                "1": "Sruthi Chandran",
+                "2": "None Of The Above",
+                "3": "Jonathan Carter",
+                "score": 358
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Jonathan Carter",
+                "3": "Sruthi Chandran",
+                "score": 358
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Sruthi Chandran",
+                "3": "Jonathan Carter",
+                "score": 180
+            }
+        ]
+    }
+}

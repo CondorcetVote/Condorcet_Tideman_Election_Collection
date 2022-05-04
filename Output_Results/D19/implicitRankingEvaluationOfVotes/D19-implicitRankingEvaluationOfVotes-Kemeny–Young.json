@@ -1,3 +1,969 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6bfdce87e6976f51367e8cfce2be31ca3761c0a02ad63089db4600288a3f4099
-size 30935
+{
+    "Ranking": "Sam Hartman > Martin Michlmayr > Joerg Jaspert > Jonathan Carter > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 2450,
+        "rankingScore": [
+            {
+                "1": "Joerg Jaspert",
+                "2": "Jonathan Carter",
+                "3": "Sam Hartman",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 2251
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Jonathan Carter",
+                "3": "Sam Hartman",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 1962
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Jonathan Carter",
+                "3": "Martin Michlmayr",
+                "4": "Sam Hartman",
+                "5": "None Of The Above",
+                "score": 2183
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Jonathan Carter",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Sam Hartman",
+                "score": 1873
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Jonathan Carter",
+                "3": "None Of The Above",
+                "4": "Sam Hartman",
+                "5": "Martin Michlmayr",
+                "score": 1652
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Jonathan Carter",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Sam Hartman",
+                "score": 1584
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Sam Hartman",
+                "3": "Jonathan Carter",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 2348
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Sam Hartman",
+                "3": "Jonathan Carter",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 2059
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Sam Hartman",
+                "3": "Martin Michlmayr",
+                "4": "Jonathan Carter",
+                "5": "None Of The Above",
+                "score": 2350
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Sam Hartman",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Jonathan Carter",
+                "score": 2064
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Sam Hartman",
+                "3": "None Of The Above",
+                "4": "Jonathan Carter",
+                "5": "Martin Michlmayr",
+                "score": 1773
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Sam Hartman",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Jonathan Carter",
+                "score": 1775
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Martin Michlmayr",
+                "3": "Jonathan Carter",
+                "4": "Sam Hartman",
+                "5": "None Of The Above",
+                "score": 2185
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Martin Michlmayr",
+                "3": "Jonathan Carter",
+                "4": "None Of The Above",
+                "5": "Sam Hartman",
+                "score": 1875
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Martin Michlmayr",
+                "3": "Sam Hartman",
+                "4": "Jonathan Carter",
+                "5": "None Of The Above",
+                "score": 2282
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Martin Michlmayr",
+                "3": "Sam Hartman",
+                "4": "None Of The Above",
+                "5": "Jonathan Carter",
+                "score": 1996
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Jonathan Carter",
+                "5": "Sam Hartman",
+                "score": 1589
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Sam Hartman",
+                "5": "Jonathan Carter",
+                "score": 1686
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "None Of The Above",
+                "3": "Jonathan Carter",
+                "4": "Sam Hartman",
+                "5": "Martin Michlmayr",
+                "score": 1366
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "None Of The Above",
+                "3": "Jonathan Carter",
+                "4": "Martin Michlmayr",
+                "5": "Sam Hartman",
+                "score": 1298
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "None Of The Above",
+                "3": "Sam Hartman",
+                "4": "Jonathan Carter",
+                "5": "Martin Michlmayr",
+                "score": 1463
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "None Of The Above",
+                "3": "Sam Hartman",
+                "4": "Martin Michlmayr",
+                "5": "Jonathan Carter",
+                "score": 1465
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Jonathan Carter",
+                "5": "Sam Hartman",
+                "score": 1300
+            },
+            {
+                "1": "Joerg Jaspert",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Sam Hartman",
+                "5": "Jonathan Carter",
+                "score": 1397
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Joerg Jaspert",
+                "3": "Sam Hartman",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 2248
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Joerg Jaspert",
+                "3": "Sam Hartman",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 1959
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Joerg Jaspert",
+                "3": "Martin Michlmayr",
+                "4": "Sam Hartman",
+                "5": "None Of The Above",
+                "score": 2180
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Joerg Jaspert",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Sam Hartman",
+                "score": 1870
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Joerg Jaspert",
+                "3": "None Of The Above",
+                "4": "Sam Hartman",
+                "5": "Martin Michlmayr",
+                "score": 1649
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Joerg Jaspert",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Sam Hartman",
+                "score": 1581
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Sam Hartman",
+                "3": "Joerg Jaspert",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 2337
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Sam Hartman",
+                "3": "Joerg Jaspert",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 2048
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Sam Hartman",
+                "3": "Martin Michlmayr",
+                "4": "Joerg Jaspert",
+                "5": "None Of The Above",
+                "score": 2348
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Sam Hartman",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Joerg Jaspert",
+                "score": 2080
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Sam Hartman",
+                "3": "None Of The Above",
+                "4": "Joerg Jaspert",
+                "5": "Martin Michlmayr",
+                "score": 1780
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Sam Hartman",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Joerg Jaspert",
+                "score": 1791
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Martin Michlmayr",
+                "3": "Joerg Jaspert",
+                "4": "Sam Hartman",
+                "5": "None Of The Above",
+                "score": 2191
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Martin Michlmayr",
+                "3": "Joerg Jaspert",
+                "4": "None Of The Above",
+                "5": "Sam Hartman",
+                "score": 1881
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Martin Michlmayr",
+                "3": "Sam Hartman",
+                "4": "Joerg Jaspert",
+                "5": "None Of The Above",
+                "score": 2280
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Martin Michlmayr",
+                "3": "Sam Hartman",
+                "4": "None Of The Above",
+                "5": "Joerg Jaspert",
+                "score": 2012
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Joerg Jaspert",
+                "5": "Sam Hartman",
+                "score": 1613
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Sam Hartman",
+                "5": "Joerg Jaspert",
+                "score": 1702
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "None Of The Above",
+                "3": "Joerg Jaspert",
+                "4": "Sam Hartman",
+                "5": "Martin Michlmayr",
+                "score": 1381
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "None Of The Above",
+                "3": "Joerg Jaspert",
+                "4": "Martin Michlmayr",
+                "5": "Sam Hartman",
+                "score": 1313
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "None Of The Above",
+                "3": "Sam Hartman",
+                "4": "Joerg Jaspert",
+                "5": "Martin Michlmayr",
+                "score": 1470
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "None Of The Above",
+                "3": "Sam Hartman",
+                "4": "Martin Michlmayr",
+                "5": "Joerg Jaspert",
+                "score": 1481
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Joerg Jaspert",
+                "5": "Sam Hartman",
+                "score": 1324
+            },
+            {
+                "1": "Jonathan Carter",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Sam Hartman",
+                "5": "Joerg Jaspert",
+                "score": 1413
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Joerg Jaspert",
+                "3": "Jonathan Carter",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 2437
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Joerg Jaspert",
+                "3": "Jonathan Carter",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 2148
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Joerg Jaspert",
+                "3": "Martin Michlmayr",
+                "4": "Jonathan Carter",
+                "5": "None Of The Above",
+                "score": 2439
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Joerg Jaspert",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Jonathan Carter",
+                "score": 2153
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Joerg Jaspert",
+                "3": "None Of The Above",
+                "4": "Jonathan Carter",
+                "5": "Martin Michlmayr",
+                "score": 1862
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Joerg Jaspert",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Jonathan Carter",
+                "score": 1864
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Jonathan Carter",
+                "3": "Joerg Jaspert",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 2434
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Jonathan Carter",
+                "3": "Joerg Jaspert",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 2145
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Jonathan Carter",
+                "3": "Martin Michlmayr",
+                "4": "Joerg Jaspert",
+                "5": "None Of The Above",
+                "score": 2445
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Jonathan Carter",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Joerg Jaspert",
+                "score": 2177
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Jonathan Carter",
+                "3": "None Of The Above",
+                "4": "Joerg Jaspert",
+                "5": "Martin Michlmayr",
+                "score": 1877
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Jonathan Carter",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Joerg Jaspert",
+                "score": 1888
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Martin Michlmayr",
+                "3": "Joerg Jaspert",
+                "4": "Jonathan Carter",
+                "5": "None Of The Above",
+                "score": 2450
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Martin Michlmayr",
+                "3": "Joerg Jaspert",
+                "4": "None Of The Above",
+                "5": "Jonathan Carter",
+                "score": 2164
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Martin Michlmayr",
+                "3": "Jonathan Carter",
+                "4": "Joerg Jaspert",
+                "5": "None Of The Above",
+                "score": 2447
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Martin Michlmayr",
+                "3": "Jonathan Carter",
+                "4": "None Of The Above",
+                "5": "Joerg Jaspert",
+                "score": 2179
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Joerg Jaspert",
+                "5": "Jonathan Carter",
+                "score": 1896
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Jonathan Carter",
+                "5": "Joerg Jaspert",
+                "score": 1893
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "None Of The Above",
+                "3": "Joerg Jaspert",
+                "4": "Jonathan Carter",
+                "5": "Martin Michlmayr",
+                "score": 1594
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "None Of The Above",
+                "3": "Joerg Jaspert",
+                "4": "Martin Michlmayr",
+                "5": "Jonathan Carter",
+                "score": 1596
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "None Of The Above",
+                "3": "Jonathan Carter",
+                "4": "Joerg Jaspert",
+                "5": "Martin Michlmayr",
+                "score": 1591
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "None Of The Above",
+                "3": "Jonathan Carter",
+                "4": "Martin Michlmayr",
+                "5": "Joerg Jaspert",
+                "score": 1602
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Joerg Jaspert",
+                "5": "Jonathan Carter",
+                "score": 1607
+            },
+            {
+                "1": "Sam Hartman",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Jonathan Carter",
+                "5": "Joerg Jaspert",
+                "score": 1604
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Joerg Jaspert",
+                "3": "Jonathan Carter",
+                "4": "Sam Hartman",
+                "5": "None Of The Above",
+                "score": 2196
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Joerg Jaspert",
+                "3": "Jonathan Carter",
+                "4": "None Of The Above",
+                "5": "Sam Hartman",
+                "score": 1886
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Joerg Jaspert",
+                "3": "Sam Hartman",
+                "4": "Jonathan Carter",
+                "5": "None Of The Above",
+                "score": 2293
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Joerg Jaspert",
+                "3": "Sam Hartman",
+                "4": "None Of The Above",
+                "5": "Jonathan Carter",
+                "score": 2007
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Joerg Jaspert",
+                "3": "None Of The Above",
+                "4": "Jonathan Carter",
+                "5": "Sam Hartman",
+                "score": 1600
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Joerg Jaspert",
+                "3": "None Of The Above",
+                "4": "Sam Hartman",
+                "5": "Jonathan Carter",
+                "score": 1697
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Jonathan Carter",
+                "3": "Joerg Jaspert",
+                "4": "Sam Hartman",
+                "5": "None Of The Above",
+                "score": 2193
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Jonathan Carter",
+                "3": "Joerg Jaspert",
+                "4": "None Of The Above",
+                "5": "Sam Hartman",
+                "score": 1883
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Jonathan Carter",
+                "3": "Sam Hartman",
+                "4": "Joerg Jaspert",
+                "5": "None Of The Above",
+                "score": 2282
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Jonathan Carter",
+                "3": "Sam Hartman",
+                "4": "None Of The Above",
+                "5": "Joerg Jaspert",
+                "score": 2014
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Jonathan Carter",
+                "3": "None Of The Above",
+                "4": "Joerg Jaspert",
+                "5": "Sam Hartman",
+                "score": 1615
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Jonathan Carter",
+                "3": "None Of The Above",
+                "4": "Sam Hartman",
+                "5": "Joerg Jaspert",
+                "score": 1704
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Sam Hartman",
+                "3": "Joerg Jaspert",
+                "4": "Jonathan Carter",
+                "5": "None Of The Above",
+                "score": 2382
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Sam Hartman",
+                "3": "Joerg Jaspert",
+                "4": "None Of The Above",
+                "5": "Jonathan Carter",
+                "score": 2096
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Sam Hartman",
+                "3": "Jonathan Carter",
+                "4": "Joerg Jaspert",
+                "5": "None Of The Above",
+                "score": 2379
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Sam Hartman",
+                "3": "Jonathan Carter",
+                "4": "None Of The Above",
+                "5": "Joerg Jaspert",
+                "score": 2111
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Sam Hartman",
+                "3": "None Of The Above",
+                "4": "Joerg Jaspert",
+                "5": "Jonathan Carter",
+                "score": 1828
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Sam Hartman",
+                "3": "None Of The Above",
+                "4": "Jonathan Carter",
+                "5": "Joerg Jaspert",
+                "score": 1825
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Joerg Jaspert",
+                "4": "Jonathan Carter",
+                "5": "Sam Hartman",
+                "score": 1332
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Joerg Jaspert",
+                "4": "Sam Hartman",
+                "5": "Jonathan Carter",
+                "score": 1429
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Jonathan Carter",
+                "4": "Joerg Jaspert",
+                "5": "Sam Hartman",
+                "score": 1329
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Jonathan Carter",
+                "4": "Sam Hartman",
+                "5": "Joerg Jaspert",
+                "score": 1418
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Sam Hartman",
+                "4": "Joerg Jaspert",
+                "5": "Jonathan Carter",
+                "score": 1518
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Sam Hartman",
+                "4": "Jonathan Carter",
+                "5": "Joerg Jaspert",
+                "score": 1515
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Joerg Jaspert",
+                "3": "Jonathan Carter",
+                "4": "Sam Hartman",
+                "5": "Martin Michlmayr",
+                "score": 1098
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Joerg Jaspert",
+                "3": "Jonathan Carter",
+                "4": "Martin Michlmayr",
+                "5": "Sam Hartman",
+                "score": 1030
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Joerg Jaspert",
+                "3": "Sam Hartman",
+                "4": "Jonathan Carter",
+                "5": "Martin Michlmayr",
+                "score": 1195
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Joerg Jaspert",
+                "3": "Sam Hartman",
+                "4": "Martin Michlmayr",
+                "5": "Jonathan Carter",
+                "score": 1197
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Joerg Jaspert",
+                "3": "Martin Michlmayr",
+                "4": "Jonathan Carter",
+                "5": "Sam Hartman",
+                "score": 1032
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Joerg Jaspert",
+                "3": "Martin Michlmayr",
+                "4": "Sam Hartman",
+                "5": "Jonathan Carter",
+                "score": 1129
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Jonathan Carter",
+                "3": "Joerg Jaspert",
+                "4": "Sam Hartman",
+                "5": "Martin Michlmayr",
+                "score": 1095
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Jonathan Carter",
+                "3": "Joerg Jaspert",
+                "4": "Martin Michlmayr",
+                "5": "Sam Hartman",
+                "score": 1027
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Jonathan Carter",
+                "3": "Sam Hartman",
+                "4": "Joerg Jaspert",
+                "5": "Martin Michlmayr",
+                "score": 1184
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Jonathan Carter",
+                "3": "Sam Hartman",
+                "4": "Martin Michlmayr",
+                "5": "Joerg Jaspert",
+                "score": 1195
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Jonathan Carter",
+                "3": "Martin Michlmayr",
+                "4": "Joerg Jaspert",
+                "5": "Sam Hartman",
+                "score": 1038
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Jonathan Carter",
+                "3": "Martin Michlmayr",
+                "4": "Sam Hartman",
+                "5": "Joerg Jaspert",
+                "score": 1127
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Sam Hartman",
+                "3": "Joerg Jaspert",
+                "4": "Jonathan Carter",
+                "5": "Martin Michlmayr",
+                "score": 1284
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Sam Hartman",
+                "3": "Joerg Jaspert",
+                "4": "Martin Michlmayr",
+                "5": "Jonathan Carter",
+                "score": 1286
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Sam Hartman",
+                "3": "Jonathan Carter",
+                "4": "Joerg Jaspert",
+                "5": "Martin Michlmayr",
+                "score": 1281
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Sam Hartman",
+                "3": "Jonathan Carter",
+                "4": "Martin Michlmayr",
+                "5": "Joerg Jaspert",
+                "score": 1292
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Sam Hartman",
+                "3": "Martin Michlmayr",
+                "4": "Joerg Jaspert",
+                "5": "Jonathan Carter",
+                "score": 1297
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Sam Hartman",
+                "3": "Martin Michlmayr",
+                "4": "Jonathan Carter",
+                "5": "Joerg Jaspert",
+                "score": 1294
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Joerg Jaspert",
+                "4": "Jonathan Carter",
+                "5": "Sam Hartman",
+                "score": 1043
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Joerg Jaspert",
+                "4": "Sam Hartman",
+                "5": "Jonathan Carter",
+                "score": 1140
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Jonathan Carter",
+                "4": "Joerg Jaspert",
+                "5": "Sam Hartman",
+                "score": 1040
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Jonathan Carter",
+                "4": "Sam Hartman",
+                "5": "Joerg Jaspert",
+                "score": 1129
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Sam Hartman",
+                "4": "Joerg Jaspert",
+                "5": "Jonathan Carter",
+                "score": 1229
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Sam Hartman",
+                "4": "Jonathan Carter",
+                "5": "Joerg Jaspert",
+                "score": 1226
+            }
+        ]
+    }
+}

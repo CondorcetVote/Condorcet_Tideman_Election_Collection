@@ -1,3 +1,177 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:954294e6d51c7fac289d3a6f8ecbaa5939b252db85db18390022bc1a44a8ac5f
-size 5495
+{
+    "Ranking": "Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 1880,
+        "rankingScore": [
+            {
+                "1": "Wouter Verhelst",
+                "2": "Gergely Nagy",
+                "3": "Stefano Zacchiroli",
+                "4": "None Of The Above",
+                "score": 1250
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Gergely Nagy",
+                "3": "None Of The Above",
+                "4": "Stefano Zacchiroli",
+                "score": 877
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Stefano Zacchiroli",
+                "3": "Gergely Nagy",
+                "4": "None Of The Above",
+                "score": 1570
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "Stefano Zacchiroli",
+                "3": "None Of The Above",
+                "4": "Gergely Nagy",
+                "score": 1367
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "None Of The Above",
+                "3": "Gergely Nagy",
+                "4": "Stefano Zacchiroli",
+                "score": 674
+            },
+            {
+                "1": "Wouter Verhelst",
+                "2": "None Of The Above",
+                "3": "Stefano Zacchiroli",
+                "4": "Gergely Nagy",
+                "score": 994
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "Wouter Verhelst",
+                "3": "Stefano Zacchiroli",
+                "4": "None Of The Above",
+                "score": 1144
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "Wouter Verhelst",
+                "3": "None Of The Above",
+                "4": "Stefano Zacchiroli",
+                "score": 771
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "Stefano Zacchiroli",
+                "3": "Wouter Verhelst",
+                "4": "None Of The Above",
+                "score": 1454
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "Stefano Zacchiroli",
+                "3": "None Of The Above",
+                "4": "Wouter Verhelst",
+                "score": 1204
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "None Of The Above",
+                "3": "Wouter Verhelst",
+                "4": "Stefano Zacchiroli",
+                "score": 521
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "None Of The Above",
+                "3": "Stefano Zacchiroli",
+                "4": "Wouter Verhelst",
+                "score": 831
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Wouter Verhelst",
+                "3": "Gergely Nagy",
+                "4": "None Of The Above",
+                "score": 1880
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Wouter Verhelst",
+                "3": "None Of The Above",
+                "4": "Gergely Nagy",
+                "score": 1677
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Gergely Nagy",
+                "3": "Wouter Verhelst",
+                "4": "None Of The Above",
+                "score": 1774
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "Gergely Nagy",
+                "3": "None Of The Above",
+                "4": "Wouter Verhelst",
+                "score": 1524
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "None Of The Above",
+                "3": "Wouter Verhelst",
+                "4": "Gergely Nagy",
+                "score": 1427
+            },
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "None Of The Above",
+                "3": "Gergely Nagy",
+                "4": "Wouter Verhelst",
+                "score": 1321
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Wouter Verhelst",
+                "3": "Gergely Nagy",
+                "4": "Stefano Zacchiroli",
+                "score": 424
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Wouter Verhelst",
+                "3": "Stefano Zacchiroli",
+                "4": "Gergely Nagy",
+                "score": 744
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Gergely Nagy",
+                "3": "Wouter Verhelst",
+                "4": "Stefano Zacchiroli",
+                "score": 318
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Gergely Nagy",
+                "3": "Stefano Zacchiroli",
+                "4": "Wouter Verhelst",
+                "score": 628
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Stefano Zacchiroli",
+                "3": "Wouter Verhelst",
+                "4": "Gergely Nagy",
+                "score": 1054
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Stefano Zacchiroli",
+                "3": "Gergely Nagy",
+                "4": "Wouter Verhelst",
+                "score": 948
+            }
+        ]
+    }
+}

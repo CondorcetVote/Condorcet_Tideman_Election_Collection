@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:37ca8b695068e3d6ec941a7d10f3590030a9e5006e6050879d026dcf477a3f00
-size 1242
+{
+    "Ranking": "Lucas Nussbaum > Neil McGovern > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 755,
+        "rankingScore": [
+            {
+                "1": "Lucas Nussbaum",
+                "2": "Neil McGovern",
+                "3": "None Of The Above",
+                "score": 755
+            },
+            {
+                "1": "Lucas Nussbaum",
+                "2": "None Of The Above",
+                "3": "Neil McGovern",
+                "score": 498
+            },
+            {
+                "1": "Neil McGovern",
+                "2": "Lucas Nussbaum",
+                "3": "None Of The Above",
+                "score": 709
+            },
+            {
+                "1": "Neil McGovern",
+                "2": "None Of The Above",
+                "3": "Lucas Nussbaum",
+                "score": 455
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Lucas Nussbaum",
+                "3": "Neil McGovern",
+                "score": 244
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Neil McGovern",
+                "3": "Lucas Nussbaum",
+                "score": 198
+            }
+        ]
+    }
+}

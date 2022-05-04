@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a0a7399734458b9a9b4d28a716581f387869500cfae648c449d7ab87925c5b20
-size 435
+{
+    "Ranking": "Mehdi Dogguy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 265,
+        "rankingScore": [
+            {
+                "1": "Mehdi Dogguy",
+                "2": "None Of The Above",
+                "score": 265
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Mehdi Dogguy",
+                "score": 13
+            }
+        ]
+    }
+}

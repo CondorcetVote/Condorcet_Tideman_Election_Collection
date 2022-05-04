@@ -1,3 +1,177 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0fc4cb0cb5a87a2a8fca9c2a48df86e1dd9f3ec216bc52b8b06208a17856ccf
-size 5296
+{
+    "Ranking": "Lucas Nussbaum > Moray Allan > Gergely Nagy > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 1768,
+        "rankingScore": [
+            {
+                "1": "Gergely Nagy",
+                "2": "Moray Allan",
+                "3": "Lucas Nussbaum",
+                "4": "None Of The Above",
+                "score": 1318
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "Moray Allan",
+                "3": "None Of The Above",
+                "4": "Lucas Nussbaum",
+                "score": 995
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "Lucas Nussbaum",
+                "3": "Moray Allan",
+                "4": "None Of The Above",
+                "score": 1387
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "Lucas Nussbaum",
+                "3": "None Of The Above",
+                "4": "Moray Allan",
+                "score": 1056
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "None Of The Above",
+                "3": "Moray Allan",
+                "4": "Lucas Nussbaum",
+                "score": 664
+            },
+            {
+                "1": "Gergely Nagy",
+                "2": "None Of The Above",
+                "3": "Lucas Nussbaum",
+                "4": "Moray Allan",
+                "score": 733
+            },
+            {
+                "1": "Moray Allan",
+                "2": "Gergely Nagy",
+                "3": "Lucas Nussbaum",
+                "4": "None Of The Above",
+                "score": 1482
+            },
+            {
+                "1": "Moray Allan",
+                "2": "Gergely Nagy",
+                "3": "None Of The Above",
+                "4": "Lucas Nussbaum",
+                "score": 1159
+            },
+            {
+                "1": "Moray Allan",
+                "2": "Lucas Nussbaum",
+                "3": "Gergely Nagy",
+                "4": "None Of The Above",
+                "score": 1699
+            },
+            {
+                "1": "Moray Allan",
+                "2": "Lucas Nussbaum",
+                "3": "None Of The Above",
+                "4": "Gergely Nagy",
+                "score": 1431
+            },
+            {
+                "1": "Moray Allan",
+                "2": "None Of The Above",
+                "3": "Gergely Nagy",
+                "4": "Lucas Nussbaum",
+                "score": 891
+            },
+            {
+                "1": "Moray Allan",
+                "2": "None Of The Above",
+                "3": "Lucas Nussbaum",
+                "4": "Gergely Nagy",
+                "score": 1108
+            },
+            {
+                "1": "Lucas Nussbaum",
+                "2": "Gergely Nagy",
+                "3": "Moray Allan",
+                "4": "None Of The Above",
+                "score": 1604
+            },
+            {
+                "1": "Lucas Nussbaum",
+                "2": "Gergely Nagy",
+                "3": "None Of The Above",
+                "4": "Moray Allan",
+                "score": 1273
+            },
+            {
+                "1": "Lucas Nussbaum",
+                "2": "Moray Allan",
+                "3": "Gergely Nagy",
+                "4": "None Of The Above",
+                "score": 1768
+            },
+            {
+                "1": "Lucas Nussbaum",
+                "2": "Moray Allan",
+                "3": "None Of The Above",
+                "4": "Gergely Nagy",
+                "score": 1500
+            },
+            {
+                "1": "Lucas Nussbaum",
+                "2": "None Of The Above",
+                "3": "Gergely Nagy",
+                "4": "Moray Allan",
+                "score": 1005
+            },
+            {
+                "1": "Lucas Nussbaum",
+                "2": "None Of The Above",
+                "3": "Moray Allan",
+                "4": "Gergely Nagy",
+                "score": 1169
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Gergely Nagy",
+                "3": "Moray Allan",
+                "4": "Lucas Nussbaum",
+                "score": 396
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Gergely Nagy",
+                "3": "Lucas Nussbaum",
+                "4": "Moray Allan",
+                "score": 465
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Moray Allan",
+                "3": "Gergely Nagy",
+                "4": "Lucas Nussbaum",
+                "score": 560
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Moray Allan",
+                "3": "Lucas Nussbaum",
+                "4": "Gergely Nagy",
+                "score": 777
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Lucas Nussbaum",
+                "3": "Gergely Nagy",
+                "4": "Moray Allan",
+                "score": 682
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Lucas Nussbaum",
+                "3": "Moray Allan",
+                "4": "Gergely Nagy",
+                "score": 846
+            }
+        ]
+    }
+}

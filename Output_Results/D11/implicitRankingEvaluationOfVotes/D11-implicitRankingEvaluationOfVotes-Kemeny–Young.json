@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b5d64f6e74ad949508a993b10af74fc3e48c9ae7532d977e38a5cefee21ff9e
-size 452
+{
+    "Ranking": "Stefano Zacchiroli > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 385,
+        "rankingScore": [
+            {
+                "1": "Stefano Zacchiroli",
+                "2": "None Of The Above",
+                "score": 385
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Stefano Zacchiroli",
+                "score": 5
+            }
+        ]
+    }
+}

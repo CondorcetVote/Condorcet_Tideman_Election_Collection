@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2283d2a9e8fed7d14de1b49570605df0af3cc377846d3562a87aa1fb237463e
-size 429
+{
+    "Ranking": "Chris Lamb > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 196,
+        "rankingScore": [
+            {
+                "1": "Chris Lamb",
+                "2": "None Of The Above",
+                "score": 196
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Chris Lamb",
+                "score": 12
+            }
+        ]
+    }
+}

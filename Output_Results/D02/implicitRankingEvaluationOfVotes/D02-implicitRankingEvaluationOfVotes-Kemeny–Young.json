@@ -1,3 +1,177 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4d75940af1d3af61eefa0c23ae9fbfd563d43d96b8d02eeedcf9470d2e7f5fb
-size 5451
+{
+    "Ranking": "Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 2107,
+        "rankingScore": [
+            {
+                "1": "Branden Robinson",
+                "2": "Raphael Hertzog",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "score": 1801
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Raphael Hertzog",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "score": 1376
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "Raphael Hertzog",
+                "4": "None Of The Above",
+                "score": 1994
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Raphael Hertzog",
+                "score": 1638
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Raphael Hertzog",
+                "4": "Bdale Garbee",
+                "score": 1020
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Raphael Hertzog",
+                "score": 1213
+            },
+            {
+                "1": "Raphael Hertzog",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "score": 1745
+            },
+            {
+                "1": "Raphael Hertzog",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "score": 1320
+            },
+            {
+                "1": "Raphael Hertzog",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "score": 1858
+            },
+            {
+                "1": "Raphael Hertzog",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "score": 1541
+            },
+            {
+                "1": "Raphael Hertzog",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "score": 1003
+            },
+            {
+                "1": "Raphael Hertzog",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "score": 1116
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "Raphael Hertzog",
+                "4": "None Of The Above",
+                "score": 2107
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Raphael Hertzog",
+                "score": 1751
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Raphael Hertzog",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "score": 2051
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Raphael Hertzog",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "score": 1734
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Raphael Hertzog",
+                "score": 1434
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "None Of The Above",
+                "3": "Raphael Hertzog",
+                "4": "Branden Robinson",
+                "score": 1378
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Raphael Hertzog",
+                "4": "Bdale Garbee",
+                "score": 703
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "Raphael Hertzog",
+                "score": 896
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Raphael Hertzog",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "score": 647
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Raphael Hertzog",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "score": 760
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "Raphael Hertzog",
+                "score": 1009
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Bdale Garbee",
+                "3": "Raphael Hertzog",
+                "4": "Branden Robinson",
+                "score": 953
+            }
+        ]
+    }
+}

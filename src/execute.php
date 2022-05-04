@@ -112,7 +112,9 @@ ini_set('memory_limit', '8192M');
 
                 $path = "$dir/$name-$mode-$methodName.json";
 
-                file_put_contents($path, $json);
+                if (strlen($json) < (1048576 * 16)) :
+                    file_put_contents($path, $json);
+                endif;
             endforeach;
         endforeach;
 

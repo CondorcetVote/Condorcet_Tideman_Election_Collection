@@ -1,3 +1,969 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54225061f895791f21bed1031b9ec129c889126759669fee6f3bfdd31bb016ee
-size 30923
+{
+    "Ranking": "Martin Michlmayr > Branden Robinson > Bdale Garbee > None Of The Above > Moshe Zadka",
+    "Number Of Seats": 1,
+    "Stats": {
+        "bestScore": 2674,
+        "rankingScore": [
+            {
+                "1": "Moshe Zadka",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 1778
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 1489
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Bdale Garbee",
+                "3": "Martin Michlmayr",
+                "4": "Branden Robinson",
+                "5": "None Of The Above",
+                "score": 1789
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Bdale Garbee",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Branden Robinson",
+                "score": 1545
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "5": "Martin Michlmayr",
+                "score": 1245
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Branden Robinson",
+                "score": 1256
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 1781
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 1492
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Branden Robinson",
+                "3": "Martin Michlmayr",
+                "4": "Bdale Garbee",
+                "5": "None Of The Above",
+                "score": 1805
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Branden Robinson",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 1501
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Martin Michlmayr",
+                "score": 1188
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Bdale Garbee",
+                "score": 1212
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Martin Michlmayr",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "5": "None Of The Above",
+                "score": 1813
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Martin Michlmayr",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "5": "Branden Robinson",
+                "score": 1569
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Martin Michlmayr",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "5": "None Of The Above",
+                "score": 1816
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Martin Michlmayr",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 1512
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Branden Robinson",
+                "score": 1265
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "5": "Bdale Garbee",
+                "score": 1268
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "5": "Martin Michlmayr",
+                "score": 941
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Martin Michlmayr",
+                "5": "Branden Robinson",
+                "score": 952
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "5": "Martin Michlmayr",
+                "score": 944
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Martin Michlmayr",
+                "5": "Bdale Garbee",
+                "score": 968
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Bdale Garbee",
+                "5": "Branden Robinson",
+                "score": 976
+            },
+            {
+                "1": "Moshe Zadka",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Branden Robinson",
+                "5": "Bdale Garbee",
+                "score": 979
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Moshe Zadka",
+                "3": "Branden Robinson",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 2086
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Moshe Zadka",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 1797
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Moshe Zadka",
+                "3": "Martin Michlmayr",
+                "4": "Branden Robinson",
+                "5": "None Of The Above",
+                "score": 2097
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Moshe Zadka",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Branden Robinson",
+                "score": 1853
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Moshe Zadka",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "5": "Martin Michlmayr",
+                "score": 1553
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Moshe Zadka",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Branden Robinson",
+                "score": 1564
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "Moshe Zadka",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 2339
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "Moshe Zadka",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 2050
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "Martin Michlmayr",
+                "4": "Moshe Zadka",
+                "5": "None Of The Above",
+                "score": 2632
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Moshe Zadka",
+                "score": 2636
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Moshe Zadka",
+                "5": "Martin Michlmayr",
+                "score": 2054
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Moshe Zadka",
+                "score": 2347
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Martin Michlmayr",
+                "3": "Moshe Zadka",
+                "4": "Branden Robinson",
+                "5": "None Of The Above",
+                "score": 2390
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Martin Michlmayr",
+                "3": "Moshe Zadka",
+                "4": "None Of The Above",
+                "5": "Branden Robinson",
+                "score": 2146
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Martin Michlmayr",
+                "3": "Branden Robinson",
+                "4": "Moshe Zadka",
+                "5": "None Of The Above",
+                "score": 2643
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Martin Michlmayr",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Moshe Zadka",
+                "score": 2647
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Moshe Zadka",
+                "5": "Branden Robinson",
+                "score": 2150
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "5": "Moshe Zadka",
+                "score": 2403
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "None Of The Above",
+                "3": "Moshe Zadka",
+                "4": "Branden Robinson",
+                "5": "Martin Michlmayr",
+                "score": 1557
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "None Of The Above",
+                "3": "Moshe Zadka",
+                "4": "Martin Michlmayr",
+                "5": "Branden Robinson",
+                "score": 1568
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Moshe Zadka",
+                "5": "Martin Michlmayr",
+                "score": 1810
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Martin Michlmayr",
+                "5": "Moshe Zadka",
+                "score": 2103
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Moshe Zadka",
+                "5": "Branden Robinson",
+                "score": 1861
+            },
+            {
+                "1": "Bdale Garbee",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Branden Robinson",
+                "5": "Moshe Zadka",
+                "score": 2114
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Moshe Zadka",
+                "3": "Bdale Garbee",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 2034
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Moshe Zadka",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 1745
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Moshe Zadka",
+                "3": "Martin Michlmayr",
+                "4": "Bdale Garbee",
+                "5": "None Of The Above",
+                "score": 2058
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Moshe Zadka",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 1754
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Moshe Zadka",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Martin Michlmayr",
+                "score": 1441
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Moshe Zadka",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Bdale Garbee",
+                "score": 1465
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "Moshe Zadka",
+                "4": "Martin Michlmayr",
+                "5": "None Of The Above",
+                "score": 2342
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "Moshe Zadka",
+                "4": "None Of The Above",
+                "5": "Martin Michlmayr",
+                "score": 2053
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "Martin Michlmayr",
+                "4": "Moshe Zadka",
+                "5": "None Of The Above",
+                "score": 2635
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "Martin Michlmayr",
+                "4": "None Of The Above",
+                "5": "Moshe Zadka",
+                "score": 2639
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Moshe Zadka",
+                "5": "Martin Michlmayr",
+                "score": 2057
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Martin Michlmayr",
+                "5": "Moshe Zadka",
+                "score": 2350
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Martin Michlmayr",
+                "3": "Moshe Zadka",
+                "4": "Bdale Garbee",
+                "5": "None Of The Above",
+                "score": 2351
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Martin Michlmayr",
+                "3": "Moshe Zadka",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 2047
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Martin Michlmayr",
+                "3": "Bdale Garbee",
+                "4": "Moshe Zadka",
+                "5": "None Of The Above",
+                "score": 2659
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Martin Michlmayr",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "5": "Moshe Zadka",
+                "score": 2663
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Moshe Zadka",
+                "5": "Bdale Garbee",
+                "score": 2051
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "Martin Michlmayr",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Moshe Zadka",
+                "score": 2359
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Moshe Zadka",
+                "4": "Bdale Garbee",
+                "5": "Martin Michlmayr",
+                "score": 1445
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Moshe Zadka",
+                "4": "Martin Michlmayr",
+                "5": "Bdale Garbee",
+                "score": 1469
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Moshe Zadka",
+                "5": "Martin Michlmayr",
+                "score": 1753
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Martin Michlmayr",
+                "5": "Moshe Zadka",
+                "score": 2046
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Moshe Zadka",
+                "5": "Bdale Garbee",
+                "score": 1762
+            },
+            {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Martin Michlmayr",
+                "4": "Bdale Garbee",
+                "5": "Moshe Zadka",
+                "score": 2070
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Moshe Zadka",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "5": "None Of The Above",
+                "score": 2106
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Moshe Zadka",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "5": "Branden Robinson",
+                "score": 1862
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Moshe Zadka",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "5": "None Of The Above",
+                "score": 2109
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Moshe Zadka",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 1805
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Moshe Zadka",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Branden Robinson",
+                "score": 1558
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Moshe Zadka",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "5": "Bdale Garbee",
+                "score": 1561
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Bdale Garbee",
+                "3": "Moshe Zadka",
+                "4": "Branden Robinson",
+                "5": "None Of The Above",
+                "score": 2414
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Bdale Garbee",
+                "3": "Moshe Zadka",
+                "4": "None Of The Above",
+                "5": "Branden Robinson",
+                "score": 2170
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "Moshe Zadka",
+                "5": "None Of The Above",
+                "score": 2667
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Moshe Zadka",
+                "score": 2671
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Moshe Zadka",
+                "5": "Branden Robinson",
+                "score": 2174
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "5": "Moshe Zadka",
+                "score": 2427
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Branden Robinson",
+                "3": "Moshe Zadka",
+                "4": "Bdale Garbee",
+                "5": "None Of The Above",
+                "score": 2362
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Branden Robinson",
+                "3": "Moshe Zadka",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 2058
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "Moshe Zadka",
+                "5": "None Of The Above",
+                "score": 2670
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "5": "Moshe Zadka",
+                "score": 2674
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Moshe Zadka",
+                "5": "Bdale Garbee",
+                "score": 2062
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Moshe Zadka",
+                "score": 2370
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Moshe Zadka",
+                "4": "Bdale Garbee",
+                "5": "Branden Robinson",
+                "score": 1562
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Moshe Zadka",
+                "4": "Branden Robinson",
+                "5": "Bdale Garbee",
+                "score": 1565
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Moshe Zadka",
+                "5": "Branden Robinson",
+                "score": 1870
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "5": "Moshe Zadka",
+                "score": 2123
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Moshe Zadka",
+                "5": "Bdale Garbee",
+                "score": 1818
+            },
+            {
+                "1": "Martin Michlmayr",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "5": "Moshe Zadka",
+                "score": 2126
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Moshe Zadka",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "5": "Martin Michlmayr",
+                "score": 945
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Moshe Zadka",
+                "3": "Bdale Garbee",
+                "4": "Martin Michlmayr",
+                "5": "Branden Robinson",
+                "score": 956
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Moshe Zadka",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "5": "Martin Michlmayr",
+                "score": 948
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Moshe Zadka",
+                "3": "Branden Robinson",
+                "4": "Martin Michlmayr",
+                "5": "Bdale Garbee",
+                "score": 972
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Moshe Zadka",
+                "3": "Martin Michlmayr",
+                "4": "Bdale Garbee",
+                "5": "Branden Robinson",
+                "score": 980
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Moshe Zadka",
+                "3": "Martin Michlmayr",
+                "4": "Branden Robinson",
+                "5": "Bdale Garbee",
+                "score": 983
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Bdale Garbee",
+                "3": "Moshe Zadka",
+                "4": "Branden Robinson",
+                "5": "Martin Michlmayr",
+                "score": 1253
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Bdale Garbee",
+                "3": "Moshe Zadka",
+                "4": "Martin Michlmayr",
+                "5": "Branden Robinson",
+                "score": 1264
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "Moshe Zadka",
+                "5": "Martin Michlmayr",
+                "score": 1506
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "Martin Michlmayr",
+                "5": "Moshe Zadka",
+                "score": 1799
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Bdale Garbee",
+                "3": "Martin Michlmayr",
+                "4": "Moshe Zadka",
+                "5": "Branden Robinson",
+                "score": 1557
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Bdale Garbee",
+                "3": "Martin Michlmayr",
+                "4": "Branden Robinson",
+                "5": "Moshe Zadka",
+                "score": 1810
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Moshe Zadka",
+                "4": "Bdale Garbee",
+                "5": "Martin Michlmayr",
+                "score": 1201
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Moshe Zadka",
+                "4": "Martin Michlmayr",
+                "5": "Bdale Garbee",
+                "score": 1225
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "Moshe Zadka",
+                "5": "Martin Michlmayr",
+                "score": 1509
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "Martin Michlmayr",
+                "5": "Moshe Zadka",
+                "score": 1802
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Martin Michlmayr",
+                "4": "Moshe Zadka",
+                "5": "Bdale Garbee",
+                "score": 1518
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Martin Michlmayr",
+                "4": "Bdale Garbee",
+                "5": "Moshe Zadka",
+                "score": 1826
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Moshe Zadka",
+                "4": "Bdale Garbee",
+                "5": "Branden Robinson",
+                "score": 1273
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Moshe Zadka",
+                "4": "Branden Robinson",
+                "5": "Bdale Garbee",
+                "score": 1276
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Bdale Garbee",
+                "4": "Moshe Zadka",
+                "5": "Branden Robinson",
+                "score": 1581
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "5": "Moshe Zadka",
+                "score": 1834
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Branden Robinson",
+                "4": "Moshe Zadka",
+                "5": "Bdale Garbee",
+                "score": 1529
+            },
+            {
+                "1": "None Of The Above",
+                "2": "Martin Michlmayr",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "5": "Moshe Zadka",
+                "score": 1837
+            }
+        ]
+    }
+}
