@@ -102,7 +102,7 @@ ini_set('memory_limit', '8192M');
                         'Number Of Seats'   => $election['number_of_seats'],
                         'Stats'             => $oneResult['stats']
                     ],
-                    \JSON_PRETTY_PRINT);
+                    \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE);
 
                 $dir = $base_dir = __DIR__."/../Output_Results/$name";
                 $create_dir($dir);
@@ -163,7 +163,7 @@ ini_set('memory_limit', '8192M');
                     'stats'             => $election->getResult($method)->getStats(),
                 ];
             } catch (CondorcetPublicApiException $e) {
-                echo $e->getMessage();
+                echo $e->getMessage()."\n";
 
                 $results['methodsResults'][$method][$index] = [
                     'active'            => false,
