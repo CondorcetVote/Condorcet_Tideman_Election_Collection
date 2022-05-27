@@ -203,7 +203,7 @@ ini_set('memory_limit', '12296M');
 
             $md .= ' '.$electionResults['number_of_seats'].' |';
 
-            $md .= " _[Pairwise](Results_Output/$name/$mode/$name-$mode-Pairwise.json)_".' |';
+            $md .= " _[Pairwise](Output_Results/$name/$mode/$name-$mode-Pairwise.json)_".' |';
 
             $md .= ' '.$electionResults['CondorcetWinner'][$mode].' |';
             $md .= ' '.$electionResults['CondorcetLoser'][$mode].' |';
