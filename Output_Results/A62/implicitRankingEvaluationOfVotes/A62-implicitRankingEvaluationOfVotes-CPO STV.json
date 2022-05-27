@@ -1,0 +1,238 @@
+{
+    "Ranking": "4",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 83,
+        "Initial Score Table": {
+            "1": 36,
+            "2": 25,
+            "3": 50,
+            "4": 55
+        },
+        "Candidates elected from first round": [],
+        "Candidates eliminated from first round": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "Outcomes": [
+            [
+                "4"
+            ],
+            [
+                "3"
+            ],
+            [
+                "2"
+            ],
+            [
+                "1"
+            ]
+        ],
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": [
+                    "1",
+                    "2"
+                ],
+                "scores_after_exclusion": {
+                    "3": 73,
+                    "4": 82
+                },
+                "scores_after_surplus": {
+                    "3": 73,
+                    "4": 82
+                },
+                "outcomes_scores": [
+                    82,
+                    73
+                ]
+            },
+            "Outcome N° 0 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "1",
+                    "3"
+                ],
+                "scores_after_exclusion": {
+                    "2": 46,
+                    "4": 101
+                },
+                "scores_after_surplus": {
+                    "2": 46,
+                    "4": 101
+                },
+                "outcomes_scores": {
+                    "0": 101,
+                    "2": 46
+                }
+            },
+            "Outcome N° 0 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "2",
+                    "3"
+                ],
+                "scores_after_exclusion": {
+                    "1": 64,
+                    "4": 83
+                },
+                "scores_after_surplus": {
+                    "1": 64,
+                    "4": 83
+                },
+                "outcomes_scores": {
+                    "0": 83,
+                    "3": 64
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "1",
+                    "4"
+                ],
+                "scores_after_exclusion": {
+                    "2": 41,
+                    "3": 85
+                },
+                "scores_after_surplus": {
+                    "2": 41,
+                    "3": 85
+                },
+                "outcomes_scores": {
+                    "1": 85,
+                    "2": 41
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "2",
+                    "4"
+                ],
+                "scores_after_exclusion": {
+                    "1": 58,
+                    "3": 81
+                },
+                "scores_after_surplus": {
+                    "1": 58,
+                    "3": 81
+                },
+                "outcomes_scores": {
+                    "1": 81,
+                    "3": 58
+                }
+            },
+            "Outcome N° 2 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "3",
+                    "4"
+                ],
+                "scores_after_exclusion": {
+                    "1": 76,
+                    "2": 47
+                },
+                "scores_after_surplus": {
+                    "1": 76,
+                    "2": 47
+                },
+                "outcomes_scores": {
+                    "2": 47,
+                    "3": 76
+                }
+            }
+        },
+        "Condorcet Completion Method Stats": {
+            "Pairwise": [
+                {
+                    "win": {
+                        "1": 285916320882,
+                        "2": 352165224501,
+                        "3": 289403105283
+                    },
+                    "null": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "1": 254535261273,
+                        "2": 160392082446,
+                        "3": 223154201664
+                    }
+                },
+                {
+                    "win": {
+                        "0": 254535261273,
+                        "2": 296376674085,
+                        "3": 282429536481
+                    },
+                    "null": {
+                        "0": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 285916320882,
+                        "2": 142958160441,
+                        "3": 202233495258
+                    }
+                },
+                {
+                    "win": {
+                        "0": 160392082446,
+                        "1": 142958160441,
+                        "3": 163878866847
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 352165224501,
+                        "1": 296376674085,
+                        "3": 264995614476
+                    }
+                },
+                {
+                    "win": [
+                        223154201664,
+                        202233495258,
+                        264995614476
+                    ],
+                    "null": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "lose": [
+                        289403105283,
+                        282429536481,
+                        163878866847
+                    ]
+                }
+            ],
+            "Stats": [
+                {
+                    "1": 31381059609,
+                    "2": 191773142055,
+                    "3": 66248903619
+                },
+                {
+                    "0": 0,
+                    "2": 153418513644,
+                    "3": 80196041223
+                },
+                {
+                    "0": 0,
+                    "1": 0,
+                    "3": 0
+                },
+                [
+                    0,
+                    0,
+                    101116747629
+                ]
+            ]
+        }
+    }
+}

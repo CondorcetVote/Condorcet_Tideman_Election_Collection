@@ -1,0 +1,142 @@
+{
+    "Ranking": "Steve McIntyre",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 180.5,
+        "Initial Score Table": {
+            "None Of The Above": 40,
+            "Stefano Zacchiroli": 134,
+            "Steve McIntyre": 178
+        },
+        "Candidates elected from first round": [],
+        "Candidates eliminated from first round": [
+            "None Of The Above",
+            "Stefano Zacchiroli",
+            "Steve McIntyre"
+        ],
+        "Outcomes": [
+            [
+                "None Of The Above"
+            ],
+            [
+                "Steve McIntyre"
+            ],
+            [
+                "Stefano Zacchiroli"
+            ]
+        ],
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": [
+                    "Stefano Zacchiroli"
+                ],
+                "scores_after_exclusion": {
+                    "None Of The Above": 46,
+                    "Steve McIntyre": 297
+                },
+                "scores_after_surplus": {
+                    "None Of The Above": 46,
+                    "Steve McIntyre": 297
+                },
+                "outcomes_scores": [
+                    46,
+                    297
+                ]
+            },
+            "Outcome N° 0 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "Steve McIntyre"
+                ],
+                "scores_after_exclusion": {
+                    "None Of The Above": 48,
+                    "Stefano Zacchiroli": 291
+                },
+                "scores_after_surplus": {
+                    "None Of The Above": 48,
+                    "Stefano Zacchiroli": 291
+                },
+                "outcomes_scores": {
+                    "0": 48,
+                    "2": 291
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Stefano Zacchiroli": 141,
+                    "Steve McIntyre": 185
+                },
+                "scores_after_surplus": {
+                    "Stefano Zacchiroli": 141,
+                    "Steve McIntyre": 185
+                },
+                "outcomes_scores": {
+                    "1": 185,
+                    "2": 141
+                }
+            }
+        },
+        "Condorcet Completion Method Stats": {
+            "Pairwise": [
+                {
+                    "win": {
+                        "1": 160392082446,
+                        "2": 167365651248
+                    },
+                    "null": {
+                        "1": 0,
+                        "2": 0
+                    },
+                    "lose": {
+                        "1": 1035574967097,
+                        "2": 1014654260691
+                    }
+                },
+                {
+                    "win": {
+                        "0": 1035574967097,
+                        "2": 645055114185
+                    },
+                    "null": {
+                        "0": 0,
+                        "2": 0
+                    },
+                    "lose": {
+                        "0": 160392082446,
+                        "2": 491636600541
+                    }
+                },
+                {
+                    "win": [
+                        1014654260691,
+                        491636600541
+                    ],
+                    "null": [
+                        0,
+                        0
+                    ],
+                    "lose": [
+                        167365651248,
+                        645055114185
+                    ]
+                }
+            ],
+            "Stats": [
+                {
+                    "1": 0,
+                    "2": 0
+                },
+                {
+                    "0": 875182884651,
+                    "2": 153418513644
+                },
+                [
+                    847288609443,
+                    0
+                ]
+            ]
+        }
+    }
+}

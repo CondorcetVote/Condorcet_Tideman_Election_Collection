@@ -1,0 +1,238 @@
+{
+    "Ranking": "Bdale Garbee",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 237.5,
+        "Initial Score Table": {
+            "Bdale Garbee": 228,
+            "Branden Robinson": 145,
+            "None Of The Above": 3,
+            "Raphael Hertzog": 99
+        },
+        "Candidates elected from first round": [],
+        "Candidates eliminated from first round": [
+            "Bdale Garbee",
+            "Branden Robinson",
+            "None Of The Above",
+            "Raphael Hertzog"
+        ],
+        "Outcomes": [
+            [
+                "None Of The Above"
+            ],
+            [
+                "Bdale Garbee"
+            ],
+            [
+                "Raphael Hertzog"
+            ],
+            [
+                "Branden Robinson"
+            ]
+        ],
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": [
+                    "Branden Robinson",
+                    "Raphael Hertzog"
+                ],
+                "scores_after_exclusion": {
+                    "Bdale Garbee": 438,
+                    "None Of The Above": 21
+                },
+                "scores_after_surplus": {
+                    "Bdale Garbee": 438,
+                    "None Of The Above": 21
+                },
+                "outcomes_scores": [
+                    21,
+                    438
+                ]
+            },
+            "Outcome N° 0 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "Bdale Garbee",
+                    "Branden Robinson"
+                ],
+                "scores_after_exclusion": {
+                    "None Of The Above": 56,
+                    "Raphael Hertzog": 396
+                },
+                "scores_after_surplus": {
+                    "None Of The Above": 56,
+                    "Raphael Hertzog": 396
+                },
+                "outcomes_scores": {
+                    "0": 56,
+                    "2": 396
+                }
+            },
+            "Outcome N° 0 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "Bdale Garbee",
+                    "Raphael Hertzog"
+                ],
+                "scores_after_exclusion": {
+                    "Branden Robinson": 380,
+                    "None Of The Above": 71
+                },
+                "scores_after_surplus": {
+                    "Branden Robinson": 380,
+                    "None Of The Above": 71
+                },
+                "outcomes_scores": {
+                    "0": 71,
+                    "3": 380
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "Branden Robinson",
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Bdale Garbee": 328,
+                    "Raphael Hertzog": 133
+                },
+                "scores_after_surplus": {
+                    "Bdale Garbee": 328,
+                    "Raphael Hertzog": 133
+                },
+                "outcomes_scores": {
+                    "1": 328,
+                    "2": 133
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "None Of The Above",
+                    "Raphael Hertzog"
+                ],
+                "scores_after_exclusion": {
+                    "Bdale Garbee": 290,
+                    "Branden Robinson": 179
+                },
+                "scores_after_surplus": {
+                    "Bdale Garbee": 290,
+                    "Branden Robinson": 179
+                },
+                "outcomes_scores": {
+                    "1": 290,
+                    "3": 179
+                }
+            },
+            "Outcome N° 2 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "Bdale Garbee",
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Branden Robinson": 257,
+                    "Raphael Hertzog": 197
+                },
+                "scores_after_surplus": {
+                    "Branden Robinson": 257,
+                    "Raphael Hertzog": 197
+                },
+                "outcomes_scores": {
+                    "2": 197,
+                    "3": 257
+                }
+            }
+        },
+        "Condorcet Completion Method Stats": {
+            "Pairwise": [
+                {
+                    "win": {
+                        "1": 73222472421,
+                        "2": 195259926456,
+                        "3": 247561692471
+                    },
+                    "null": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "1": 1527211567638,
+                        "2": 1380766622796,
+                        "3": 1324978072380
+                    }
+                },
+                {
+                    "win": {
+                        "0": 1527211567638,
+                        "2": 1143665283528,
+                        "3": 1011167476290
+                    },
+                    "null": {
+                        "0": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 73222472421,
+                        "2": 463742325333,
+                        "3": 624134407779
+                    }
+                },
+                {
+                    "win": {
+                        "0": 1380766622796,
+                        "1": 463742325333,
+                        "3": 686896526997
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 195259926456,
+                        "1": 1143665283528,
+                        "3": 896103591057
+                    }
+                },
+                {
+                    "win": [
+                        1324978072380,
+                        624134407779,
+                        896103591057
+                    ],
+                    "null": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "lose": [
+                        247561692471,
+                        1011167476290,
+                        686896526997
+                    ]
+                }
+            ],
+            "Stats": [
+                {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0
+                },
+                {
+                    "0": 1453989095217,
+                    "2": 679922958195,
+                    "3": 387033068511
+                },
+                {
+                    "0": 1185506696340,
+                    "1": 0,
+                    "3": 0
+                },
+                [
+                    1077416379909,
+                    0,
+                    209207064060
+                ]
+            ]
+        }
+    }
+}

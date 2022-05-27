@@ -1,0 +1,19 @@
+{
+    "Ranking": "1",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 64.5,
+        "Initial Score Table": {
+            "1": 111,
+            "2": 7,
+            "3": 11
+        },
+        "Candidates elected from first round": [
+            "1"
+        ],
+        "Candidates eliminated from first round": [
+            "2",
+            "3"
+        ]
+    }
+}

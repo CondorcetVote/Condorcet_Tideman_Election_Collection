@@ -1,0 +1,88 @@
+{
+    "Ranking": "4 > 1 > 2",
+    "Number Of Seats": 3,
+    "Stats": {
+        "votes_needed_to_win": 39.5,
+        "Initial Score Table": {
+            "1": 44,
+            "2": 37,
+            "3": 20,
+            "4": 57
+        },
+        "Candidates elected from first round": [
+            "1",
+            "4"
+        ],
+        "Candidates eliminated from first round": [
+            "2",
+            "3"
+        ],
+        "Outcomes": [
+            [
+                "1",
+                "3",
+                "4"
+            ],
+            [
+                "1",
+                "2",
+                "4"
+            ]
+        ],
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": [],
+                "scores_after_exclusion": {
+                    "1": 44,
+                    "2": 37,
+                    "3": 20,
+                    "4": 57
+                },
+                "scores_after_surplus": {
+                    "1": 39.5,
+                    "2": 44.366826152,
+                    "3": 32.177232855,
+                    "4": 39.5
+                },
+                "outcomes_scores": [
+                    111.177232855,
+                    123.366826152
+                ]
+            }
+        },
+        "Condorcet Completion Method Stats": {
+            "Pairwise": [
+                {
+                    "win": {
+                        "1": 387651041265
+                    },
+                    "null": {
+                        "1": 0
+                    },
+                    "lose": {
+                        "1": 430153525027
+                    }
+                },
+                {
+                    "win": [
+                        430153525027
+                    ],
+                    "null": [
+                        0
+                    ],
+                    "lose": [
+                        387651041265
+                    ]
+                }
+            ],
+            "Stats": [
+                {
+                    "1": 0
+                },
+                [
+                    42502483762
+                ]
+            ]
+        }
+    }
+}

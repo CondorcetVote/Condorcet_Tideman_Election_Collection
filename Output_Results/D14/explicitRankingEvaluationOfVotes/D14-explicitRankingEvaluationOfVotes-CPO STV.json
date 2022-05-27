@@ -1,0 +1,142 @@
+{
+    "Ranking": "Lucas Nussbaum",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 200.5,
+        "Initial Score Table": {
+            "Lucas Nussbaum": 197,
+            "Neil McGovern": 156,
+            "None Of The Above": 36
+        },
+        "Candidates elected from first round": [],
+        "Candidates eliminated from first round": [
+            "Lucas Nussbaum",
+            "Neil McGovern",
+            "None Of The Above"
+        ],
+        "Outcomes": [
+            [
+                "None Of The Above"
+            ],
+            [
+                "Neil McGovern"
+            ],
+            [
+                "Lucas Nussbaum"
+            ]
+        ],
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": [
+                    "Lucas Nussbaum"
+                ],
+                "scores_after_exclusion": {
+                    "Neil McGovern": 330,
+                    "None Of The Above": 50
+                },
+                "scores_after_surplus": {
+                    "Neil McGovern": 330,
+                    "None Of The Above": 50
+                },
+                "outcomes_scores": [
+                    50,
+                    330
+                ]
+            },
+            "Outcome N° 0 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "Neil McGovern"
+                ],
+                "scores_after_exclusion": {
+                    "Lucas Nussbaum": 331,
+                    "None Of The Above": 53
+                },
+                "scores_after_surplus": {
+                    "Lucas Nussbaum": 331,
+                    "None Of The Above": 53
+                },
+                "outcomes_scores": {
+                    "0": 53,
+                    "2": 331
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Lucas Nussbaum": 205,
+                    "Neil McGovern": 158
+                },
+                "scores_after_surplus": {
+                    "Lucas Nussbaum": 205,
+                    "Neil McGovern": 158
+                },
+                "outcomes_scores": {
+                    "1": 158,
+                    "2": 205
+                }
+            }
+        },
+        "Condorcet Completion Method Stats": {
+            "Pairwise": [
+                {
+                    "win": {
+                        "1": 174339220050,
+                        "2": 184799573253
+                    },
+                    "null": {
+                        "1": 0,
+                        "2": 0
+                    },
+                    "lose": {
+                        "1": 1150638852330,
+                        "2": 1154125636731
+                    }
+                },
+                {
+                    "win": {
+                        "0": 1150638852330,
+                        "2": 550911935358
+                    },
+                    "null": {
+                        "0": 0,
+                        "2": 0
+                    },
+                    "lose": {
+                        "0": 174339220050,
+                        "2": 714790802205
+                    }
+                },
+                {
+                    "win": [
+                        1154125636731,
+                        714790802205
+                    ],
+                    "null": [
+                        0,
+                        0
+                    ],
+                    "lose": [
+                        184799573253,
+                        550911935358
+                    ]
+                }
+            ],
+            "Stats": [
+                {
+                    "1": 0,
+                    "2": 0
+                },
+                {
+                    "0": 976299632280,
+                    "2": 0
+                },
+                [
+                    969326063478,
+                    163878866847
+                ]
+            ]
+        }
+    }
+}

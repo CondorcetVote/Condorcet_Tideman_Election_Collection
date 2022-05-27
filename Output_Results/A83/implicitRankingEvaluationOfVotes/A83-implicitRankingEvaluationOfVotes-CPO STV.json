@@ -1,0 +1,21 @@
+{
+    "Ranking": "C > A > B",
+    "Number Of Seats": 3,
+    "Stats": {
+        "votes_needed_to_win": 280.75,
+        "Initial Score Table": {
+            "A": 302,
+            "B": 293,
+            "C": 373,
+            "D": 155
+        },
+        "Candidates elected from first round": [
+            "A",
+            "B",
+            "C"
+        ],
+        "Candidates eliminated from first round": [
+            "D"
+        ]
+    }
+}

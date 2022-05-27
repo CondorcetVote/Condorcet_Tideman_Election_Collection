@@ -1,0 +1,168 @@
+{
+    "Ranking": "A > D > C > E",
+    "Number Of Seats": 4,
+    "Stats": {
+        "votes_needed_to_win": 557,
+        "Initial Score Table": {
+            "A": 980,
+            "B": 153,
+            "C": 420,
+            "D": 833,
+            "E": 399
+        },
+        "Candidates elected from first round": [
+            "A",
+            "D"
+        ],
+        "Candidates eliminated from first round": [
+            "B",
+            "C",
+            "E"
+        ],
+        "Outcomes": [
+            [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        ],
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": [],
+                "scores_after_exclusion": {
+                    "A": 980,
+                    "B": 153,
+                    "C": 420,
+                    "D": 833,
+                    "E": 399
+                },
+                "scores_after_surplus": {
+                    "A": 557,
+                    "B": 290.683073215,
+                    "C": 638.827851118,
+                    "D": 557,
+                    "E": 645.25516204
+                },
+                "outcomes_scores": [
+                    2398.083013158,
+                    2049.938235255
+                ]
+            },
+            "Outcome N° 0 compared to Outcome N° 2": {
+                "candidates_excluded": [],
+                "scores_after_exclusion": {
+                    "A": 980,
+                    "B": 153,
+                    "C": 420,
+                    "D": 833,
+                    "E": 399
+                },
+                "scores_after_surplus": {
+                    "A": 557,
+                    "B": 290.683073215,
+                    "C": 638.827851118,
+                    "D": 557,
+                    "E": 645.25516204
+                },
+                "outcomes_scores": {
+                    "0": 2398.083013158,
+                    "2": 2043.5109243329998
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 2": {
+                "candidates_excluded": [],
+                "scores_after_exclusion": {
+                    "A": 980,
+                    "B": 153,
+                    "C": 420,
+                    "D": 833,
+                    "E": 399
+                },
+                "scores_after_surplus": {
+                    "A": 557,
+                    "B": 290.683073215,
+                    "C": 638.827851118,
+                    "D": 557,
+                    "E": 645.25516204
+                },
+                "outcomes_scores": {
+                    "1": 2049.938235255,
+                    "2": 2043.5109243329998
+                }
+            }
+        },
+        "Condorcet Completion Method Stats": {
+            "Pairwise": [
+                {
+                    "win": {
+                        "1": 8361598442582,
+                        "2": 8361598442582
+                    },
+                    "null": {
+                        "1": 0,
+                        "2": 0
+                    },
+                    "lose": {
+                        "1": 7147692661700,
+                        "2": 7125282014237
+                    }
+                },
+                {
+                    "win": {
+                        "0": 7147692661700,
+                        "2": 7147692661700
+                    },
+                    "null": {
+                        "0": 0,
+                        "2": 0
+                    },
+                    "lose": {
+                        "0": 8361598442582,
+                        "2": 7125282014237
+                    }
+                },
+                {
+                    "win": [
+                        7125282014237,
+                        7125282014237
+                    ],
+                    "null": [
+                        0,
+                        0
+                    ],
+                    "lose": [
+                        8361598442582,
+                        7147692661700
+                    ]
+                }
+            ],
+            "Stats": [
+                {
+                    "1": 1213905780882,
+                    "2": 1236316428345
+                },
+                {
+                    "0": 0,
+                    "2": 22410647463
+                },
+                [
+                    0,
+                    0
+                ]
+            ]
+        }
+    }
+}

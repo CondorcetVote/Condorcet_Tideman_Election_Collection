@@ -1,0 +1,238 @@
+{
+    "Ranking": "1",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 186.5,
+        "Initial Score Table": {
+            "1": 162,
+            "2": 71,
+            "3": 40,
+            "4": 96
+        },
+        "Candidates elected from first round": [],
+        "Candidates eliminated from first round": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "Outcomes": [
+            [
+                "4"
+            ],
+            [
+                "3"
+            ],
+            [
+                "2"
+            ],
+            [
+                "1"
+            ]
+        ],
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": [
+                    "1",
+                    "2"
+                ],
+                "scores_after_exclusion": {
+                    "3": 187,
+                    "4": 161
+                },
+                "scores_after_surplus": {
+                    "3": 187,
+                    "4": 161
+                },
+                "outcomes_scores": [
+                    161,
+                    187
+                ]
+            },
+            "Outcome N° 0 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "1",
+                    "3"
+                ],
+                "scores_after_exclusion": {
+                    "2": 177,
+                    "4": 172
+                },
+                "scores_after_surplus": {
+                    "2": 177,
+                    "4": 172
+                },
+                "outcomes_scores": {
+                    "0": 172,
+                    "2": 177
+                }
+            },
+            "Outcome N° 0 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "2",
+                    "3"
+                ],
+                "scores_after_exclusion": {
+                    "1": 209,
+                    "4": 151
+                },
+                "scores_after_surplus": {
+                    "1": 209,
+                    "4": 151
+                },
+                "outcomes_scores": {
+                    "0": 151,
+                    "3": 209
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "1",
+                    "4"
+                ],
+                "scores_after_exclusion": {
+                    "2": 156,
+                    "3": 185
+                },
+                "scores_after_surplus": {
+                    "2": 156,
+                    "3": 185
+                },
+                "outcomes_scores": {
+                    "1": 185,
+                    "2": 156
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "2",
+                    "4"
+                ],
+                "scores_after_exclusion": {
+                    "1": 210,
+                    "3": 142
+                },
+                "scores_after_surplus": {
+                    "1": 210,
+                    "3": 142
+                },
+                "outcomes_scores": {
+                    "1": 142,
+                    "3": 210
+                }
+            },
+            "Outcome N° 2 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "3",
+                    "4"
+                ],
+                "scores_after_exclusion": {
+                    "1": 220,
+                    "2": 129
+                },
+                "scores_after_surplus": {
+                    "1": 220,
+                    "2": 129
+                },
+                "outcomes_scores": {
+                    "2": 129,
+                    "3": 220
+                }
+            }
+        },
+        "Condorcet Completion Method Stats": {
+            "Pairwise": [
+                {
+                    "win": {
+                        "1": 561372288561,
+                        "2": 599726916972,
+                        "3": 526504444551
+                    },
+                    "null": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "1": 652028682987,
+                        "2": 617160838977,
+                        "3": 728737939809
+                    }
+                },
+                {
+                    "win": {
+                        "0": 652028682987,
+                        "2": 645055114185,
+                        "3": 495123384942
+                    },
+                    "null": {
+                        "0": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 561372288561,
+                        "2": 543938366556,
+                        "3": 732224724210
+                    }
+                },
+                {
+                    "win": {
+                        "0": 617160838977,
+                        "1": 543938366556,
+                        "3": 449795187729
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 599726916972,
+                        "1": 645055114185,
+                        "3": 767092568220
+                    }
+                },
+                {
+                    "win": [
+                        728737939809,
+                        732224724210,
+                        767092568220
+                    ],
+                    "null": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "lose": [
+                        526504444551,
+                        495123384942,
+                        449795187729
+                    ]
+                }
+            ],
+            "Stats": [
+                {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0
+                },
+                {
+                    "0": 90656394426,
+                    "2": 101116747629,
+                    "3": 0
+                },
+                {
+                    "0": 17433922005,
+                    "1": 0,
+                    "3": 0
+                },
+                [
+                    202233495258,
+                    237101339268,
+                    317297380491
+                ]
+            ]
+        }
+    }
+}

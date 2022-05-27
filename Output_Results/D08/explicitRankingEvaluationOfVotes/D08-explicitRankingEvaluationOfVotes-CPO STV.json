@@ -1,0 +1,238 @@
+{
+    "Ranking": "Steve McIntyre",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 200.5,
+        "Initial Score Table": {
+            "Marc Brockschmidt": 92,
+            "None Of The Above": 28,
+            "Raphael Hertzog": 127,
+            "Steve McIntyre": 149
+        },
+        "Candidates elected from first round": [],
+        "Candidates eliminated from first round": [
+            "Marc Brockschmidt",
+            "None Of The Above",
+            "Raphael Hertzog",
+            "Steve McIntyre"
+        ],
+        "Outcomes": [
+            [
+                "None Of The Above"
+            ],
+            [
+                "Marc Brockschmidt"
+            ],
+            [
+                "Raphael Hertzog"
+            ],
+            [
+                "Steve McIntyre"
+            ]
+        ],
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": [
+                    "Raphael Hertzog",
+                    "Steve McIntyre"
+                ],
+                "scores_after_exclusion": {
+                    "Marc Brockschmidt": 282,
+                    "None Of The Above": 88
+                },
+                "scores_after_surplus": {
+                    "Marc Brockschmidt": 282,
+                    "None Of The Above": 88
+                },
+                "outcomes_scores": [
+                    88,
+                    282
+                ]
+            },
+            "Outcome N° 0 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "Marc Brockschmidt",
+                    "Steve McIntyre"
+                ],
+                "scores_after_exclusion": {
+                    "None Of The Above": 102,
+                    "Raphael Hertzog": 274
+                },
+                "scores_after_surplus": {
+                    "None Of The Above": 102,
+                    "Raphael Hertzog": 274
+                },
+                "outcomes_scores": {
+                    "0": 102,
+                    "2": 274
+                }
+            },
+            "Outcome N° 0 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "Marc Brockschmidt",
+                    "Raphael Hertzog"
+                ],
+                "scores_after_exclusion": {
+                    "None Of The Above": 69,
+                    "Steve McIntyre": 305
+                },
+                "scores_after_surplus": {
+                    "None Of The Above": 69,
+                    "Steve McIntyre": 305
+                },
+                "outcomes_scores": {
+                    "0": 69,
+                    "3": 305
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "None Of The Above",
+                    "Steve McIntyre"
+                ],
+                "scores_after_exclusion": {
+                    "Marc Brockschmidt": 153,
+                    "Raphael Hertzog": 196
+                },
+                "scores_after_surplus": {
+                    "Marc Brockschmidt": 153,
+                    "Raphael Hertzog": 196
+                },
+                "outcomes_scores": {
+                    "1": 153,
+                    "2": 196
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "None Of The Above",
+                    "Raphael Hertzog"
+                ],
+                "scores_after_exclusion": {
+                    "Marc Brockschmidt": 135,
+                    "Steve McIntyre": 222
+                },
+                "scores_after_surplus": {
+                    "Marc Brockschmidt": 135,
+                    "Steve McIntyre": 222
+                },
+                "outcomes_scores": {
+                    "1": 135,
+                    "3": 222
+                }
+            },
+            "Outcome N° 2 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "Marc Brockschmidt",
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Raphael Hertzog": 161,
+                    "Steve McIntyre": 202
+                },
+                "scores_after_surplus": {
+                    "Raphael Hertzog": 161,
+                    "Steve McIntyre": 202
+                },
+                "outcomes_scores": {
+                    "2": 161,
+                    "3": 202
+                }
+            }
+        },
+        "Condorcet Completion Method Stats": {
+            "Pairwise": [
+                {
+                    "win": {
+                        "1": 306837027288,
+                        "2": 355652008902,
+                        "3": 240588123669
+                    },
+                    "null": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "1": 983273201082,
+                        "2": 955378925874,
+                        "3": 1063469242305
+                    }
+                },
+                {
+                    "win": {
+                        "0": 983273201082,
+                        "2": 533478013353,
+                        "3": 470715894135
+                    },
+                    "null": {
+                        "0": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 306837027288,
+                        "2": 683409742596,
+                        "3": 774066137022
+                    }
+                },
+                {
+                    "win": {
+                        "0": 955378925874,
+                        "1": 683409742596,
+                        "3": 561372288561
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 355652008902,
+                        "1": 533478013353,
+                        "3": 704330449002
+                    }
+                },
+                {
+                    "win": [
+                        1063469242305,
+                        774066137022,
+                        704330449002
+                    ],
+                    "null": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "lose": [
+                        240588123669,
+                        470715894135,
+                        561372288561
+                    ]
+                }
+            ],
+            "Stats": [
+                {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0
+                },
+                {
+                    "0": 676436173794,
+                    "2": 0,
+                    "3": 0
+                },
+                {
+                    "0": 599726916972,
+                    "1": 149931729243,
+                    "3": 0
+                },
+                [
+                    822881118636,
+                    303350242887,
+                    142958160441
+                ]
+            ]
+        }
+    }
+}

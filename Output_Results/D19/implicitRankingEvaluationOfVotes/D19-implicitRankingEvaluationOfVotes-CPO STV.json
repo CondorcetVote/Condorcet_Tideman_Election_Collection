@@ -1,0 +1,367 @@
+{
+    "Ranking": "Sam Hartman",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 189,
+        "Initial Score Table": {
+            "Joerg Jaspert": 68,
+            "Jonathan Carter": 52,
+            "Martin Michlmayr": 112,
+            "None Of The Above": 24,
+            "Sam Hartman": 121
+        },
+        "Candidates elected from first round": [],
+        "Candidates eliminated from first round": [
+            "Joerg Jaspert",
+            "Jonathan Carter",
+            "Martin Michlmayr",
+            "None Of The Above",
+            "Sam Hartman"
+        ],
+        "Outcomes": [
+            [
+                "None Of The Above"
+            ],
+            [
+                "Martin Michlmayr"
+            ],
+            [
+                "Sam Hartman"
+            ],
+            [
+                "Jonathan Carter"
+            ],
+            [
+                "Joerg Jaspert"
+            ]
+        ],
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": [
+                    "Joerg Jaspert",
+                    "Jonathan Carter",
+                    "Sam Hartman"
+                ],
+                "scores_after_exclusion": {
+                    "Martin Michlmayr": 274,
+                    "None Of The Above": 84
+                },
+                "scores_after_surplus": {
+                    "Martin Michlmayr": 274,
+                    "None Of The Above": 84
+                },
+                "outcomes_scores": [
+                    84,
+                    274
+                ]
+            },
+            "Outcome N° 0 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "Joerg Jaspert",
+                    "Jonathan Carter",
+                    "Martin Michlmayr"
+                ],
+                "scores_after_exclusion": {
+                    "None Of The Above": 91,
+                    "Sam Hartman": 271
+                },
+                "scores_after_surplus": {
+                    "None Of The Above": 91,
+                    "Sam Hartman": 271
+                },
+                "outcomes_scores": {
+                    "0": 91,
+                    "2": 271
+                }
+            },
+            "Outcome N° 0 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "Joerg Jaspert",
+                    "Martin Michlmayr",
+                    "Sam Hartman"
+                ],
+                "scores_after_exclusion": {
+                    "Jonathan Carter": 261,
+                    "None Of The Above": 98
+                },
+                "scores_after_surplus": {
+                    "Jonathan Carter": 261,
+                    "None Of The Above": 98
+                },
+                "outcomes_scores": {
+                    "0": 98,
+                    "3": 261
+                }
+            },
+            "Outcome N° 0 compared to Outcome N° 4": {
+                "candidates_excluded": [
+                    "Jonathan Carter",
+                    "Martin Michlmayr",
+                    "Sam Hartman"
+                ],
+                "scores_after_exclusion": {
+                    "Joerg Jaspert": 271,
+                    "None Of The Above": 98
+                },
+                "scores_after_surplus": {
+                    "Joerg Jaspert": 271,
+                    "None Of The Above": 98
+                },
+                "outcomes_scores": {
+                    "0": 98,
+                    "4": 271
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "Joerg Jaspert",
+                    "Jonathan Carter",
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Martin Michlmayr": 144,
+                    "Sam Hartman": 183
+                },
+                "scores_after_surplus": {
+                    "Martin Michlmayr": 144,
+                    "Sam Hartman": 183
+                },
+                "outcomes_scores": {
+                    "1": 144,
+                    "2": 183
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "Joerg Jaspert",
+                    "None Of The Above",
+                    "Sam Hartman"
+                ],
+                "scores_after_exclusion": {
+                    "Jonathan Carter": 159,
+                    "Martin Michlmayr": 177
+                },
+                "scores_after_surplus": {
+                    "Jonathan Carter": 159,
+                    "Martin Michlmayr": 177
+                },
+                "outcomes_scores": {
+                    "1": 177,
+                    "3": 159
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 4": {
+                "candidates_excluded": [
+                    "Jonathan Carter",
+                    "None Of The Above",
+                    "Sam Hartman"
+                ],
+                "scores_after_exclusion": {
+                    "Joerg Jaspert": 169,
+                    "Martin Michlmayr": 176
+                },
+                "scores_after_surplus": {
+                    "Joerg Jaspert": 169,
+                    "Martin Michlmayr": 176
+                },
+                "outcomes_scores": {
+                    "1": 176,
+                    "4": 169
+                }
+            },
+            "Outcome N° 2 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "Joerg Jaspert",
+                    "Martin Michlmayr",
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Jonathan Carter": 111,
+                    "Sam Hartman": 199
+                },
+                "scores_after_surplus": {
+                    "Jonathan Carter": 111,
+                    "Sam Hartman": 199
+                },
+                "outcomes_scores": {
+                    "2": 199,
+                    "3": 111
+                }
+            },
+            "Outcome N° 2 compared to Outcome N° 4": {
+                "candidates_excluded": [
+                    "Jonathan Carter",
+                    "Martin Michlmayr",
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Joerg Jaspert": 143,
+                    "Sam Hartman": 191
+                },
+                "scores_after_surplus": {
+                    "Joerg Jaspert": 143,
+                    "Sam Hartman": 191
+                },
+                "outcomes_scores": {
+                    "2": 191,
+                    "4": 143
+                }
+            },
+            "Outcome N° 3 compared to Outcome N° 4": {
+                "candidates_excluded": [
+                    "Martin Michlmayr",
+                    "None Of The Above",
+                    "Sam Hartman"
+                ],
+                "scores_after_exclusion": {
+                    "Joerg Jaspert": 179,
+                    "Jonathan Carter": 148
+                },
+                "scores_after_surplus": {
+                    "Joerg Jaspert": 179,
+                    "Jonathan Carter": 148
+                },
+                "outcomes_scores": {
+                    "3": 148,
+                    "4": 179
+                }
+            }
+        },
+        "Condorcet Completion Method Stats": {
+            "Pairwise": [
+                {
+                    "win": {
+                        "1": 292889889684,
+                        "2": 317297380491,
+                        "3": 341704871298,
+                        "4": 341704871298
+                    },
+                    "null": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0
+                    },
+                    "lose": {
+                        "1": 955378925874,
+                        "2": 944918572671,
+                        "3": 910050728661,
+                        "4": 944918572671
+                    }
+                },
+                {
+                    "win": {
+                        "0": 955378925874,
+                        "2": 502096953744,
+                        "3": 617160838977,
+                        "4": 613674054576
+                    },
+                    "null": {
+                        "0": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0
+                    },
+                    "lose": {
+                        "0": 292889889684,
+                        "2": 638081545383,
+                        "3": 554398719759,
+                        "4": 589266563769
+                    }
+                },
+                {
+                    "win": {
+                        "0": 944918572671,
+                        "1": 638081545383,
+                        "3": 693870095799,
+                        "4": 665975820591
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "3": 0,
+                        "4": 0
+                    },
+                    "lose": {
+                        "0": 317297380491,
+                        "1": 502096953744,
+                        "3": 387033068511,
+                        "4": 498610169343
+                    }
+                },
+                {
+                    "win": {
+                        "0": 910050728661,
+                        "1": 554398719759,
+                        "2": 387033068511,
+                        "4": 516044091348
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "2": 0,
+                        "4": 0
+                    },
+                    "lose": {
+                        "0": 341704871298,
+                        "1": 617160838977,
+                        "2": 693870095799,
+                        "4": 624134407779
+                    }
+                },
+                {
+                    "win": [
+                        944918572671,
+                        589266563769,
+                        498610169343,
+                        624134407779
+                    ],
+                    "null": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "lose": [
+                        341704871298,
+                        613674054576,
+                        665975820591,
+                        516044091348
+                    ]
+                }
+            ],
+            "Stats": [
+                {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0
+                },
+                {
+                    "0": 662489036190,
+                    "2": 0,
+                    "3": 62762119218,
+                    "4": 24407490807
+                },
+                {
+                    "0": 627621192180,
+                    "1": 135984591639,
+                    "3": 306837027288,
+                    "4": 167365651248
+                },
+                {
+                    "0": 568345857363,
+                    "1": 0,
+                    "2": 0,
+                    "4": 0
+                },
+                [
+                    603213701373,
+                    0,
+                    0,
+                    108090316431
+                ]
+            ]
+        }
+    }
+}

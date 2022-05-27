@@ -1,0 +1,238 @@
+{
+    "Ranking": "Lucas Nussbaum",
+    "Number Of Seats": 1,
+    "Stats": {
+        "votes_needed_to_win": 195,
+        "Initial Score Table": {
+            "Gergely Nagy": 57,
+            "Lucas Nussbaum": 176,
+            "Moray Allan": 129,
+            "None Of The Above": 28
+        },
+        "Candidates elected from first round": [],
+        "Candidates eliminated from first round": [
+            "Gergely Nagy",
+            "Lucas Nussbaum",
+            "Moray Allan",
+            "None Of The Above"
+        ],
+        "Outcomes": [
+            [
+                "None Of The Above"
+            ],
+            [
+                "Lucas Nussbaum"
+            ],
+            [
+                "Moray Allan"
+            ],
+            [
+                "Gergely Nagy"
+            ]
+        ],
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": [
+                    "Gergely Nagy",
+                    "Moray Allan"
+                ],
+                "scores_after_exclusion": {
+                    "Lucas Nussbaum": 306,
+                    "None Of The Above": 77
+                },
+                "scores_after_surplus": {
+                    "Lucas Nussbaum": 306,
+                    "None Of The Above": 77
+                },
+                "outcomes_scores": [
+                    77,
+                    306
+                ]
+            },
+            "Outcome N° 0 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "Gergely Nagy",
+                    "Lucas Nussbaum"
+                ],
+                "scores_after_exclusion": {
+                    "Moray Allan": 296,
+                    "None Of The Above": 83
+                },
+                "scores_after_surplus": {
+                    "Moray Allan": 296,
+                    "None Of The Above": 83
+                },
+                "outcomes_scores": {
+                    "0": 83,
+                    "2": 296
+                }
+            },
+            "Outcome N° 0 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "Lucas Nussbaum",
+                    "Moray Allan"
+                ],
+                "scores_after_exclusion": {
+                    "Gergely Nagy": 267,
+                    "None Of The Above": 103
+                },
+                "scores_after_surplus": {
+                    "Gergely Nagy": 267,
+                    "None Of The Above": 103
+                },
+                "outcomes_scores": {
+                    "0": 103,
+                    "3": 267
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 2": {
+                "candidates_excluded": [
+                    "Gergely Nagy",
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Lucas Nussbaum": 209,
+                    "Moray Allan": 142
+                },
+                "scores_after_surplus": {
+                    "Lucas Nussbaum": 209,
+                    "Moray Allan": 142
+                },
+                "outcomes_scores": {
+                    "1": 209,
+                    "2": 142
+                }
+            },
+            "Outcome N° 1 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "Moray Allan",
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Gergely Nagy": 80,
+                    "Lucas Nussbaum": 261
+                },
+                "scores_after_surplus": {
+                    "Gergely Nagy": 80,
+                    "Lucas Nussbaum": 261
+                },
+                "outcomes_scores": {
+                    "1": 261,
+                    "3": 80
+                }
+            },
+            "Outcome N° 2 compared to Outcome N° 3": {
+                "candidates_excluded": [
+                    "Lucas Nussbaum",
+                    "None Of The Above"
+                ],
+                "scores_after_exclusion": {
+                    "Gergely Nagy": 105,
+                    "Moray Allan": 235
+                },
+                "scores_after_surplus": {
+                    "Gergely Nagy": 105,
+                    "Moray Allan": 235
+                },
+                "outcomes_scores": {
+                    "2": 235,
+                    "3": 105
+                }
+            }
+        },
+        "Condorcet Completion Method Stats": {
+            "Pairwise": [
+                {
+                    "win": {
+                        "1": 268482398877,
+                        "2": 289403105283,
+                        "3": 359138793303
+                    },
+                    "null": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "1": 1066956026706,
+                        "2": 1032088182696,
+                        "3": 930971435067
+                    }
+                },
+                {
+                    "win": {
+                        "0": 1066956026706,
+                        "2": 728737939809,
+                        "3": 910050728661
+                    },
+                    "null": {
+                        "0": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 268482398877,
+                        "2": 495123384942,
+                        "3": 278942752080
+                    }
+                },
+                {
+                    "win": {
+                        "0": 1032088182696,
+                        "1": 495123384942,
+                        "3": 819394334235
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 289403105283,
+                        "1": 728737939809,
+                        "3": 366112362105
+                    }
+                },
+                {
+                    "win": [
+                        930971435067,
+                        278942752080,
+                        366112362105
+                    ],
+                    "null": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "lose": [
+                        359138793303,
+                        910050728661,
+                        819394334235
+                    ]
+                }
+            ],
+            "Stats": [
+                {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0
+                },
+                {
+                    "0": 798473627829,
+                    "2": 233614554867,
+                    "3": 631107976581
+                },
+                {
+                    "0": 742685077413,
+                    "1": 0,
+                    "3": 453281972130
+                },
+                [
+                    571832641764,
+                    0,
+                    0
+                ]
+            ]
+        }
+    }
+}
