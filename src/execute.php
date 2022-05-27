@@ -8,6 +8,7 @@ declare(strict_types=1);
 namespace CondorcetPHP\TidemanCollection;
 
 use CondorcetPHP\Condorcet\Algo\Methods\KemenyYoung\KemenyYoung;
+use CondorcetPHP\Condorcet\Algo\Methods\STV\CPO_STV;
 use CondorcetPHP\Condorcet\Condorcet;
 use CondorcetPHP\Condorcet\Election;
 use CondorcetPHP\Condorcet\Throwable\CondorcetPublicApiException;
@@ -18,7 +19,7 @@ use CondorcetPHP\Condorcet\Tools\Converters\DebianFormat;
 require_once __DIR__.'/../vendor/autoload.php';
 
 // Memory Limit
-ini_set('memory_limit', '8192M');
+ini_set('memory_limit', '12296M');
 
 
     $isTest = false;
@@ -44,7 +45,7 @@ ini_set('memory_limit', '8192M');
 
     $methods = Condorcet::getAuthMethods();
     natsort($methods);
-    !$isTest && KemenyYoung::$MaxCandidates = 9;
+    !$isTest && (KemenyYoung::$MaxCandidates = 9) && (CPO_STV::$MaxCandidates = 12);
 
     foreach ($tideman_collection_list as $name => $path) :
         echo 'Execute: '.$name."\n";
@@ -68,9 +69,9 @@ ini_set('memory_limit', '8192M');
         $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = $specifications . $numberOfVotes;
         $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: true);
 
-       // Official conversion to .cvotes
-       $results[$name]['condorcetFormatVotes']['officialCvotesConversion'] = $specifications . $numberOfVotes;
-       $results[$name]['condorcetFormatVotes']['officialCvotesConversion'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: !str_starts_with($name, 'D') ? true : false, includeTags: true, inContext: false);
+        // Official conversion to .cvotes
+        $results[$name]['condorcetFormatVotes']['officialCvotesConversion'] = $specifications . $numberOfVotes;
+        $results[$name]['condorcetFormatVotes']['officialCvotesConversion'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: !str_starts_with($name, 'D') ? true : false, includeTags: true, inContext: false);
 
         // Explicit Ranking
         $election->setImplicitRanking(false);
@@ -79,72 +80,10 @@ ini_set('memory_limit', '8192M');
         $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] .= "# For a better readability of the results, the last rank has been interpreted and added when absent from the original ballot. If you are looking for the most faithful conversion to the original, look at the 'Tideman_Collection_Converted_To_CondorcetElectionFormat' folder.\n";
         $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: false);
 
+        writeResults($name, $results[$name]);
     endforeach;
 
     unset($collection, $election);
-
-
-    // Export Results
-
-    $create_dir = function (string $dir):void {if (!is_dir($dir)) : mkdir($dir); endif;};
-
-    # Export for each election
-    foreach ($results as $name => $election) :
-        foreach ($election['methodsResults'] as $methodName => $methodResult) :
-
-            foreach ($methodResult as $mode => $oneResult) :
-                if (!$oneResult['active']) : continue; endif;
-
-                echo 'Write Result: '.$name.' - '.$mode.' - '.$methodName."\n";
-
-                $json = json_encode([
-                        'Ranking'           => $oneResult['ranking'],
-                        'Number Of Seats'   => $election['number_of_seats'],
-                        'Stats'             => $oneResult['stats']
-                    ],
-                    \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE);
-
-                $dir = $base_dir = __DIR__."/../Output_Results/$name";
-                $create_dir($dir);
-
-                $dir .= "/$mode";
-                $create_dir($dir);
-
-                $path = "$dir/$name-$mode-$methodName.json";
-
-                if (strlen($json) < (1048576 * 16)) :
-                    file_put_contents($path, $json);
-                endif;
-            endforeach;
-        endforeach;
-
-        // Condorcet Format
-        file_put_contents("$base_dir/implicitRankingEvaluationOfVotes/$name-aggregated-votes-implicit.cvotes", $election['condorcetFormatVotes']['implicitRankingEvaluationOfVotes']);
-        file_put_contents("$base_dir/explicitRankingEvaluationOfVotes/$name-aggregated-votes-explicit.cvotes", $election['condorcetFormatVotes']['explicitRankingEvaluationOfVotes']);
-        file_put_contents(__DIR__."/../ConversionToCondorcetElectionFormat/$name.cvotes", $election['condorcetFormatVotes']['officialCvotesConversion']);
-    endforeach;
-
-    # Export Pairwise
-    foreach ($results as $name => $electionResults) :
-            foreach ($electionResults['Pairwise'] as $mode => $pairwise) :
-                $path = __DIR__."/../Output_Results/$name/$mode/$name-$mode-Pairwise.json";
-
-                echo "Write Pairwise: $name - $mode\n";
-                file_put_contents($path, json_encode($pairwise, \JSON_PRETTY_PRINT));
-            endforeach;
-    endforeach;
-
-    # Export Condorcet Winner / Loser
-    foreach ($results as $name => $electionResults) :
-        echo "Write Condorcet Winner/Loser: $name - $mode\n";
-
-        foreach (['explicitRankingEvaluationOfVotes', 'implicitRankingEvaluationOfVotes'] as $mode) :
-            $path = __DIR__."/../Output_Results/$name/$mode/$name-$mode-Condorcet.json";
-
-            file_put_contents($path, json_encode(['Condorcet Winner' => $electionResults['CondorcetWinner'][$mode], 'Condorcet Loser' => $electionResults['CondorcetLoser'][$mode]], \JSON_PRETTY_PRINT));
-        endforeach;
-    endforeach;
-
 
     # Make summary
     makeSummary($methods, $results, 'implicitRankingEvaluationOfVotes');
@@ -176,6 +115,67 @@ ini_set('memory_limit', '8192M');
         $results['Pairwise'][$index] = $election->getExplicitPairwise();
         $results['CondorcetWinner'][$index] = (string) $election->getCondorcetWinner();
         $results['CondorcetLoser'][$index] = (string) $election->getCondorcetLoser();
+    }
+
+    // Export Results
+    function writeResults (string $name, array &$election): void
+    {
+        $create_dir = function (string $dir):void {if (!is_dir($dir)) : mkdir($dir); endif;};
+
+        # Export for each election
+        foreach ($election['methodsResults'] as $methodName => &$methodResult) :
+            foreach ($methodResult as $mode => &$oneResult) :
+                if (!$oneResult['active']) : continue; endif;
+
+                echo 'Write Result: '.$name.' - '.$mode.' - '.$methodName."\n";
+
+                $json = json_encode([
+                        'Ranking'           => $oneResult['ranking'],
+                        'Number Of Seats'   => $election['number_of_seats'],
+                        'Stats'             => $oneResult['stats']
+                    ],
+                    \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE);
+
+                $dir = $base_dir = __DIR__."/../Output_Results/$name";
+                $create_dir($dir);
+
+                $dir .= "/$mode";
+                $create_dir($dir);
+
+                $path = "$dir/$name-$mode-$methodName.json";
+
+                if (strlen($json) < (1048576 * 16)) :
+                    file_put_contents($path, $json);
+                endif;
+
+                $oneResult['stats'] = null;
+            endforeach;
+        endforeach;
+
+        # Export Condorcet Format
+        file_put_contents("$base_dir/implicitRankingEvaluationOfVotes/$name-aggregated-votes-implicit.cvotes", $election['condorcetFormatVotes']['implicitRankingEvaluationOfVotes']);
+        file_put_contents("$base_dir/explicitRankingEvaluationOfVotes/$name-aggregated-votes-explicit.cvotes", $election['condorcetFormatVotes']['explicitRankingEvaluationOfVotes']);
+        file_put_contents(__DIR__."/../ConversionToCondorcetElectionFormat/$name.cvotes", $election['condorcetFormatVotes']['officialCvotesConversion']);
+
+        $election['condorcetFormatVotes'] = null;
+
+        # Export Pairwise
+        foreach ($election['Pairwise'] as $mode => $pairwise) :
+            $path = __DIR__."/../Output_Results/$name/$mode/$name-$mode-Pairwise.json";
+
+            echo "Write Pairwise: $name - $mode\n";
+            file_put_contents($path, json_encode($pairwise, \JSON_PRETTY_PRINT));
+        endforeach;
+
+        $election['Pairwise'] = null;
+
+        echo "Write Condorcet Winner/Loser: $name - $mode\n";
+
+        # Export Condorcet Winner / Loser
+        foreach (['explicitRankingEvaluationOfVotes', 'implicitRankingEvaluationOfVotes'] as $mode) :
+            $path = __DIR__."/../Output_Results/$name/$mode/$name-$mode-Condorcet.json";
+            file_put_contents($path, json_encode(['Condorcet Winner' => $election['CondorcetWinner'][$mode], 'Condorcet Loser' => $election['CondorcetLoser'][$mode]], \JSON_PRETTY_PRINT));
+        endforeach;
     }
 
     function makeSummary (array $methods, array $results, string $mode): void
