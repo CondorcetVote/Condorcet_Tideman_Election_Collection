@@ -45,7 +45,7 @@ ini_set('memory_limit', '12296M');
 
     $methods = Condorcet::getAuthMethods();
     natsort($methods);
-    !$isTest && (KemenyYoung::$MaxCandidates = 9) && (CPO_STV::$MaxCandidates = 12);
+    !$isTest && (KemenyYoung::$MaxCandidates = 9) && (CPO_STV::$MaxCandidates = 14);
 
     foreach ($tideman_collection_list as $name => $path) :
         echo 'Execute: '.$name."\n";
@@ -132,7 +132,7 @@ ini_set('memory_limit', '12296M');
                 $json = json_encode([
                         'Ranking'           => $oneResult['ranking'],
                         'Number Of Seats'   => $election['number_of_seats'],
-                        'Stats'             => $oneResult['stats']
+                        'Stats'             => (strlen($oneResult['stats']) < (1048576 * 16)) ? $oneResult['stats'] : null
                     ],
                     \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE|\JSON_FORCE_OBJECT|\JSON_THROW_ON_ERROR);
 
