@@ -134,7 +134,7 @@ ini_set('memory_limit', '12296M');
                         'Number Of Seats'   => $election['number_of_seats'],
                         'Stats'             => $oneResult['stats']
                     ],
-                    \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE|\JSON_FORCE_OBJECT);
+                    \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE|\JSON_FORCE_OBJECT|\JSON_THROW_ON_ERROR);
 
                 $dir = $base_dir = __DIR__."/../Output_Results/$name";
                 $create_dir($dir);
@@ -164,7 +164,7 @@ ini_set('memory_limit', '12296M');
             $path = __DIR__."/../Output_Results/$name/$mode/$name-$mode-Pairwise.json";
 
             echo "Write Pairwise: $name - $mode\n";
-            file_put_contents($path, json_encode($pairwise, \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE));
+            file_put_contents($path, json_encode($pairwise, \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE|\JSON_THROW_ON_ERROR));
         endforeach;
 
         $election['Pairwise'] = null;
@@ -174,7 +174,7 @@ ini_set('memory_limit', '12296M');
         # Export Condorcet Winner / Loser
         foreach (['explicitRankingEvaluationOfVotes', 'implicitRankingEvaluationOfVotes'] as $mode) :
             $path = __DIR__."/../Output_Results/$name/$mode/$name-$mode-Condorcet.json";
-            file_put_contents($path, json_encode(['Condorcet Winner' => $election['CondorcetWinner'][$mode], 'Condorcet Loser' => $election['CondorcetLoser'][$mode]], \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE));
+            file_put_contents($path, json_encode(['Condorcet Winner' => $election['CondorcetWinner'][$mode], 'Condorcet Loser' => $election['CondorcetLoser'][$mode]], \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE|\JSON_THROW_ON_ERROR));
         endforeach;
     }
 
