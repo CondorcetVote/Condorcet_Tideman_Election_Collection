@@ -8,28 +8,28 @@
             "Stefano Zacchiroli": 134,
             "Steve McIntyre": 179
         },
-        "Candidates elected from first round": [],
-        "Candidates eliminated from first round": [
-            "None Of The Above",
-            "Stefano Zacchiroli",
-            "Steve McIntyre"
-        ],
-        "Outcomes": [
-            [
-                "None Of The Above"
-            ],
-            [
-                "Steve McIntyre"
-            ],
-            [
-                "Stefano Zacchiroli"
-            ]
-        ],
+        "Candidates elected from first round": {},
+        "Candidates eliminated from first round": {
+            "0": "None Of The Above",
+            "1": "Stefano Zacchiroli",
+            "2": "Steve McIntyre"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "None Of The Above"
+            },
+            "1": {
+                "0": "Steve McIntyre"
+            },
+            "2": {
+                "0": "Stefano Zacchiroli"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "Stefano Zacchiroli"
-                ],
+                "candidates_excluded": {
+                    "0": "Stefano Zacchiroli"
+                },
                 "scores_after_exclusion": {
                     "None Of The Above": 53,
                     "Steve McIntyre": 298
@@ -38,15 +38,15 @@
                     "None Of The Above": 53,
                     "Steve McIntyre": 298
                 },
-                "outcomes_scores": [
-                    53,
-                    298
-                ]
+                "outcomes_scores": {
+                    "0": 53,
+                    "1": 298
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "None Of The Above": 55,
                     "Stefano Zacchiroli": 291
@@ -61,9 +61,9 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Stefano Zacchiroli": 141,
                     "Steve McIntyre": 186
@@ -79,8 +79,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 184799573253,
                         "2": 191773142055
@@ -94,7 +94,7 @@
                         "2": 1014654260691
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 1039061751498,
                         "2": 648541898586
@@ -108,35 +108,35 @@
                         "2": 491636600541
                     }
                 },
-                {
-                    "win": [
-                        1014654260691,
-                        491636600541
-                    ],
-                    "null": [
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        191773142055,
-                        648541898586
-                    ]
+                "2": {
+                    "win": {
+                        "0": 1014654260691,
+                        "1": 491636600541
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0
+                    },
+                    "lose": {
+                        "0": 191773142055,
+                        "1": 648541898586
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 0,
                     "2": 0
                 },
-                {
+                "1": {
                     "0": 854262178245,
                     "2": 156905298045
                 },
-                [
-                    822881118636,
-                    0
-                ]
-            ]
+                "2": {
+                    "0": 822881118636,
+                    "1": 0
+                }
+            }
         }
     }
 }

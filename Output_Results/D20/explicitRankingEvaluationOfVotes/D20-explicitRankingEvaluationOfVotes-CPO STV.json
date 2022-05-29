@@ -9,13 +9,13 @@
             "None Of The Above": 24,
             "Sruthi Chandran": 47
         },
-        "Candidates elected from first round": [
-            "Jonathan Carter"
-        ],
-        "Candidates eliminated from first round": [
-            "Brian Gupta",
-            "None Of The Above",
-            "Sruthi Chandran"
-        ]
+        "Candidates elected from first round": {
+            "0": "Jonathan Carter"
+        },
+        "Candidates eliminated from first round": {
+            "0": "Brian Gupta",
+            "1": "None Of The Above",
+            "2": "Sruthi Chandran"
+        }
     }
 }

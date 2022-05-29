@@ -2,1953 +2,1953 @@
     "Ranking": "1 = 13 > 2 > 17 > 18 > 7 > 16 = 20 > 9 = 10 > 4 = 12 > 3 = 15 > 6 > 8 > 14 > 19 > 21 > 5 = 11",
     "Number Of Seats": 2,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "18",
                     "to": "12",
                     "win": 11,
                     "minority": 8,
                     "margin": 3
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "3",
                     "to": "6",
                     "win": 10,
                     "minority": 0,
                     "margin": 10
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "18",
                     "to": "11",
                     "win": 10,
                     "minority": 4,
                     "margin": 6
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "20",
                     "to": "8",
                     "win": 10,
                     "minority": 8,
                     "margin": 2
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "13",
                     "to": "7",
                     "win": 9,
                     "minority": 2,
                     "margin": 7
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "8",
                     "to": "14",
                     "win": 9,
                     "minority": 3,
                     "margin": 6
                 },
-                {
+                "1": {
                     "from": "13",
                     "to": "17",
                     "win": 9,
                     "minority": 3,
                     "margin": 6
                 }
-            ],
-            [
-                {
+            },
+            "6": {
+                "0": {
                     "from": "13",
                     "to": "2",
                     "win": 9,
                     "minority": 4,
                     "margin": 5
                 }
-            ],
-            [
-                {
+            },
+            "7": {
+                "0": {
                     "from": "2",
                     "to": "17",
                     "win": 8,
                     "minority": 5,
                     "margin": 3
                 }
-            ],
-            [
-                {
+            },
+            "8": {
+                "0": {
                     "from": "2",
                     "to": "8",
                     "win": 7,
                     "minority": 0,
                     "margin": 7
                 },
-                {
+                "1": {
                     "from": "20",
                     "to": "5",
                     "win": 7,
                     "minority": 0,
                     "margin": 7
                 },
-                {
+                "2": {
                     "from": "20",
                     "to": "11",
                     "win": 7,
                     "minority": 0,
                     "margin": 7
                 }
-            ],
-            [
-                {
+            },
+            "9": {
+                "0": {
                     "from": "2",
                     "to": "11",
                     "win": 7,
                     "minority": 1,
                     "margin": 6
                 },
-                {
+                "1": {
                     "from": "16",
                     "to": "4",
                     "win": 7,
                     "minority": 1,
                     "margin": 6
                 },
-                {
+                "2": {
                     "from": "17",
                     "to": "20",
                     "win": 7,
                     "minority": 1,
                     "margin": 6
                 },
-                {
+                "3": {
                     "from": "20",
                     "to": "21",
                     "win": 7,
                     "minority": 1,
                     "margin": 6
                 }
-            ],
-            [
-                {
+            },
+            "10": {
+                "0": {
                     "from": "7",
                     "to": "20",
                     "win": 7,
                     "minority": 3,
                     "margin": 4
                 },
-                {
+                "1": {
                     "from": "8",
                     "to": "19",
                     "win": 7,
                     "minority": 3,
                     "margin": 4
                 },
-                {
+                "2": {
                     "from": "19",
                     "to": "21",
                     "win": 7,
                     "minority": 3,
                     "margin": 4
                 }
-            ],
-            [
-                {
+            },
+            "11": {
+                "0": {
                     "from": "3",
                     "to": "8",
                     "win": 7,
                     "minority": 4,
                     "margin": 3
                 },
-                {
+                "1": {
                     "from": "3",
                     "to": "19",
                     "win": 7,
                     "minority": 4,
                     "margin": 3
                 },
-                {
+                "2": {
                     "from": "9",
                     "to": "4",
                     "win": 7,
                     "minority": 4,
                     "margin": 3
                 },
-                {
+                "3": {
                     "from": "9",
                     "to": "12",
                     "win": 7,
                     "minority": 4,
                     "margin": 3
                 },
-                {
+                "4": {
                     "from": "12",
                     "to": "3",
                     "win": 7,
                     "minority": 4,
                     "margin": 3
                 }
-            ],
-            [
-                {
+            },
+            "12": {
+                "0": {
                     "from": "7",
                     "to": "12",
                     "win": 7,
                     "minority": 5,
                     "margin": 2
                 }
-            ],
-            [
-                {
+            },
+            "13": {
+                "0": {
                     "from": "7",
                     "to": "10",
                     "win": 7,
                     "minority": 6,
                     "margin": 1
                 }
-            ],
-            [
-                {
+            },
+            "14": {
+                "0": {
                     "from": "2",
                     "to": "18",
                     "win": 6,
                     "minority": 0,
                     "margin": 6
                 },
-                {
+                "1": {
                     "from": "10",
                     "to": "5",
                     "win": 6,
                     "minority": 0,
                     "margin": 6
                 },
-                {
+                "2": {
                     "from": "19",
                     "to": "11",
                     "win": 6,
                     "minority": 0,
                     "margin": 6
                 }
-            ],
-            [
-                {
+            },
+            "15": {
+                "0": {
                     "from": "2",
                     "to": "20",
                     "win": 6,
                     "minority": 1,
                     "margin": 5
                 },
-                {
+                "1": {
                     "from": "10",
                     "to": "21",
                     "win": 6,
                     "minority": 1,
                     "margin": 5
                 },
-                {
+                "2": {
                     "from": "13",
                     "to": "6",
                     "win": 6,
                     "minority": 1,
                     "margin": 5
                 },
-                {
+                "3": {
                     "from": "13",
                     "to": "12",
                     "win": 6,
                     "minority": 1,
                     "margin": 5
                 },
-                {
+                "4": {
                     "from": "13",
                     "to": "21",
                     "win": 6,
                     "minority": 1,
                     "margin": 5
                 },
-                {
+                "5": {
                     "from": "19",
                     "to": "18",
                     "win": 6,
                     "minority": 1,
                     "margin": 5
                 }
-            ],
-            [
-                {
+            },
+            "16": {
+                "0": {
                     "from": "9",
                     "to": "11",
                     "win": 6,
                     "minority": 2,
                     "margin": 4
                 },
-                {
+                "1": {
                     "from": "12",
                     "to": "6",
                     "win": 6,
                     "minority": 2,
                     "margin": 4
                 },
-                {
+                "2": {
                     "from": "19",
                     "to": "5",
                     "win": 6,
                     "minority": 2,
                     "margin": 4
                 },
-                {
+                "3": {
                     "from": "20",
                     "to": "10",
                     "win": 6,
                     "minority": 2,
                     "margin": 4
                 }
-            ],
-            [
-                {
+            },
+            "17": {
+                "0": {
                     "from": "7",
                     "to": "8",
                     "win": 6,
                     "minority": 3,
                     "margin": 3
                 },
-                {
+                "1": {
                     "from": "7",
                     "to": "11",
                     "win": 6,
                     "minority": 3,
                     "margin": 3
                 },
-                {
+                "2": {
                     "from": "17",
                     "to": "7",
                     "win": 6,
                     "minority": 3,
                     "margin": 3
                 }
-            ],
-            [
-                {
+            },
+            "18": {
+                "0": {
                     "from": "12",
                     "to": "8",
                     "win": 6,
                     "minority": 4,
                     "margin": 2
                 },
-                {
+                "1": {
                     "from": "14",
                     "to": "19",
                     "win": 6,
                     "minority": 4,
                     "margin": 2
                 },
-                {
+                "2": {
                     "from": "20",
                     "to": "12",
                     "win": 6,
                     "minority": 4,
                     "margin": 2
                 },
-                {
+                "3": {
                     "from": "20",
                     "to": "19",
                     "win": 6,
                     "minority": 4,
                     "margin": 2
                 }
-            ],
-            [
-                {
+            },
+            "19": {
+                "0": {
                     "from": "3",
                     "to": "20",
                     "win": 6,
                     "minority": 5,
                     "margin": 1
                 },
-                {
+                "1": {
                     "from": "12",
                     "to": "19",
                     "win": 6,
                     "minority": 5,
                     "margin": 1
                 },
-                {
+                "2": {
                     "from": "14",
                     "to": "20",
                     "win": 6,
                     "minority": 5,
                     "margin": 1
                 },
-                {
+                "3": {
                     "from": "16",
                     "to": "9",
                     "win": 6,
                     "minority": 5,
                     "margin": 1
                 },
-                {
+                "4": {
                     "from": "18",
                     "to": "7",
                     "win": 6,
                     "minority": 5,
                     "margin": 1
                 }
-            ],
-            [
-                {
+            },
+            "20": {
+                "0": {
                     "from": "1",
                     "to": "18",
                     "win": 5,
                     "minority": 0,
                     "margin": 5
                 },
-                {
+                "1": {
                     "from": "2",
                     "to": "15",
                     "win": 5,
                     "minority": 0,
                     "margin": 5
                 },
-                {
+                "2": {
                     "from": "4",
                     "to": "11",
                     "win": 5,
                     "minority": 0,
                     "margin": 5
                 },
-                {
+                "3": {
                     "from": "13",
                     "to": "15",
                     "win": 5,
                     "minority": 0,
                     "margin": 5
                 },
-                {
+                "4": {
                     "from": "17",
                     "to": "15",
                     "win": 5,
                     "minority": 0,
                     "margin": 5
                 }
-            ],
-            [
-                {
+            },
+            "21": {
+                "0": {
                     "from": "2",
                     "to": "3",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "1": {
                     "from": "2",
                     "to": "4",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "2": {
                     "from": "2",
                     "to": "5",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "3": {
                     "from": "2",
                     "to": "19",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "4": {
                     "from": "2",
                     "to": "21",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "5": {
                     "from": "7",
                     "to": "19",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "6": {
                     "from": "7",
                     "to": "21",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "7": {
                     "from": "8",
                     "to": "5",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "8": {
                     "from": "10",
                     "to": "6",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "9": {
                     "from": "13",
                     "to": "3",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "10": {
                     "from": "13",
                     "to": "4",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "11": {
                     "from": "13",
                     "to": "18",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "12": {
                     "from": "14",
                     "to": "5",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "13": {
                     "from": "14",
                     "to": "18",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "14": {
                     "from": "17",
                     "to": "4",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "15": {
                     "from": "17",
                     "to": "5",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "16": {
                     "from": "17",
                     "to": "11",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "17": {
                     "from": "17",
                     "to": "14",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "18": {
                     "from": "17",
                     "to": "18",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 },
-                {
+                "19": {
                     "from": "17",
                     "to": "19",
                     "win": 5,
                     "minority": 1,
                     "margin": 4
                 }
-            ],
-            [
-                {
+            },
+            "22": {
+                "0": {
                     "from": "2",
                     "to": "6",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "1": {
                     "from": "2",
                     "to": "9",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "2": {
                     "from": "2",
                     "to": "12",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "3": {
                     "from": "8",
                     "to": "21",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "4": {
                     "from": "10",
                     "to": "8",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "5": {
                     "from": "10",
                     "to": "13",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "6": {
                     "from": "10",
                     "to": "18",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "7": {
                     "from": "13",
                     "to": "8",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "8": {
                     "from": "13",
                     "to": "11",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "9": {
                     "from": "13",
                     "to": "20",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "10": {
                     "from": "16",
                     "to": "12",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "11": {
                     "from": "17",
                     "to": "8",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "12": {
                     "from": "17",
                     "to": "12",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "13": {
                     "from": "20",
                     "to": "9",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 },
-                {
+                "14": {
                     "from": "21",
                     "to": "5",
                     "win": 5,
                     "minority": 2,
                     "margin": 3
                 }
-            ],
-            [
-                {
+            },
+            "23": {
+                "0": {
                     "from": "1",
                     "to": "7",
                     "win": 5,
                     "minority": 3,
                     "margin": 2
                 },
-                {
+                "1": {
                     "from": "3",
                     "to": "21",
                     "win": 5,
                     "minority": 3,
                     "margin": 2
                 },
-                {
+                "2": {
                     "from": "6",
                     "to": "8",
                     "win": 5,
                     "minority": 3,
                     "margin": 2
                 },
-                {
+                "3": {
                     "from": "7",
                     "to": "16",
                     "win": 5,
                     "minority": 3,
                     "margin": 2
                 },
-                {
+                "4": {
                     "from": "10",
                     "to": "19",
                     "win": 5,
                     "minority": 3,
                     "margin": 2
                 },
-                {
+                "5": {
                     "from": "14",
                     "to": "21",
                     "win": 5,
                     "minority": 3,
                     "margin": 2
                 }
-            ],
-            [
-                {
+            },
+            "24": {
+                "0": {
                     "from": "1",
                     "to": "10",
                     "win": 5,
                     "minority": 4,
                     "margin": 1
                 },
-                {
+                "1": {
                     "from": "3",
                     "to": "14",
                     "win": 5,
                     "minority": 4,
                     "margin": 1
                 },
-                {
+                "2": {
                     "from": "20",
                     "to": "18",
                     "win": 5,
                     "minority": 4,
                     "margin": 1
                 }
-            ],
-            [
-                {
+            },
+            "25": {
+                "0": {
                     "from": "1",
                     "to": "15",
                     "win": 4,
                     "minority": 0,
                     "margin": 4
                 },
-                {
+                "1": {
                     "from": "10",
                     "to": "16",
                     "win": 4,
                     "minority": 0,
                     "margin": 4
                 },
-                {
+                "2": {
                     "from": "14",
                     "to": "11",
                     "win": 4,
                     "minority": 0,
                     "margin": 4
                 },
-                {
+                "3": {
                     "from": "16",
                     "to": "11",
                     "win": 4,
                     "minority": 0,
                     "margin": 4
                 },
-                {
+                "4": {
                     "from": "16",
                     "to": "18",
                     "win": 4,
                     "minority": 0,
                     "margin": 4
                 }
-            ],
-            [
-                {
+            },
+            "26": {
+                "0": {
                     "from": "1",
                     "to": "5",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "1": {
                     "from": "1",
                     "to": "6",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "2": {
                     "from": "1",
                     "to": "12",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "3": {
                     "from": "1",
                     "to": "19",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "4": {
                     "from": "1",
                     "to": "21",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "5": {
                     "from": "2",
                     "to": "14",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "6": {
                     "from": "3",
                     "to": "11",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "7": {
                     "from": "3",
                     "to": "18",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "8": {
                     "from": "6",
                     "to": "11",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "9": {
                     "from": "6",
                     "to": "18",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "10": {
                     "from": "7",
                     "to": "5",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "11": {
                     "from": "7",
                     "to": "6",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "12": {
                     "from": "7",
                     "to": "14",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "13": {
                     "from": "8",
                     "to": "11",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "14": {
                     "from": "9",
                     "to": "5",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "15": {
                     "from": "9",
                     "to": "21",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "16": {
                     "from": "10",
                     "to": "9",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "17": {
                     "from": "10",
                     "to": "11",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 },
-                {
+                "18": {
                     "from": "17",
                     "to": "16",
                     "win": 4,
                     "minority": 1,
                     "margin": 3
                 }
-            ],
-            [
-                {
+            },
+            "27": {
+                "0": {
                     "from": "2",
                     "to": "10",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "1": {
                     "from": "3",
                     "to": "9",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "2": {
                     "from": "4",
                     "to": "18",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "3": {
                     "from": "6",
                     "to": "21",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "4": {
                     "from": "9",
                     "to": "15",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "5": {
                     "from": "9",
                     "to": "18",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "6": {
                     "from": "12",
                     "to": "15",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "7": {
                     "from": "13",
                     "to": "5",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "8": {
                     "from": "13",
                     "to": "9",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "9": {
                     "from": "13",
                     "to": "19",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "10": {
                     "from": "17",
                     "to": "3",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "11": {
                     "from": "17",
                     "to": "9",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "12": {
                     "from": "20",
                     "to": "4",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 },
-                {
+                "13": {
                     "from": "21",
                     "to": "11",
                     "win": 4,
                     "minority": 2,
                     "margin": 2
                 }
-            ],
-            [
-                {
+            },
+            "28": {
+                "0": {
                     "from": "2",
                     "to": "16",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "1": {
                     "from": "6",
                     "to": "19",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "2": {
                     "from": "7",
                     "to": "4",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "3": {
                     "from": "8",
                     "to": "18",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "4": {
                     "from": "9",
                     "to": "6",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "5": {
                     "from": "10",
                     "to": "12",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "6": {
                     "from": "12",
                     "to": "5",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "7": {
                     "from": "12",
                     "to": "21",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "8": {
                     "from": "14",
                     "to": "6",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "9": {
                     "from": "14",
                     "to": "10",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "10": {
                     "from": "17",
                     "to": "6",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "11": {
                     "from": "17",
                     "to": "21",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 },
-                {
+                "12": {
                     "from": "18",
                     "to": "5",
                     "win": 4,
                     "minority": 3,
                     "margin": 1
                 }
-            ],
-            [
-                {
+            },
+            "29": {
+                "0": {
                     "from": "1",
                     "to": "11",
                     "win": 3,
                     "minority": 1,
                     "margin": 2
                 },
-                {
+                "1": {
                     "from": "1",
                     "to": "16",
                     "win": 3,
                     "minority": 1,
                     "margin": 2
                 },
-                {
+                "2": {
                     "from": "8",
                     "to": "15",
                     "win": 3,
                     "minority": 1,
                     "margin": 2
                 },
-                {
+                "3": {
                     "from": "10",
                     "to": "15",
                     "win": 3,
                     "minority": 1,
                     "margin": 2
                 },
-                {
+                "4": {
                     "from": "14",
                     "to": "15",
                     "win": 3,
                     "minority": 1,
                     "margin": 2
                 },
-                {
+                "5": {
                     "from": "15",
                     "to": "11",
                     "win": 3,
                     "minority": 1,
                     "margin": 2
                 },
-                {
+                "6": {
                     "from": "15",
                     "to": "18",
                     "win": 3,
                     "minority": 1,
                     "margin": 2
                 },
-                {
+                "7": {
                     "from": "20",
                     "to": "16",
                     "win": 3,
                     "minority": 1,
                     "margin": 2
                 }
-            ],
-            [
-                {
+            },
+            "30": {
+                "0": {
                     "from": "1",
                     "to": "3",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "1": {
                     "from": "1",
                     "to": "4",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "2": {
                     "from": "1",
                     "to": "8",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "3": {
                     "from": "3",
                     "to": "4",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "4": {
                     "from": "3",
                     "to": "5",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "5": {
                     "from": "4",
                     "to": "5",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "6": {
                     "from": "4",
                     "to": "6",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "7": {
                     "from": "4",
                     "to": "14",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "8": {
                     "from": "4",
                     "to": "15",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "9": {
                     "from": "4",
                     "to": "21",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "10": {
                     "from": "5",
                     "to": "6",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "11": {
                     "from": "7",
                     "to": "3",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "12": {
                     "from": "8",
                     "to": "9",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "13": {
                     "from": "9",
                     "to": "1",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "14": {
                     "from": "9",
                     "to": "19",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "15": {
                     "from": "10",
                     "to": "4",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "16": {
                     "from": "13",
                     "to": "14",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "17": {
                     "from": "13",
                     "to": "16",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "18": {
                     "from": "14",
                     "to": "1",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "19": {
                     "from": "14",
                     "to": "9",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "20": {
                     "from": "15",
                     "to": "5",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "21": {
                     "from": "19",
                     "to": "4",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "22": {
                     "from": "19",
                     "to": "15",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "23": {
                     "from": "20",
                     "to": "1",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "24": {
                     "from": "20",
                     "to": "15",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 },
-                {
+                "25": {
                     "from": "21",
                     "to": "15",
                     "win": 3,
                     "minority": 2,
                     "margin": 1
                 }
-            ],
-            [
-                {
+            },
+            "31": {
+                "0": {
                     "from": "3",
                     "to": "16",
                     "win": 2,
                     "minority": 1,
                     "margin": 1
                 },
-                {
+                "1": {
                     "from": "5",
                     "to": "16",
                     "win": 2,
                     "minority": 1,
                     "margin": 1
                 },
-                {
+                "2": {
                     "from": "6",
                     "to": "16",
                     "win": 2,
                     "minority": 1,
                     "margin": 1
                 },
-                {
+                "3": {
                     "from": "7",
                     "to": "15",
                     "win": 2,
                     "minority": 1,
                     "margin": 1
                 },
-                {
+                "4": {
                     "from": "14",
                     "to": "16",
                     "win": 2,
                     "minority": 1,
                     "margin": 1
                 },
-                {
+                "5": {
                     "from": "16",
                     "to": "21",
                     "win": 2,
                     "minority": 1,
                     "margin": 1
                 },
-                {
+                "6": {
                     "from": "19",
                     "to": "16",
                     "win": 2,
                     "minority": 1,
                     "margin": 1
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "18",
                 "to": "12"
             },
-            {
+            "1": {
                 "from": "3",
                 "to": "6"
             },
-            {
+            "2": {
                 "from": "18",
                 "to": "11"
             },
-            {
+            "3": {
                 "from": "20",
                 "to": "8"
             },
-            {
+            "4": {
                 "from": "13",
                 "to": "7"
             },
-            {
+            "5": {
                 "from": "8",
                 "to": "14"
             },
-            {
+            "6": {
                 "from": "13",
                 "to": "17"
             },
-            {
+            "7": {
                 "from": "13",
                 "to": "2"
             },
-            {
+            "8": {
                 "from": "2",
                 "to": "17"
             },
-            {
+            "9": {
                 "from": "2",
                 "to": "8"
             },
-            {
+            "10": {
                 "from": "20",
                 "to": "5"
             },
-            {
+            "11": {
                 "from": "20",
                 "to": "11"
             },
-            {
+            "12": {
                 "from": "2",
                 "to": "11"
             },
-            {
+            "13": {
                 "from": "16",
                 "to": "4"
             },
-            {
+            "14": {
                 "from": "17",
                 "to": "20"
             },
-            {
+            "15": {
                 "from": "20",
                 "to": "21"
             },
-            {
+            "16": {
                 "from": "7",
                 "to": "20"
             },
-            {
+            "17": {
                 "from": "8",
                 "to": "19"
             },
-            {
+            "18": {
                 "from": "19",
                 "to": "21"
             },
-            {
+            "19": {
                 "from": "3",
                 "to": "8"
             },
-            {
+            "20": {
                 "from": "3",
                 "to": "19"
             },
-            {
+            "21": {
                 "from": "9",
                 "to": "4"
             },
-            {
+            "22": {
                 "from": "9",
                 "to": "12"
             },
-            {
+            "23": {
                 "from": "12",
                 "to": "3"
             },
-            {
+            "24": {
                 "from": "7",
                 "to": "12"
             },
-            {
+            "25": {
                 "from": "7",
                 "to": "10"
             },
-            {
+            "26": {
                 "from": "2",
                 "to": "18"
             },
-            {
+            "27": {
                 "from": "10",
                 "to": "5"
             },
-            {
+            "28": {
                 "from": "19",
                 "to": "11"
             },
-            {
+            "29": {
                 "from": "2",
                 "to": "20"
             },
-            {
+            "30": {
                 "from": "10",
                 "to": "21"
             },
-            {
+            "31": {
                 "from": "13",
                 "to": "6"
             },
-            {
+            "32": {
                 "from": "13",
                 "to": "12"
             },
-            {
+            "33": {
                 "from": "13",
                 "to": "21"
             },
-            {
+            "34": {
                 "from": "9",
                 "to": "11"
             },
-            {
+            "35": {
                 "from": "12",
                 "to": "6"
             },
-            {
+            "36": {
                 "from": "19",
                 "to": "5"
             },
-            {
+            "37": {
                 "from": "20",
                 "to": "10"
             },
-            {
+            "38": {
                 "from": "7",
                 "to": "8"
             },
-            {
+            "39": {
                 "from": "7",
                 "to": "11"
             },
-            {
+            "40": {
                 "from": "17",
                 "to": "7"
             },
-            {
+            "41": {
                 "from": "12",
                 "to": "8"
             },
-            {
+            "42": {
                 "from": "14",
                 "to": "19"
             },
-            {
+            "43": {
                 "from": "20",
                 "to": "12"
             },
-            {
+            "44": {
                 "from": "20",
                 "to": "19"
             },
-            {
+            "45": {
                 "from": "12",
                 "to": "19"
             },
-            {
+            "46": {
                 "from": "16",
                 "to": "9"
             },
-            {
+            "47": {
                 "from": "18",
                 "to": "7"
             },
-            {
+            "48": {
                 "from": "1",
                 "to": "18"
             },
-            {
+            "49": {
                 "from": "2",
                 "to": "15"
             },
-            {
+            "50": {
                 "from": "4",
                 "to": "11"
             },
-            {
+            "51": {
                 "from": "13",
                 "to": "15"
             },
-            {
+            "52": {
                 "from": "17",
                 "to": "15"
             },
-            {
+            "53": {
                 "from": "2",
                 "to": "3"
             },
-            {
+            "54": {
                 "from": "2",
                 "to": "4"
             },
-            {
+            "55": {
                 "from": "2",
                 "to": "5"
             },
-            {
+            "56": {
                 "from": "2",
                 "to": "19"
             },
-            {
+            "57": {
                 "from": "2",
                 "to": "21"
             },
-            {
+            "58": {
                 "from": "7",
                 "to": "19"
             },
-            {
+            "59": {
                 "from": "7",
                 "to": "21"
             },
-            {
+            "60": {
                 "from": "8",
                 "to": "5"
             },
-            {
+            "61": {
                 "from": "10",
                 "to": "6"
             },
-            {
+            "62": {
                 "from": "13",
                 "to": "3"
             },
-            {
+            "63": {
                 "from": "13",
                 "to": "4"
             },
-            {
+            "64": {
                 "from": "13",
                 "to": "18"
             },
-            {
+            "65": {
                 "from": "14",
                 "to": "5"
             },
-            {
+            "66": {
                 "from": "17",
                 "to": "4"
             },
-            {
+            "67": {
                 "from": "17",
                 "to": "5"
             },
-            {
+            "68": {
                 "from": "17",
                 "to": "11"
             },
-            {
+            "69": {
                 "from": "17",
                 "to": "14"
             },
-            {
+            "70": {
                 "from": "17",
                 "to": "18"
             },
-            {
+            "71": {
                 "from": "17",
                 "to": "19"
             },
-            {
+            "72": {
                 "from": "2",
                 "to": "6"
             },
-            {
+            "73": {
                 "from": "2",
                 "to": "9"
             },
-            {
+            "74": {
                 "from": "2",
                 "to": "12"
             },
-            {
+            "75": {
                 "from": "8",
                 "to": "21"
             },
-            {
+            "76": {
                 "from": "10",
                 "to": "8"
             },
-            {
+            "77": {
                 "from": "13",
                 "to": "8"
             },
-            {
+            "78": {
                 "from": "13",
                 "to": "11"
             },
-            {
+            "79": {
                 "from": "16",
                 "to": "12"
             },
-            {
+            "80": {
                 "from": "17",
                 "to": "8"
             },
-            {
+            "81": {
                 "from": "17",
                 "to": "12"
             },
-            {
+            "82": {
                 "from": "20",
                 "to": "9"
             },
-            {
+            "83": {
                 "from": "21",
                 "to": "5"
             },
-            {
+            "84": {
                 "from": "1",
                 "to": "7"
             },
-            {
+            "85": {
                 "from": "3",
                 "to": "21"
             },
-            {
+            "86": {
                 "from": "6",
                 "to": "8"
             },
-            {
+            "87": {
                 "from": "7",
                 "to": "16"
             },
-            {
+            "88": {
                 "from": "10",
                 "to": "19"
             },
-            {
+            "89": {
                 "from": "14",
                 "to": "21"
             },
-            {
+            "90": {
                 "from": "1",
                 "to": "10"
             },
-            {
+            "91": {
                 "from": "3",
                 "to": "14"
             },
-            {
+            "92": {
                 "from": "1",
                 "to": "15"
             },
-            {
+            "93": {
                 "from": "14",
                 "to": "11"
             },
-            {
+            "94": {
                 "from": "16",
                 "to": "11"
             },
-            {
+            "95": {
                 "from": "1",
                 "to": "5"
             },
-            {
+            "96": {
                 "from": "1",
                 "to": "6"
             },
-            {
+            "97": {
                 "from": "1",
                 "to": "12"
             },
-            {
+            "98": {
                 "from": "1",
                 "to": "19"
             },
-            {
+            "99": {
                 "from": "1",
                 "to": "21"
             },
-            {
+            "100": {
                 "from": "2",
                 "to": "14"
             },
-            {
+            "101": {
                 "from": "3",
                 "to": "11"
             },
-            {
+            "102": {
                 "from": "6",
                 "to": "11"
             },
-            {
+            "103": {
                 "from": "7",
                 "to": "5"
             },
-            {
+            "104": {
                 "from": "7",
                 "to": "14"
             },
-            {
+            "105": {
                 "from": "8",
                 "to": "11"
             },
-            {
+            "106": {
                 "from": "9",
                 "to": "5"
             },
-            {
+            "107": {
                 "from": "9",
                 "to": "21"
             },
-            {
+            "108": {
                 "from": "10",
                 "to": "11"
             },
-            {
+            "109": {
                 "from": "17",
                 "to": "16"
             },
-            {
+            "110": {
                 "from": "2",
                 "to": "10"
             },
-            {
+            "111": {
                 "from": "6",
                 "to": "21"
             },
-            {
+            "112": {
                 "from": "9",
                 "to": "15"
             },
-            {
+            "113": {
                 "from": "12",
                 "to": "15"
             },
-            {
+            "114": {
                 "from": "13",
                 "to": "5"
             },
-            {
+            "115": {
                 "from": "13",
                 "to": "9"
             },
-            {
+            "116": {
                 "from": "13",
                 "to": "19"
             },
-            {
+            "117": {
                 "from": "17",
                 "to": "3"
             },
-            {
+            "118": {
                 "from": "17",
                 "to": "9"
             },
-            {
+            "119": {
                 "from": "21",
                 "to": "11"
             },
-            {
+            "120": {
                 "from": "2",
                 "to": "16"
             },
-            {
+            "121": {
                 "from": "6",
                 "to": "19"
             },
-            {
+            "122": {
                 "from": "7",
                 "to": "4"
             },
-            {
+            "123": {
                 "from": "12",
                 "to": "5"
             },
-            {
+            "124": {
                 "from": "12",
                 "to": "21"
             },
-            {
+            "125": {
                 "from": "17",
                 "to": "6"
             },
-            {
+            "126": {
                 "from": "17",
                 "to": "21"
             },
-            {
+            "127": {
                 "from": "18",
                 "to": "5"
             },
-            {
+            "128": {
                 "from": "1",
                 "to": "11"
             },
-            {
+            "129": {
                 "from": "1",
                 "to": "16"
             },
-            {
+            "130": {
                 "from": "15",
                 "to": "11"
             },
-            {
+            "131": {
                 "from": "13",
                 "to": "14"
             },
-            {
+            "132": {
                 "from": "13",
                 "to": "16"
             },
-            {
+            "133": {
                 "from": "7",
                 "to": "15"
             }
-        ]
+        }
     }
 }

@@ -12,110 +12,110 @@
             "6": 36,
             "7": 7
         },
-        "Candidates elected from first round": [],
-        "Candidates eliminated from first round": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7"
-        ],
-        "Outcomes": [
-            [
-                "6",
-                "7"
-            ],
-            [
-                "5",
-                "7"
-            ],
-            [
-                "5",
-                "6"
-            ],
-            [
-                "4",
-                "7"
-            ],
-            [
-                "4",
-                "6"
-            ],
-            [
-                "4",
-                "5"
-            ],
-            [
-                "3",
-                "7"
-            ],
-            [
-                "3",
-                "6"
-            ],
-            [
-                "3",
-                "5"
-            ],
-            [
-                "3",
-                "4"
-            ],
-            [
-                "2",
-                "7"
-            ],
-            [
-                "2",
-                "6"
-            ],
-            [
-                "2",
-                "5"
-            ],
-            [
-                "2",
-                "4"
-            ],
-            [
-                "2",
-                "3"
-            ],
-            [
-                "1",
-                "7"
-            ],
-            [
-                "1",
-                "6"
-            ],
-            [
-                "1",
-                "5"
-            ],
-            [
-                "1",
-                "4"
-            ],
-            [
-                "1",
-                "3"
-            ],
-            [
-                "1",
-                "2"
-            ]
-        ],
+        "Candidates elected from first round": {},
+        "Candidates eliminated from first round": {
+            "0": "1",
+            "1": "2",
+            "2": "3",
+            "3": "4",
+            "4": "5",
+            "5": "6",
+            "6": "7"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "6",
+                "1": "7"
+            },
+            "1": {
+                "0": "5",
+                "1": "7"
+            },
+            "2": {
+                "0": "5",
+                "1": "6"
+            },
+            "3": {
+                "0": "4",
+                "1": "7"
+            },
+            "4": {
+                "0": "4",
+                "1": "6"
+            },
+            "5": {
+                "0": "4",
+                "1": "5"
+            },
+            "6": {
+                "0": "3",
+                "1": "7"
+            },
+            "7": {
+                "0": "3",
+                "1": "6"
+            },
+            "8": {
+                "0": "3",
+                "1": "5"
+            },
+            "9": {
+                "0": "3",
+                "1": "4"
+            },
+            "10": {
+                "0": "2",
+                "1": "7"
+            },
+            "11": {
+                "0": "2",
+                "1": "6"
+            },
+            "12": {
+                "0": "2",
+                "1": "5"
+            },
+            "13": {
+                "0": "2",
+                "1": "4"
+            },
+            "14": {
+                "0": "2",
+                "1": "3"
+            },
+            "15": {
+                "0": "1",
+                "1": "7"
+            },
+            "16": {
+                "0": "1",
+                "1": "6"
+            },
+            "17": {
+                "0": "1",
+                "1": "5"
+            },
+            "18": {
+                "0": "1",
+                "1": "4"
+            },
+            "19": {
+                "0": "1",
+                "1": "3"
+            },
+            "20": {
+                "0": "1",
+                "1": "2"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "4"
+                },
                 "scores_after_exclusion": {
                     "5": 53,
                     "6": 46,
@@ -126,18 +126,18 @@
                     "6": 46,
                     "7": 17
                 },
-                "outcomes_scores": [
-                    63,
-                    70
-                ]
+                "outcomes_scores": {
+                    "0": 63,
+                    "1": 70
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "4"
+                },
                 "scores_after_exclusion": {
                     "5": 53,
                     "6": 46,
@@ -154,12 +154,12 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "4": 48,
                     "6": 47,
@@ -176,12 +176,12 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "4": 48,
                     "6": 47,
@@ -198,11 +198,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3"
+                },
                 "scores_after_exclusion": {
                     "4": 41,
                     "5": 44,
@@ -221,12 +221,12 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "3": 60,
                     "6": 45,
@@ -243,12 +243,12 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "3": 60,
                     "6": 45,
@@ -265,11 +265,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "5": 41,
@@ -288,11 +288,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 9": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "3": 46,
                     "4": 30,
@@ -311,12 +311,12 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 10": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "2": 27,
                     "6": 48,
@@ -333,12 +333,12 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "2": 27,
                     "6": 48,
@@ -355,11 +355,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4"
+                },
                 "scores_after_exclusion": {
                     "2": 22,
                     "5": 47,
@@ -378,11 +378,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "2": 19,
                     "4": 41,
@@ -401,11 +401,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "2": 20,
                     "3": 52,
@@ -424,12 +424,12 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 41,
                     "6": 46,
@@ -446,12 +446,12 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 41,
                     "6": 46,
@@ -468,11 +468,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4"
+                },
                 "scores_after_exclusion": {
                     "1": 33,
                     "5": 45,
@@ -491,11 +491,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "4": 38,
@@ -514,11 +514,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 25,
                     "3": 48,
@@ -537,11 +537,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "2": 23,
@@ -560,12 +560,12 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "4"
+                },
                 "scores_after_exclusion": {
                     "5": 53,
                     "6": 46,
@@ -582,12 +582,12 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "4": 43,
                     "5": 49,
@@ -604,11 +604,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3"
+                },
                 "scores_after_exclusion": {
                     "4": 41,
                     "5": 44,
@@ -627,12 +627,12 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "4": 43,
                     "5": 49,
@@ -649,12 +649,12 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "3": 54,
                     "5": 46,
@@ -671,11 +671,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "5": 41,
@@ -694,12 +694,12 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "3": 54,
                     "5": 46,
@@ -716,11 +716,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 9": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "3": 42,
                     "4": 26,
@@ -739,12 +739,12 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 10": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 30,
                     "5": 50,
@@ -761,11 +761,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4"
+                },
                 "scores_after_exclusion": {
                     "2": 22,
                     "5": 47,
@@ -784,12 +784,12 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 30,
                     "5": 50,
@@ -806,11 +806,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 22,
                     "4": 36,
@@ -829,11 +829,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 23,
                     "3": 46,
@@ -852,12 +852,12 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 40,
                     "5": 50,
@@ -874,11 +874,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4"
+                },
                 "scores_after_exclusion": {
                     "1": 33,
                     "5": 45,
@@ -897,12 +897,12 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 40,
                     "5": 50,
@@ -919,11 +919,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 30,
                     "4": 33,
@@ -942,11 +942,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "3": 43,
@@ -965,11 +965,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 32,
                     "2": 25,
@@ -988,11 +988,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3"
+                },
                 "scores_after_exclusion": {
                     "4": 41,
                     "5": 44,
@@ -1011,12 +1011,12 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "4": 43,
                     "5": 47,
@@ -1033,12 +1033,12 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "4": 43,
                     "5": 47,
@@ -1055,11 +1055,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "5": 41,
@@ -1078,12 +1078,12 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "5": 43,
@@ -1100,12 +1100,12 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "5": 43,
@@ -1122,11 +1122,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 9": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 40,
                     "4": 26,
@@ -1145,11 +1145,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 10": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4"
+                },
                 "scores_after_exclusion": {
                     "2": 22,
                     "5": 47,
@@ -1168,12 +1168,12 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 25,
                     "5": 49,
@@ -1190,12 +1190,12 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 25,
                     "5": 49,
@@ -1212,11 +1212,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 19,
                     "4": 36,
@@ -1235,11 +1235,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 19,
                     "3": 44,
@@ -1258,11 +1258,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4"
+                },
                 "scores_after_exclusion": {
                     "1": 33,
                     "5": 45,
@@ -1281,12 +1281,12 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 33,
                     "5": 49,
@@ -1303,12 +1303,12 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 33,
                     "5": 49,
@@ -1325,11 +1325,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 23,
                     "4": 33,
@@ -1348,11 +1348,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 21,
                     "3": 41,
@@ -1371,11 +1371,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "2": 22,
@@ -1394,12 +1394,12 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "4": 48,
                     "6": 47,
@@ -1416,12 +1416,12 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "4": 43,
                     "5": 49,
@@ -1438,12 +1438,12 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "4": 31,
@@ -1460,11 +1460,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "3": 46,
                     "4": 30,
@@ -1483,11 +1483,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "3": 42,
                     "4": 26,
@@ -1506,12 +1506,12 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 9": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "4": 31,
@@ -1528,12 +1528,12 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 10": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 25,
                     "4": 43,
@@ -1550,11 +1550,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "2": 19,
                     "4": 41,
@@ -1573,11 +1573,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 22,
                     "4": 36,
@@ -1596,12 +1596,12 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 25,
                     "4": 43,
@@ -1618,11 +1618,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 22,
                     "3": 44,
@@ -1641,12 +1641,12 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 37,
                     "4": 40,
@@ -1663,11 +1663,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "4": 38,
@@ -1686,11 +1686,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 30,
                     "4": 33,
@@ -1709,12 +1709,12 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 37,
                     "4": 40,
@@ -1731,11 +1731,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 29,
                     "3": 40,
@@ -1754,11 +1754,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "2": 20,
@@ -1777,12 +1777,12 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "3",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "3",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "4": 43,
                     "5": 47,
@@ -1799,11 +1799,11 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "3": 46,
                     "4": 30,
@@ -1822,12 +1822,12 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "4": 32,
@@ -1844,11 +1844,11 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 40,
                     "4": 26,
@@ -1867,12 +1867,12 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 9": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "4": 32,
@@ -1889,11 +1889,11 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 10": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "2": 19,
                     "4": 41,
@@ -1912,12 +1912,12 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 23,
                     "4": 43,
@@ -1934,11 +1934,11 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 19,
                     "4": 36,
@@ -1957,12 +1957,12 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 23,
                     "4": 43,
@@ -1979,11 +1979,11 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 20,
                     "3": 43,
@@ -2002,11 +2002,11 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "4": 38,
@@ -2025,12 +2025,12 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 32,
                     "4": 39,
@@ -2047,11 +2047,11 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 23,
                     "4": 33,
@@ -2070,12 +2070,12 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 32,
                     "4": 39,
@@ -2092,11 +2092,11 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 23,
                     "3": 41,
@@ -2115,11 +2115,11 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 24,
                     "2": 18,
@@ -2138,11 +2138,11 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "3": 42,
                     "4": 26,
@@ -2161,11 +2161,11 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 40,
                     "4": 26,
@@ -2184,12 +2184,12 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "4": 31,
@@ -2206,12 +2206,12 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 9": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "4": 31,
@@ -2228,11 +2228,11 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 10": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 22,
                     "4": 36,
@@ -2251,11 +2251,11 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 19,
                     "4": 36,
@@ -2274,12 +2274,12 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 29,
                     "4": 41,
@@ -2296,12 +2296,12 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 29,
                     "4": 41,
@@ -2318,11 +2318,11 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 25,
                     "3": 43,
@@ -2341,11 +2341,11 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 30,
                     "4": 33,
@@ -2364,11 +2364,11 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 23,
                     "4": 33,
@@ -2387,12 +2387,12 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "4": 37,
@@ -2409,12 +2409,12 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "4": 37,
@@ -2431,11 +2431,11 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 27,
                     "3": 39,
@@ -2454,11 +2454,11 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 24,
                     "2": 24,
@@ -2477,12 +2477,12 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "3": 60,
                     "6": 45,
@@ -2499,12 +2499,12 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "3": 54,
                     "5": 46,
@@ -2521,12 +2521,12 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 9": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "4": 31,
@@ -2543,12 +2543,12 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 10": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 27,
                     "3": 55,
@@ -2565,11 +2565,11 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "2": 20,
                     "3": 52,
@@ -2588,11 +2588,11 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 23,
                     "3": 46,
@@ -2611,11 +2611,11 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 22,
                     "3": 44,
@@ -2634,12 +2634,12 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 27,
                     "3": 55,
@@ -2656,12 +2656,12 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "3": 50,
@@ -2678,11 +2678,11 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 25,
                     "3": 48,
@@ -2701,11 +2701,11 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "3": 43,
@@ -2724,11 +2724,11 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 29,
                     "3": 40,
@@ -2747,12 +2747,12 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "3": 50,
@@ -2769,11 +2769,11 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 25,
                     "2": 23,
@@ -2792,12 +2792,12 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "4",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "5": 43,
@@ -2814,12 +2814,12 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 9": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "4": 32,
@@ -2836,11 +2836,11 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 10": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "2": 20,
                     "3": 52,
@@ -2859,12 +2859,12 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 24,
                     "3": 56,
@@ -2881,11 +2881,11 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 19,
                     "3": 44,
@@ -2904,11 +2904,11 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 20,
                     "3": 43,
@@ -2927,12 +2927,12 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 24,
                     "3": 56,
@@ -2949,11 +2949,11 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 25,
                     "3": 48,
@@ -2972,12 +2972,12 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "3": 51,
@@ -2994,11 +2994,11 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 21,
                     "3": 41,
@@ -3017,11 +3017,11 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 23,
                     "3": 41,
@@ -3040,12 +3040,12 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "3": 51,
@@ -3062,11 +3062,11 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 21,
                     "2": 21,
@@ -3085,12 +3085,12 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 9": {
-                "candidates_excluded": [
-                    "1",
-                    "2",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "2",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "3": 50,
                     "4": 31,
@@ -3107,11 +3107,11 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 10": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 23,
                     "3": 46,
@@ -3130,11 +3130,11 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 19,
                     "3": 44,
@@ -3153,12 +3153,12 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 30,
                     "3": 52,
@@ -3175,11 +3175,11 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 25,
                     "3": 43,
@@ -3198,12 +3198,12 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 30,
                     "3": 52,
@@ -3220,11 +3220,11 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "3": 43,
@@ -3243,11 +3243,11 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 21,
                     "3": 41,
@@ -3266,12 +3266,12 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 30,
                     "3": 48,
@@ -3288,11 +3288,11 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 27,
                     "3": 39,
@@ -3311,12 +3311,12 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 30,
                     "3": 48,
@@ -3333,11 +3333,11 @@
                 }
             },
             "Outcome N° 8 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 21,
                     "2": 27,
@@ -3356,11 +3356,11 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 10": {
-                "candidates_excluded": [
-                    "1",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 22,
                     "3": 44,
@@ -3379,11 +3379,11 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 20,
                     "3": 43,
@@ -3402,11 +3402,11 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 25,
                     "3": 43,
@@ -3425,12 +3425,12 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 30,
                     "3": 53,
@@ -3447,12 +3447,12 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 30,
                     "3": 53,
@@ -3469,11 +3469,11 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "2",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 29,
                     "3": 40,
@@ -3492,11 +3492,11 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 23,
                     "3": 41,
@@ -3515,11 +3515,11 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 27,
                     "3": 39,
@@ -3538,12 +3538,12 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 37,
                     "3": 48,
@@ -3560,12 +3560,12 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 37,
                     "3": 48,
@@ -3582,11 +3582,11 @@
                 }
             },
             "Outcome N° 9 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "5",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 24,
                     "2": 25,
@@ -3605,12 +3605,12 @@
                 }
             },
             "Outcome N° 10 compared to Outcome N° 11": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "2": 27,
                     "6": 48,
@@ -3627,12 +3627,12 @@
                 }
             },
             "Outcome N° 10 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 30,
                     "5": 50,
@@ -3649,12 +3649,12 @@
                 }
             },
             "Outcome N° 10 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 25,
                     "4": 43,
@@ -3671,12 +3671,12 @@
                 }
             },
             "Outcome N° 10 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "2": 27,
                     "3": 55,
@@ -3693,12 +3693,12 @@
                 }
             },
             "Outcome N° 10 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 41,
                     "2": 28,
@@ -3715,11 +3715,11 @@
                 }
             },
             "Outcome N° 10 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "2": 23,
@@ -3738,11 +3738,11 @@
                 }
             },
             "Outcome N° 10 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 32,
                     "2": 25,
@@ -3761,11 +3761,11 @@
                 }
             },
             "Outcome N° 10 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "3",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "2": 20,
@@ -3784,11 +3784,11 @@
                 }
             },
             "Outcome N° 10 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 25,
                     "2": 23,
@@ -3807,12 +3807,12 @@
                 }
             },
             "Outcome N° 10 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 41,
                     "2": 28,
@@ -3829,12 +3829,12 @@
                 }
             },
             "Outcome N° 11 compared to Outcome N° 12": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "4",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 25,
                     "5": 49,
@@ -3851,12 +3851,12 @@
                 }
             },
             "Outcome N° 11 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 23,
                     "4": 43,
@@ -3873,12 +3873,12 @@
                 }
             },
             "Outcome N° 11 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 24,
                     "3": 56,
@@ -3895,11 +3895,11 @@
                 }
             },
             "Outcome N° 11 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "2": 23,
@@ -3918,12 +3918,12 @@
                 }
             },
             "Outcome N° 11 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 37,
                     "2": 26,
@@ -3940,11 +3940,11 @@
                 }
             },
             "Outcome N° 11 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "2": 22,
@@ -3963,11 +3963,11 @@
                 }
             },
             "Outcome N° 11 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "3",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 24,
                     "2": 18,
@@ -3986,11 +3986,11 @@
                 }
             },
             "Outcome N° 11 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 21,
                     "2": 21,
@@ -4009,12 +4009,12 @@
                 }
             },
             "Outcome N° 11 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 37,
                     "2": 26,
@@ -4031,12 +4031,12 @@
                 }
             },
             "Outcome N° 12 compared to Outcome N° 13": {
-                "candidates_excluded": [
-                    "1",
-                    "3",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "3",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 29,
                     "4": 41,
@@ -4053,12 +4053,12 @@
                 }
             },
             "Outcome N° 12 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "4",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 30,
                     "3": 52,
@@ -4075,11 +4075,11 @@
                 }
             },
             "Outcome N° 12 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 32,
                     "2": 25,
@@ -4098,11 +4098,11 @@
                 }
             },
             "Outcome N° 12 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "2": 22,
@@ -4121,12 +4121,12 @@
                 }
             },
             "Outcome N° 12 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "2": 32,
@@ -4143,11 +4143,11 @@
                 }
             },
             "Outcome N° 12 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "3",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 24,
                     "2": 24,
@@ -4166,11 +4166,11 @@
                 }
             },
             "Outcome N° 12 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 21,
                     "2": 27,
@@ -4189,12 +4189,12 @@
                 }
             },
             "Outcome N° 12 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "2": 32,
@@ -4211,12 +4211,12 @@
                 }
             },
             "Outcome N° 13 compared to Outcome N° 14": {
-                "candidates_excluded": [
-                    "1",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "1",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "2": 30,
                     "3": 53,
@@ -4233,11 +4233,11 @@
                 }
             },
             "Outcome N° 13 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "3",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "2": 20,
@@ -4256,11 +4256,11 @@
                 }
             },
             "Outcome N° 13 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "3",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 24,
                     "2": 18,
@@ -4279,11 +4279,11 @@
                 }
             },
             "Outcome N° 13 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "3",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 24,
                     "2": 24,
@@ -4302,12 +4302,12 @@
                 }
             },
             "Outcome N° 13 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "3",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 36,
                     "2": 26,
@@ -4324,11 +4324,11 @@
                 }
             },
             "Outcome N° 13 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "5",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 24,
                     "2": 25,
@@ -4347,12 +4347,12 @@
                 }
             },
             "Outcome N° 13 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 36,
                     "2": 26,
@@ -4369,11 +4369,11 @@
                 }
             },
             "Outcome N° 14 compared to Outcome N° 15": {
-                "candidates_excluded": [
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "5",
+                    "2": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 25,
                     "2": 23,
@@ -4392,11 +4392,11 @@
                 }
             },
             "Outcome N° 14 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "5",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 21,
                     "2": 21,
@@ -4415,11 +4415,11 @@
                 }
             },
             "Outcome N° 14 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 21,
                     "2": 27,
@@ -4438,11 +4438,11 @@
                 }
             },
             "Outcome N° 14 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "5",
+                    "1": "6",
+                    "2": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 24,
                     "2": 25,
@@ -4461,12 +4461,12 @@
                 }
             },
             "Outcome N° 14 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "4",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 29,
                     "2": 32,
@@ -4483,12 +4483,12 @@
                 }
             },
             "Outcome N° 14 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "4",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 29,
                     "2": 32,
@@ -4505,12 +4505,12 @@
                 }
             },
             "Outcome N° 15 compared to Outcome N° 16": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4",
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4",
+                    "3": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 41,
                     "6": 46,
@@ -4527,12 +4527,12 @@
                 }
             },
             "Outcome N° 15 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 40,
                     "5": 50,
@@ -4549,12 +4549,12 @@
                 }
             },
             "Outcome N° 15 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 37,
                     "4": 40,
@@ -4571,12 +4571,12 @@
                 }
             },
             "Outcome N° 15 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "3": 50,
@@ -4593,12 +4593,12 @@
                 }
             },
             "Outcome N° 15 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "5",
-                    "6"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "5",
+                    "3": "6"
+                },
                 "scores_after_exclusion": {
                     "1": 41,
                     "2": 28,
@@ -4615,12 +4615,12 @@
                 }
             },
             "Outcome N° 16 compared to Outcome N° 17": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "4",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "4",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 33,
                     "5": 49,
@@ -4637,12 +4637,12 @@
                 }
             },
             "Outcome N° 16 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 32,
                     "4": 39,
@@ -4659,12 +4659,12 @@
                 }
             },
             "Outcome N° 16 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 28,
                     "3": 51,
@@ -4681,12 +4681,12 @@
                 }
             },
             "Outcome N° 16 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "5",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "5",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 37,
                     "2": 26,
@@ -4703,12 +4703,12 @@
                 }
             },
             "Outcome N° 17 compared to Outcome N° 18": {
-                "candidates_excluded": [
-                    "2",
-                    "3",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "3",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "4": 37,
@@ -4725,12 +4725,12 @@
                 }
             },
             "Outcome N° 17 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "4",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 30,
                     "3": 48,
@@ -4747,12 +4747,12 @@
                 }
             },
             "Outcome N° 17 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "4",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "4",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 34,
                     "2": 32,
@@ -4769,12 +4769,12 @@
                 }
             },
             "Outcome N° 18 compared to Outcome N° 19": {
-                "candidates_excluded": [
-                    "2",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "2",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 37,
                     "3": 48,
@@ -4791,12 +4791,12 @@
                 }
             },
             "Outcome N° 18 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "3",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "3",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 36,
                     "2": 26,
@@ -4813,12 +4813,12 @@
                 }
             },
             "Outcome N° 19 compared to Outcome N° 20": {
-                "candidates_excluded": [
-                    "4",
-                    "5",
-                    "6",
-                    "7"
-                ],
+                "candidates_excluded": {
+                    "0": "4",
+                    "1": "5",
+                    "2": "6",
+                    "3": "7"
+                },
                 "scores_after_exclusion": {
                     "1": 29,
                     "2": 32,
@@ -4836,8 +4836,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 219667417263,
                         "2": 219667417263,
@@ -4905,7 +4905,7 @@
                         "20": 198746710857
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 244074908070,
                         "2": 255127356752,
@@ -4973,7 +4973,7 @@
                         "20": 198746710857
                     }
                 },
-                {
+                "2": {
                     "win": {
                         "0": 345191655699,
                         "1": 363020308023,
@@ -5041,7 +5041,7 @@
                         "20": 174339220050
                     }
                 },
-                {
+                "3": {
                     "win": {
                         "0": 247561692471,
                         "1": 278942752080,
@@ -5109,7 +5109,7 @@
                         "20": 167365651248
                     }
                 },
-                {
+                "4": {
                     "win": {
                         "0": 331244518095,
                         "1": 289403105283,
@@ -5177,7 +5177,7 @@
                         "20": 146444944842
                     }
                 },
-                {
+                "5": {
                     "win": {
                         "0": 296376674085,
                         "1": 320784164892,
@@ -5245,7 +5245,7 @@
                         "20": 167365651248
                     }
                 },
-                {
+                "6": {
                     "win": {
                         "0": 278942752080,
                         "1": 313810596090,
@@ -5313,7 +5313,7 @@
                         "20": 167365651248
                     }
                 },
-                {
+                "7": {
                     "win": {
                         "0": 366112362105,
                         "1": 320784164892,
@@ -5381,7 +5381,7 @@
                         "20": 146444944842
                     }
                 },
-                {
+                "8": {
                     "win": {
                         "0": 317297380491,
                         "1": 348678440100,
@@ -5449,7 +5449,7 @@
                         "20": 167365651248
                     }
                 },
-                {
+                "9": {
                     "win": {
                         "0": 264995614476,
                         "1": 237101339268,
@@ -5517,7 +5517,7 @@
                         "20": 170852435649
                     }
                 },
-                {
+                "10": {
                     "win": {
                         "0": 177826004451,
                         "1": 226640986065,
@@ -5585,7 +5585,7 @@
                         "20": 240588123669
                     }
                 },
-                {
+                "11": {
                     "win": {
                         "0": 261508830075,
                         "1": 219667417263,
@@ -5653,7 +5653,7 @@
                         "20": 219667417263
                     }
                 },
-                {
+                "12": {
                     "win": {
                         "0": 240588123669,
                         "1": 278942752080,
@@ -5721,7 +5721,7 @@
                         "20": 230127770466
                     }
                 },
-                {
+                "13": {
                     "win": {
                         "0": 209207064060,
                         "1": 202233495258,
@@ -5789,7 +5789,7 @@
                         "20": 216180632862
                     }
                 },
-                {
+                "14": {
                     "win": {
                         "0": 251048476872,
                         "1": 240588123669,
@@ -5857,7 +5857,7 @@
                         "20": 212693848461
                     }
                 },
-                {
+                "15": {
                     "win": {
                         "0": 219667417263,
                         "1": 261508830075,
@@ -5925,7 +5925,7 @@
                         "20": 240588123669
                     }
                 },
-                {
+                "16": {
                     "win": {
                         "0": 303350242887,
                         "1": 258022045674,
@@ -5993,7 +5993,7 @@
                         "20": 219667417263
                     }
                 },
-                {
+                "17": {
                     "win": {
                         "0": 271969183278,
                         "1": 313810596090,
@@ -6061,7 +6061,7 @@
                         "20": 230127770466
                     }
                 },
-                {
+                "18": {
                     "win": {
                         "0": 230127770466,
                         "1": 219667417263,
@@ -6129,7 +6129,7 @@
                         "20": 216180632862
                     }
                 },
-                {
+                "19": {
                     "win": {
                         "0": 254535261273,
                         "1": 247561692471,
@@ -6197,77 +6197,77 @@
                         "20": 212693848461
                     }
                 },
-                {
-                    "win": [
-                        198746710857,
-                        198746710857,
-                        174339220050,
-                        167365651248,
-                        146444944842,
-                        167365651248,
-                        167365651248,
-                        146444944842,
-                        167365651248,
-                        170852435649,
-                        240588123669,
-                        219667417263,
-                        230127770466,
-                        216180632862,
-                        212693848461,
-                        240588123669,
-                        219667417263,
-                        230127770466,
-                        216180632862,
-                        212693848461
-                    ],
-                    "null": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        209207064060,
-                        258022045674,
-                        299863458486,
-                        261508830075,
-                        296376674085,
-                        275455967679,
-                        289403105283,
-                        324270949293,
-                        296376674085,
-                        258022045674,
-                        237101339268,
-                        264995614476,
-                        289403105283,
-                        240588123669,
-                        306837027288,
-                        282429536481,
-                        303350242887,
-                        296376674085,
-                        275455967679,
-                        296376674085
-                    ]
+                "20": {
+                    "win": {
+                        "0": 198746710857,
+                        "1": 198746710857,
+                        "2": 174339220050,
+                        "3": 167365651248,
+                        "4": 146444944842,
+                        "5": 167365651248,
+                        "6": 167365651248,
+                        "7": 146444944842,
+                        "8": 167365651248,
+                        "9": 170852435649,
+                        "10": 240588123669,
+                        "11": 219667417263,
+                        "12": 230127770466,
+                        "13": 216180632862,
+                        "14": 212693848461,
+                        "15": 240588123669,
+                        "16": 219667417263,
+                        "17": 230127770466,
+                        "18": 216180632862,
+                        "19": 212693848461
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0,
+                        "6": 0,
+                        "7": 0,
+                        "8": 0,
+                        "9": 0,
+                        "10": 0,
+                        "11": 0,
+                        "12": 0,
+                        "13": 0,
+                        "14": 0,
+                        "15": 0,
+                        "16": 0,
+                        "17": 0,
+                        "18": 0,
+                        "19": 0
+                    },
+                    "lose": {
+                        "0": 209207064060,
+                        "1": 258022045674,
+                        "2": 299863458486,
+                        "3": 261508830075,
+                        "4": 296376674085,
+                        "5": 275455967679,
+                        "6": 289403105283,
+                        "7": 324270949293,
+                        "8": 296376674085,
+                        "9": 258022045674,
+                        "10": 237101339268,
+                        "11": 264995614476,
+                        "12": 289403105283,
+                        "13": 240588123669,
+                        "14": 306837027288,
+                        "15": 282429536481,
+                        "16": 303350242887,
+                        "17": 296376674085,
+                        "18": 275455967679,
+                        "19": 296376674085
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 10460353203,
                     "2": 0,
                     "3": 10460353203,
@@ -6289,7 +6289,7 @@
                     "19": 10460353203,
                     "20": 17433922005
                 },
-                {
+                "1": {
                     "0": 24407490807,
                     "2": 0,
                     "3": 20920706406,
@@ -6311,7 +6311,7 @@
                     "19": 10460353203,
                     "20": 59275334817
                 },
-                {
+                "2": {
                     "0": 125524238436,
                     "1": 107892951271,
                     "3": 111577100832,
@@ -6333,7 +6333,7 @@
                     "19": 73222472421,
                     "20": 125524238436
                 },
-                {
+                "3": {
                     "0": 10460353203,
                     "1": 10460353203,
                     "2": 0,
@@ -6355,7 +6355,7 @@
                     "19": 10460353203,
                     "20": 94143178827
                 },
-                {
+                "4": {
                     "0": 87169610025,
                     "1": 90656394426,
                     "2": 0,
@@ -6377,7 +6377,7 @@
                     "19": 31381059609,
                     "20": 149931729243
                 },
-                {
+                "5": {
                     "0": 104603532030,
                     "1": 38354628411,
                     "2": 0,
@@ -6399,7 +6399,7 @@
                     "19": 10460353203,
                     "20": 108090316431
                 },
-                {
+                "6": {
                     "0": 52301766015,
                     "1": 27894275208,
                     "2": 0,
@@ -6421,7 +6421,7 @@
                     "19": 31381059609,
                     "20": 122037454035
                 },
-                {
+                "7": {
                     "0": 139471376040,
                     "1": 139471376040,
                     "2": 24407490807,
@@ -6443,7 +6443,7 @@
                     "19": 73222472421,
                     "20": 177826004451
                 },
-                {
+                "8": {
                     "0": 132497807238,
                     "1": 62762119218,
                     "2": 10460353203,
@@ -6465,7 +6465,7 @@
                     "19": 62762119218,
                     "20": 129011022837
                 },
-                {
+                "9": {
                     "0": 59275334817,
                     "1": 13947137604,
                     "2": 0,
@@ -6487,7 +6487,7 @@
                     "19": 10460353203,
                     "20": 87169610025
                 },
-                {
+                "10": {
                     "0": 0,
                     "1": 0,
                     "2": 0,
@@ -6509,7 +6509,7 @@
                     "19": 0,
                     "20": 0
                 },
-                {
+                "11": {
                     "0": 10460353203,
                     "1": 10460353203,
                     "2": 0,
@@ -6531,7 +6531,7 @@
                     "19": 10460353203,
                     "20": 45328197213
                 },
-                {
+                "12": {
                     "0": 48814981614,
                     "1": 10460353203,
                     "2": 0,
@@ -6553,7 +6553,7 @@
                     "19": 10460353203,
                     "20": 59275334817
                 },
-                {
+                "13": {
                     "0": 0,
                     "1": 0,
                     "2": 0,
@@ -6575,7 +6575,7 @@
                     "19": 0,
                     "20": 24407490807
                 },
-                {
+                "14": {
                     "0": 45328197213,
                     "1": 17433922005,
                     "2": 0,
@@ -6597,7 +6597,7 @@
                     "19": 10460353203,
                     "20": 94143178827
                 },
-                {
+                "15": {
                     "0": 10460353203,
                     "1": 10460353203,
                     "2": 0,
@@ -6619,7 +6619,7 @@
                     "19": 10460353203,
                     "20": 41841412812
                 },
-                {
+                "16": {
                     "0": 66248903619,
                     "1": 59275334817,
                     "2": 0,
@@ -6641,7 +6641,7 @@
                     "19": 10460353203,
                     "20": 83682825624
                 },
-                {
+                "17": {
                     "0": 87169610025,
                     "1": 17433922005,
                     "2": 0,
@@ -6663,7 +6663,7 @@
                     "19": 10460353203,
                     "20": 66248903619
                 },
-                {
+                "18": {
                     "0": 10460353203,
                     "1": 10460353203,
                     "2": 0,
@@ -6685,7 +6685,7 @@
                     "19": 10460353203,
                     "20": 59275334817
                 },
-                {
+                "19": {
                     "0": 48814981614,
                     "1": 15690529794,
                     "2": 0,
@@ -6707,29 +6707,29 @@
                     "18": 55788550416,
                     "20": 83682825624
                 },
-                [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    3486784401,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            ]
+                "20": {
+                    "0": 0,
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0,
+                    "6": 0,
+                    "7": 0,
+                    "8": 0,
+                    "9": 0,
+                    "10": 3486784401,
+                    "11": 0,
+                    "12": 0,
+                    "13": 0,
+                    "14": 0,
+                    "15": 0,
+                    "16": 0,
+                    "17": 0,
+                    "18": 0,
+                    "19": 0
+                }
+            }
         }
     }
 }

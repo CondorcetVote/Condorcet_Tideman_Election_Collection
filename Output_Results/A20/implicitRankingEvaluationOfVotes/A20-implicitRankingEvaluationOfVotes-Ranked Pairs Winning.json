@@ -2,139 +2,139 @@
     "Ranking": "A > D > E > C > B",
     "Number Of Seats": 4,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "D",
                     "to": "B",
                     "win": 2053,
                     "minority": 540,
                     "margin": 1513
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "A",
                     "to": "B",
                     "win": 1997,
                     "minority": 567,
                     "margin": 1430
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "D",
                     "to": "E",
                     "win": 1850,
                     "minority": 799,
                     "margin": 1051
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "D",
                     "to": "C",
                     "win": 1799,
                     "minority": 848,
                     "margin": 951
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "A",
                     "to": "E",
                     "win": 1766,
                     "minority": 850,
                     "margin": 916
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "A",
                     "to": "C",
                     "win": 1751,
                     "minority": 840,
                     "margin": 911
                 }
-            ],
-            [
-                {
+            },
+            "6": {
+                "0": {
                     "from": "E",
                     "to": "B",
                     "win": 1460,
                     "minority": 871,
                     "margin": 589
                 }
-            ],
-            [
-                {
+            },
+            "7": {
+                "0": {
                     "from": "A",
                     "to": "D",
                     "win": 1377,
                     "minority": 1319,
                     "margin": 58
                 }
-            ],
-            [
-                {
+            },
+            "8": {
+                "0": {
                     "from": "C",
                     "to": "B",
                     "win": 1366,
                     "minority": 921,
                     "margin": 445
                 }
-            ],
-            [
-                {
+            },
+            "9": {
+                "0": {
                     "from": "E",
                     "to": "C",
                     "win": 1245,
                     "minority": 1207,
                     "margin": 38
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "D",
                 "to": "B"
             },
-            {
+            "1": {
                 "from": "A",
                 "to": "B"
             },
-            {
+            "2": {
                 "from": "D",
                 "to": "E"
             },
-            {
+            "3": {
                 "from": "D",
                 "to": "C"
             },
-            {
+            "4": {
                 "from": "A",
                 "to": "E"
             },
-            {
+            "5": {
                 "from": "A",
                 "to": "C"
             },
-            {
+            "6": {
                 "from": "E",
                 "to": "B"
             },
-            {
+            "7": {
                 "from": "A",
                 "to": "D"
             },
-            {
+            "8": {
                 "from": "C",
                 "to": "B"
             },
-            {
+            "9": {
                 "from": "E",
                 "to": "C"
             }
-        ]
+        }
     }
 }

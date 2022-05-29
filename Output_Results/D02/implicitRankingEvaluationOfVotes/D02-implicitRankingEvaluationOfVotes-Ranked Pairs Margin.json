@@ -2,87 +2,87 @@
     "Ranking": "Bdale Garbee > Branden Robinson > Raphael Hertzog > None Of The Above",
     "Number Of Seats": 1,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Bdale Garbee",
                     "to": "None Of The Above",
                     "win": 443,
                     "minority": 18,
                     "margin": 425
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Raphael Hertzog",
                     "to": "None Of The Above",
                     "win": 406,
                     "minority": 50,
                     "margin": 356
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Branden Robinson",
                     "to": "None Of The Above",
                     "win": 385,
                     "minority": 68,
                     "margin": 317
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "Bdale Garbee",
                     "to": "Raphael Hertzog",
                     "win": 327,
                     "minority": 134,
                     "margin": 193
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "Bdale Garbee",
                     "to": "Branden Robinson",
                     "win": 291,
                     "minority": 178,
                     "margin": 113
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "Branden Robinson",
                     "to": "Raphael Hertzog",
                     "win": 255,
                     "minority": 199,
                     "margin": 56
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Bdale Garbee",
                 "to": "None Of The Above"
             },
-            {
+            "1": {
                 "from": "Raphael Hertzog",
                 "to": "None Of The Above"
             },
-            {
+            "2": {
                 "from": "Branden Robinson",
                 "to": "None Of The Above"
             },
-            {
+            "3": {
                 "from": "Bdale Garbee",
                 "to": "Raphael Hertzog"
             },
-            {
+            "4": {
                 "from": "Bdale Garbee",
                 "to": "Branden Robinson"
             },
-            {
+            "5": {
                 "from": "Branden Robinson",
                 "to": "Raphael Hertzog"
             }
-        ]
+        }
     }
 }

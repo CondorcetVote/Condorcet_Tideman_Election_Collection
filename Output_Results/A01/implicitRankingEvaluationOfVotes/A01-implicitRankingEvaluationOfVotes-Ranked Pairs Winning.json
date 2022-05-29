@@ -2,590 +2,590 @@
     "Ranking": "Candidate  1 > Candidate  9 > Candidate  3 > Candidate  8 > Candidate  7 > Candidate  4 > Candidate  2 > Candidate 10 > Candidate  6 > Candidate  5",
     "Number Of Seats": 3,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Candidate  1",
                     "to": "Candidate  6",
                     "win": 230,
                     "minority": 46,
                     "margin": 184
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Candidate  1",
                     "to": "Candidate  5",
                     "win": 229,
                     "minority": 19,
                     "margin": 210
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Candidate  1",
                     "to": "Candidate  2",
                     "win": 226,
                     "minority": 79,
                     "margin": 147
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "Candidate  9",
                     "to": "Candidate  6",
                     "win": 219,
                     "minority": 43,
                     "margin": 176
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "Candidate  9",
                     "to": "Candidate  5",
                     "win": 216,
                     "minority": 51,
                     "margin": 165
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "Candidate  1",
                     "to": "Candidate 10",
                     "win": 215,
                     "minority": 54,
                     "margin": 161
                 }
-            ],
-            [
-                {
+            },
+            "6": {
+                "0": {
                     "from": "Candidate  1",
                     "to": "Candidate  7",
                     "win": 214,
                     "minority": 96,
                     "margin": 118
                 }
-            ],
-            [
-                {
+            },
+            "7": {
+                "0": {
                     "from": "Candidate  9",
                     "to": "Candidate 10",
                     "win": 210,
                     "minority": 53,
                     "margin": 157
                 }
-            ],
-            [
-                {
+            },
+            "8": {
+                "0": {
                     "from": "Candidate  1",
                     "to": "Candidate  8",
                     "win": 204,
                     "minority": 122,
                     "margin": 82
                 }
-            ],
-            [
-                {
+            },
+            "9": {
+                "0": {
                     "from": "Candidate  1",
                     "to": "Candidate  4",
                     "win": 201,
                     "minority": 77,
                     "margin": 124
                 }
-            ],
-            [
-                {
+            },
+            "10": {
+                "0": {
                     "from": "Candidate  1",
                     "to": "Candidate  9",
                     "win": 201,
                     "minority": 130,
                     "margin": 71
                 }
-            ],
-            [
-                {
+            },
+            "11": {
+                "0": {
                     "from": "Candidate  9",
                     "to": "Candidate  2",
                     "win": 193,
                     "minority": 78,
                     "margin": 115
                 }
-            ],
-            [
-                {
+            },
+            "12": {
+                "0": {
                     "from": "Candidate  9",
                     "to": "Candidate  4",
                     "win": 193,
                     "minority": 96,
                     "margin": 97
                 }
-            ],
-            [
-                {
+            },
+            "13": {
+                "0": {
                     "from": "Candidate  1",
                     "to": "Candidate  3",
                     "win": 192,
                     "minority": 87,
                     "margin": 105
                 }
-            ],
-            [
-                {
+            },
+            "14": {
+                "0": {
                     "from": "Candidate  9",
                     "to": "Candidate  8",
                     "win": 191,
                     "minority": 107,
                     "margin": 84
                 }
-            ],
-            [
-                {
+            },
+            "15": {
+                "0": {
                     "from": "Candidate  3",
                     "to": "Candidate  5",
                     "win": 190,
                     "minority": 40,
                     "margin": 150
                 }
-            ],
-            [
-                {
+            },
+            "16": {
+                "0": {
                     "from": "Candidate  9",
                     "to": "Candidate  7",
                     "win": 183,
                     "minority": 76,
                     "margin": 107
                 }
-            ],
-            [
-                {
+            },
+            "17": {
+                "0": {
                     "from": "Candidate  9",
                     "to": "Candidate  3",
                     "win": 182,
                     "minority": 123,
                     "margin": 59
                 }
-            ],
-            [
-                {
+            },
+            "18": {
+                "0": {
                     "from": "Candidate  3",
                     "to": "Candidate  6",
                     "win": 181,
                     "minority": 44,
                     "margin": 137
                 }
-            ],
-            [
-                {
+            },
+            "19": {
+                "0": {
                     "from": "Candidate  3",
                     "to": "Candidate 10",
                     "win": 171,
                     "minority": 75,
                     "margin": 96
                 }
-            ],
-            [
-                {
+            },
+            "20": {
+                "0": {
                     "from": "Candidate  8",
                     "to": "Candidate  5",
                     "win": 169,
                     "minority": 55,
                     "margin": 114
                 }
-            ],
-            [
-                {
+            },
+            "21": {
+                "0": {
                     "from": "Candidate  8",
                     "to": "Candidate 10",
                     "win": 169,
                     "minority": 67,
                     "margin": 102
                 }
-            ],
-            [
-                {
+            },
+            "22": {
+                "0": {
                     "from": "Candidate  8",
                     "to": "Candidate  6",
                     "win": 167,
                     "minority": 53,
                     "margin": 114
                 }
-            ],
-            [
-                {
+            },
+            "23": {
+                "0": {
                     "from": "Candidate  3",
                     "to": "Candidate  2",
                     "win": 164,
                     "minority": 99,
                     "margin": 65
                 }
-            ],
-            [
-                {
+            },
+            "24": {
+                "0": {
                     "from": "Candidate  3",
                     "to": "Candidate  7",
                     "win": 160,
                     "minority": 108,
                     "margin": 52
                 }
-            ],
-            [
-                {
+            },
+            "25": {
+                "0": {
                     "from": "Candidate  3",
                     "to": "Candidate  8",
                     "win": 156,
                     "minority": 143,
                     "margin": 13
                 }
-            ],
-            [
-                {
+            },
+            "26": {
+                "0": {
                     "from": "Candidate  3",
                     "to": "Candidate  4",
                     "win": 154,
                     "minority": 111,
                     "margin": 43
                 }
-            ],
-            [
-                {
+            },
+            "27": {
+                "0": {
                     "from": "Candidate  4",
                     "to": "Candidate  5",
                     "win": 146,
                     "minority": 36,
                     "margin": 110
                 }
-            ],
-            [
-                {
+            },
+            "28": {
+                "0": {
                     "from": "Candidate  8",
                     "to": "Candidate  4",
                     "win": 143,
                     "minority": 110,
                     "margin": 33
                 }
-            ],
-            [
-                {
+            },
+            "29": {
+                "0": {
                     "from": "Candidate  4",
                     "to": "Candidate  6",
                     "win": 141,
                     "minority": 52,
                     "margin": 89
                 }
-            ],
-            [
-                {
+            },
+            "30": {
+                "0": {
                     "from": "Candidate  8",
                     "to": "Candidate  7",
                     "win": 140,
                     "minority": 111,
                     "margin": 29
                 }
-            ],
-            [
-                {
+            },
+            "31": {
+                "0": {
                     "from": "Candidate  8",
                     "to": "Candidate  2",
                     "win": 139,
                     "minority": 96,
                     "margin": 43
                 }
-            ],
-            [
-                {
+            },
+            "32": {
+                "0": {
                     "from": "Candidate  7",
                     "to": "Candidate  5",
                     "win": 137,
                     "minority": 60,
                     "margin": 77
                 }
-            ],
-            [
-                {
+            },
+            "33": {
+                "0": {
                     "from": "Candidate  7",
                     "to": "Candidate 10",
                     "win": 136,
                     "minority": 77,
                     "margin": 59
                 }
-            ],
-            [
-                {
+            },
+            "34": {
+                "0": {
                     "from": "Candidate  7",
                     "to": "Candidate  6",
                     "win": 130,
                     "minority": 60,
                     "margin": 70
                 }
-            ],
-            [
-                {
+            },
+            "35": {
+                "0": {
                     "from": "Candidate  4",
                     "to": "Candidate 10",
                     "win": 127,
                     "minority": 73,
                     "margin": 54
                 }
-            ],
-            [
-                {
+            },
+            "36": {
+                "0": {
                     "from": "Candidate  7",
                     "to": "Candidate  4",
                     "win": 124,
                     "minority": 123,
                     "margin": 1
                 }
-            ],
-            [
-                {
+            },
+            "37": {
+                "0": {
                     "from": "Candidate  2",
                     "to": "Candidate  5",
                     "win": 123,
                     "minority": 48,
                     "margin": 75
                 }
-            ],
-            [
-                {
+            },
+            "38": {
+                "0": {
                     "from": "Candidate  2",
                     "to": "Candidate  6",
                     "win": 121,
                     "minority": 57,
                     "margin": 64
                 }
-            ],
-            [
-                {
+            },
+            "39": {
+                "0": {
                     "from": "Candidate  4",
                     "to": "Candidate  2",
                     "win": 115,
                     "minority": 103,
                     "margin": 12
                 }
-            ],
-            [
-                {
+            },
+            "40": {
+                "0": {
                     "from": "Candidate  2",
                     "to": "Candidate 10",
                     "win": 111,
                     "minority": 78,
                     "margin": 33
                 }
-            ],
-            [
-                {
+            },
+            "41": {
+                "0": {
                     "from": "Candidate  2",
                     "to": "Candidate  7",
                     "win": 105,
                     "minority": 100,
                     "margin": 5
                 }
-            ],
-            [
-                {
+            },
+            "42": {
+                "0": {
                     "from": "Candidate 10",
                     "to": "Candidate  5",
                     "win": 95,
                     "minority": 53,
                     "margin": 42
                 }
-            ],
-            [
-                {
+            },
+            "43": {
+                "0": {
                     "from": "Candidate 10",
                     "to": "Candidate  6",
                     "win": 94,
                     "minority": 63,
                     "margin": 31
                 }
-            ],
-            [
-                {
+            },
+            "44": {
+                "0": {
                     "from": "Candidate  6",
                     "to": "Candidate  5",
                     "win": 73,
                     "minority": 60,
                     "margin": 13
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Candidate  1",
                 "to": "Candidate  6"
             },
-            {
+            "1": {
                 "from": "Candidate  1",
                 "to": "Candidate  5"
             },
-            {
+            "2": {
                 "from": "Candidate  1",
                 "to": "Candidate  2"
             },
-            {
+            "3": {
                 "from": "Candidate  9",
                 "to": "Candidate  6"
             },
-            {
+            "4": {
                 "from": "Candidate  9",
                 "to": "Candidate  5"
             },
-            {
+            "5": {
                 "from": "Candidate  1",
                 "to": "Candidate 10"
             },
-            {
+            "6": {
                 "from": "Candidate  1",
                 "to": "Candidate  7"
             },
-            {
+            "7": {
                 "from": "Candidate  9",
                 "to": "Candidate 10"
             },
-            {
+            "8": {
                 "from": "Candidate  1",
                 "to": "Candidate  8"
             },
-            {
+            "9": {
                 "from": "Candidate  1",
                 "to": "Candidate  4"
             },
-            {
+            "10": {
                 "from": "Candidate  1",
                 "to": "Candidate  9"
             },
-            {
+            "11": {
                 "from": "Candidate  9",
                 "to": "Candidate  2"
             },
-            {
+            "12": {
                 "from": "Candidate  9",
                 "to": "Candidate  4"
             },
-            {
+            "13": {
                 "from": "Candidate  1",
                 "to": "Candidate  3"
             },
-            {
+            "14": {
                 "from": "Candidate  9",
                 "to": "Candidate  8"
             },
-            {
+            "15": {
                 "from": "Candidate  3",
                 "to": "Candidate  5"
             },
-            {
+            "16": {
                 "from": "Candidate  9",
                 "to": "Candidate  7"
             },
-            {
+            "17": {
                 "from": "Candidate  9",
                 "to": "Candidate  3"
             },
-            {
+            "18": {
                 "from": "Candidate  3",
                 "to": "Candidate  6"
             },
-            {
+            "19": {
                 "from": "Candidate  3",
                 "to": "Candidate 10"
             },
-            {
+            "20": {
                 "from": "Candidate  8",
                 "to": "Candidate  5"
             },
-            {
+            "21": {
                 "from": "Candidate  8",
                 "to": "Candidate 10"
             },
-            {
+            "22": {
                 "from": "Candidate  8",
                 "to": "Candidate  6"
             },
-            {
+            "23": {
                 "from": "Candidate  3",
                 "to": "Candidate  2"
             },
-            {
+            "24": {
                 "from": "Candidate  3",
                 "to": "Candidate  7"
             },
-            {
+            "25": {
                 "from": "Candidate  3",
                 "to": "Candidate  8"
             },
-            {
+            "26": {
                 "from": "Candidate  3",
                 "to": "Candidate  4"
             },
-            {
+            "27": {
                 "from": "Candidate  4",
                 "to": "Candidate  5"
             },
-            {
+            "28": {
                 "from": "Candidate  8",
                 "to": "Candidate  4"
             },
-            {
+            "29": {
                 "from": "Candidate  4",
                 "to": "Candidate  6"
             },
-            {
+            "30": {
                 "from": "Candidate  8",
                 "to": "Candidate  7"
             },
-            {
+            "31": {
                 "from": "Candidate  8",
                 "to": "Candidate  2"
             },
-            {
+            "32": {
                 "from": "Candidate  7",
                 "to": "Candidate  5"
             },
-            {
+            "33": {
                 "from": "Candidate  7",
                 "to": "Candidate 10"
             },
-            {
+            "34": {
                 "from": "Candidate  7",
                 "to": "Candidate  6"
             },
-            {
+            "35": {
                 "from": "Candidate  4",
                 "to": "Candidate 10"
             },
-            {
+            "36": {
                 "from": "Candidate  7",
                 "to": "Candidate  4"
             },
-            {
+            "37": {
                 "from": "Candidate  2",
                 "to": "Candidate  5"
             },
-            {
+            "38": {
                 "from": "Candidate  2",
                 "to": "Candidate  6"
             },
-            {
+            "39": {
                 "from": "Candidate  4",
                 "to": "Candidate  2"
             },
-            {
+            "40": {
                 "from": "Candidate  2",
                 "to": "Candidate 10"
             },
-            {
+            "41": {
                 "from": "Candidate 10",
                 "to": "Candidate  5"
             },
-            {
+            "42": {
                 "from": "Candidate 10",
                 "to": "Candidate  6"
             },
-            {
+            "43": {
                 "from": "Candidate  6",
                 "to": "Candidate  5"
             }
-        ]
+        }
     }
 }

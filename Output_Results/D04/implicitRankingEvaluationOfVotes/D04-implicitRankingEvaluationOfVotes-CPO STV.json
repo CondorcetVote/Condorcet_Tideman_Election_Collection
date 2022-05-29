@@ -9,13 +9,13 @@
             "Martin Michlmayr": 278,
             "None of the Above": 13
         },
-        "Candidates elected from first round": [
-            "Martin Michlmayr"
-        ],
-        "Candidates eliminated from first round": [
-            "Branden Robinson",
-            "Gergely Nagy",
-            "None of the Above"
-        ]
+        "Candidates elected from first round": {
+            "0": "Martin Michlmayr"
+        },
+        "Candidates eliminated from first round": {
+            "0": "Branden Robinson",
+            "1": "Gergely Nagy",
+            "2": "None of the Above"
+        }
     }
 }

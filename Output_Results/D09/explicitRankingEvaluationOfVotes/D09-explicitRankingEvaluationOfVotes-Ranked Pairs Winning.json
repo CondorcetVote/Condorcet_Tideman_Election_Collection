@@ -2,48 +2,48 @@
     "Ranking": "Steve McIntyre > Stefano Zacchiroli > None Of The Above",
     "Number Of Seats": 1,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Steve McIntyre",
                     "to": "None Of The Above",
                     "win": 234,
                     "minority": 19,
                     "margin": 215
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Stefano Zacchiroli",
                     "to": "None Of The Above",
                     "win": 233,
                     "minority": 22,
                     "margin": 211
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Steve McIntyre",
                     "to": "Stefano Zacchiroli",
                     "win": 173,
                     "minority": 133,
                     "margin": 40
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Steve McIntyre",
                 "to": "None Of The Above"
             },
-            {
+            "1": {
                 "from": "Stefano Zacchiroli",
                 "to": "None Of The Above"
             },
-            {
+            "2": {
                 "from": "Steve McIntyre",
                 "to": "Stefano Zacchiroli"
             }
-        ]
+        }
     }
 }

@@ -10,52 +10,52 @@
             "4": 30,
             "5": 28
         },
-        "Candidates elected from first round": [
-            "3"
-        ],
-        "Candidates eliminated from first round": [
-            "1",
-            "2",
-            "4",
-            "5"
-        ],
-        "Outcomes": [
-            [
-                "3",
-                "4",
-                "5"
-            ],
-            [
-                "2",
-                "3",
-                "5"
-            ],
-            [
-                "2",
-                "3",
-                "4"
-            ],
-            [
-                "1",
-                "3",
-                "5"
-            ],
-            [
-                "1",
-                "3",
-                "4"
-            ],
-            [
-                "1",
-                "2",
-                "3"
-            ]
-        ],
+        "Candidates elected from first round": {
+            "0": "3"
+        },
+        "Candidates eliminated from first round": {
+            "0": "1",
+            "1": "2",
+            "2": "4",
+            "3": "5"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "3",
+                "1": "4",
+                "2": "5"
+            },
+            "1": {
+                "0": "2",
+                "1": "3",
+                "2": "5"
+            },
+            "2": {
+                "0": "2",
+                "1": "3",
+                "2": "4"
+            },
+            "3": {
+                "0": "1",
+                "1": "3",
+                "2": "5"
+            },
+            "4": {
+                "0": "1",
+                "1": "3",
+                "2": "4"
+            },
+            "5": {
+                "0": "1",
+                "1": "2",
+                "2": "3"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "1"
-                ],
+                "candidates_excluded": {
+                    "0": "1"
+                },
                 "scores_after_exclusion": {
                     "2": 27,
                     "3": 54,
@@ -68,15 +68,15 @@
                     "4": 46.370370368,
                     "5": 45.921296292
                 },
-                "outcomes_scores": [
-                    131.54166666,
-                    113.44444444000001
-                ]
+                "outcomes_scores": {
+                    "0": 131.54166666,
+                    "1": 113.44444444000001
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "1"
-                ],
+                "candidates_excluded": {
+                    "0": "1"
+                },
                 "scores_after_exclusion": {
                     "2": 27,
                     "3": 54,
@@ -95,9 +95,9 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "2"
-                ],
+                "candidates_excluded": {
+                    "0": "2"
+                },
                 "scores_after_exclusion": {
                     "1": 39,
                     "3": 55,
@@ -116,9 +116,9 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "2"
-                ],
+                "candidates_excluded": {
+                    "0": "2"
+                },
                 "scores_after_exclusion": {
                     "1": 39,
                     "3": 55,
@@ -137,7 +137,7 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 5": {
-                "candidates_excluded": [],
+                "candidates_excluded": {},
                 "scores_after_exclusion": {
                     "1": 31,
                     "2": 19,
@@ -158,9 +158,9 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "1"
-                ],
+                "candidates_excluded": {
+                    "0": "1"
+                },
                 "scores_after_exclusion": {
                     "2": 27,
                     "3": 54,
@@ -179,9 +179,9 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "4"
+                },
                 "scores_after_exclusion": {
                     "1": 36,
                     "2": 24,
@@ -200,7 +200,7 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 4": {
-                "candidates_excluded": [],
+                "candidates_excluded": {},
                 "scores_after_exclusion": {
                     "1": 31,
                     "2": 19,
@@ -221,9 +221,9 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "4"
+                },
                 "scores_after_exclusion": {
                     "1": 36,
                     "2": 24,
@@ -242,7 +242,7 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 3": {
-                "candidates_excluded": [],
+                "candidates_excluded": {},
                 "scores_after_exclusion": {
                     "1": 31,
                     "2": 19,
@@ -263,9 +263,9 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 42,
                     "2": 19,
@@ -284,9 +284,9 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 42,
                     "2": 19,
@@ -305,9 +305,9 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "2"
-                ],
+                "candidates_excluded": {
+                    "0": "2"
+                },
                 "scores_after_exclusion": {
                     "1": 39,
                     "3": 55,
@@ -326,9 +326,9 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "4"
-                ],
+                "candidates_excluded": {
+                    "0": "4"
+                },
                 "scores_after_exclusion": {
                     "1": 36,
                     "2": 24,
@@ -347,9 +347,9 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "5"
-                ],
+                "candidates_excluded": {
+                    "0": "5"
+                },
                 "scores_after_exclusion": {
                     "1": 42,
                     "2": 19,
@@ -369,8 +369,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 458657431391,
                         "2": 458657431391,
@@ -393,7 +393,7 @@
                         "5": 318827296101
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 395556319253,
                         "2": 395556319253,
@@ -416,7 +416,7 @@
                         "5": 373507719349
                     }
                 },
-                {
+                "2": {
                     "win": {
                         "0": 397122143736,
                         "1": 397122143736,
@@ -439,7 +439,7 @@
                         "5": 399308264410
                     }
                 },
-                {
+                "3": {
                     "win": {
                         "0": 418366581016,
                         "1": 473021670935,
@@ -462,7 +462,7 @@
                         "5": 373507719349
                     }
                 },
-                {
+                "4": {
                     "win": {
                         "0": 428303916573,
                         "1": 365507511762,
@@ -485,74 +485,74 @@
                         "5": 377282797159
                     }
                 },
-                {
-                    "win": [
-                        318827296101,
-                        373507719349,
-                        399308264410,
-                        373507719349,
-                        377282797159
-                    ],
-                    "null": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        364066544747,
-                        430477277394,
-                        386361433806,
-                        473021670935,
-                        496689511819
-                    ]
+                "5": {
+                    "win": {
+                        "0": 318827296101,
+                        "1": 373507719349,
+                        "2": 399308264410,
+                        "3": 373507719349,
+                        "4": 377282797159
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0
+                    },
+                    "lose": {
+                        "0": 364066544747,
+                        "1": 430477277394,
+                        "2": 386361433806,
+                        "3": 473021670935,
+                        "4": 496689511819
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 63101112138,
                     "2": 61535287655,
                     "3": 0,
                     "4": 0,
                     "5": 56969558045
                 },
-                {
+                "1": {
                     "0": 0,
                     "2": 12946830604,
                     "3": 0,
                     "4": 0,
                     "5": 56969558045
                 },
-                {
+                "2": {
                     "0": 0,
                     "1": 1565824483,
                     "3": 0,
                     "4": 0,
                     "5": 1565824483
                 },
-                {
+                "3": {
                     "0": 14438457228,
                     "1": 42544393541,
                     "2": 48050023822,
                     "4": 0,
                     "5": 99513951586
                 },
-                {
+                "4": {
                     "0": 24375792785,
                     "1": 48121182676,
                     "2": 106061122228,
                     "3": 9937335557,
                     "5": 119406714660
                 },
-                [
-                    0,
-                    1565824483,
-                    12946830604,
-                    0,
-                    0
-                ]
-            ]
+                "5": {
+                    "0": 0,
+                    "1": 1565824483,
+                    "2": 12946830604,
+                    "3": 0,
+                    "4": 0
+                }
+            }
         }
     }
 }

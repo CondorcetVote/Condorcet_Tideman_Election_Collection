@@ -3,17 +3,17 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 385,
-        "rankingScore": [
-            {
+        "rankingScore": {
+            "0": {
                 "1": "Stefano Zacchiroli",
                 "2": "None Of The Above",
                 "score": 385
             },
-            {
+            "1": {
                 "1": "None Of The Above",
                 "2": "Stefano Zacchiroli",
                 "score": 5
             }
-        ]
+        }
     }
 }

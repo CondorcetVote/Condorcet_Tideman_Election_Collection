@@ -9,13 +9,13 @@
             "Stefano Zacchiroli": 326,
             "Wouter Verhelst": 34
         },
-        "Candidates elected from first round": [
-            "Stefano Zacchiroli"
-        ],
-        "Candidates eliminated from first round": [
-            "Gergely Nagy",
-            "None Of The Above",
-            "Wouter Verhelst"
-        ]
+        "Candidates elected from first round": {
+            "0": "Stefano Zacchiroli"
+        },
+        "Candidates eliminated from first round": {
+            "0": "Gergely Nagy",
+            "1": "None Of The Above",
+            "2": "Wouter Verhelst"
+        }
     }
 }

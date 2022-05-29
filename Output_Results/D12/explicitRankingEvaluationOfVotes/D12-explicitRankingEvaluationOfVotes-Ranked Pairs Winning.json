@@ -2,87 +2,87 @@
     "Ranking": "Stefano Zacchiroli > Wouter Verhelst > Gergely Nagy > None Of The Above",
     "Number Of Seats": 1,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Stefano Zacchiroli",
                     "to": "Wouter Verhelst",
                     "win": 306,
                     "minority": 34,
                     "margin": 272
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Stefano Zacchiroli",
                     "to": "Gergely Nagy",
                     "win": 298,
                     "minority": 28,
                     "margin": 270
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Stefano Zacchiroli",
                     "to": "None Of The Above",
                     "win": 289,
                     "minority": 8,
                     "margin": 281
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "Wouter Verhelst",
                     "to": "None Of The Above",
                     "win": 237,
                     "minority": 41,
                     "margin": 196
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "Gergely Nagy",
                     "to": "None Of The Above",
                     "win": 219,
                     "minority": 58,
                     "margin": 161
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "Wouter Verhelst",
                     "to": "Gergely Nagy",
                     "win": 183,
                     "minority": 89,
                     "margin": 94
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Stefano Zacchiroli",
                 "to": "Wouter Verhelst"
             },
-            {
+            "1": {
                 "from": "Stefano Zacchiroli",
                 "to": "Gergely Nagy"
             },
-            {
+            "2": {
                 "from": "Stefano Zacchiroli",
                 "to": "None Of The Above"
             },
-            {
+            "3": {
                 "from": "Wouter Verhelst",
                 "to": "None Of The Above"
             },
-            {
+            "4": {
                 "from": "Gergely Nagy",
                 "to": "None Of The Above"
             },
-            {
+            "5": {
                 "from": "Wouter Verhelst",
                 "to": "Gergely Nagy"
             }
-        ]
+        }
     }
 }

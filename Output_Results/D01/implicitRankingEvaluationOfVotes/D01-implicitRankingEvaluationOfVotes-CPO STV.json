@@ -10,38 +10,38 @@
             "Branden Robinson": 92,
             "None Of The Above": 5
         },
-        "Candidates elected from first round": [],
-        "Candidates eliminated from first round": [
-            "Anand Kumria",
-            "Bdale Garbee",
-            "Ben Collins",
-            "Branden Robinson",
-            "None Of The Above"
-        ],
-        "Outcomes": [
-            [
-                "None Of The Above"
-            ],
-            [
-                "Bdale Garbee"
-            ],
-            [
-                "Ben Collins"
-            ],
-            [
-                "Anand Kumria"
-            ],
-            [
-                "Branden Robinson"
-            ]
-        ],
+        "Candidates elected from first round": {},
+        "Candidates eliminated from first round": {
+            "0": "Anand Kumria",
+            "1": "Bdale Garbee",
+            "2": "Ben Collins",
+            "3": "Branden Robinson",
+            "4": "None Of The Above"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "None Of The Above"
+            },
+            "1": {
+                "0": "Bdale Garbee"
+            },
+            "2": {
+                "0": "Ben Collins"
+            },
+            "3": {
+                "0": "Anand Kumria"
+            },
+            "4": {
+                "0": "Branden Robinson"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "Anand Kumria",
-                    "Ben Collins",
-                    "Branden Robinson"
-                ],
+                "candidates_excluded": {
+                    "0": "Anand Kumria",
+                    "1": "Ben Collins",
+                    "2": "Branden Robinson"
+                },
                 "scores_after_exclusion": {
                     "Bdale Garbee": 269,
                     "None Of The Above": 19
@@ -50,17 +50,17 @@
                     "Bdale Garbee": 269,
                     "None Of The Above": 19
                 },
-                "outcomes_scores": [
-                    19,
-                    269
-                ]
+                "outcomes_scores": {
+                    "0": 19,
+                    "1": 269
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Anand Kumria",
-                    "Bdale Garbee",
-                    "Branden Robinson"
-                ],
+                "candidates_excluded": {
+                    "0": "Anand Kumria",
+                    "1": "Bdale Garbee",
+                    "2": "Branden Robinson"
+                },
                 "scores_after_exclusion": {
                     "Ben Collins": 265,
                     "None Of The Above": 36
@@ -75,11 +75,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Bdale Garbee",
-                    "Ben Collins",
-                    "Branden Robinson"
-                ],
+                "candidates_excluded": {
+                    "0": "Bdale Garbee",
+                    "1": "Ben Collins",
+                    "2": "Branden Robinson"
+                },
                 "scores_after_exclusion": {
                     "Anand Kumria": 143,
                     "None Of The Above": 100
@@ -94,11 +94,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Anand Kumria",
-                    "Bdale Garbee",
-                    "Ben Collins"
-                ],
+                "candidates_excluded": {
+                    "0": "Anand Kumria",
+                    "1": "Bdale Garbee",
+                    "2": "Ben Collins"
+                },
                 "scores_after_exclusion": {
                     "Branden Robinson": 250,
                     "None Of The Above": 40
@@ -113,11 +113,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Anand Kumria",
-                    "Branden Robinson",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Anand Kumria",
+                    "1": "Branden Robinson",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Bdale Garbee": 134,
                     "Ben Collins": 171
@@ -132,11 +132,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Ben Collins",
-                    "Branden Robinson",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Ben Collins",
+                    "1": "Branden Robinson",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Anand Kumria": 24,
                     "Bdale Garbee": 259
@@ -151,11 +151,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Anand Kumria",
-                    "Ben Collins",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Anand Kumria",
+                    "1": "Ben Collins",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Bdale Garbee": 146,
                     "Branden Robinson": 157
@@ -170,11 +170,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Bdale Garbee",
-                    "Branden Robinson",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Bdale Garbee",
+                    "1": "Branden Robinson",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Anand Kumria": 27,
                     "Ben Collins": 261
@@ -189,11 +189,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Anand Kumria",
-                    "Bdale Garbee",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Anand Kumria",
+                    "1": "Bdale Garbee",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Ben Collins": 173,
                     "Branden Robinson": 126
@@ -208,11 +208,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Bdale Garbee",
-                    "Ben Collins",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Bdale Garbee",
+                    "1": "Ben Collins",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Anand Kumria": 37,
                     "Branden Robinson": 244
@@ -228,8 +228,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 66248903619,
                         "2": 125524238436,
@@ -249,7 +249,7 @@
                         "4": 871696100250
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 937945003869,
                         "2": 467229109734,
@@ -269,7 +269,7 @@
                         "4": 547425150957
                     }
                 },
-                {
+                "2": {
                     "win": {
                         "0": 923997866265,
                         "1": 596240132571,
@@ -289,7 +289,7 @@
                         "4": 439334834526
                     }
                 },
-                {
+                "3": {
                     "win": {
                         "0": 498610169343,
                         "1": 83682825624,
@@ -309,59 +309,59 @@
                         "4": 850775393844
                     }
                 },
-                {
-                    "win": [
-                        871696100250,
-                        547425150957,
-                        439334834526,
-                        850775393844
-                    ],
-                    "null": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        139471376040,
-                        509070522546,
-                        603213701373,
-                        129011022837
-                    ]
+                "4": {
+                    "win": {
+                        "0": 871696100250,
+                        "1": 547425150957,
+                        "2": 439334834526,
+                        "3": 850775393844
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 139471376040,
+                        "1": 509070522546,
+                        "2": 603213701373,
+                        "3": 129011022837
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 0,
                     "2": 0,
                     "3": 0,
                     "4": 0
                 },
-                {
+                "1": {
                     "0": 871696100250,
                     "2": 0,
                     "3": 819394334235,
                     "4": 0
                 },
-                {
+                "2": {
                     "0": 798473627829,
                     "1": 129011022837,
                     "3": 815907549834,
                     "4": 163878866847
                 },
-                {
+                "3": {
                     "0": 149931729243,
                     "1": 0,
                     "2": 0,
                     "4": 0
                 },
-                [
-                    732224724210,
-                    38354628411,
-                    0,
-                    721764371007
-                ]
-            ]
+                "4": {
+                    "0": 732224724210,
+                    "1": 38354628411,
+                    "2": 0,
+                    "3": 721764371007
+                }
+            }
         }
     }
 }

@@ -2,87 +2,87 @@
     "Ranking": "Jonathan Carter > Sruthi Chandran > Brian Gupta > None Of The Above",
     "Number Of Seats": 1,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "Brian Gupta",
                     "win": 252,
                     "minority": 35,
                     "margin": 217
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "None Of The Above",
                     "win": 231,
                     "minority": 23,
                     "margin": 208
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "Sruthi Chandran",
                     "win": 233,
                     "minority": 52,
                     "margin": 181
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "Sruthi Chandran",
                     "to": "None Of The Above",
                     "win": 186,
                     "minority": 57,
                     "margin": 129
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "Sruthi Chandran",
                     "to": "Brian Gupta",
                     "win": 149,
                     "minority": 104,
                     "margin": 45
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "Brian Gupta",
                     "to": "None Of The Above",
                     "win": 138,
                     "minority": 104,
                     "margin": 34
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Jonathan Carter",
                 "to": "Brian Gupta"
             },
-            {
+            "1": {
                 "from": "Jonathan Carter",
                 "to": "None Of The Above"
             },
-            {
+            "2": {
                 "from": "Jonathan Carter",
                 "to": "Sruthi Chandran"
             },
-            {
+            "3": {
                 "from": "Sruthi Chandran",
                 "to": "None Of The Above"
             },
-            {
+            "4": {
                 "from": "Sruthi Chandran",
                 "to": "Brian Gupta"
             },
-            {
+            "5": {
                 "from": "Brian Gupta",
                 "to": "None Of The Above"
             }
-        ]
+        }
     }
 }

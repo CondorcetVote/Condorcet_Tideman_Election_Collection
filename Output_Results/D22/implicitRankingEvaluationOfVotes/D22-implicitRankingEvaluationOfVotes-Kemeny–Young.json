@@ -3,175 +3,175 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 1594,
-        "rankingScore": [
-            {
+        "rankingScore": {
+            "0": {
                 "1": "Felix Lechner",
                 "2": "Jonathan Carter",
                 "3": "Hideki Yamane",
                 "4": "None of the above",
                 "score": 1170
             },
-            {
+            "1": {
                 "1": "Felix Lechner",
                 "2": "Jonathan Carter",
                 "3": "None of the above",
                 "4": "Hideki Yamane",
                 "score": 933
             },
-            {
+            "2": {
                 "1": "Felix Lechner",
                 "2": "Hideki Yamane",
                 "3": "Jonathan Carter",
                 "4": "None of the above",
                 "score": 973
             },
-            {
+            "3": {
                 "1": "Felix Lechner",
                 "2": "Hideki Yamane",
                 "3": "None of the above",
                 "4": "Jonathan Carter",
                 "score": 668
             },
-            {
+            "4": {
                 "1": "Felix Lechner",
                 "2": "None of the above",
                 "3": "Jonathan Carter",
                 "4": "Hideki Yamane",
                 "score": 628
             },
-            {
+            "5": {
                 "1": "Felix Lechner",
                 "2": "None of the above",
                 "3": "Hideki Yamane",
                 "4": "Jonathan Carter",
                 "score": 431
             },
-            {
+            "6": {
                 "1": "Jonathan Carter",
                 "2": "Felix Lechner",
                 "3": "Hideki Yamane",
                 "4": "None of the above",
                 "score": 1412
             },
-            {
+            "7": {
                 "1": "Jonathan Carter",
                 "2": "Felix Lechner",
                 "3": "None of the above",
                 "4": "Hideki Yamane",
                 "score": 1175
             },
-            {
+            "8": {
                 "1": "Jonathan Carter",
                 "2": "Hideki Yamane",
                 "3": "Felix Lechner",
                 "4": "None of the above",
                 "score": 1557
             },
-            {
+            "9": {
                 "1": "Jonathan Carter",
                 "2": "Hideki Yamane",
                 "3": "None of the above",
                 "4": "Felix Lechner",
                 "score": 1594
             },
-            {
+            "10": {
                 "1": "Jonathan Carter",
                 "2": "None of the above",
                 "3": "Felix Lechner",
                 "4": "Hideki Yamane",
                 "score": 1212
             },
-            {
+            "11": {
                 "1": "Jonathan Carter",
                 "2": "None of the above",
                 "3": "Hideki Yamane",
                 "4": "Felix Lechner",
                 "score": 1357
             },
-            {
+            "12": {
                 "1": "Hideki Yamane",
                 "2": "Felix Lechner",
                 "3": "Jonathan Carter",
                 "4": "None of the above",
                 "score": 1118
             },
-            {
+            "13": {
                 "1": "Hideki Yamane",
                 "2": "Felix Lechner",
                 "3": "None of the above",
                 "4": "Jonathan Carter",
                 "score": 813
             },
-            {
+            "14": {
                 "1": "Hideki Yamane",
                 "2": "Jonathan Carter",
                 "3": "Felix Lechner",
                 "4": "None of the above",
                 "score": 1360
             },
-            {
+            "15": {
                 "1": "Hideki Yamane",
                 "2": "Jonathan Carter",
                 "3": "None of the above",
                 "4": "Felix Lechner",
                 "score": 1397
             },
-            {
+            "16": {
                 "1": "Hideki Yamane",
                 "2": "None of the above",
                 "3": "Felix Lechner",
                 "4": "Jonathan Carter",
                 "score": 850
             },
-            {
+            "17": {
                 "1": "Hideki Yamane",
                 "2": "None of the above",
                 "3": "Jonathan Carter",
                 "4": "Felix Lechner",
                 "score": 1092
             },
-            {
+            "18": {
                 "1": "None of the above",
                 "2": "Felix Lechner",
                 "3": "Jonathan Carter",
                 "4": "Hideki Yamane",
                 "score": 665
             },
-            {
+            "19": {
                 "1": "None of the above",
                 "2": "Felix Lechner",
                 "3": "Hideki Yamane",
                 "4": "Jonathan Carter",
                 "score": 468
             },
-            {
+            "20": {
                 "1": "None of the above",
                 "2": "Jonathan Carter",
                 "3": "Felix Lechner",
                 "4": "Hideki Yamane",
                 "score": 907
             },
-            {
+            "21": {
                 "1": "None of the above",
                 "2": "Jonathan Carter",
                 "3": "Hideki Yamane",
                 "4": "Felix Lechner",
                 "score": 1052
             },
-            {
+            "22": {
                 "1": "None of the above",
                 "2": "Hideki Yamane",
                 "3": "Felix Lechner",
                 "4": "Jonathan Carter",
                 "score": 613
             },
-            {
+            "23": {
                 "1": "None of the above",
                 "2": "Hideki Yamane",
                 "3": "Jonathan Carter",
                 "4": "Felix Lechner",
                 "score": 855
             }
-        ]
+        }
     }
 }

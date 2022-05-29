@@ -2,48 +2,48 @@
     "Ranking": "Jonathan Carter > Sruthi Chandran > None Of The Above",
     "Number Of Seats": 1,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "None Of The Above",
                     "win": 421,
                     "minority": 30,
                     "margin": 391
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Sruthi Chandran",
                     "to": "None Of The Above",
                     "win": 341,
                     "minority": 81,
                     "margin": 260
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "Sruthi Chandran",
                     "win": 312,
                     "minority": 102,
                     "margin": 210
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Jonathan Carter",
                 "to": "None Of The Above"
             },
-            {
+            "1": {
                 "from": "Sruthi Chandran",
                 "to": "None Of The Above"
             },
-            {
+            "2": {
                 "from": "Jonathan Carter",
                 "to": "Sruthi Chandran"
             }
-        ]
+        }
     }
 }

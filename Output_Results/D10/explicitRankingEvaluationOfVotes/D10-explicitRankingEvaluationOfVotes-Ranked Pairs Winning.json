@@ -2,139 +2,139 @@
     "Ranking": "Stefano Zacchiroli > Margarita Manterola > Wouter Verhelst > None Of The Above > Charles Plessy",
     "Number Of Seats": 1,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Stefano Zacchiroli",
                     "to": "Charles Plessy",
                     "win": 331,
                     "minority": 29,
                     "margin": 302
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Stefano Zacchiroli",
                     "to": "None Of The Above",
                     "win": 307,
                     "minority": 16,
                     "margin": 291
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Wouter Verhelst",
                     "to": "Charles Plessy",
                     "win": 300,
                     "minority": 43,
                     "margin": 257
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "Wouter Verhelst",
                     "to": "None Of The Above",
                     "win": 296,
                     "minority": 28,
                     "margin": 268
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "Margarita Manterola",
                     "to": "Charles Plessy",
                     "win": 295,
                     "minority": 47,
                     "margin": 248
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "Margarita Manterola",
                     "to": "None Of The Above",
                     "win": 285,
                     "minority": 36,
                     "margin": 249
                 }
-            ],
-            [
-                {
+            },
+            "6": {
+                "0": {
                     "from": "Stefano Zacchiroli",
                     "to": "Wouter Verhelst",
                     "win": 281,
                     "minority": 91,
                     "margin": 190
                 }
-            ],
-            [
-                {
+            },
+            "7": {
+                "0": {
                     "from": "Stefano Zacchiroli",
                     "to": "Margarita Manterola",
                     "win": 249,
                     "minority": 109,
                     "margin": 140
                 }
-            ],
-            [
-                {
+            },
+            "8": {
+                "0": {
                     "from": "Margarita Manterola",
                     "to": "Wouter Verhelst",
                     "win": 191,
                     "minority": 162,
                     "margin": 29
                 }
-            ],
-            [
-                {
+            },
+            "9": {
+                "0": {
                     "from": "None Of The Above",
                     "to": "Charles Plessy",
                     "win": 154,
                     "minority": 150,
                     "margin": 4
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Stefano Zacchiroli",
                 "to": "Charles Plessy"
             },
-            {
+            "1": {
                 "from": "Stefano Zacchiroli",
                 "to": "None Of The Above"
             },
-            {
+            "2": {
                 "from": "Wouter Verhelst",
                 "to": "Charles Plessy"
             },
-            {
+            "3": {
                 "from": "Wouter Verhelst",
                 "to": "None Of The Above"
             },
-            {
+            "4": {
                 "from": "Margarita Manterola",
                 "to": "Charles Plessy"
             },
-            {
+            "5": {
                 "from": "Margarita Manterola",
                 "to": "None Of The Above"
             },
-            {
+            "6": {
                 "from": "Stefano Zacchiroli",
                 "to": "Wouter Verhelst"
             },
-            {
+            "7": {
                 "from": "Stefano Zacchiroli",
                 "to": "Margarita Manterola"
             },
-            {
+            "8": {
                 "from": "Margarita Manterola",
                 "to": "Wouter Verhelst"
             },
-            {
+            "9": {
                 "from": "None Of The Above",
                 "to": "Charles Plessy"
             }
-        ]
+        }
     }
 }

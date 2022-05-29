@@ -8,28 +8,28 @@
             "2": 16,
             "3": 14
         },
-        "Candidates elected from first round": [],
-        "Candidates eliminated from first round": [
-            "1",
-            "2",
-            "3"
-        ],
-        "Outcomes": [
-            [
-                "3"
-            ],
-            [
-                "2"
-            ],
-            [
-                "1"
-            ]
-        ],
+        "Candidates elected from first round": {},
+        "Candidates eliminated from first round": {
+            "0": "1",
+            "1": "2",
+            "2": "3"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "3"
+            },
+            "1": {
+                "0": "2"
+            },
+            "2": {
+                "0": "1"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "1"
-                ],
+                "candidates_excluded": {
+                    "0": "1"
+                },
                 "scores_after_exclusion": {
                     "2": 33,
                     "3": 18
@@ -38,15 +38,15 @@
                     "2": 33,
                     "3": 18
                 },
-                "outcomes_scores": [
-                    18,
-                    33
-                ]
+                "outcomes_scores": {
+                    "0": 18,
+                    "1": 33
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "2"
-                ],
+                "candidates_excluded": {
+                    "0": "2"
+                },
                 "scores_after_exclusion": {
                     "1": 36,
                     "3": 16
@@ -61,9 +61,9 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "3"
-                ],
+                "candidates_excluded": {
+                    "0": "3"
+                },
                 "scores_after_exclusion": {
                     "1": 32,
                     "2": 25
@@ -79,8 +79,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 62762119218,
                         "2": 55788550416
@@ -94,7 +94,7 @@
                         "2": 125524238436
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 115063885233,
                         "2": 87169610025
@@ -108,35 +108,35 @@
                         "2": 111577100832
                     }
                 },
-                {
-                    "win": [
-                        125524238436,
-                        111577100832
-                    ],
-                    "null": [
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        55788550416,
-                        87169610025
-                    ]
+                "2": {
+                    "win": {
+                        "0": 125524238436,
+                        "1": 111577100832
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0
+                    },
+                    "lose": {
+                        "0": 55788550416,
+                        "1": 87169610025
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 0,
                     "2": 0
                 },
-                {
+                "1": {
                     "0": 52301766015,
                     "2": 0
                 },
-                [
-                    69735688020,
-                    24407490807
-                ]
-            ]
+                "2": {
+                    "0": 69735688020,
+                    "1": 24407490807
+                }
+            }
         }
     }
 }

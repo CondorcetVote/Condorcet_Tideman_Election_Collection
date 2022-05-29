@@ -12,48 +12,48 @@
             "Matthew Garrett": 122,
             "None of the Above": 25
         },
-        "Candidates elected from first round": [],
-        "Candidates eliminated from first round": [
-            "Andreas Schuldei",
-            "Angus Lees",
-            "Anthony Towns",
-            "Branden Robinson",
-            "Jonathan Walther",
-            "Matthew Garrett",
-            "None of the Above"
-        ],
-        "Outcomes": [
-            [
-                "None of the Above"
-            ],
-            [
-                "Andreas Schuldei"
-            ],
-            [
-                "Angus Lees"
-            ],
-            [
-                "Anthony Towns"
-            ],
-            [
-                "Branden Robinson"
-            ],
-            [
-                "Matthew Garrett"
-            ],
-            [
-                "Jonathan Walther"
-            ]
-        ],
+        "Candidates elected from first round": {},
+        "Candidates eliminated from first round": {
+            "0": "Andreas Schuldei",
+            "1": "Angus Lees",
+            "2": "Anthony Towns",
+            "3": "Branden Robinson",
+            "4": "Jonathan Walther",
+            "5": "Matthew Garrett",
+            "6": "None of the Above"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "None of the Above"
+            },
+            "1": {
+                "0": "Andreas Schuldei"
+            },
+            "2": {
+                "0": "Angus Lees"
+            },
+            "3": {
+                "0": "Anthony Towns"
+            },
+            "4": {
+                "0": "Branden Robinson"
+            },
+            "5": {
+                "0": "Matthew Garrett"
+            },
+            "6": {
+                "0": "Jonathan Walther"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "Angus Lees",
-                    "Anthony Towns",
-                    "Branden Robinson",
-                    "Jonathan Walther",
-                    "Matthew Garrett"
-                ],
+                "candidates_excluded": {
+                    "0": "Angus Lees",
+                    "1": "Anthony Towns",
+                    "2": "Branden Robinson",
+                    "3": "Jonathan Walther",
+                    "4": "Matthew Garrett"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 271,
                     "None of the Above": 180
@@ -62,19 +62,19 @@
                     "Andreas Schuldei": 271,
                     "None of the Above": 180
                 },
-                "outcomes_scores": [
-                    180,
-                    271
-                ]
+                "outcomes_scores": {
+                    "0": 180,
+                    "1": 271
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Branden Robinson",
-                    "Jonathan Walther",
-                    "Matthew Garrett"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Branden Robinson",
+                    "3": "Jonathan Walther",
+                    "4": "Matthew Garrett"
+                },
                 "scores_after_exclusion": {
                     "Angus Lees": 207,
                     "None of the Above": 224
@@ -89,13 +89,13 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Angus Lees",
-                    "Branden Robinson",
-                    "Jonathan Walther",
-                    "Matthew Garrett"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Angus Lees",
+                    "2": "Branden Robinson",
+                    "3": "Jonathan Walther",
+                    "4": "Matthew Garrett"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 346,
                     "None of the Above": 135
@@ -110,13 +110,13 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Angus Lees",
-                    "Anthony Towns",
-                    "Jonathan Walther",
-                    "Matthew Garrett"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Angus Lees",
+                    "2": "Anthony Towns",
+                    "3": "Jonathan Walther",
+                    "4": "Matthew Garrett"
+                },
                 "scores_after_exclusion": {
                     "Branden Robinson": 320,
                     "None of the Above": 153
@@ -131,13 +131,13 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Angus Lees",
-                    "Anthony Towns",
-                    "Branden Robinson",
-                    "Jonathan Walther"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Angus Lees",
+                    "2": "Anthony Towns",
+                    "3": "Branden Robinson",
+                    "4": "Jonathan Walther"
+                },
                 "scores_after_exclusion": {
                     "Matthew Garrett": 329,
                     "None of the Above": 121
@@ -152,13 +152,13 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Angus Lees",
-                    "Anthony Towns",
-                    "Branden Robinson",
-                    "Matthew Garrett"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Angus Lees",
+                    "2": "Anthony Towns",
+                    "3": "Branden Robinson",
+                    "4": "Matthew Garrett"
+                },
                 "scores_after_exclusion": {
                     "Jonathan Walther": 90,
                     "None of the Above": 346
@@ -173,13 +173,13 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Branden Robinson",
-                    "Jonathan Walther",
-                    "Matthew Garrett",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Branden Robinson",
+                    "2": "Jonathan Walther",
+                    "3": "Matthew Garrett",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 258,
                     "Angus Lees": 122
@@ -194,13 +194,13 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Angus Lees",
-                    "Branden Robinson",
-                    "Jonathan Walther",
-                    "Matthew Garrett",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Angus Lees",
+                    "1": "Branden Robinson",
+                    "2": "Jonathan Walther",
+                    "3": "Matthew Garrett",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 184,
                     "Anthony Towns": 264
@@ -215,13 +215,13 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Angus Lees",
-                    "Anthony Towns",
-                    "Jonathan Walther",
-                    "Matthew Garrett",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Angus Lees",
+                    "1": "Anthony Towns",
+                    "2": "Jonathan Walther",
+                    "3": "Matthew Garrett",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 177,
                     "Branden Robinson": 235
@@ -236,13 +236,13 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Angus Lees",
-                    "Anthony Towns",
-                    "Branden Robinson",
-                    "Jonathan Walther",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Angus Lees",
+                    "1": "Anthony Towns",
+                    "2": "Branden Robinson",
+                    "3": "Jonathan Walther",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 171,
                     "Matthew Garrett": 241
@@ -257,13 +257,13 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Angus Lees",
-                    "Anthony Towns",
-                    "Branden Robinson",
-                    "Matthew Garrett",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Angus Lees",
+                    "1": "Anthony Towns",
+                    "2": "Branden Robinson",
+                    "3": "Matthew Garrett",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 305,
                     "Jonathan Walther": 84
@@ -278,13 +278,13 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Branden Robinson",
-                    "Jonathan Walther",
-                    "Matthew Garrett",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Branden Robinson",
+                    "2": "Jonathan Walther",
+                    "3": "Matthew Garrett",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Angus Lees": 93,
                     "Anthony Towns": 341
@@ -299,13 +299,13 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Jonathan Walther",
-                    "Matthew Garrett",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Jonathan Walther",
+                    "3": "Matthew Garrett",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Angus Lees": 114,
                     "Branden Robinson": 311
@@ -320,13 +320,13 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Branden Robinson",
-                    "Jonathan Walther",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Branden Robinson",
+                    "3": "Jonathan Walther",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Angus Lees": 73,
                     "Matthew Garrett": 320
@@ -341,13 +341,13 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Branden Robinson",
-                    "Matthew Garrett",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Branden Robinson",
+                    "3": "Matthew Garrett",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Angus Lees": 268,
                     "Jonathan Walther": 83
@@ -362,13 +362,13 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Angus Lees",
-                    "Jonathan Walther",
-                    "Matthew Garrett",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Angus Lees",
+                    "2": "Jonathan Walther",
+                    "3": "Matthew Garrett",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 224,
                     "Branden Robinson": 229
@@ -383,13 +383,13 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Angus Lees",
-                    "Branden Robinson",
-                    "Jonathan Walther",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Angus Lees",
+                    "2": "Branden Robinson",
+                    "3": "Jonathan Walther",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 237,
                     "Matthew Garrett": 212
@@ -404,13 +404,13 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Angus Lees",
-                    "Branden Robinson",
-                    "Matthew Garrett",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Angus Lees",
+                    "2": "Branden Robinson",
+                    "3": "Matthew Garrett",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 389,
                     "Jonathan Walther": 53
@@ -425,13 +425,13 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Angus Lees",
-                    "Anthony Towns",
-                    "Jonathan Walther",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Angus Lees",
+                    "2": "Anthony Towns",
+                    "3": "Jonathan Walther",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Branden Robinson": 234,
                     "Matthew Garrett": 214
@@ -446,13 +446,13 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Angus Lees",
-                    "Anthony Towns",
-                    "Matthew Garrett",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Angus Lees",
+                    "2": "Anthony Towns",
+                    "3": "Matthew Garrett",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Branden Robinson": 359,
                     "Jonathan Walther": 75
@@ -467,13 +467,13 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Angus Lees",
-                    "Anthony Towns",
-                    "Branden Robinson",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Angus Lees",
+                    "2": "Anthony Towns",
+                    "3": "Branden Robinson",
+                    "4": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Jonathan Walther": 49,
                     "Matthew Garrett": 350
@@ -489,8 +489,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 627621192180,
                         "2": 781039705824,
@@ -516,7 +516,7 @@
                         "6": 313810596090
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 944918572671,
                         "2": 899590375458,
@@ -542,7 +542,7 @@
                         "6": 292889889684
                     }
                 },
-                {
+                "2": {
                     "win": {
                         "0": 721764371007,
                         "1": 425387696922,
@@ -568,7 +568,7 @@
                         "6": 289403105283
                     }
                 },
-                {
+                "3": {
                     "win": {
                         "0": 1206427402746,
                         "1": 920511081864,
@@ -594,7 +594,7 @@
                         "6": 184799573253
                     }
                 },
-                {
+                "4": {
                     "win": {
                         "0": 1115771008320,
                         "1": 819394334235,
@@ -620,7 +620,7 @@
                         "6": 261508830075
                     }
                 },
-                {
+                "5": {
                     "win": {
                         "0": 1147152067929,
                         "1": 840315040641,
@@ -646,35 +646,35 @@
                         "6": 170852435649
                     }
                 },
-                {
-                    "win": [
-                        313810596090,
-                        292889889684,
-                        289403105283,
-                        184799573253,
-                        261508830075,
-                        170852435649
-                    ],
-                    "null": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        1206427402746,
-                        1063469242305,
-                        934458219468,
-                        1356359131989,
-                        1251755599959,
-                        1220374540350
-                    ]
+                "6": {
+                    "win": {
+                        "0": 313810596090,
+                        "1": 292889889684,
+                        "2": 289403105283,
+                        "3": 184799573253,
+                        "4": 261508830075,
+                        "5": 170852435649
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "lose": {
+                        "0": 1206427402746,
+                        "1": 1063469242305,
+                        "2": 934458219468,
+                        "3": 1356359131989,
+                        "4": 1251755599959,
+                        "5": 1220374540350
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 0,
                     "2": 59275334817,
                     "3": 0,
@@ -682,7 +682,7 @@
                     "5": 0,
                     "6": 892616806656
                 },
-                {
+                "1": {
                     "0": 317297380491,
                     "2": 474202678536,
                     "3": 0,
@@ -690,7 +690,7 @@
                     "5": 0,
                     "6": 770579352621
                 },
-                {
+                "2": {
                     "0": 0,
                     "1": 0,
                     "3": 0,
@@ -698,7 +698,7 @@
                     "5": 0,
                     "6": 645055114185
                 },
-                {
+                "3": {
                     "0": 735711508611,
                     "1": 278942752080,
                     "2": 864722531448,
@@ -706,7 +706,7 @@
                     "5": 87169610025,
                     "6": 1171559558736
                 },
-                {
+                "4": {
                     "0": 582292994967,
                     "1": 202233495258,
                     "2": 686896526997,
@@ -714,7 +714,7 @@
                     "5": 69735688020,
                     "6": 990246769884
                 },
-                {
+                "5": {
                     "0": 725251155408,
                     "1": 244074908070,
                     "2": 861235747047,
@@ -722,15 +722,15 @@
                     "4": 0,
                     "6": 1049522104701
                 },
-                [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            ]
+                "6": {
+                    "0": 0,
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                }
+            }
         }
     }
 }

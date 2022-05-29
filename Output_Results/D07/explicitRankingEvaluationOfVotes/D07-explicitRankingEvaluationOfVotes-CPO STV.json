@@ -14,58 +14,58 @@
             "Steve McIntyre": 87,
             "Wouter Verhelst": 52
         },
-        "Candidates elected from first round": [],
-        "Candidates eliminated from first round": [
-            "Aigars Mahinovs",
-            "Anthony Towns",
-            "Gustavo Franco",
-            "None Of The Above",
-            "Raphaël Hertzog",
-            "Sam Hocevar",
-            "Simon Richter",
-            "Steve McIntyre",
-            "Wouter Verhelst"
-        ],
-        "Outcomes": [
-            [
-                "None Of The Above"
-            ],
-            [
-                "Simon Richter"
-            ],
-            [
-                "Anthony Towns"
-            ],
-            [
-                "Raphaël Hertzog"
-            ],
-            [
-                "Steve McIntyre"
-            ],
-            [
-                "Sam Hocevar"
-            ],
-            [
-                "Gustavo Franco"
-            ],
-            [
-                "Aigars Mahinovs"
-            ],
-            [
-                "Wouter Verhelst"
-            ]
-        ],
+        "Candidates elected from first round": {},
+        "Candidates eliminated from first round": {
+            "0": "Aigars Mahinovs",
+            "1": "Anthony Towns",
+            "2": "Gustavo Franco",
+            "3": "None Of The Above",
+            "4": "Raphaël Hertzog",
+            "5": "Sam Hocevar",
+            "6": "Simon Richter",
+            "7": "Steve McIntyre",
+            "8": "Wouter Verhelst"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "None Of The Above"
+            },
+            "1": {
+                "0": "Simon Richter"
+            },
+            "2": {
+                "0": "Anthony Towns"
+            },
+            "3": {
+                "0": "Raphaël Hertzog"
+            },
+            "4": {
+                "0": "Steve McIntyre"
+            },
+            "5": {
+                "0": "Sam Hocevar"
+            },
+            "6": {
+                "0": "Gustavo Franco"
+            },
+            "7": {
+                "0": "Aigars Mahinovs"
+            },
+            "8": {
+                "0": "Wouter Verhelst"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "None Of The Above": 269,
                     "Simon Richter": 128
@@ -74,21 +74,21 @@
                     "None Of The Above": 269,
                     "Simon Richter": 128
                 },
-                "outcomes_scores": [
-                    269,
-                    128
-                ]
+                "outcomes_scores": {
+                    "0": 269,
+                    "1": 128
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Gustavo Franco",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Gustavo Franco",
+                    "2": "Raphaël Hertzog",
+                    "3": "Sam Hocevar",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 249,
                     "None Of The Above": 182
@@ -103,15 +103,15 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "Sam Hocevar",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "None Of The Above": 165,
                     "Raphaël Hertzog": 264
@@ -126,15 +126,15 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Simon Richter",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "None Of The Above": 158,
                     "Steve McIntyre": 267
@@ -149,15 +149,15 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "Raphaël Hertzog",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "Raphaël Hertzog",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "None Of The Above": 142,
                     "Sam Hocevar": 273
@@ -172,15 +172,15 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Raphaël Hertzog",
+                    "3": "Sam Hocevar",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Gustavo Franco": 191,
                     "None Of The Above": 210
@@ -195,15 +195,15 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Gustavo Franco",
+                    "2": "Raphaël Hertzog",
+                    "3": "Sam Hocevar",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Aigars Mahinovs": 90,
                     "None Of The Above": 300
@@ -218,15 +218,15 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Simon Richter",
+                    "6": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "None Of The Above": 167,
                     "Wouter Verhelst": 259
@@ -241,15 +241,15 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Gustavo Franco",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 260,
                     "Simon Richter": 90
@@ -264,15 +264,15 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Sam Hocevar",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "None Of The Above",
+                    "4": "Sam Hocevar",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Raphaël Hertzog": 267,
                     "Simon Richter": 69
@@ -287,15 +287,15 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "None Of The Above",
+                    "4": "Raphaël Hertzog",
+                    "5": "Sam Hocevar",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Simon Richter": 64,
                     "Steve McIntyre": 273
@@ -310,15 +310,15 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "None Of The Above",
+                    "4": "Raphaël Hertzog",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Sam Hocevar": 276,
                     "Simon Richter": 53
@@ -333,15 +333,15 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Gustavo Franco": 195,
                     "Simon Richter": 80
@@ -356,15 +356,15 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Gustavo Franco",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Aigars Mahinovs": 91,
                     "Simon Richter": 147
@@ -379,15 +379,15 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "None Of The Above",
+                    "4": "Raphaël Hertzog",
+                    "5": "Sam Hocevar",
+                    "6": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Simon Richter": 60,
                     "Wouter Verhelst": 269
@@ -402,15 +402,15 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Gustavo Franco",
+                    "2": "None Of The Above",
+                    "3": "Sam Hocevar",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 186,
                     "Raphaël Hertzog": 202
@@ -425,15 +425,15 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Gustavo Franco",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Simon Richter",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 146,
                     "Steve McIntyre": 219
@@ -448,15 +448,15 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Gustavo Franco",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 180,
                     "Sam Hocevar": 218
@@ -471,15 +471,15 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "None Of The Above",
+                    "2": "Raphaël Hertzog",
+                    "3": "Sam Hocevar",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 231,
                     "Gustavo Franco": 135
@@ -494,15 +494,15 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Gustavo Franco",
+                    "1": "None Of The Above",
+                    "2": "Raphaël Hertzog",
+                    "3": "Sam Hocevar",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Aigars Mahinovs": 76,
                     "Anthony Towns": 271
@@ -517,15 +517,15 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Gustavo Franco",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Simon Richter",
+                    "6": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 199,
                     "Wouter Verhelst": 184
@@ -540,15 +540,15 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "None Of The Above",
+                    "4": "Sam Hocevar",
+                    "5": "Simon Richter",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Raphaël Hertzog": 174,
                     "Steve McIntyre": 199
@@ -563,15 +563,15 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "None Of The Above",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Raphaël Hertzog": 170,
                     "Sam Hocevar": 211
@@ -586,15 +586,15 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "None Of The Above",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "None Of The Above",
+                    "3": "Sam Hocevar",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Gustavo Franco": 115,
                     "Raphaël Hertzog": 237
@@ -609,15 +609,15 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Gustavo Franco",
+                    "2": "None Of The Above",
+                    "3": "Sam Hocevar",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Aigars Mahinovs": 48,
                     "Raphaël Hertzog": 283
@@ -632,15 +632,15 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "None Of The Above",
+                    "4": "Sam Hocevar",
+                    "5": "Simon Richter",
+                    "6": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Raphaël Hertzog": 195,
                     "Wouter Verhelst": 168
@@ -655,15 +655,15 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Simon Richter",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "None Of The Above",
+                    "4": "Raphaël Hertzog",
+                    "5": "Simon Richter",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Sam Hocevar": 196,
                     "Steve McIntyre": 191
@@ -678,15 +678,15 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Simon Richter",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Gustavo Franco": 113,
                     "Steve McIntyre": 234
@@ -701,15 +701,15 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Gustavo Franco",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Simon Richter",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Aigars Mahinovs": 47,
                     "Steve McIntyre": 282
@@ -724,15 +724,15 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "None Of The Above",
+                    "4": "Raphaël Hertzog",
+                    "5": "Sam Hocevar",
+                    "6": "Simon Richter"
+                },
                 "scores_after_exclusion": {
                     "Steve McIntyre": 207,
                     "Wouter Verhelst": 149
@@ -747,15 +747,15 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Gustavo Franco": 70,
                     "Sam Hocevar": 253
@@ -770,15 +770,15 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Gustavo Franco",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Aigars Mahinovs": 37,
                     "Sam Hocevar": 279
@@ -793,15 +793,15 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Simon Richter",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "Gustavo Franco",
+                    "3": "None Of The Above",
+                    "4": "Raphaël Hertzog",
+                    "5": "Simon Richter",
+                    "6": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Sam Hocevar": 219,
                     "Wouter Verhelst": 155
@@ -816,15 +816,15 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre",
-                    "Wouter Verhelst"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "None Of The Above",
+                    "2": "Raphaël Hertzog",
+                    "3": "Sam Hocevar",
+                    "4": "Simon Richter",
+                    "5": "Steve McIntyre",
+                    "6": "Wouter Verhelst"
+                },
                 "scores_after_exclusion": {
                     "Aigars Mahinovs": 51,
                     "Gustavo Franco": 205
@@ -839,15 +839,15 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "Aigars Mahinovs",
-                    "Anthony Towns",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Aigars Mahinovs",
+                    "1": "Anthony Towns",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Simon Richter",
+                    "6": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Gustavo Franco": 122,
                     "Wouter Verhelst": 217
@@ -862,15 +862,15 @@
                 }
             },
             "Outcome N° 7 compared to Outcome N° 8": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Gustavo Franco",
-                    "None Of The Above",
-                    "Raphaël Hertzog",
-                    "Sam Hocevar",
-                    "Simon Richter",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Gustavo Franco",
+                    "2": "None Of The Above",
+                    "3": "Raphaël Hertzog",
+                    "4": "Sam Hocevar",
+                    "5": "Simon Richter",
+                    "6": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Aigars Mahinovs": 47,
                     "Wouter Verhelst": 273
@@ -886,8 +886,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 937945003869,
                         "2": 634594760982,
@@ -919,7 +919,7 @@
                         "8": 903077159859
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 446308403328,
                         "2": 313810596090,
@@ -951,7 +951,7 @@
                         "8": 937945003869
                     }
                 },
-                {
+                "2": {
                     "win": {
                         "0": 868209315849,
                         "1": 906563944260,
@@ -983,7 +983,7 @@
                         "8": 641568329784
                     }
                 },
-                {
+                "3": {
                     "win": {
                         "0": 920511081864,
                         "1": 930971435067,
@@ -1015,7 +1015,7 @@
                         "8": 585779779368
                     }
                 },
-                {
+                "4": {
                     "win": {
                         "0": 930971435067,
                         "1": 951892141473,
@@ -1047,7 +1047,7 @@
                         "8": 519530875749
                     }
                 },
-                {
+                "5": {
                     "win": {
                         "0": 951892141473,
                         "1": 962352494676,
@@ -1079,7 +1079,7 @@
                         "8": 540451582155
                     }
                 },
-                {
+                "6": {
                     "win": {
                         "0": 665975820591,
                         "1": 679922958195,
@@ -1111,7 +1111,7 @@
                         "8": 756632215017
                     }
                 },
-                {
+                "7": {
                     "win": {
                         "0": 313810596090,
                         "1": 317297380491,
@@ -1143,41 +1143,41 @@
                         "8": 951892141473
                     }
                 },
-                {
-                    "win": [
-                        903077159859,
-                        937945003869,
-                        641568329784,
-                        585779779368,
-                        519530875749,
-                        540451582155,
-                        756632215017,
-                        951892141473
-                    ],
-                    "null": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        582292994967,
-                        209207064060,
-                        693870095799,
-                        679922958195,
-                        721764371007,
-                        763605783819,
-                        425387696922,
-                        163878866847
-                    ]
+                "8": {
+                    "win": {
+                        "0": 903077159859,
+                        "1": 937945003869,
+                        "2": 641568329784,
+                        "3": 585779779368,
+                        "4": 519530875749,
+                        "5": 540451582155,
+                        "6": 756632215017,
+                        "7": 951892141473
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0,
+                        "6": 0,
+                        "7": 0
+                    },
+                    "lose": {
+                        "0": 582292994967,
+                        "1": 209207064060,
+                        "2": 693870095799,
+                        "3": 679922958195,
+                        "4": 721764371007,
+                        "5": 763605783819,
+                        "6": 425387696922,
+                        "7": 163878866847
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 491636600541,
                     "2": 0,
                     "3": 0,
@@ -1187,7 +1187,7 @@
                     "7": 732224724210,
                     "8": 0
                 },
-                {
+                "1": {
                     "0": 0,
                     "2": 0,
                     "3": 0,
@@ -1197,7 +1197,7 @@
                     "7": 195259926456,
                     "8": 0
                 },
-                {
+                "2": {
                     "0": 233614554867,
                     "1": 592753348170,
                     "3": 0,
@@ -1207,7 +1207,7 @@
                     "7": 679922958195,
                     "8": 52301766015
                 },
-                {
+                "3": {
                     "0": 345191655699,
                     "1": 690383311398,
                     "2": 55788550416,
@@ -1217,7 +1217,7 @@
                     "7": 819394334235,
                     "8": 94143178827
                 },
-                {
+                "4": {
                     "0": 380059499709,
                     "1": 728737939809,
                     "2": 254535261273,
@@ -1227,7 +1227,7 @@
                     "7": 819394334235,
                     "8": 202233495258
                 },
-                {
+                "5": {
                     "0": 456768756531,
                     "1": 777552921423,
                     "2": 132497807238,
@@ -1237,7 +1237,7 @@
                     "7": 843801825042,
                     "8": 223154201664
                 },
-                {
+                "6": {
                     "0": 0,
                     "1": 400980206115,
                     "2": 0,
@@ -1247,7 +1247,7 @@
                     "7": 536964797754,
                     "8": 0
                 },
-                {
+                "7": {
                     "0": 0,
                     "1": 0,
                     "2": 0,
@@ -1257,17 +1257,17 @@
                     "6": 0,
                     "8": 0
                 },
-                [
-                    320784164892,
-                    728737939809,
-                    0,
-                    0,
-                    0,
-                    0,
-                    331244518095,
-                    788013274626
-                ]
-            ]
+                "8": {
+                    "0": 320784164892,
+                    "1": 728737939809,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0,
+                    "6": 331244518095,
+                    "7": 788013274626
+                }
+            }
         }
     }
 }

@@ -3,175 +3,175 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 1276,
-        "rankingScore": [
-            {
+        "rankingScore": {
+            "0": {
                 "1": "Steve McIntyre",
                 "2": "Raphael Hertzog",
                 "3": "Marc Brockschmidt",
                 "4": "None Of The Above",
                 "score": 1276
             },
-            {
+            "1": {
                 "1": "Steve McIntyre",
                 "2": "Raphael Hertzog",
                 "3": "None Of The Above",
                 "4": "Marc Brockschmidt",
                 "score": 1076
             },
-            {
+            "2": {
                 "1": "Steve McIntyre",
                 "2": "Marc Brockschmidt",
                 "3": "Raphael Hertzog",
                 "4": "None Of The Above",
                 "score": 1255
             },
-            {
+            "3": {
                 "1": "Steve McIntyre",
                 "2": "Marc Brockschmidt",
                 "3": "None Of The Above",
                 "4": "Raphael Hertzog",
                 "score": 1101
             },
-            {
+            "4": {
                 "1": "Steve McIntyre",
                 "2": "None Of The Above",
                 "3": "Raphael Hertzog",
                 "4": "Marc Brockschmidt",
                 "score": 922
             },
-            {
+            "5": {
                 "1": "Steve McIntyre",
                 "2": "None Of The Above",
                 "3": "Marc Brockschmidt",
                 "4": "Raphael Hertzog",
                 "score": 901
             },
-            {
+            "6": {
                 "1": "Raphael Hertzog",
                 "2": "Steve McIntyre",
                 "3": "Marc Brockschmidt",
                 "4": "None Of The Above",
                 "score": 1220
             },
-            {
+            "7": {
                 "1": "Raphael Hertzog",
                 "2": "Steve McIntyre",
                 "3": "None Of The Above",
                 "4": "Marc Brockschmidt",
                 "score": 1020
             },
-            {
+            "8": {
                 "1": "Raphael Hertzog",
                 "2": "Marc Brockschmidt",
                 "3": "Steve McIntyre",
                 "4": "None Of The Above",
                 "score": 1144
             },
-            {
+            "9": {
                 "1": "Raphael Hertzog",
                 "2": "Marc Brockschmidt",
                 "3": "None Of The Above",
                 "4": "Steve McIntyre",
                 "score": 933
             },
-            {
+            "10": {
                 "1": "Raphael Hertzog",
                 "2": "None Of The Above",
                 "3": "Steve McIntyre",
                 "4": "Marc Brockschmidt",
                 "score": 809
             },
-            {
+            "11": {
                 "1": "Raphael Hertzog",
                 "2": "None Of The Above",
                 "3": "Marc Brockschmidt",
                 "4": "Steve McIntyre",
                 "score": 733
             },
-            {
+            "12": {
                 "1": "Marc Brockschmidt",
                 "2": "Steve McIntyre",
                 "3": "Raphael Hertzog",
                 "4": "None Of The Above",
                 "score": 1179
             },
-            {
+            "13": {
                 "1": "Marc Brockschmidt",
                 "2": "Steve McIntyre",
                 "3": "None Of The Above",
                 "4": "Raphael Hertzog",
                 "score": 1025
             },
-            {
+            "14": {
                 "1": "Marc Brockschmidt",
                 "2": "Raphael Hertzog",
                 "3": "Steve McIntyre",
                 "4": "None Of The Above",
                 "score": 1123
             },
-            {
+            "15": {
                 "1": "Marc Brockschmidt",
                 "2": "Raphael Hertzog",
                 "3": "None Of The Above",
                 "4": "Steve McIntyre",
                 "score": 912
             },
-            {
+            "16": {
                 "1": "Marc Brockschmidt",
                 "2": "None Of The Above",
                 "3": "Steve McIntyre",
                 "4": "Raphael Hertzog",
                 "score": 814
             },
-            {
+            "17": {
                 "1": "Marc Brockschmidt",
                 "2": "None Of The Above",
                 "3": "Raphael Hertzog",
                 "4": "Steve McIntyre",
                 "score": 758
             },
-            {
+            "18": {
                 "1": "None Of The Above",
                 "2": "Steve McIntyre",
                 "3": "Raphael Hertzog",
                 "4": "Marc Brockschmidt",
                 "score": 711
             },
-            {
+            "19": {
                 "1": "None Of The Above",
                 "2": "Steve McIntyre",
                 "3": "Marc Brockschmidt",
                 "4": "Raphael Hertzog",
                 "score": 690
             },
-            {
+            "20": {
                 "1": "None Of The Above",
                 "2": "Raphael Hertzog",
                 "3": "Steve McIntyre",
                 "4": "Marc Brockschmidt",
                 "score": 655
             },
-            {
+            "21": {
                 "1": "None Of The Above",
                 "2": "Raphael Hertzog",
                 "3": "Marc Brockschmidt",
                 "4": "Steve McIntyre",
                 "score": 579
             },
-            {
+            "22": {
                 "1": "None Of The Above",
                 "2": "Marc Brockschmidt",
                 "3": "Steve McIntyre",
                 "4": "Raphael Hertzog",
                 "score": 614
             },
-            {
+            "23": {
                 "1": "None Of The Above",
                 "2": "Marc Brockschmidt",
                 "3": "Raphael Hertzog",
                 "4": "Steve McIntyre",
                 "score": 558
             }
-        ]
+        }
     }
 }

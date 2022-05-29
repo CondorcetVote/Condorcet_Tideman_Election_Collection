@@ -10,14 +10,14 @@
             "Stefano Zacchiroli": 229,
             "Wouter Verhelst": 73
         },
-        "Candidates elected from first round": [
-            "Stefano Zacchiroli"
-        ],
-        "Candidates eliminated from first round": [
-            "Charles Plessy",
-            "Margarita Manterola",
-            "None Of The Above",
-            "Wouter Verhelst"
-        ]
+        "Candidates elected from first round": {
+            "0": "Stefano Zacchiroli"
+        },
+        "Candidates eliminated from first round": {
+            "0": "Charles Plessy",
+            "1": "Margarita Manterola",
+            "2": "None Of The Above",
+            "3": "Wouter Verhelst"
+        }
     }
 }

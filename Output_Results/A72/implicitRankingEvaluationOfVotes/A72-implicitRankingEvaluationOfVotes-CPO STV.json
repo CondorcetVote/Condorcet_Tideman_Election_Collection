@@ -8,12 +8,12 @@
             "2": 37,
             "3": 102
         },
-        "Candidates elected from first round": [
-            "1",
-            "3"
-        ],
-        "Candidates eliminated from first round": [
-            "2"
-        ]
+        "Candidates elected from first round": {
+            "0": "1",
+            "1": "3"
+        },
+        "Candidates eliminated from first round": {
+            "0": "2"
+        }
     }
 }

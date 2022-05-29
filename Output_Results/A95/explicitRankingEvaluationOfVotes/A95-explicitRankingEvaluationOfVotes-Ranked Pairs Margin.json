@@ -2,280 +2,280 @@
     "Ranking": "F > G > B > A > E > D > C",
     "Number Of Seats": 2,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "B",
                     "to": "C",
                     "win": 133,
                     "minority": 38,
                     "margin": 95
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "F",
                     "to": "C",
                     "win": 109,
                     "minority": 48,
                     "margin": 61
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "A",
                     "to": "C",
                     "win": 104,
                     "minority": 46,
                     "margin": 58
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "B",
                     "to": "D",
                     "win": 110,
                     "minority": 66,
                     "margin": 44
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "E",
                     "to": "C",
                     "win": 89,
                     "minority": 49,
                     "margin": 40
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "G",
                     "to": "C",
                     "win": 84,
                     "minority": 46,
                     "margin": 38
                 }
-            ],
-            [
-                {
+            },
+            "6": {
+                "0": {
                     "from": "G",
                     "to": "E",
                     "win": 99,
                     "minority": 72,
                     "margin": 27
                 }
-            ],
-            [
-                {
+            },
+            "7": {
+                "0": {
                     "from": "A",
                     "to": "D",
                     "win": 107,
                     "minority": 83,
                     "margin": 24
                 }
-            ],
-            [
-                {
+            },
+            "8": {
+                "0": {
                     "from": "F",
                     "to": "E",
                     "win": 91,
                     "minority": 74,
                     "margin": 17
                 }
-            ],
-            [
-                {
+            },
+            "9": {
+                "0": {
                     "from": "F",
                     "to": "A",
                     "win": 96,
                     "minority": 80,
                     "margin": 16
                 }
-            ],
-            [
-                {
+            },
+            "10": {
+                "0": {
                     "from": "A",
                     "to": "E",
                     "win": 98,
                     "minority": 87,
                     "margin": 11
                 }
-            ],
-            [
-                {
+            },
+            "11": {
+                "0": {
                     "from": "G",
                     "to": "D",
                     "win": 86,
                     "minority": 77,
                     "margin": 9
                 }
-            ],
-            [
-                {
+            },
+            "12": {
+                "0": {
                     "from": "E",
                     "to": "D",
                     "win": 99,
                     "minority": 92,
                     "margin": 7
                 }
-            ],
-            [
-                {
+            },
+            "13": {
+                "0": {
                     "from": "F",
                     "to": "G",
                     "win": 78,
                     "minority": 73,
                     "margin": 5
                 }
-            ],
-            [
-                {
+            },
+            "14": {
+                "0": {
                     "from": "F",
                     "to": "D",
                     "win": 82,
                     "minority": 78,
                     "margin": 4
                 },
-                {
+                "1": {
                     "from": "G",
                     "to": "A",
                     "win": 82,
                     "minority": 78,
                     "margin": 4
                 }
-            ],
-            [
-                {
+            },
+            "15": {
+                "0": {
                     "from": "B",
                     "to": "A",
                     "win": 96,
                     "minority": 92,
                     "margin": 4
                 }
-            ],
-            [
-                {
+            },
+            "16": {
+                "0": {
                     "from": "D",
                     "to": "C",
                     "win": 71,
                     "minority": 69,
                     "margin": 2
                 }
-            ],
-            [
-                {
+            },
+            "17": {
+                "0": {
                     "from": "B",
                     "to": "E",
                     "win": 92,
                     "minority": 90,
                     "margin": 2
                 }
-            ],
-            [
-                {
+            },
+            "18": {
+                "0": {
                     "from": "F",
                     "to": "B",
                     "win": 101,
                     "minority": 99,
                     "margin": 2
                 }
-            ],
-            [
-                {
+            },
+            "19": {
+                "0": {
                     "from": "G",
                     "to": "B",
                     "win": 88,
                     "minority": 87,
                     "margin": 1
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "B",
                 "to": "C"
             },
-            {
+            "1": {
                 "from": "F",
                 "to": "C"
             },
-            {
+            "2": {
                 "from": "A",
                 "to": "C"
             },
-            {
+            "3": {
                 "from": "B",
                 "to": "D"
             },
-            {
+            "4": {
                 "from": "E",
                 "to": "C"
             },
-            {
+            "5": {
                 "from": "G",
                 "to": "C"
             },
-            {
+            "6": {
                 "from": "G",
                 "to": "E"
             },
-            {
+            "7": {
                 "from": "A",
                 "to": "D"
             },
-            {
+            "8": {
                 "from": "F",
                 "to": "E"
             },
-            {
+            "9": {
                 "from": "F",
                 "to": "A"
             },
-            {
+            "10": {
                 "from": "A",
                 "to": "E"
             },
-            {
+            "11": {
                 "from": "G",
                 "to": "D"
             },
-            {
+            "12": {
                 "from": "E",
                 "to": "D"
             },
-            {
+            "13": {
                 "from": "F",
                 "to": "G"
             },
-            {
+            "14": {
                 "from": "F",
                 "to": "D"
             },
-            {
+            "15": {
                 "from": "G",
                 "to": "A"
             },
-            {
+            "16": {
                 "from": "B",
                 "to": "A"
             },
-            {
+            "17": {
                 "from": "D",
                 "to": "C"
             },
-            {
+            "18": {
                 "from": "B",
                 "to": "E"
             },
-            {
+            "19": {
                 "from": "F",
                 "to": "B"
             },
-            {
+            "20": {
                 "from": "G",
                 "to": "B"
             }
-        ]
+        }
     }
 }

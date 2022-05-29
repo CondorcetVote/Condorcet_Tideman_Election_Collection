@@ -3,17 +3,17 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 315,
-        "rankingScore": [
-            {
+        "rankingScore": {
+            "0": {
                 "1": "Chris Lamb",
                 "2": "None Of The Above",
                 "score": 315
             },
-            {
+            "1": {
                 "1": "None Of The Above",
                 "2": "Chris Lamb",
                 "score": 14
             }
-        ]
+        }
     }
 }

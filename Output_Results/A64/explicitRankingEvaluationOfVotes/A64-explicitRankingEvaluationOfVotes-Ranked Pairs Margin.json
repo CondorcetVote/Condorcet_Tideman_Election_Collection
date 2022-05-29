@@ -2,48 +2,48 @@
     "Ranking": "1 > 2 > 3",
     "Number Of Seats": 2,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "1",
                     "to": "3",
                     "win": 16,
                     "minority": 3,
                     "margin": 13
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "1",
                     "to": "2",
                     "win": 11,
                     "minority": 8,
                     "margin": 3
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "2",
                     "to": "3",
                     "win": 63,
                     "minority": 61,
                     "margin": 2
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "1",
                 "to": "3"
             },
-            {
+            "1": {
                 "from": "1",
                 "to": "2"
             },
-            {
+            "2": {
                 "from": "2",
                 "to": "3"
             }
-        ]
+        }
     }
 }

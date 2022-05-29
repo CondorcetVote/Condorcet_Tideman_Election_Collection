@@ -13,53 +13,53 @@
             "None of the Above": 24,
             "Steve McIntyre": 98
         },
-        "Candidates elected from first round": [],
-        "Candidates eliminated from first round": [
-            "Andreas Schuldei",
-            "Anthony Towns",
-            "Ari Pollak",
-            "Bill Allombert",
-            "Jeroen van Wolffelaar",
-            "Jonathan aka Ted Walther",
-            "None of the Above",
-            "Steve McIntyre"
-        ],
-        "Outcomes": [
-            [
-                "None of the Above"
-            ],
-            [
-                "Bill Allombert"
-            ],
-            [
-                "Jonathan aka Ted Walther"
-            ],
-            [
-                "Andreas Schuldei"
-            ],
-            [
-                "Anthony Towns"
-            ],
-            [
-                "Steve McIntyre"
-            ],
-            [
-                "Ari Pollak"
-            ],
-            [
-                "Jeroen van Wolffelaar"
-            ]
-        ],
+        "Candidates elected from first round": {},
+        "Candidates eliminated from first round": {
+            "0": "Andreas Schuldei",
+            "1": "Anthony Towns",
+            "2": "Ari Pollak",
+            "3": "Bill Allombert",
+            "4": "Jeroen van Wolffelaar",
+            "5": "Jonathan aka Ted Walther",
+            "6": "None of the Above",
+            "7": "Steve McIntyre"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "None of the Above"
+            },
+            "1": {
+                "0": "Bill Allombert"
+            },
+            "2": {
+                "0": "Jonathan aka Ted Walther"
+            },
+            "3": {
+                "0": "Andreas Schuldei"
+            },
+            "4": {
+                "0": "Anthony Towns"
+            },
+            "5": {
+                "0": "Steve McIntyre"
+            },
+            "6": {
+                "0": "Ari Pollak"
+            },
+            "7": {
+                "0": "Jeroen van Wolffelaar"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Ari Pollak",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "Jonathan aka Ted Walther",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Bill Allombert": 227,
                     "None of the Above": 134
@@ -68,20 +68,20 @@
                     "Bill Allombert": 227,
                     "None of the Above": 134
                 },
-                "outcomes_scores": [
-                    134,
-                    227
-                ]
+                "outcomes_scores": {
+                    "0": 134,
+                    "1": 227
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Ari Pollak",
+                    "3": "Bill Allombert",
+                    "4": "Jeroen van Wolffelaar",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Jonathan aka Ted Walther": 62,
                     "None of the Above": 299
@@ -96,14 +96,14 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Ari Pollak",
+                    "2": "Bill Allombert",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "Jonathan aka Ted Walther",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 235,
                     "None of the Above": 141
@@ -118,14 +118,14 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Ari Pollak",
+                    "2": "Bill Allombert",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "Jonathan aka Ted Walther",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 273,
                     "None of the Above": 117
@@ -140,14 +140,14 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Ari Pollak",
+                    "3": "Bill Allombert",
+                    "4": "Jeroen van Wolffelaar",
+                    "5": "Jonathan aka Ted Walther"
+                },
                 "scores_after_exclusion": {
                     "None of the Above": 118,
                     "Steve McIntyre": 261
@@ -162,14 +162,14 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Bill Allombert",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "Jonathan aka Ted Walther",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Ari Pollak": 126,
                     "None of the Above": 222
@@ -184,14 +184,14 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jonathan aka Ted Walther",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Ari Pollak",
+                    "3": "Bill Allombert",
+                    "4": "Jonathan aka Ted Walther",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Jeroen van Wolffelaar": 223,
                     "None of the Above": 146
@@ -206,14 +206,14 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Jeroen van Wolffelaar",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Ari Pollak",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Bill Allombert": 255,
                     "Jonathan aka Ted Walther": 70
@@ -228,14 +228,14 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Ari Pollak",
+                    "2": "Jeroen van Wolffelaar",
+                    "3": "Jonathan aka Ted Walther",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 199,
                     "Bill Allombert": 131
@@ -250,14 +250,14 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Ari Pollak",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Ari Pollak",
+                    "2": "Jeroen van Wolffelaar",
+                    "3": "Jonathan aka Ted Walther",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 252,
                     "Bill Allombert": 103
@@ -272,14 +272,14 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Ari Pollak",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "Jonathan aka Ted Walther",
+                    "5": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Bill Allombert": 87,
                     "Steve McIntyre": 241
@@ -294,14 +294,14 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Jeroen van Wolffelaar",
+                    "3": "Jonathan aka Ted Walther",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Ari Pollak": 66,
                     "Bill Allombert": 237
@@ -316,14 +316,14 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Ari Pollak",
+                    "3": "Jonathan aka Ted Walther",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Bill Allombert": 134,
                     "Jeroen van Wolffelaar": 184
@@ -338,14 +338,14 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Ari Pollak",
+                    "2": "Bill Allombert",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 267,
                     "Jonathan aka Ted Walther": 77
@@ -360,14 +360,14 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Ari Pollak",
+                    "2": "Bill Allombert",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 301,
                     "Jonathan aka Ted Walther": 60
@@ -382,14 +382,14 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Ari Pollak",
+                    "3": "Bill Allombert",
+                    "4": "Jeroen van Wolffelaar",
+                    "5": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Jonathan aka Ted Walther": 74,
                     "Steve McIntyre": 276
@@ -404,14 +404,14 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Bill Allombert",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Ari Pollak": 216,
                     "Jonathan aka Ted Walther": 83
@@ -426,14 +426,14 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Ari Pollak",
+                    "3": "Bill Allombert",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Jeroen van Wolffelaar": 247,
                     "Jonathan aka Ted Walther": 81
@@ -448,14 +448,14 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Ari Pollak",
+                    "1": "Bill Allombert",
+                    "2": "Jeroen van Wolffelaar",
+                    "3": "Jonathan aka Ted Walther",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 126,
                     "Anthony Towns": 231
@@ -470,14 +470,14 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Ari Pollak",
+                    "2": "Bill Allombert",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "Jonathan aka Ted Walther",
+                    "5": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 116,
                     "Steve McIntyre": 215
@@ -492,14 +492,14 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Bill Allombert",
+                    "2": "Jeroen van Wolffelaar",
+                    "3": "Jonathan aka Ted Walther",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 246,
                     "Ari Pollak": 79
@@ -514,14 +514,14 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Anthony Towns",
+                    "1": "Ari Pollak",
+                    "2": "Bill Allombert",
+                    "3": "Jonathan aka Ted Walther",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Andreas Schuldei": 159,
                     "Jeroen van Wolffelaar": 150
@@ -536,14 +536,14 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 5": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Ari Pollak",
+                    "2": "Bill Allombert",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "Jonathan aka Ted Walther",
+                    "5": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 187,
                     "Steve McIntyre": 161
@@ -558,14 +558,14 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Bill Allombert",
+                    "2": "Jeroen van Wolffelaar",
+                    "3": "Jonathan aka Ted Walther",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 282,
                     "Ari Pollak": 68
@@ -580,14 +580,14 @@
                 }
             },
             "Outcome N° 4 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Ari Pollak",
+                    "2": "Bill Allombert",
+                    "3": "Jonathan aka Ted Walther",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Anthony Towns": 220,
                     "Jeroen van Wolffelaar": 124
@@ -602,14 +602,14 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 6": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Bill Allombert",
-                    "Jeroen van Wolffelaar",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Bill Allombert",
+                    "3": "Jeroen van Wolffelaar",
+                    "4": "Jonathan aka Ted Walther",
+                    "5": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Ari Pollak": 68,
                     "Steve McIntyre": 262
@@ -624,14 +624,14 @@
                 }
             },
             "Outcome N° 5 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Ari Pollak",
-                    "Bill Allombert",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Ari Pollak",
+                    "3": "Bill Allombert",
+                    "4": "Jonathan aka Ted Walther",
+                    "5": "None of the Above"
+                },
                 "scores_after_exclusion": {
                     "Jeroen van Wolffelaar": 112,
                     "Steve McIntyre": 213
@@ -646,14 +646,14 @@
                 }
             },
             "Outcome N° 6 compared to Outcome N° 7": {
-                "candidates_excluded": [
-                    "Andreas Schuldei",
-                    "Anthony Towns",
-                    "Bill Allombert",
-                    "Jonathan aka Ted Walther",
-                    "None of the Above",
-                    "Steve McIntyre"
-                ],
+                "candidates_excluded": {
+                    "0": "Andreas Schuldei",
+                    "1": "Anthony Towns",
+                    "2": "Bill Allombert",
+                    "3": "Jonathan aka Ted Walther",
+                    "4": "None of the Above",
+                    "5": "Steve McIntyre"
+                },
                 "scores_after_exclusion": {
                     "Ari Pollak": 75,
                     "Jeroen van Wolffelaar": 235
@@ -669,8 +669,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 467229109734,
                         "2": 1042548535899,
@@ -699,7 +699,7 @@
                         "7": 777552921423
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 791500059027,
                         "2": 889130022255,
@@ -728,7 +728,7 @@
                         "7": 641568329784
                     }
                 },
-                {
+                "2": {
                     "win": {
                         "0": 216180632862,
                         "1": 244074908070,
@@ -757,7 +757,7 @@
                         "7": 861235747047
                     }
                 },
-                {
+                "3": {
                     "win": {
                         "0": 819394334235,
                         "1": 693870095799,
@@ -786,7 +786,7 @@
                         "7": 523017660150
                     }
                 },
-                {
+                "4": {
                     "win": {
                         "0": 951892141473,
                         "1": 878669669052,
@@ -815,7 +815,7 @@
                         "7": 432361265724
                     }
                 },
-                {
+                "5": {
                     "win": {
                         "0": 910050728661,
                         "1": 840315040641,
@@ -844,7 +844,7 @@
                         "7": 390519852912
                     }
                 },
-                {
+                "6": {
                     "win": {
                         "0": 439334834526,
                         "1": 230127770466,
@@ -873,38 +873,38 @@
                         "7": 819394334235
                     }
                 },
-                {
-                    "win": [
-                        777552921423,
-                        641568329784,
-                        861235747047,
-                        523017660150,
-                        432361265724,
-                        390519852912,
-                        819394334235
-                    ],
-                    "null": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        509070522546,
-                        467229109734,
-                        282429536481,
-                        554398719759,
-                        767092568220,
-                        742685077413,
-                        261508830075
-                    ]
+                "7": {
+                    "win": {
+                        "0": 777552921423,
+                        "1": 641568329784,
+                        "2": 861235747047,
+                        "3": 523017660150,
+                        "4": 432361265724,
+                        "5": 390519852912,
+                        "6": 819394334235
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0,
+                        "6": 0
+                    },
+                    "lose": {
+                        "0": 509070522546,
+                        "1": 467229109734,
+                        "2": 282429536481,
+                        "3": 554398719759,
+                        "4": 767092568220,
+                        "5": 742685077413,
+                        "6": 261508830075
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 0,
                     "2": 826367903037,
                     "3": 0,
@@ -913,7 +913,7 @@
                     "6": 334731302496,
                     "7": 0
                 },
-                {
+                "1": {
                     "0": 324270949293,
                     "2": 645055114185,
                     "3": 0,
@@ -922,7 +922,7 @@
                     "6": 596240132571,
                     "7": 0
                 },
-                {
+                "2": {
                     "0": 0,
                     "1": 0,
                     "3": 0,
@@ -931,7 +931,7 @@
                     "6": 0,
                     "7": 0
                 },
-                {
+                "3": {
                     "0": 327757733694,
                     "1": 237101339268,
                     "2": 662489036190,
@@ -940,7 +940,7 @@
                     "6": 582292994967,
                     "7": 31381059609
                 },
-                {
+                "4": {
                     "0": 543938366556,
                     "1": 519530875749,
                     "2": 840315040641,
@@ -949,7 +949,7 @@
                     "6": 746171861814,
                     "7": 334731302496
                 },
-                {
+                "5": {
                     "0": 498610169343,
                     "1": 536964797754,
                     "2": 704330449002,
@@ -958,7 +958,7 @@
                     "6": 676436173794,
                     "7": 352165224501
                 },
-                {
+                "6": {
                     "0": 0,
                     "1": 0,
                     "2": 463742325333,
@@ -967,16 +967,16 @@
                     "5": 0,
                     "7": 0
                 },
-                [
-                    268482398877,
-                    174339220050,
-                    578806210566,
-                    0,
-                    0,
-                    0,
-                    557885504160
-                ]
-            ]
+                "7": {
+                    "0": 268482398877,
+                    "1": 174339220050,
+                    "2": 578806210566,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0,
+                    "6": 557885504160
+                }
+            }
         }
     }
 }

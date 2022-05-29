@@ -2,139 +2,139 @@
     "Ranking": "Sam Hartman > Jonathan Carter > Martin Michlmayr > Joerg Jaspert > None Of The Above",
     "Number Of Seats": 1,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Sam Hartman",
                     "to": "None Of The Above",
                     "win": 254,
                     "minority": 14,
                     "margin": 240
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Martin Michlmayr",
                     "to": "None Of The Above",
                     "win": 245,
                     "minority": 29,
                     "margin": 216
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "None Of The Above",
                     "win": 243,
                     "minority": 25,
                     "margin": 218
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "Joerg Jaspert",
                     "to": "None Of The Above",
                     "win": 230,
                     "minority": 38,
                     "margin": 192
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "Sam Hartman",
                     "to": "Joerg Jaspert",
                     "win": 209,
                     "minority": 114,
                     "margin": 95
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "Sam Hartman",
                     "to": "Jonathan Carter",
                     "win": 196,
                     "minority": 101,
                     "margin": 95
                 }
-            ],
-            [
-                {
+            },
+            "6": {
+                "0": {
                     "from": "Sam Hartman",
                     "to": "Martin Michlmayr",
                     "win": 190,
                     "minority": 119,
                     "margin": 71
                 }
-            ],
-            [
-                {
+            },
+            "7": {
+                "0": {
                     "from": "Martin Michlmayr",
                     "to": "Joerg Jaspert",
                     "win": 166,
                     "minority": 152,
                     "margin": 14
                 }
-            ],
-            [
-                {
+            },
+            "8": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "Joerg Jaspert",
                     "win": 160,
                     "minority": 155,
                     "margin": 5
                 }
-            ],
-            [
-                {
+            },
+            "9": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "Martin Michlmayr",
                     "win": 160,
                     "minority": 157,
                     "margin": 3
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Sam Hartman",
                 "to": "None Of The Above"
             },
-            {
+            "1": {
                 "from": "Martin Michlmayr",
                 "to": "None Of The Above"
             },
-            {
+            "2": {
                 "from": "Jonathan Carter",
                 "to": "None Of The Above"
             },
-            {
+            "3": {
                 "from": "Joerg Jaspert",
                 "to": "None Of The Above"
             },
-            {
+            "4": {
                 "from": "Sam Hartman",
                 "to": "Joerg Jaspert"
             },
-            {
+            "5": {
                 "from": "Sam Hartman",
                 "to": "Jonathan Carter"
             },
-            {
+            "6": {
                 "from": "Sam Hartman",
                 "to": "Martin Michlmayr"
             },
-            {
+            "7": {
                 "from": "Martin Michlmayr",
                 "to": "Joerg Jaspert"
             },
-            {
+            "8": {
                 "from": "Jonathan Carter",
                 "to": "Joerg Jaspert"
             },
-            {
+            "9": {
                 "from": "Jonathan Carter",
                 "to": "Martin Michlmayr"
             }
-        ]
+        }
     }
 }

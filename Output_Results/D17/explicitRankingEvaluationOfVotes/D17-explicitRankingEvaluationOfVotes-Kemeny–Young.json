@@ -3,43 +3,43 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 594,
-        "rankingScore": [
-            {
+        "rankingScore": {
+            "0": {
                 "1": "Mehdi Dogguy",
                 "2": "Chris Lamb",
                 "3": "None Of The Above",
                 "score": 559
             },
-            {
+            "1": {
                 "1": "Mehdi Dogguy",
                 "2": "None Of The Above",
                 "3": "Chris Lamb",
                 "score": 347
             },
-            {
+            "2": {
                 "1": "Chris Lamb",
                 "2": "Mehdi Dogguy",
                 "3": "None Of The Above",
                 "score": 594
             },
-            {
+            "3": {
                 "1": "Chris Lamb",
                 "2": "None Of The Above",
                 "3": "Mehdi Dogguy",
                 "score": 395
             },
-            {
+            "4": {
                 "1": "None Of The Above",
                 "2": "Mehdi Dogguy",
                 "3": "Chris Lamb",
                 "score": 148
             },
-            {
+            "5": {
                 "1": "None Of The Above",
                 "2": "Chris Lamb",
                 "3": "Mehdi Dogguy",
                 "score": 183
             }
-        ]
+        }
     }
 }

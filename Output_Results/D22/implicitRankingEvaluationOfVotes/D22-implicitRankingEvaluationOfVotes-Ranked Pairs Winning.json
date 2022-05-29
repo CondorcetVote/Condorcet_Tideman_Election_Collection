@@ -2,87 +2,87 @@
     "Ranking": "Jonathan Carter > Hideki Yamane > None of the above > Felix Lechner",
     "Number Of Seats": 1,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "None of the above",
                     "win": 327,
                     "minority": 22,
                     "margin": 305
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "Felix Lechner",
                     "win": 294,
                     "minority": 52,
                     "margin": 242
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Hideki Yamane",
                     "to": "None of the above",
                     "win": 290,
                     "minority": 53,
                     "margin": 237
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "Jonathan Carter",
                     "to": "Hideki Yamane",
                     "win": 266,
                     "minority": 69,
                     "margin": 197
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "Hideki Yamane",
                     "to": "Felix Lechner",
                     "win": 229,
                     "minority": 84,
                     "margin": 145
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "None of the above",
                     "to": "Felix Lechner",
                     "win": 188,
                     "minority": 151,
                     "margin": 37
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Jonathan Carter",
                 "to": "None of the above"
             },
-            {
+            "1": {
                 "from": "Jonathan Carter",
                 "to": "Felix Lechner"
             },
-            {
+            "2": {
                 "from": "Hideki Yamane",
                 "to": "None of the above"
             },
-            {
+            "3": {
                 "from": "Jonathan Carter",
                 "to": "Hideki Yamane"
             },
-            {
+            "4": {
                 "from": "Hideki Yamane",
                 "to": "Felix Lechner"
             },
-            {
+            "5": {
                 "from": "None of the above",
                 "to": "Felix Lechner"
             }
-        ]
+        }
     }
 }

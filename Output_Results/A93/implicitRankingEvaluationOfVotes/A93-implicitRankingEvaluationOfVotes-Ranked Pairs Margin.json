@@ -2,87 +2,87 @@
     "Ranking": "B > C > D > A",
     "Number Of Seats": 2,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "B",
                     "to": "A",
                     "win": 306,
                     "minority": 191,
                     "margin": 115
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "C",
                     "to": "A",
                     "win": 294,
                     "minority": 187,
                     "margin": 107
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "B",
                     "to": "C",
                     "win": 283,
                     "minority": 219,
                     "margin": 64
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "D",
                     "to": "A",
                     "win": 258,
                     "minority": 205,
                     "margin": 53
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "B",
                     "to": "D",
                     "win": 258,
                     "minority": 223,
                     "margin": 35
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "C",
                     "to": "D",
                     "win": 259,
                     "minority": 244,
                     "margin": 15
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "B",
                 "to": "A"
             },
-            {
+            "1": {
                 "from": "C",
                 "to": "A"
             },
-            {
+            "2": {
                 "from": "B",
                 "to": "C"
             },
-            {
+            "3": {
                 "from": "D",
                 "to": "A"
             },
-            {
+            "4": {
                 "from": "B",
                 "to": "D"
             },
-            {
+            "5": {
                 "from": "C",
                 "to": "D"
             }
-        ]
+        }
     }
 }

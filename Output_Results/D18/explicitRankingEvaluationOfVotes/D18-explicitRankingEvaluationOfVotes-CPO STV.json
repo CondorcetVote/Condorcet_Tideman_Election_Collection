@@ -7,11 +7,11 @@
             "Chris Lamb": 315,
             "None Of The Above": 14
         },
-        "Candidates elected from first round": [
-            "Chris Lamb"
-        ],
-        "Candidates eliminated from first round": [
-            "None Of The Above"
-        ]
+        "Candidates elected from first round": {
+            "0": "Chris Lamb"
+        },
+        "Candidates eliminated from first round": {
+            "0": "None Of The Above"
+        }
     }
 }

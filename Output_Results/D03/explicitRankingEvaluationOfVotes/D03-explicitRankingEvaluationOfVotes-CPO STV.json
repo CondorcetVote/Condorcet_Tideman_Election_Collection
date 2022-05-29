@@ -10,38 +10,38 @@
             "Moshe Zadka": 14,
             "None Of The Above": 5
         },
-        "Candidates elected from first round": [],
-        "Candidates eliminated from first round": [
-            "Bdale Garbee",
-            "Branden Robinson",
-            "Martin Michlmayr",
-            "Moshe Zadka",
-            "None Of The Above"
-        ],
-        "Outcomes": [
-            [
-                "None Of The Above"
-            ],
-            [
-                "Martin Michlmayr"
-            ],
-            [
-                "Branden Robinson"
-            ],
-            [
-                "Bdale Garbee"
-            ],
-            [
-                "Moshe Zadka"
-            ]
-        ],
+        "Candidates elected from first round": {},
+        "Candidates eliminated from first round": {
+            "0": "Bdale Garbee",
+            "1": "Branden Robinson",
+            "2": "Martin Michlmayr",
+            "3": "Moshe Zadka",
+            "4": "None Of The Above"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "None Of The Above"
+            },
+            "1": {
+                "0": "Martin Michlmayr"
+            },
+            "2": {
+                "0": "Branden Robinson"
+            },
+            "3": {
+                "0": "Bdale Garbee"
+            },
+            "4": {
+                "0": "Moshe Zadka"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "Bdale Garbee",
-                    "Branden Robinson",
-                    "Moshe Zadka"
-                ],
+                "candidates_excluded": {
+                    "0": "Bdale Garbee",
+                    "1": "Branden Robinson",
+                    "2": "Moshe Zadka"
+                },
                 "scores_after_exclusion": {
                     "Martin Michlmayr": 375,
                     "None Of The Above": 67
@@ -50,17 +50,17 @@
                     "Martin Michlmayr": 375,
                     "None Of The Above": 67
                 },
-                "outcomes_scores": [
-                    67,
-                    375
-                ]
+                "outcomes_scores": {
+                    "0": 67,
+                    "1": 375
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Bdale Garbee",
-                    "Martin Michlmayr",
-                    "Moshe Zadka"
-                ],
+                "candidates_excluded": {
+                    "0": "Bdale Garbee",
+                    "1": "Martin Michlmayr",
+                    "2": "Moshe Zadka"
+                },
                 "scores_after_exclusion": {
                     "Branden Robinson": 362,
                     "None Of The Above": 92
@@ -75,11 +75,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Branden Robinson",
-                    "Martin Michlmayr",
-                    "Moshe Zadka"
-                ],
+                "candidates_excluded": {
+                    "0": "Branden Robinson",
+                    "1": "Martin Michlmayr",
+                    "2": "Moshe Zadka"
+                },
                 "scores_after_exclusion": {
                     "Bdale Garbee": 400,
                     "None Of The Above": 65
@@ -94,11 +94,11 @@
                 }
             },
             "Outcome N° 0 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Bdale Garbee",
-                    "Branden Robinson",
-                    "Martin Michlmayr"
-                ],
+                "candidates_excluded": {
+                    "0": "Bdale Garbee",
+                    "1": "Branden Robinson",
+                    "2": "Martin Michlmayr"
+                },
                 "scores_after_exclusion": {
                     "Moshe Zadka": 214,
                     "None Of The Above": 205
@@ -113,11 +113,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Bdale Garbee",
-                    "Moshe Zadka",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Bdale Garbee",
+                    "1": "Moshe Zadka",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Branden Robinson": 229,
                     "Martin Michlmayr": 229
@@ -132,11 +132,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Branden Robinson",
-                    "Moshe Zadka",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Branden Robinson",
+                    "1": "Moshe Zadka",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Bdale Garbee": 228,
                     "Martin Michlmayr": 223
@@ -151,11 +151,11 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Bdale Garbee",
-                    "Branden Robinson",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Bdale Garbee",
+                    "1": "Branden Robinson",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Martin Michlmayr": 358,
                     "Moshe Zadka": 71
@@ -170,11 +170,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 3": {
-                "candidates_excluded": [
-                    "Martin Michlmayr",
-                    "Moshe Zadka",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Martin Michlmayr",
+                    "1": "Moshe Zadka",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Bdale Garbee": 238,
                     "Branden Robinson": 219
@@ -189,11 +189,11 @@
                 }
             },
             "Outcome N° 2 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Bdale Garbee",
-                    "Martin Michlmayr",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Bdale Garbee",
+                    "1": "Martin Michlmayr",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Branden Robinson": 351,
                     "Moshe Zadka": 92
@@ -208,11 +208,11 @@
                 }
             },
             "Outcome N° 3 compared to Outcome N° 4": {
-                "candidates_excluded": [
-                    "Branden Robinson",
-                    "Martin Michlmayr",
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "Branden Robinson",
+                    "1": "Martin Michlmayr",
+                    "2": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Bdale Garbee": 388,
                     "Moshe Zadka": 66
@@ -228,8 +228,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 233614554867,
                         "2": 320784164892,
@@ -249,7 +249,7 @@
                         "4": 746171861814
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 1307544150375,
                         "2": 798473627829,
@@ -269,7 +269,7 @@
                         "4": 247561692471
                     }
                 },
-                {
+                "2": {
                     "win": {
                         "0": 1262215953162,
                         "1": 798473627829,
@@ -289,7 +289,7 @@
                         "4": 320784164892
                     }
                 },
-                {
+                "3": {
                     "win": {
                         "0": 1394713760400,
                         "1": 794986843428,
@@ -309,59 +309,59 @@
                         "4": 230127770466
                     }
                 },
-                {
-                    "win": [
-                        746171861814,
-                        247561692471,
-                        320784164892,
-                        230127770466
-                    ],
-                    "null": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        714790802205,
-                        1248268815558,
-                        1223861324751,
-                        1352872347588
-                    ]
+                "4": {
+                    "win": {
+                        "0": 746171861814,
+                        "1": 247561692471,
+                        "2": 320784164892,
+                        "3": 230127770466
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0,
+                        "2": 0,
+                        "3": 0
+                    },
+                    "lose": {
+                        "0": 714790802205,
+                        "1": 1248268815558,
+                        "2": 1223861324751,
+                        "3": 1352872347588
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 0,
                     "2": 0,
                     "3": 0,
                     "4": 0
                 },
-                {
+                "1": {
                     "0": 1073929595508,
                     "2": 0,
                     "3": 0,
                     "4": 1000707123087
                 },
-                {
+                "2": {
                     "0": 941431788270,
                     "1": 0,
                     "3": 0,
                     "4": 903077159859
                 },
-                {
+                "3": {
                     "0": 1168072774335,
                     "1": 17433922005,
                     "2": 66248903619,
                     "4": 1122744577122
                 },
-                [
-                    31381059609,
-                    0,
-                    0,
-                    0
-                ]
-            ]
+                "4": {
+                    "0": 31381059609,
+                    "1": 0,
+                    "2": 0,
+                    "3": 0
+                }
+            }
         }
     }
 }

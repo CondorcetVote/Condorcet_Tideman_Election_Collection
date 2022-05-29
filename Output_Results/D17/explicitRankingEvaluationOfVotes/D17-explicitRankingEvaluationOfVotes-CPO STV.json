@@ -8,28 +8,28 @@
             "Mehdi Dogguy": 132,
             "None Of The Above": 22
         },
-        "Candidates elected from first round": [],
-        "Candidates eliminated from first round": [
-            "Chris Lamb",
-            "Mehdi Dogguy",
-            "None Of The Above"
-        ],
-        "Outcomes": [
-            [
-                "None Of The Above"
-            ],
-            [
-                "Chris Lamb"
-            ],
-            [
-                "Mehdi Dogguy"
-            ]
-        ],
+        "Candidates elected from first round": {},
+        "Candidates eliminated from first round": {
+            "0": "Chris Lamb",
+            "1": "Mehdi Dogguy",
+            "2": "None Of The Above"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "None Of The Above"
+            },
+            "1": {
+                "0": "Chris Lamb"
+            },
+            "2": {
+                "0": "Mehdi Dogguy"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "Mehdi Dogguy"
-                ],
+                "candidates_excluded": {
+                    "0": "Mehdi Dogguy"
+                },
                 "scores_after_exclusion": {
                     "Chris Lamb": 278,
                     "None Of The Above": 28
@@ -38,15 +38,15 @@
                     "Chris Lamb": 278,
                     "None Of The Above": 28
                 },
-                "outcomes_scores": [
-                    28,
-                    278
-                ]
+                "outcomes_scores": {
+                    "0": 28,
+                    "1": 278
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Chris Lamb"
-                ],
+                "candidates_excluded": {
+                    "0": "Chris Lamb"
+                },
                 "scores_after_exclusion": {
                     "Mehdi Dogguy": 274,
                     "None Of The Above": 33
@@ -61,9 +61,9 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Chris Lamb": 163,
                     "Mehdi Dogguy": 132
@@ -79,8 +79,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 97629963228,
                         "2": 115063885233
@@ -94,7 +94,7 @@
                         "2": 955378925874
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 969326063478,
                         "2": 568345857363
@@ -108,35 +108,35 @@
                         "2": 460255540932
                     }
                 },
-                {
-                    "win": [
-                        955378925874,
-                        460255540932
-                    ],
-                    "null": [
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        115063885233,
-                        568345857363
-                    ]
+                "2": {
+                    "win": {
+                        "0": 955378925874,
+                        "1": 460255540932
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0
+                    },
+                    "lose": {
+                        "0": 115063885233,
+                        "1": 568345857363
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 0,
                     "2": 0
                 },
-                {
+                "1": {
                     "0": 871696100250,
                     "2": 108090316431
                 },
-                [
-                    840315040641,
-                    0
-                ]
-            ]
+                "2": {
+                    "0": 840315040641,
+                    "1": 0
+                }
+            }
         }
     }
 }

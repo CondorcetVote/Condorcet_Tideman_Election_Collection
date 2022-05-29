@@ -2,87 +2,87 @@
     "Ranking": "Martin Michlmayr > Branden Robinson > None of the Above > Gergely Nagy",
     "Number Of Seats": 1,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Martin Michlmayr",
                     "to": "None of the Above",
                     "win": 442,
                     "minority": 26,
                     "margin": 416
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Martin Michlmayr",
                     "to": "Gergely Nagy",
                     "win": 438,
                     "minority": 29,
                     "margin": 409
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Branden Robinson",
                     "to": "Gergely Nagy",
                     "win": 385,
                     "minority": 55,
                     "margin": 330
                 }
-            ],
-            [
-                {
+            },
+            "3": {
+                "0": {
                     "from": "Branden Robinson",
                     "to": "None of the Above",
                     "win": 394,
                     "minority": 70,
                     "margin": 324
                 }
-            ],
-            [
-                {
+            },
+            "4": {
+                "0": {
                     "from": "None of the Above",
                     "to": "Gergely Nagy",
                     "win": 258,
                     "minority": 144,
                     "margin": 114
                 }
-            ],
-            [
-                {
+            },
+            "5": {
+                "0": {
                     "from": "Martin Michlmayr",
                     "to": "Branden Robinson",
                     "win": 287,
                     "minority": 182,
                     "margin": 105
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Martin Michlmayr",
                 "to": "None of the Above"
             },
-            {
+            "1": {
                 "from": "Martin Michlmayr",
                 "to": "Gergely Nagy"
             },
-            {
+            "2": {
                 "from": "Branden Robinson",
                 "to": "Gergely Nagy"
             },
-            {
+            "3": {
                 "from": "Branden Robinson",
                 "to": "None of the Above"
             },
-            {
+            "4": {
                 "from": "None of the Above",
                 "to": "Gergely Nagy"
             },
-            {
+            "5": {
                 "from": "Martin Michlmayr",
                 "to": "Branden Robinson"
             }
-        ]
+        }
     }
 }

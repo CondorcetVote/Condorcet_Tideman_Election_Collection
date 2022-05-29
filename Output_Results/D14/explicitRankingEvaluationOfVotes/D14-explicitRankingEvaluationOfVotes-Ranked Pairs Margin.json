@@ -2,48 +2,48 @@
     "Ranking": "Lucas Nussbaum > Neil McGovern > None Of The Above",
     "Number Of Seats": 1,
     "Stats": {
-        "tally": [
-            [
-                {
+        "tally": {
+            "0": {
+                "0": {
                     "from": "Neil McGovern",
                     "to": "None Of The Above",
                     "win": 281,
                     "minority": 24,
                     "margin": 257
                 }
-            ],
-            [
-                {
+            },
+            "1": {
+                "0": {
                     "from": "Lucas Nussbaum",
                     "to": "None Of The Above",
                     "win": 279,
                     "minority": 25,
                     "margin": 254
                 }
-            ],
-            [
-                {
+            },
+            "2": {
+                "0": {
                     "from": "Lucas Nussbaum",
                     "to": "Neil McGovern",
                     "win": 195,
                     "minority": 149,
                     "margin": 46
                 }
-            ]
-        ],
-        "arcs": [
-            {
+            }
+        },
+        "arcs": {
+            "0": {
                 "from": "Neil McGovern",
                 "to": "None Of The Above"
             },
-            {
+            "1": {
                 "from": "Lucas Nussbaum",
                 "to": "None Of The Above"
             },
-            {
+            "2": {
                 "from": "Lucas Nussbaum",
                 "to": "Neil McGovern"
             }
-        ]
+        }
     }
 }

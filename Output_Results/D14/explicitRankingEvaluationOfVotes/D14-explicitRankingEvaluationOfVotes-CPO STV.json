@@ -8,28 +8,28 @@
             "Neil McGovern": 156,
             "None Of The Above": 36
         },
-        "Candidates elected from first round": [],
-        "Candidates eliminated from first round": [
-            "Lucas Nussbaum",
-            "Neil McGovern",
-            "None Of The Above"
-        ],
-        "Outcomes": [
-            [
-                "None Of The Above"
-            ],
-            [
-                "Neil McGovern"
-            ],
-            [
-                "Lucas Nussbaum"
-            ]
-        ],
+        "Candidates elected from first round": {},
+        "Candidates eliminated from first round": {
+            "0": "Lucas Nussbaum",
+            "1": "Neil McGovern",
+            "2": "None Of The Above"
+        },
+        "Outcomes": {
+            "0": {
+                "0": "None Of The Above"
+            },
+            "1": {
+                "0": "Neil McGovern"
+            },
+            "2": {
+                "0": "Lucas Nussbaum"
+            }
+        },
         "Outcomes Comparison": {
             "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": [
-                    "Lucas Nussbaum"
-                ],
+                "candidates_excluded": {
+                    "0": "Lucas Nussbaum"
+                },
                 "scores_after_exclusion": {
                     "Neil McGovern": 330,
                     "None Of The Above": 50
@@ -38,15 +38,15 @@
                     "Neil McGovern": 330,
                     "None Of The Above": 50
                 },
-                "outcomes_scores": [
-                    50,
-                    330
-                ]
+                "outcomes_scores": {
+                    "0": 50,
+                    "1": 330
+                }
             },
             "Outcome N° 0 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "Neil McGovern"
-                ],
+                "candidates_excluded": {
+                    "0": "Neil McGovern"
+                },
                 "scores_after_exclusion": {
                     "Lucas Nussbaum": 331,
                     "None Of The Above": 53
@@ -61,9 +61,9 @@
                 }
             },
             "Outcome N° 1 compared to Outcome N° 2": {
-                "candidates_excluded": [
-                    "None Of The Above"
-                ],
+                "candidates_excluded": {
+                    "0": "None Of The Above"
+                },
                 "scores_after_exclusion": {
                     "Lucas Nussbaum": 205,
                     "Neil McGovern": 158
@@ -79,8 +79,8 @@
             }
         },
         "Condorcet Completion Method Stats": {
-            "Pairwise": [
-                {
+            "Pairwise": {
+                "0": {
                     "win": {
                         "1": 174339220050,
                         "2": 184799573253
@@ -94,7 +94,7 @@
                         "2": 1154125636731
                     }
                 },
-                {
+                "1": {
                     "win": {
                         "0": 1150638852330,
                         "2": 550911935358
@@ -108,35 +108,35 @@
                         "2": 714790802205
                     }
                 },
-                {
-                    "win": [
-                        1154125636731,
-                        714790802205
-                    ],
-                    "null": [
-                        0,
-                        0
-                    ],
-                    "lose": [
-                        184799573253,
-                        550911935358
-                    ]
+                "2": {
+                    "win": {
+                        "0": 1154125636731,
+                        "1": 714790802205
+                    },
+                    "null": {
+                        "0": 0,
+                        "1": 0
+                    },
+                    "lose": {
+                        "0": 184799573253,
+                        "1": 550911935358
+                    }
                 }
-            ],
-            "Stats": [
-                {
+            },
+            "Stats": {
+                "0": {
                     "1": 0,
                     "2": 0
                 },
-                {
+                "1": {
                     "0": 976299632280,
                     "2": 0
                 },
-                [
-                    969326063478,
-                    163878866847
-                ]
-            ]
+                "2": {
+                    "0": 969326063478,
+                    "1": 163878866847
+                }
+            }
         }
     }
 }

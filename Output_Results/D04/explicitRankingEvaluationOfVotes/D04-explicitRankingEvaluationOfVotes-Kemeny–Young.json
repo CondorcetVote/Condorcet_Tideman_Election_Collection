@@ -3,175 +3,175 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 1718,
-        "rankingScore": [
-            {
+        "rankingScore": {
+            "0": {
                 "1": "Gergely Nagy",
                 "2": "Branden Robinson",
                 "3": "Martin Michlmayr",
                 "4": "None of the Above",
                 "score": 1014
             },
-            {
+            "1": {
                 "1": "Gergely Nagy",
                 "2": "Branden Robinson",
                 "3": "None of the Above",
                 "4": "Martin Michlmayr",
                 "score": 689
             },
-            {
+            "2": {
                 "1": "Gergely Nagy",
                 "2": "Martin Michlmayr",
                 "3": "Branden Robinson",
                 "4": "None of the Above",
                 "score": 1092
             },
-            {
+            "3": {
                 "1": "Gergely Nagy",
                 "2": "Martin Michlmayr",
                 "3": "None of the Above",
                 "4": "Branden Robinson",
                 "score": 832
             },
-            {
+            "4": {
                 "1": "Gergely Nagy",
                 "2": "None of the Above",
                 "3": "Branden Robinson",
                 "4": "Martin Michlmayr",
                 "score": 429
             },
-            {
+            "5": {
                 "1": "Gergely Nagy",
                 "2": "None of the Above",
                 "3": "Martin Michlmayr",
                 "4": "Branden Robinson",
                 "score": 507
             },
-            {
+            "6": {
                 "1": "Branden Robinson",
                 "2": "Gergely Nagy",
                 "3": "Martin Michlmayr",
                 "4": "None of the Above",
                 "score": 1256
             },
-            {
+            "7": {
                 "1": "Branden Robinson",
                 "2": "Gergely Nagy",
                 "3": "None of the Above",
                 "4": "Martin Michlmayr",
                 "score": 931
             },
-            {
+            "8": {
                 "1": "Branden Robinson",
                 "2": "Martin Michlmayr",
                 "3": "Gergely Nagy",
                 "4": "None of the Above",
                 "score": 1550
             },
-            {
+            "9": {
                 "1": "Branden Robinson",
                 "2": "Martin Michlmayr",
                 "3": "None of the Above",
                 "4": "Gergely Nagy",
                 "score": 1640
             },
-            {
+            "10": {
                 "1": "Branden Robinson",
                 "2": "None of the Above",
                 "3": "Gergely Nagy",
                 "4": "Martin Michlmayr",
                 "score": 1021
             },
-            {
+            "11": {
                 "1": "Branden Robinson",
                 "2": "None of the Above",
                 "3": "Martin Michlmayr",
                 "4": "Gergely Nagy",
                 "score": 1315
             },
-            {
+            "12": {
                 "1": "Martin Michlmayr",
                 "2": "Gergely Nagy",
                 "3": "Branden Robinson",
                 "4": "None of the Above",
                 "score": 1386
             },
-            {
+            "13": {
                 "1": "Martin Michlmayr",
                 "2": "Gergely Nagy",
                 "3": "None of the Above",
                 "4": "Branden Robinson",
                 "score": 1126
             },
-            {
+            "14": {
                 "1": "Martin Michlmayr",
                 "2": "Branden Robinson",
                 "3": "Gergely Nagy",
                 "4": "None of the Above",
                 "score": 1628
             },
-            {
+            "15": {
                 "1": "Martin Michlmayr",
                 "2": "Branden Robinson",
                 "3": "None of the Above",
                 "4": "Gergely Nagy",
                 "score": 1718
             },
-            {
+            "16": {
                 "1": "Martin Michlmayr",
                 "2": "None of the Above",
                 "3": "Gergely Nagy",
                 "4": "Branden Robinson",
                 "score": 1216
             },
-            {
+            "17": {
                 "1": "Martin Michlmayr",
                 "2": "None of the Above",
                 "3": "Branden Robinson",
                 "4": "Gergely Nagy",
                 "score": 1458
             },
-            {
+            "18": {
                 "1": "None of the Above",
                 "2": "Gergely Nagy",
                 "3": "Branden Robinson",
                 "4": "Martin Michlmayr",
                 "score": 519
             },
-            {
+            "19": {
                 "1": "None of the Above",
                 "2": "Gergely Nagy",
                 "3": "Martin Michlmayr",
                 "4": "Branden Robinson",
                 "score": 597
             },
-            {
+            "20": {
                 "1": "None of the Above",
                 "2": "Branden Robinson",
                 "3": "Gergely Nagy",
                 "4": "Martin Michlmayr",
                 "score": 761
             },
-            {
+            "21": {
                 "1": "None of the Above",
                 "2": "Branden Robinson",
                 "3": "Martin Michlmayr",
                 "4": "Gergely Nagy",
                 "score": 1055
             },
-            {
+            "22": {
                 "1": "None of the Above",
                 "2": "Martin Michlmayr",
                 "3": "Gergely Nagy",
                 "4": "Branden Robinson",
                 "score": 891
             },
-            {
+            "23": {
                 "1": "None of the Above",
                 "2": "Martin Michlmayr",
                 "3": "Branden Robinson",
                 "4": "Gergely Nagy",
                 "score": 1133
             }
-        ]
+        }
     }
 }

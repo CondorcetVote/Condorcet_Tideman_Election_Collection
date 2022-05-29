@@ -9,13 +9,13 @@
             "Neil McGovern": 192,
             "None Of The Above": 16
         },
-        "Candidates elected from first round": [
-            "Neil McGovern"
-        ],
-        "Candidates eliminated from first round": [
-            "Gergely Nagy",
-            "Mehdi Dogguy",
-            "None Of The Above"
-        ]
+        "Candidates elected from first round": {
+            "0": "Neil McGovern"
+        },
+        "Candidates eliminated from first round": {
+            "0": "Gergely Nagy",
+            "1": "Mehdi Dogguy",
+            "2": "None Of The Above"
+        }
     }
 }
