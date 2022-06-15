@@ -1,5 +1,40 @@
 {
     "Ranking": "J > A > B > L > F > I > E > D",
     "Number Of Seats": 8,
-    "Stats": null
+    "Stats": {
+        "Votes Needed to Win": 96.333333333,
+        "Initial Score Table": {
+            "A": 122,
+            "B": 120,
+            "C": 31,
+            "D": 55,
+            "E": 59,
+            "F": 76,
+            "G": 0,
+            "H": 41,
+            "I": 60,
+            "J": 128,
+            "K": 42,
+            "L": 77,
+            "M": 56
+        },
+        "Candidates elected from first round": {
+            "0": "A",
+            "1": "B",
+            "2": "J"
+        },
+        "Candidates eliminated from first round": {
+            "0": "C",
+            "1": "D",
+            "2": "E",
+            "3": "F",
+            "4": "G",
+            "5": "H",
+            "6": "I",
+            "7": "K",
+            "8": "L",
+            "9": "M"
+        },
+        "Completion Method": "Schulze Margin"
+    }
 }

@@ -3,7 +3,8 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 2192,
-        "rankingScore": {
+        "rankingInConflicts": 0,
+        "rankingScores": {
             "0": {
                 "1": "Branden Robinson",
                 "2": "Anand Kumria",
@@ -13,190 +14,6 @@
                 "score": 1676
             },
             "1": {
-                "1": "Branden Robinson",
-                "2": "Anand Kumria",
-                "3": "Ben Collins",
-                "4": "None Of The Above",
-                "5": "Bdale Garbee",
-                "score": 1426
-            },
-            "2": {
-                "1": "Branden Robinson",
-                "2": "Anand Kumria",
-                "3": "Bdale Garbee",
-                "4": "Ben Collins",
-                "5": "None Of The Above",
-                "score": 1639
-            },
-            "3": {
-                "1": "Branden Robinson",
-                "2": "Anand Kumria",
-                "3": "Bdale Garbee",
-                "4": "None Of The Above",
-                "5": "Ben Collins",
-                "score": 1410
-            },
-            "4": {
-                "1": "Branden Robinson",
-                "2": "Anand Kumria",
-                "3": "None Of The Above",
-                "4": "Ben Collins",
-                "5": "Bdale Garbee",
-                "score": 1197
-            },
-            "5": {
-                "1": "Branden Robinson",
-                "2": "Anand Kumria",
-                "3": "None Of The Above",
-                "4": "Bdale Garbee",
-                "5": "Ben Collins",
-                "score": 1160
-            },
-            "6": {
-                "1": "Branden Robinson",
-                "2": "Ben Collins",
-                "3": "Anand Kumria",
-                "4": "Bdale Garbee",
-                "5": "None Of The Above",
-                "score": 1910
-            },
-            "7": {
-                "1": "Branden Robinson",
-                "2": "Ben Collins",
-                "3": "Anand Kumria",
-                "4": "None Of The Above",
-                "5": "Bdale Garbee",
-                "score": 1660
-            },
-            "8": {
-                "1": "Branden Robinson",
-                "2": "Ben Collins",
-                "3": "Bdale Garbee",
-                "4": "Anand Kumria",
-                "5": "None Of The Above",
-                "score": 2145
-            },
-            "9": {
-                "1": "Branden Robinson",
-                "2": "Ben Collins",
-                "3": "Bdale Garbee",
-                "4": "None Of The Above",
-                "5": "Anand Kumria",
-                "score": 2102
-            },
-            "10": {
-                "1": "Branden Robinson",
-                "2": "Ben Collins",
-                "3": "None Of The Above",
-                "4": "Anand Kumria",
-                "5": "Bdale Garbee",
-                "score": 1617
-            },
-            "11": {
-                "1": "Branden Robinson",
-                "2": "Ben Collins",
-                "3": "None Of The Above",
-                "4": "Bdale Garbee",
-                "5": "Anand Kumria",
-                "score": 1852
-            },
-            "12": {
-                "1": "Branden Robinson",
-                "2": "Bdale Garbee",
-                "3": "Anand Kumria",
-                "4": "Ben Collins",
-                "5": "None Of The Above",
-                "score": 1874
-            },
-            "13": {
-                "1": "Branden Robinson",
-                "2": "Bdale Garbee",
-                "3": "Anand Kumria",
-                "4": "None Of The Above",
-                "5": "Ben Collins",
-                "score": 1645
-            },
-            "14": {
-                "1": "Branden Robinson",
-                "2": "Bdale Garbee",
-                "3": "Ben Collins",
-                "4": "Anand Kumria",
-                "5": "None Of The Above",
-                "score": 2108
-            },
-            "15": {
-                "1": "Branden Robinson",
-                "2": "Bdale Garbee",
-                "3": "Ben Collins",
-                "4": "None Of The Above",
-                "5": "Anand Kumria",
-                "score": 2065
-            },
-            "16": {
-                "1": "Branden Robinson",
-                "2": "Bdale Garbee",
-                "3": "None Of The Above",
-                "4": "Anand Kumria",
-                "5": "Ben Collins",
-                "score": 1602
-            },
-            "17": {
-                "1": "Branden Robinson",
-                "2": "Bdale Garbee",
-                "3": "None Of The Above",
-                "4": "Ben Collins",
-                "5": "Anand Kumria",
-                "score": 1836
-            },
-            "18": {
-                "1": "Branden Robinson",
-                "2": "None Of The Above",
-                "3": "Anand Kumria",
-                "4": "Ben Collins",
-                "5": "Bdale Garbee",
-                "score": 1154
-            },
-            "19": {
-                "1": "Branden Robinson",
-                "2": "None Of The Above",
-                "3": "Anand Kumria",
-                "4": "Bdale Garbee",
-                "5": "Ben Collins",
-                "score": 1117
-            },
-            "20": {
-                "1": "Branden Robinson",
-                "2": "None Of The Above",
-                "3": "Ben Collins",
-                "4": "Anand Kumria",
-                "5": "Bdale Garbee",
-                "score": 1388
-            },
-            "21": {
-                "1": "Branden Robinson",
-                "2": "None Of The Above",
-                "3": "Ben Collins",
-                "4": "Bdale Garbee",
-                "5": "Anand Kumria",
-                "score": 1623
-            },
-            "22": {
-                "1": "Branden Robinson",
-                "2": "None Of The Above",
-                "3": "Bdale Garbee",
-                "4": "Anand Kumria",
-                "5": "Ben Collins",
-                "score": 1352
-            },
-            "23": {
-                "1": "Branden Robinson",
-                "2": "None Of The Above",
-                "3": "Bdale Garbee",
-                "4": "Ben Collins",
-                "5": "Anand Kumria",
-                "score": 1586
-            },
-            "24": {
                 "1": "Anand Kumria",
                 "2": "Branden Robinson",
                 "3": "Ben Collins",
@@ -204,47 +21,7 @@
                 "5": "None Of The Above",
                 "score": 1469
             },
-            "25": {
-                "1": "Anand Kumria",
-                "2": "Branden Robinson",
-                "3": "Ben Collins",
-                "4": "None Of The Above",
-                "5": "Bdale Garbee",
-                "score": 1219
-            },
-            "26": {
-                "1": "Anand Kumria",
-                "2": "Branden Robinson",
-                "3": "Bdale Garbee",
-                "4": "Ben Collins",
-                "5": "None Of The Above",
-                "score": 1432
-            },
-            "27": {
-                "1": "Anand Kumria",
-                "2": "Branden Robinson",
-                "3": "Bdale Garbee",
-                "4": "None Of The Above",
-                "5": "Ben Collins",
-                "score": 1203
-            },
-            "28": {
-                "1": "Anand Kumria",
-                "2": "Branden Robinson",
-                "3": "None Of The Above",
-                "4": "Ben Collins",
-                "5": "Bdale Garbee",
-                "score": 990
-            },
-            "29": {
-                "1": "Anand Kumria",
-                "2": "Branden Robinson",
-                "3": "None Of The Above",
-                "4": "Bdale Garbee",
-                "5": "Ben Collins",
-                "score": 953
-            },
-            "30": {
+            "2": {
                 "1": "Anand Kumria",
                 "2": "Ben Collins",
                 "3": "Branden Robinson",
@@ -252,15 +29,7 @@
                 "5": "None Of The Above",
                 "score": 1516
             },
-            "31": {
-                "1": "Anand Kumria",
-                "2": "Ben Collins",
-                "3": "Branden Robinson",
-                "4": "None Of The Above",
-                "5": "Bdale Garbee",
-                "score": 1266
-            },
-            "32": {
+            "3": {
                 "1": "Anand Kumria",
                 "2": "Ben Collins",
                 "3": "Bdale Garbee",
@@ -268,7 +37,7 @@
                 "5": "None Of The Above",
                 "score": 1505
             },
-            "33": {
+            "4": {
                 "1": "Anand Kumria",
                 "2": "Ben Collins",
                 "3": "Bdale Garbee",
@@ -276,119 +45,15 @@
                 "5": "Branden Robinson",
                 "score": 1295
             },
-            "34": {
-                "1": "Anand Kumria",
+            "5": {
+                "1": "Branden Robinson",
                 "2": "Ben Collins",
-                "3": "None Of The Above",
-                "4": "Branden Robinson",
-                "5": "Bdale Garbee",
-                "score": 1056
-            },
-            "35": {
-                "1": "Anand Kumria",
-                "2": "Ben Collins",
-                "3": "None Of The Above",
+                "3": "Anand Kumria",
                 "4": "Bdale Garbee",
-                "5": "Branden Robinson",
-                "score": 1045
-            },
-            "36": {
-                "1": "Anand Kumria",
-                "2": "Bdale Garbee",
-                "3": "Branden Robinson",
-                "4": "Ben Collins",
                 "5": "None Of The Above",
-                "score": 1421
+                "score": 1910
             },
-            "37": {
-                "1": "Anand Kumria",
-                "2": "Bdale Garbee",
-                "3": "Branden Robinson",
-                "4": "None Of The Above",
-                "5": "Ben Collins",
-                "score": 1192
-            },
-            "38": {
-                "1": "Anand Kumria",
-                "2": "Bdale Garbee",
-                "3": "Ben Collins",
-                "4": "Branden Robinson",
-                "5": "None Of The Above",
-                "score": 1468
-            },
-            "39": {
-                "1": "Anand Kumria",
-                "2": "Bdale Garbee",
-                "3": "Ben Collins",
-                "4": "None Of The Above",
-                "5": "Branden Robinson",
-                "score": 1258
-            },
-            "40": {
-                "1": "Anand Kumria",
-                "2": "Bdale Garbee",
-                "3": "None Of The Above",
-                "4": "Branden Robinson",
-                "5": "Ben Collins",
-                "score": 982
-            },
-            "41": {
-                "1": "Anand Kumria",
-                "2": "Bdale Garbee",
-                "3": "None Of The Above",
-                "4": "Ben Collins",
-                "5": "Branden Robinson",
-                "score": 1029
-            },
-            "42": {
-                "1": "Anand Kumria",
-                "2": "None Of The Above",
-                "3": "Branden Robinson",
-                "4": "Ben Collins",
-                "5": "Bdale Garbee",
-                "score": 780
-            },
-            "43": {
-                "1": "Anand Kumria",
-                "2": "None Of The Above",
-                "3": "Branden Robinson",
-                "4": "Bdale Garbee",
-                "5": "Ben Collins",
-                "score": 743
-            },
-            "44": {
-                "1": "Anand Kumria",
-                "2": "None Of The Above",
-                "3": "Ben Collins",
-                "4": "Branden Robinson",
-                "5": "Bdale Garbee",
-                "score": 827
-            },
-            "45": {
-                "1": "Anand Kumria",
-                "2": "None Of The Above",
-                "3": "Ben Collins",
-                "4": "Bdale Garbee",
-                "5": "Branden Robinson",
-                "score": 816
-            },
-            "46": {
-                "1": "Anand Kumria",
-                "2": "None Of The Above",
-                "3": "Bdale Garbee",
-                "4": "Branden Robinson",
-                "5": "Ben Collins",
-                "score": 732
-            },
-            "47": {
-                "1": "Anand Kumria",
-                "2": "None Of The Above",
-                "3": "Bdale Garbee",
-                "4": "Ben Collins",
-                "5": "Branden Robinson",
-                "score": 779
-            },
-            "48": {
+            "6": {
                 "1": "Ben Collins",
                 "2": "Branden Robinson",
                 "3": "Anand Kumria",
@@ -396,47 +61,7 @@
                 "5": "None Of The Above",
                 "score": 1957
             },
-            "49": {
-                "1": "Ben Collins",
-                "2": "Branden Robinson",
-                "3": "Anand Kumria",
-                "4": "None Of The Above",
-                "5": "Bdale Garbee",
-                "score": 1707
-            },
-            "50": {
-                "1": "Ben Collins",
-                "2": "Branden Robinson",
-                "3": "Bdale Garbee",
-                "4": "Anand Kumria",
-                "5": "None Of The Above",
-                "score": 2192
-            },
-            "51": {
-                "1": "Ben Collins",
-                "2": "Branden Robinson",
-                "3": "Bdale Garbee",
-                "4": "None Of The Above",
-                "5": "Anand Kumria",
-                "score": 2149
-            },
-            "52": {
-                "1": "Ben Collins",
-                "2": "Branden Robinson",
-                "3": "None Of The Above",
-                "4": "Anand Kumria",
-                "5": "Bdale Garbee",
-                "score": 1664
-            },
-            "53": {
-                "1": "Ben Collins",
-                "2": "Branden Robinson",
-                "3": "None Of The Above",
-                "4": "Bdale Garbee",
-                "5": "Anand Kumria",
-                "score": 1899
-            },
-            "54": {
+            "7": {
                 "1": "Ben Collins",
                 "2": "Anand Kumria",
                 "3": "Branden Robinson",
@@ -444,15 +69,7 @@
                 "5": "None Of The Above",
                 "score": 1750
             },
-            "55": {
-                "1": "Ben Collins",
-                "2": "Anand Kumria",
-                "3": "Branden Robinson",
-                "4": "None Of The Above",
-                "5": "Bdale Garbee",
-                "score": 1500
-            },
-            "56": {
+            "8": {
                 "1": "Ben Collins",
                 "2": "Anand Kumria",
                 "3": "Bdale Garbee",
@@ -460,7 +77,7 @@
                 "5": "None Of The Above",
                 "score": 1739
             },
-            "57": {
+            "9": {
                 "1": "Ben Collins",
                 "2": "Anand Kumria",
                 "3": "Bdale Garbee",
@@ -468,23 +85,23 @@
                 "5": "Branden Robinson",
                 "score": 1529
             },
-            "58": {
-                "1": "Ben Collins",
-                "2": "Anand Kumria",
-                "3": "None Of The Above",
-                "4": "Branden Robinson",
-                "5": "Bdale Garbee",
-                "score": 1290
+            "10": {
+                "1": "Branden Robinson",
+                "2": "Ben Collins",
+                "3": "Bdale Garbee",
+                "4": "Anand Kumria",
+                "5": "None Of The Above",
+                "score": 2145
             },
-            "59": {
+            "11": {
                 "1": "Ben Collins",
-                "2": "Anand Kumria",
-                "3": "None Of The Above",
-                "4": "Bdale Garbee",
-                "5": "Branden Robinson",
-                "score": 1279
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "Anand Kumria",
+                "5": "None Of The Above",
+                "score": 2192
             },
-            "60": {
+            "12": {
                 "1": "Ben Collins",
                 "2": "Bdale Garbee",
                 "3": "Branden Robinson",
@@ -492,15 +109,7 @@
                 "5": "None Of The Above",
                 "score": 2181
             },
-            "61": {
-                "1": "Ben Collins",
-                "2": "Bdale Garbee",
-                "3": "Branden Robinson",
-                "4": "None Of The Above",
-                "5": "Anand Kumria",
-                "score": 2138
-            },
-            "62": {
+            "13": {
                 "1": "Ben Collins",
                 "2": "Bdale Garbee",
                 "3": "Anand Kumria",
@@ -508,7 +117,7 @@
                 "5": "None Of The Above",
                 "score": 1974
             },
-            "63": {
+            "14": {
                 "1": "Ben Collins",
                 "2": "Bdale Garbee",
                 "3": "Anand Kumria",
@@ -516,7 +125,31 @@
                 "5": "Branden Robinson",
                 "score": 1764
             },
-            "64": {
+            "15": {
+                "1": "Branden Robinson",
+                "2": "Ben Collins",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "5": "Anand Kumria",
+                "score": 2102
+            },
+            "16": {
+                "1": "Ben Collins",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "5": "Anand Kumria",
+                "score": 2149
+            },
+            "17": {
+                "1": "Ben Collins",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Anand Kumria",
+                "score": 2138
+            },
+            "18": {
                 "1": "Ben Collins",
                 "2": "Bdale Garbee",
                 "3": "None Of The Above",
@@ -524,7 +157,7 @@
                 "5": "Anand Kumria",
                 "score": 1928
             },
-            "65": {
+            "19": {
                 "1": "Ben Collins",
                 "2": "Bdale Garbee",
                 "3": "None Of The Above",
@@ -532,55 +165,55 @@
                 "5": "Branden Robinson",
                 "score": 1721
             },
-            "66": {
-                "1": "Ben Collins",
-                "2": "None Of The Above",
-                "3": "Branden Robinson",
-                "4": "Anand Kumria",
-                "5": "Bdale Garbee",
-                "score": 1454
-            },
-            "67": {
-                "1": "Ben Collins",
-                "2": "None Of The Above",
-                "3": "Branden Robinson",
-                "4": "Bdale Garbee",
-                "5": "Anand Kumria",
-                "score": 1689
-            },
-            "68": {
-                "1": "Ben Collins",
-                "2": "None Of The Above",
-                "3": "Anand Kumria",
-                "4": "Branden Robinson",
-                "5": "Bdale Garbee",
-                "score": 1247
-            },
-            "69": {
-                "1": "Ben Collins",
-                "2": "None Of The Above",
-                "3": "Anand Kumria",
-                "4": "Bdale Garbee",
-                "5": "Branden Robinson",
-                "score": 1236
-            },
-            "70": {
-                "1": "Ben Collins",
-                "2": "None Of The Above",
+            "20": {
+                "1": "Branden Robinson",
+                "2": "Anand Kumria",
                 "3": "Bdale Garbee",
-                "4": "Branden Robinson",
-                "5": "Anand Kumria",
-                "score": 1678
+                "4": "Ben Collins",
+                "5": "None Of The Above",
+                "score": 1639
             },
-            "71": {
-                "1": "Ben Collins",
-                "2": "None Of The Above",
+            "21": {
+                "1": "Anand Kumria",
+                "2": "Branden Robinson",
                 "3": "Bdale Garbee",
-                "4": "Anand Kumria",
-                "5": "Branden Robinson",
-                "score": 1471
+                "4": "Ben Collins",
+                "5": "None Of The Above",
+                "score": 1432
             },
-            "72": {
+            "22": {
+                "1": "Anand Kumria",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "Ben Collins",
+                "5": "None Of The Above",
+                "score": 1421
+            },
+            "23": {
+                "1": "Anand Kumria",
+                "2": "Bdale Garbee",
+                "3": "Ben Collins",
+                "4": "Branden Robinson",
+                "5": "None Of The Above",
+                "score": 1468
+            },
+            "24": {
+                "1": "Anand Kumria",
+                "2": "Bdale Garbee",
+                "3": "Ben Collins",
+                "4": "None Of The Above",
+                "5": "Branden Robinson",
+                "score": 1258
+            },
+            "25": {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "Anand Kumria",
+                "4": "Ben Collins",
+                "5": "None Of The Above",
+                "score": 1874
+            },
+            "26": {
                 "1": "Bdale Garbee",
                 "2": "Branden Robinson",
                 "3": "Anand Kumria",
@@ -588,47 +221,7 @@
                 "5": "None Of The Above",
                 "score": 1863
             },
-            "73": {
-                "1": "Bdale Garbee",
-                "2": "Branden Robinson",
-                "3": "Anand Kumria",
-                "4": "None Of The Above",
-                "5": "Ben Collins",
-                "score": 1634
-            },
-            "74": {
-                "1": "Bdale Garbee",
-                "2": "Branden Robinson",
-                "3": "Ben Collins",
-                "4": "Anand Kumria",
-                "5": "None Of The Above",
-                "score": 2097
-            },
-            "75": {
-                "1": "Bdale Garbee",
-                "2": "Branden Robinson",
-                "3": "Ben Collins",
-                "4": "None Of The Above",
-                "5": "Anand Kumria",
-                "score": 2054
-            },
-            "76": {
-                "1": "Bdale Garbee",
-                "2": "Branden Robinson",
-                "3": "None Of The Above",
-                "4": "Anand Kumria",
-                "5": "Ben Collins",
-                "score": 1591
-            },
-            "77": {
-                "1": "Bdale Garbee",
-                "2": "Branden Robinson",
-                "3": "None Of The Above",
-                "4": "Ben Collins",
-                "5": "Anand Kumria",
-                "score": 1825
-            },
-            "78": {
+            "27": {
                 "1": "Bdale Garbee",
                 "2": "Anand Kumria",
                 "3": "Branden Robinson",
@@ -636,15 +229,7 @@
                 "5": "None Of The Above",
                 "score": 1656
             },
-            "79": {
-                "1": "Bdale Garbee",
-                "2": "Anand Kumria",
-                "3": "Branden Robinson",
-                "4": "None Of The Above",
-                "5": "Ben Collins",
-                "score": 1427
-            },
-            "80": {
+            "28": {
                 "1": "Bdale Garbee",
                 "2": "Anand Kumria",
                 "3": "Ben Collins",
@@ -652,7 +237,7 @@
                 "5": "None Of The Above",
                 "score": 1703
             },
-            "81": {
+            "29": {
                 "1": "Bdale Garbee",
                 "2": "Anand Kumria",
                 "3": "Ben Collins",
@@ -660,23 +245,23 @@
                 "5": "Branden Robinson",
                 "score": 1493
             },
-            "82": {
-                "1": "Bdale Garbee",
-                "2": "Anand Kumria",
-                "3": "None Of The Above",
-                "4": "Branden Robinson",
-                "5": "Ben Collins",
-                "score": 1217
+            "30": {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "Ben Collins",
+                "4": "Anand Kumria",
+                "5": "None Of The Above",
+                "score": 2108
             },
-            "83": {
+            "31": {
                 "1": "Bdale Garbee",
-                "2": "Anand Kumria",
-                "3": "None Of The Above",
-                "4": "Ben Collins",
-                "5": "Branden Robinson",
-                "score": 1264
+                "2": "Branden Robinson",
+                "3": "Ben Collins",
+                "4": "Anand Kumria",
+                "5": "None Of The Above",
+                "score": 2097
             },
-            "84": {
+            "32": {
                 "1": "Bdale Garbee",
                 "2": "Ben Collins",
                 "3": "Branden Robinson",
@@ -684,15 +269,7 @@
                 "5": "None Of The Above",
                 "score": 2144
             },
-            "85": {
-                "1": "Bdale Garbee",
-                "2": "Ben Collins",
-                "3": "Branden Robinson",
-                "4": "None Of The Above",
-                "5": "Anand Kumria",
-                "score": 2101
-            },
-            "86": {
+            "33": {
                 "1": "Bdale Garbee",
                 "2": "Ben Collins",
                 "3": "Anand Kumria",
@@ -700,7 +277,7 @@
                 "5": "None Of The Above",
                 "score": 1937
             },
-            "87": {
+            "34": {
                 "1": "Bdale Garbee",
                 "2": "Ben Collins",
                 "3": "Anand Kumria",
@@ -708,7 +285,31 @@
                 "5": "Branden Robinson",
                 "score": 1727
             },
-            "88": {
+            "35": {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "Ben Collins",
+                "4": "None Of The Above",
+                "5": "Anand Kumria",
+                "score": 2065
+            },
+            "36": {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "Ben Collins",
+                "4": "None Of The Above",
+                "5": "Anand Kumria",
+                "score": 2054
+            },
+            "37": {
+                "1": "Bdale Garbee",
+                "2": "Ben Collins",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Anand Kumria",
+                "score": 2101
+            },
+            "38": {
                 "1": "Bdale Garbee",
                 "2": "Ben Collins",
                 "3": "None Of The Above",
@@ -716,7 +317,7 @@
                 "5": "Anand Kumria",
                 "score": 1891
             },
-            "89": {
+            "39": {
                 "1": "Bdale Garbee",
                 "2": "Ben Collins",
                 "3": "None Of The Above",
@@ -724,7 +325,103 @@
                 "5": "Branden Robinson",
                 "score": 1684
             },
-            "90": {
+            "40": {
+                "1": "Branden Robinson",
+                "2": "Anand Kumria",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "5": "Ben Collins",
+                "score": 1410
+            },
+            "41": {
+                "1": "Anand Kumria",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "None Of The Above",
+                "5": "Ben Collins",
+                "score": 1203
+            },
+            "42": {
+                "1": "Anand Kumria",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Ben Collins",
+                "score": 1192
+            },
+            "43": {
+                "1": "Anand Kumria",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "5": "Ben Collins",
+                "score": 982
+            },
+            "44": {
+                "1": "Anand Kumria",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Ben Collins",
+                "5": "Branden Robinson",
+                "score": 1029
+            },
+            "45": {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "Anand Kumria",
+                "4": "None Of The Above",
+                "5": "Ben Collins",
+                "score": 1645
+            },
+            "46": {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "Anand Kumria",
+                "4": "None Of The Above",
+                "5": "Ben Collins",
+                "score": 1634
+            },
+            "47": {
+                "1": "Bdale Garbee",
+                "2": "Anand Kumria",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Ben Collins",
+                "score": 1427
+            },
+            "48": {
+                "1": "Bdale Garbee",
+                "2": "Anand Kumria",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "5": "Ben Collins",
+                "score": 1217
+            },
+            "49": {
+                "1": "Bdale Garbee",
+                "2": "Anand Kumria",
+                "3": "None Of The Above",
+                "4": "Ben Collins",
+                "5": "Branden Robinson",
+                "score": 1264
+            },
+            "50": {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Anand Kumria",
+                "5": "Ben Collins",
+                "score": 1602
+            },
+            "51": {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Anand Kumria",
+                "5": "Ben Collins",
+                "score": 1591
+            },
+            "52": {
                 "1": "Bdale Garbee",
                 "2": "None Of The Above",
                 "3": "Branden Robinson",
@@ -732,15 +429,7 @@
                 "5": "Ben Collins",
                 "score": 1381
             },
-            "91": {
-                "1": "Bdale Garbee",
-                "2": "None Of The Above",
-                "3": "Branden Robinson",
-                "4": "Ben Collins",
-                "5": "Anand Kumria",
-                "score": 1615
-            },
-            "92": {
+            "53": {
                 "1": "Bdale Garbee",
                 "2": "None Of The Above",
                 "3": "Anand Kumria",
@@ -748,7 +437,7 @@
                 "5": "Ben Collins",
                 "score": 1174
             },
-            "93": {
+            "54": {
                 "1": "Bdale Garbee",
                 "2": "None Of The Above",
                 "3": "Anand Kumria",
@@ -756,7 +445,31 @@
                 "5": "Branden Robinson",
                 "score": 1221
             },
-            "94": {
+            "55": {
+                "1": "Branden Robinson",
+                "2": "Bdale Garbee",
+                "3": "None Of The Above",
+                "4": "Ben Collins",
+                "5": "Anand Kumria",
+                "score": 1836
+            },
+            "56": {
+                "1": "Bdale Garbee",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Ben Collins",
+                "5": "Anand Kumria",
+                "score": 1825
+            },
+            "57": {
+                "1": "Bdale Garbee",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Ben Collins",
+                "5": "Anand Kumria",
+                "score": 1615
+            },
+            "58": {
                 "1": "Bdale Garbee",
                 "2": "None Of The Above",
                 "3": "Ben Collins",
@@ -764,7 +477,7 @@
                 "5": "Anand Kumria",
                 "score": 1662
             },
-            "95": {
+            "59": {
                 "1": "Bdale Garbee",
                 "2": "None Of The Above",
                 "3": "Ben Collins",
@@ -772,7 +485,215 @@
                 "5": "Branden Robinson",
                 "score": 1455
             },
-            "96": {
+            "60": {
+                "1": "Branden Robinson",
+                "2": "Anand Kumria",
+                "3": "Ben Collins",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 1426
+            },
+            "61": {
+                "1": "Anand Kumria",
+                "2": "Branden Robinson",
+                "3": "Ben Collins",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 1219
+            },
+            "62": {
+                "1": "Anand Kumria",
+                "2": "Ben Collins",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 1266
+            },
+            "63": {
+                "1": "Anand Kumria",
+                "2": "Ben Collins",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "5": "Bdale Garbee",
+                "score": 1056
+            },
+            "64": {
+                "1": "Anand Kumria",
+                "2": "Ben Collins",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Branden Robinson",
+                "score": 1045
+            },
+            "65": {
+                "1": "Branden Robinson",
+                "2": "Ben Collins",
+                "3": "Anand Kumria",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 1660
+            },
+            "66": {
+                "1": "Ben Collins",
+                "2": "Branden Robinson",
+                "3": "Anand Kumria",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 1707
+            },
+            "67": {
+                "1": "Ben Collins",
+                "2": "Anand Kumria",
+                "3": "Branden Robinson",
+                "4": "None Of The Above",
+                "5": "Bdale Garbee",
+                "score": 1500
+            },
+            "68": {
+                "1": "Ben Collins",
+                "2": "Anand Kumria",
+                "3": "None Of The Above",
+                "4": "Branden Robinson",
+                "5": "Bdale Garbee",
+                "score": 1290
+            },
+            "69": {
+                "1": "Ben Collins",
+                "2": "Anand Kumria",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Branden Robinson",
+                "score": 1279
+            },
+            "70": {
+                "1": "Branden Robinson",
+                "2": "Ben Collins",
+                "3": "None Of The Above",
+                "4": "Anand Kumria",
+                "5": "Bdale Garbee",
+                "score": 1617
+            },
+            "71": {
+                "1": "Ben Collins",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Anand Kumria",
+                "5": "Bdale Garbee",
+                "score": 1664
+            },
+            "72": {
+                "1": "Ben Collins",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Anand Kumria",
+                "5": "Bdale Garbee",
+                "score": 1454
+            },
+            "73": {
+                "1": "Ben Collins",
+                "2": "None Of The Above",
+                "3": "Anand Kumria",
+                "4": "Branden Robinson",
+                "5": "Bdale Garbee",
+                "score": 1247
+            },
+            "74": {
+                "1": "Ben Collins",
+                "2": "None Of The Above",
+                "3": "Anand Kumria",
+                "4": "Bdale Garbee",
+                "5": "Branden Robinson",
+                "score": 1236
+            },
+            "75": {
+                "1": "Branden Robinson",
+                "2": "Ben Collins",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Anand Kumria",
+                "score": 1852
+            },
+            "76": {
+                "1": "Ben Collins",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Anand Kumria",
+                "score": 1899
+            },
+            "77": {
+                "1": "Ben Collins",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "5": "Anand Kumria",
+                "score": 1689
+            },
+            "78": {
+                "1": "Ben Collins",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "5": "Anand Kumria",
+                "score": 1678
+            },
+            "79": {
+                "1": "Ben Collins",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Anand Kumria",
+                "5": "Branden Robinson",
+                "score": 1471
+            },
+            "80": {
+                "1": "Branden Robinson",
+                "2": "Anand Kumria",
+                "3": "None Of The Above",
+                "4": "Ben Collins",
+                "5": "Bdale Garbee",
+                "score": 1197
+            },
+            "81": {
+                "1": "Anand Kumria",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Ben Collins",
+                "5": "Bdale Garbee",
+                "score": 990
+            },
+            "82": {
+                "1": "Anand Kumria",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Ben Collins",
+                "5": "Bdale Garbee",
+                "score": 780
+            },
+            "83": {
+                "1": "Anand Kumria",
+                "2": "None Of The Above",
+                "3": "Ben Collins",
+                "4": "Branden Robinson",
+                "5": "Bdale Garbee",
+                "score": 827
+            },
+            "84": {
+                "1": "Anand Kumria",
+                "2": "None Of The Above",
+                "3": "Ben Collins",
+                "4": "Bdale Garbee",
+                "5": "Branden Robinson",
+                "score": 816
+            },
+            "85": {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Anand Kumria",
+                "4": "Ben Collins",
+                "5": "Bdale Garbee",
+                "score": 1154
+            },
+            "86": {
                 "1": "None Of The Above",
                 "2": "Branden Robinson",
                 "3": "Anand Kumria",
@@ -780,47 +701,7 @@
                 "5": "Bdale Garbee",
                 "score": 944
             },
-            "97": {
-                "1": "None Of The Above",
-                "2": "Branden Robinson",
-                "3": "Anand Kumria",
-                "4": "Bdale Garbee",
-                "5": "Ben Collins",
-                "score": 907
-            },
-            "98": {
-                "1": "None Of The Above",
-                "2": "Branden Robinson",
-                "3": "Ben Collins",
-                "4": "Anand Kumria",
-                "5": "Bdale Garbee",
-                "score": 1178
-            },
-            "99": {
-                "1": "None Of The Above",
-                "2": "Branden Robinson",
-                "3": "Ben Collins",
-                "4": "Bdale Garbee",
-                "5": "Anand Kumria",
-                "score": 1413
-            },
-            "100": {
-                "1": "None Of The Above",
-                "2": "Branden Robinson",
-                "3": "Bdale Garbee",
-                "4": "Anand Kumria",
-                "5": "Ben Collins",
-                "score": 1142
-            },
-            "101": {
-                "1": "None Of The Above",
-                "2": "Branden Robinson",
-                "3": "Bdale Garbee",
-                "4": "Ben Collins",
-                "5": "Anand Kumria",
-                "score": 1376
-            },
-            "102": {
+            "87": {
                 "1": "None Of The Above",
                 "2": "Anand Kumria",
                 "3": "Branden Robinson",
@@ -828,15 +709,7 @@
                 "5": "Bdale Garbee",
                 "score": 737
             },
-            "103": {
-                "1": "None Of The Above",
-                "2": "Anand Kumria",
-                "3": "Branden Robinson",
-                "4": "Bdale Garbee",
-                "5": "Ben Collins",
-                "score": 700
-            },
-            "104": {
+            "88": {
                 "1": "None Of The Above",
                 "2": "Anand Kumria",
                 "3": "Ben Collins",
@@ -844,7 +717,7 @@
                 "5": "Bdale Garbee",
                 "score": 784
             },
-            "105": {
+            "89": {
                 "1": "None Of The Above",
                 "2": "Anand Kumria",
                 "3": "Ben Collins",
@@ -852,23 +725,23 @@
                 "5": "Branden Robinson",
                 "score": 773
             },
-            "106": {
-                "1": "None Of The Above",
-                "2": "Anand Kumria",
-                "3": "Bdale Garbee",
-                "4": "Branden Robinson",
-                "5": "Ben Collins",
-                "score": 689
+            "90": {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Ben Collins",
+                "4": "Anand Kumria",
+                "5": "Bdale Garbee",
+                "score": 1388
             },
-            "107": {
+            "91": {
                 "1": "None Of The Above",
-                "2": "Anand Kumria",
-                "3": "Bdale Garbee",
-                "4": "Ben Collins",
-                "5": "Branden Robinson",
-                "score": 736
+                "2": "Branden Robinson",
+                "3": "Ben Collins",
+                "4": "Anand Kumria",
+                "5": "Bdale Garbee",
+                "score": 1178
             },
-            "108": {
+            "92": {
                 "1": "None Of The Above",
                 "2": "Ben Collins",
                 "3": "Branden Robinson",
@@ -876,15 +749,7 @@
                 "5": "Bdale Garbee",
                 "score": 1225
             },
-            "109": {
-                "1": "None Of The Above",
-                "2": "Ben Collins",
-                "3": "Branden Robinson",
-                "4": "Bdale Garbee",
-                "5": "Anand Kumria",
-                "score": 1460
-            },
-            "110": {
+            "93": {
                 "1": "None Of The Above",
                 "2": "Ben Collins",
                 "3": "Anand Kumria",
@@ -892,7 +757,7 @@
                 "5": "Bdale Garbee",
                 "score": 1018
             },
-            "111": {
+            "94": {
                 "1": "None Of The Above",
                 "2": "Ben Collins",
                 "3": "Anand Kumria",
@@ -900,7 +765,31 @@
                 "5": "Branden Robinson",
                 "score": 1007
             },
-            "112": {
+            "95": {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Ben Collins",
+                "4": "Bdale Garbee",
+                "5": "Anand Kumria",
+                "score": 1623
+            },
+            "96": {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Ben Collins",
+                "4": "Bdale Garbee",
+                "5": "Anand Kumria",
+                "score": 1413
+            },
+            "97": {
+                "1": "None Of The Above",
+                "2": "Ben Collins",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "5": "Anand Kumria",
+                "score": 1460
+            },
+            "98": {
                 "1": "None Of The Above",
                 "2": "Ben Collins",
                 "3": "Bdale Garbee",
@@ -908,7 +797,7 @@
                 "5": "Anand Kumria",
                 "score": 1449
             },
-            "113": {
+            "99": {
                 "1": "None Of The Above",
                 "2": "Ben Collins",
                 "3": "Bdale Garbee",
@@ -916,7 +805,103 @@
                 "5": "Branden Robinson",
                 "score": 1242
             },
-            "114": {
+            "100": {
+                "1": "Branden Robinson",
+                "2": "Anand Kumria",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Ben Collins",
+                "score": 1160
+            },
+            "101": {
+                "1": "Anand Kumria",
+                "2": "Branden Robinson",
+                "3": "None Of The Above",
+                "4": "Bdale Garbee",
+                "5": "Ben Collins",
+                "score": 953
+            },
+            "102": {
+                "1": "Anand Kumria",
+                "2": "None Of The Above",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "5": "Ben Collins",
+                "score": 743
+            },
+            "103": {
+                "1": "Anand Kumria",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "5": "Ben Collins",
+                "score": 732
+            },
+            "104": {
+                "1": "Anand Kumria",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Ben Collins",
+                "5": "Branden Robinson",
+                "score": 779
+            },
+            "105": {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Anand Kumria",
+                "4": "Bdale Garbee",
+                "5": "Ben Collins",
+                "score": 1117
+            },
+            "106": {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Anand Kumria",
+                "4": "Bdale Garbee",
+                "5": "Ben Collins",
+                "score": 907
+            },
+            "107": {
+                "1": "None Of The Above",
+                "2": "Anand Kumria",
+                "3": "Branden Robinson",
+                "4": "Bdale Garbee",
+                "5": "Ben Collins",
+                "score": 700
+            },
+            "108": {
+                "1": "None Of The Above",
+                "2": "Anand Kumria",
+                "3": "Bdale Garbee",
+                "4": "Branden Robinson",
+                "5": "Ben Collins",
+                "score": 689
+            },
+            "109": {
+                "1": "None Of The Above",
+                "2": "Anand Kumria",
+                "3": "Bdale Garbee",
+                "4": "Ben Collins",
+                "5": "Branden Robinson",
+                "score": 736
+            },
+            "110": {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Anand Kumria",
+                "5": "Ben Collins",
+                "score": 1352
+            },
+            "111": {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "Anand Kumria",
+                "5": "Ben Collins",
+                "score": 1142
+            },
+            "112": {
                 "1": "None Of The Above",
                 "2": "Bdale Garbee",
                 "3": "Branden Robinson",
@@ -924,15 +909,7 @@
                 "5": "Ben Collins",
                 "score": 1131
             },
-            "115": {
-                "1": "None Of The Above",
-                "2": "Bdale Garbee",
-                "3": "Branden Robinson",
-                "4": "Ben Collins",
-                "5": "Anand Kumria",
-                "score": 1365
-            },
-            "116": {
+            "113": {
                 "1": "None Of The Above",
                 "2": "Bdale Garbee",
                 "3": "Anand Kumria",
@@ -940,13 +917,37 @@
                 "5": "Ben Collins",
                 "score": 924
             },
-            "117": {
+            "114": {
                 "1": "None Of The Above",
                 "2": "Bdale Garbee",
                 "3": "Anand Kumria",
                 "4": "Ben Collins",
                 "5": "Branden Robinson",
                 "score": 971
+            },
+            "115": {
+                "1": "Branden Robinson",
+                "2": "None Of The Above",
+                "3": "Bdale Garbee",
+                "4": "Ben Collins",
+                "5": "Anand Kumria",
+                "score": 1586
+            },
+            "116": {
+                "1": "None Of The Above",
+                "2": "Branden Robinson",
+                "3": "Bdale Garbee",
+                "4": "Ben Collins",
+                "5": "Anand Kumria",
+                "score": 1376
+            },
+            "117": {
+                "1": "None Of The Above",
+                "2": "Bdale Garbee",
+                "3": "Branden Robinson",
+                "4": "Ben Collins",
+                "5": "Anand Kumria",
+                "score": 1365
             },
             "118": {
                 "1": "None Of The Above",

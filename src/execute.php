@@ -9,6 +9,7 @@ namespace CondorcetPHP\TidemanCollection;
 
 use CondorcetPHP\Condorcet\Algo\Methods\KemenyYoung\KemenyYoung;
 use CondorcetPHP\Condorcet\Algo\Methods\STV\CPO_STV;
+use CondorcetPHP\Condorcet\Algo\StatsVerbosity;
 use CondorcetPHP\Condorcet\Condorcet;
 use CondorcetPHP\Condorcet\Election;
 use CondorcetPHP\Condorcet\Throwable\CondorcetPublicApiException;
@@ -45,7 +46,7 @@ ini_set('memory_limit', '12296M');
 
     $methods = Condorcet::getAuthMethods();
     natsort($methods);
-    !$isTest && (KemenyYoung::$MaxCandidates = 9) && (CPO_STV::$MaxOutcomeComparisons = 50_000);
+    !$isTest && (KemenyYoung::$MaxCandidates = 10) && (CPO_STV::$MaxOutcomeComparisons = 50_000);
 
     foreach ($tideman_collection_list as $name => $path) :
         echo 'Execute: '.$name."\n";
@@ -56,6 +57,7 @@ ini_set('memory_limit', '12296M');
             'cvotes'       => new CondorcetElectionFormat   ($path),
         };
         $election = $collection->setDataToAnElection();
+        $election->setStatsVerbosity(StatsVerbosity::FULL);
 
         $results[$name] = [];
         $results[$name]['number_of_seats'] = $election->getNumberOfSeats();
@@ -129,10 +131,20 @@ ini_set('memory_limit', '12296M');
 
                 echo 'Write Result: '.$name.' - '.$mode.' - '.$methodName."\n";
 
+                if (strlen(\json_encode($oneResult['stats'], \JSON_THROW_ON_ERROR)) > (1048576 * 16)) :
+                    if ($methodName === 'Kemeny–Young') :
+                        unset($oneResult['stats']['rankingScores']);
+                    elseif ($methodName === 'CPO STV') :
+                        unset($oneResult['stats']['Outcomes']);
+                        unset($oneResult['stats']['Condorcet Completion Method Stats']);
+                        unset($oneResult['stats']['Outcomes Comparison']);
+                    endif;
+                endif;
+
                 $json = json_encode([
                         'Ranking'           => $oneResult['ranking'],
                         'Number Of Seats'   => $election['number_of_seats'],
-                        'Stats'             => (strlen(\json_encode($oneResult['stats'], \JSON_THROW_ON_ERROR)) < (1048576 * 16)) ? $oneResult['stats'] : null
+                        'Stats'             => $oneResult['stats']
                     ],
                     \JSON_PRETTY_PRINT|\JSON_UNESCAPED_UNICODE|\JSON_FORCE_OBJECT|\JSON_THROW_ON_ERROR);
 

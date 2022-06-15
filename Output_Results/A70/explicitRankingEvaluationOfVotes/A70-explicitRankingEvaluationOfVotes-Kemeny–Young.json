@@ -1,5 +1,8 @@
 {
     "Ranking": "5 > 3 > 7 > 8 > 9 > 1 > 4 > 2 > 6",
     "Number Of Seats": 3,
-    "Stats": null
+    "Stats": {
+        "bestScore": 2320,
+        "rankingInConflicts": 0
+    }
 }

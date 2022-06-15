@@ -3,7 +3,8 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 1074,
-        "rankingScore": {
+        "rankingInConflicts": 0,
+        "rankingScores": {
             "0": {
                 "1": "Jonathan Carter",
                 "2": "Sruthi Chandran",
@@ -11,22 +12,22 @@
                 "score": 1074
             },
             "1": {
-                "1": "Jonathan Carter",
-                "2": "None Of The Above",
-                "3": "Sruthi Chandran",
-                "score": 814
-            },
-            "2": {
                 "1": "Sruthi Chandran",
                 "2": "Jonathan Carter",
                 "3": "None Of The Above",
                 "score": 864
             },
-            "3": {
+            "2": {
                 "1": "Sruthi Chandran",
                 "2": "None Of The Above",
                 "3": "Jonathan Carter",
                 "score": 473
+            },
+            "3": {
+                "1": "Jonathan Carter",
+                "2": "None Of The Above",
+                "3": "Sruthi Chandran",
+                "score": 814
             },
             "4": {
                 "1": "None Of The Above",

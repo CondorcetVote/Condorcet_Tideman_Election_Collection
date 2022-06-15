@@ -3,7 +3,8 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 1189,
-        "rankingScore": {
+        "rankingInConflicts": 0,
+        "rankingScores": {
             "0": {
                 "1": "Jonathan Carter",
                 "2": "Sruthi Chandran",
@@ -12,151 +13,151 @@
                 "score": 1189
             },
             "1": {
-                "1": "Jonathan Carter",
-                "2": "Sruthi Chandran",
-                "3": "None Of The Above",
-                "4": "Brian Gupta",
-                "score": 1155
-            },
-            "2": {
-                "1": "Jonathan Carter",
-                "2": "Brian Gupta",
-                "3": "Sruthi Chandran",
-                "4": "None Of The Above",
-                "score": 1144
-            },
-            "3": {
-                "1": "Jonathan Carter",
-                "2": "Brian Gupta",
-                "3": "None Of The Above",
-                "4": "Sruthi Chandran",
-                "score": 1015
-            },
-            "4": {
-                "1": "Jonathan Carter",
-                "2": "None Of The Above",
-                "3": "Sruthi Chandran",
-                "4": "Brian Gupta",
-                "score": 1026
-            },
-            "5": {
-                "1": "Jonathan Carter",
-                "2": "None Of The Above",
-                "3": "Brian Gupta",
-                "4": "Sruthi Chandran",
-                "score": 981
-            },
-            "6": {
                 "1": "Sruthi Chandran",
                 "2": "Jonathan Carter",
                 "3": "Brian Gupta",
                 "4": "None Of The Above",
                 "score": 1008
             },
-            "7": {
-                "1": "Sruthi Chandran",
-                "2": "Jonathan Carter",
-                "3": "None Of The Above",
-                "4": "Brian Gupta",
-                "score": 974
-            },
-            "8": {
+            "2": {
                 "1": "Sruthi Chandran",
                 "2": "Brian Gupta",
                 "3": "Jonathan Carter",
                 "4": "None Of The Above",
                 "score": 791
             },
-            "9": {
+            "3": {
                 "1": "Sruthi Chandran",
                 "2": "Brian Gupta",
                 "3": "None Of The Above",
                 "4": "Jonathan Carter",
                 "score": 583
             },
-            "10": {
-                "1": "Sruthi Chandran",
-                "2": "None Of The Above",
-                "3": "Jonathan Carter",
-                "4": "Brian Gupta",
-                "score": 766
+            "4": {
+                "1": "Jonathan Carter",
+                "2": "Brian Gupta",
+                "3": "Sruthi Chandran",
+                "4": "None Of The Above",
+                "score": 1144
             },
-            "11": {
-                "1": "Sruthi Chandran",
-                "2": "None Of The Above",
-                "3": "Brian Gupta",
-                "4": "Jonathan Carter",
-                "score": 549
-            },
-            "12": {
+            "5": {
                 "1": "Brian Gupta",
                 "2": "Jonathan Carter",
                 "3": "Sruthi Chandran",
                 "4": "None Of The Above",
                 "score": 927
             },
-            "13": {
-                "1": "Brian Gupta",
-                "2": "Jonathan Carter",
-                "3": "None Of The Above",
-                "4": "Sruthi Chandran",
-                "score": 798
-            },
-            "14": {
+            "6": {
                 "1": "Brian Gupta",
                 "2": "Sruthi Chandran",
                 "3": "Jonathan Carter",
                 "4": "None Of The Above",
                 "score": 746
             },
-            "15": {
+            "7": {
                 "1": "Brian Gupta",
                 "2": "Sruthi Chandran",
                 "3": "None Of The Above",
                 "4": "Jonathan Carter",
                 "score": 538
             },
-            "16": {
+            "8": {
+                "1": "Jonathan Carter",
+                "2": "Brian Gupta",
+                "3": "None Of The Above",
+                "4": "Sruthi Chandran",
+                "score": 1015
+            },
+            "9": {
+                "1": "Brian Gupta",
+                "2": "Jonathan Carter",
+                "3": "None Of The Above",
+                "4": "Sruthi Chandran",
+                "score": 798
+            },
+            "10": {
                 "1": "Brian Gupta",
                 "2": "None Of The Above",
                 "3": "Jonathan Carter",
                 "4": "Sruthi Chandran",
                 "score": 590
             },
-            "17": {
+            "11": {
                 "1": "Brian Gupta",
                 "2": "None Of The Above",
                 "3": "Sruthi Chandran",
                 "4": "Jonathan Carter",
                 "score": 409
             },
-            "18": {
+            "12": {
+                "1": "Jonathan Carter",
+                "2": "Sruthi Chandran",
+                "3": "None Of The Above",
+                "4": "Brian Gupta",
+                "score": 1155
+            },
+            "13": {
+                "1": "Sruthi Chandran",
+                "2": "Jonathan Carter",
+                "3": "None Of The Above",
+                "4": "Brian Gupta",
+                "score": 974
+            },
+            "14": {
+                "1": "Sruthi Chandran",
+                "2": "None Of The Above",
+                "3": "Jonathan Carter",
+                "4": "Brian Gupta",
+                "score": 766
+            },
+            "15": {
+                "1": "Sruthi Chandran",
+                "2": "None Of The Above",
+                "3": "Brian Gupta",
+                "4": "Jonathan Carter",
+                "score": 549
+            },
+            "16": {
+                "1": "Jonathan Carter",
+                "2": "None Of The Above",
+                "3": "Sruthi Chandran",
+                "4": "Brian Gupta",
+                "score": 1026
+            },
+            "17": {
                 "1": "None Of The Above",
                 "2": "Jonathan Carter",
                 "3": "Sruthi Chandran",
                 "4": "Brian Gupta",
                 "score": 818
             },
-            "19": {
-                "1": "None Of The Above",
-                "2": "Jonathan Carter",
-                "3": "Brian Gupta",
-                "4": "Sruthi Chandran",
-                "score": 773
-            },
-            "20": {
+            "18": {
                 "1": "None Of The Above",
                 "2": "Sruthi Chandran",
                 "3": "Jonathan Carter",
                 "4": "Brian Gupta",
                 "score": 637
             },
-            "21": {
+            "19": {
                 "1": "None Of The Above",
                 "2": "Sruthi Chandran",
                 "3": "Brian Gupta",
                 "4": "Jonathan Carter",
                 "score": 420
+            },
+            "20": {
+                "1": "Jonathan Carter",
+                "2": "None Of The Above",
+                "3": "Brian Gupta",
+                "4": "Sruthi Chandran",
+                "score": 981
+            },
+            "21": {
+                "1": "None Of The Above",
+                "2": "Jonathan Carter",
+                "3": "Brian Gupta",
+                "4": "Sruthi Chandran",
+                "score": 773
             },
             "22": {
                 "1": "None Of The Above",

@@ -3,7 +3,8 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 1643,
-        "rankingScore": {
+        "rankingInConflicts": 0,
+        "rankingScores": {
             "0": {
                 "1": "Mehdi Dogguy",
                 "2": "Gergely Nagy",
@@ -12,151 +13,151 @@
                 "score": 1333
             },
             "1": {
-                "1": "Mehdi Dogguy",
-                "2": "Gergely Nagy",
-                "3": "None Of The Above",
-                "4": "Neil McGovern",
-                "score": 1048
-            },
-            "2": {
-                "1": "Mehdi Dogguy",
-                "2": "Neil McGovern",
-                "3": "Gergely Nagy",
-                "4": "None Of The Above",
-                "score": 1559
-            },
-            "3": {
-                "1": "Mehdi Dogguy",
-                "2": "Neil McGovern",
-                "3": "None Of The Above",
-                "4": "Gergely Nagy",
-                "score": 1370
-            },
-            "4": {
-                "1": "Mehdi Dogguy",
-                "2": "None Of The Above",
-                "3": "Gergely Nagy",
-                "4": "Neil McGovern",
-                "score": 859
-            },
-            "5": {
-                "1": "Mehdi Dogguy",
-                "2": "None Of The Above",
-                "3": "Neil McGovern",
-                "4": "Gergely Nagy",
-                "score": 1085
-            },
-            "6": {
                 "1": "Gergely Nagy",
                 "2": "Mehdi Dogguy",
                 "3": "Neil McGovern",
                 "4": "None Of The Above",
                 "score": 1120
             },
-            "7": {
-                "1": "Gergely Nagy",
-                "2": "Mehdi Dogguy",
-                "3": "None Of The Above",
-                "4": "Neil McGovern",
-                "score": 835
-            },
-            "8": {
+            "2": {
                 "1": "Gergely Nagy",
                 "2": "Neil McGovern",
                 "3": "Mehdi Dogguy",
                 "4": "None Of The Above",
                 "score": 1204
             },
-            "9": {
+            "3": {
                 "1": "Gergely Nagy",
                 "2": "Neil McGovern",
                 "3": "None Of The Above",
                 "4": "Mehdi Dogguy",
                 "score": 900
             },
-            "10": {
-                "1": "Gergely Nagy",
-                "2": "None Of The Above",
-                "3": "Mehdi Dogguy",
-                "4": "Neil McGovern",
-                "score": 531
+            "4": {
+                "1": "Mehdi Dogguy",
+                "2": "Neil McGovern",
+                "3": "Gergely Nagy",
+                "4": "None Of The Above",
+                "score": 1559
             },
-            "11": {
-                "1": "Gergely Nagy",
-                "2": "None Of The Above",
-                "3": "Neil McGovern",
-                "4": "Mehdi Dogguy",
-                "score": 615
-            },
-            "12": {
+            "5": {
                 "1": "Neil McGovern",
                 "2": "Mehdi Dogguy",
                 "3": "Gergely Nagy",
                 "4": "None Of The Above",
                 "score": 1643
             },
-            "13": {
-                "1": "Neil McGovern",
-                "2": "Mehdi Dogguy",
-                "3": "None Of The Above",
-                "4": "Gergely Nagy",
-                "score": 1454
-            },
-            "14": {
+            "6": {
                 "1": "Neil McGovern",
                 "2": "Gergely Nagy",
                 "3": "Mehdi Dogguy",
                 "4": "None Of The Above",
                 "score": 1430
             },
-            "15": {
+            "7": {
                 "1": "Neil McGovern",
                 "2": "Gergely Nagy",
                 "3": "None Of The Above",
                 "4": "Mehdi Dogguy",
                 "score": 1126
             },
-            "16": {
+            "8": {
+                "1": "Mehdi Dogguy",
+                "2": "Neil McGovern",
+                "3": "None Of The Above",
+                "4": "Gergely Nagy",
+                "score": 1370
+            },
+            "9": {
+                "1": "Neil McGovern",
+                "2": "Mehdi Dogguy",
+                "3": "None Of The Above",
+                "4": "Gergely Nagy",
+                "score": 1454
+            },
+            "10": {
                 "1": "Neil McGovern",
                 "2": "None Of The Above",
                 "3": "Mehdi Dogguy",
                 "4": "Gergely Nagy",
                 "score": 1150
             },
-            "17": {
+            "11": {
                 "1": "Neil McGovern",
                 "2": "None Of The Above",
                 "3": "Gergely Nagy",
                 "4": "Mehdi Dogguy",
                 "score": 937
             },
-            "18": {
+            "12": {
+                "1": "Mehdi Dogguy",
+                "2": "Gergely Nagy",
+                "3": "None Of The Above",
+                "4": "Neil McGovern",
+                "score": 1048
+            },
+            "13": {
+                "1": "Gergely Nagy",
+                "2": "Mehdi Dogguy",
+                "3": "None Of The Above",
+                "4": "Neil McGovern",
+                "score": 835
+            },
+            "14": {
+                "1": "Gergely Nagy",
+                "2": "None Of The Above",
+                "3": "Mehdi Dogguy",
+                "4": "Neil McGovern",
+                "score": 531
+            },
+            "15": {
+                "1": "Gergely Nagy",
+                "2": "None Of The Above",
+                "3": "Neil McGovern",
+                "4": "Mehdi Dogguy",
+                "score": 615
+            },
+            "16": {
+                "1": "Mehdi Dogguy",
+                "2": "None Of The Above",
+                "3": "Gergely Nagy",
+                "4": "Neil McGovern",
+                "score": 859
+            },
+            "17": {
                 "1": "None Of The Above",
                 "2": "Mehdi Dogguy",
                 "3": "Gergely Nagy",
                 "4": "Neil McGovern",
                 "score": 555
             },
-            "19": {
-                "1": "None Of The Above",
-                "2": "Mehdi Dogguy",
-                "3": "Neil McGovern",
-                "4": "Gergely Nagy",
-                "score": 781
-            },
-            "20": {
+            "18": {
                 "1": "None Of The Above",
                 "2": "Gergely Nagy",
                 "3": "Mehdi Dogguy",
                 "4": "Neil McGovern",
                 "score": 342
             },
-            "21": {
+            "19": {
                 "1": "None Of The Above",
                 "2": "Gergely Nagy",
                 "3": "Neil McGovern",
                 "4": "Mehdi Dogguy",
                 "score": 426
+            },
+            "20": {
+                "1": "Mehdi Dogguy",
+                "2": "None Of The Above",
+                "3": "Neil McGovern",
+                "4": "Gergely Nagy",
+                "score": 1085
+            },
+            "21": {
+                "1": "None Of The Above",
+                "2": "Mehdi Dogguy",
+                "3": "Neil McGovern",
+                "4": "Gergely Nagy",
+                "score": 781
             },
             "22": {
                 "1": "None Of The Above",

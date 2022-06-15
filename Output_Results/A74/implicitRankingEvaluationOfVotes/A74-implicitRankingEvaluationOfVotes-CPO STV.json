@@ -2,7 +2,7 @@
     "Ranking": "1 > 2",
     "Number Of Seats": 2,
     "Stats": {
-        "votes_needed_to_win": 84.333333333,
+        "Votes Needed to Win": 84.333333333,
         "Initial Score Table": {
             "1": 124,
             "2": 62,
@@ -15,35 +15,7 @@
             "0": "2",
             "1": "3"
         },
-        "Outcomes": {
-            "0": {
-                "0": "1",
-                "1": "3"
-            },
-            "1": {
-                "0": "1",
-                "1": "2"
-            }
-        },
-        "Outcomes Comparison": {
-            "Outcome N° 0 compared to Outcome N° 1": {
-                "candidates_excluded": {},
-                "scores_after_exclusion": {
-                    "1": 124,
-                    "2": 62,
-                    "3": 67
-                },
-                "scores_after_surplus": {
-                    "1": 84.333333333,
-                    "2": 82.473118272,
-                    "3": 82.034946231
-                },
-                "outcomes_scores": {
-                    "0": 166.368279564,
-                    "1": 166.806451605
-                }
-            }
-        },
+        "Completion Method": "Schulze Margin",
         "Condorcet Completion Method Stats": {
             "Pairwise": {
                 "0": {
@@ -75,6 +47,35 @@
                 },
                 "1": {
                     "0": 1527811438
+                }
+            }
+        },
+        "Outcomes": {
+            "0": {
+                "0": "1",
+                "1": "3"
+            },
+            "1": {
+                "0": "1",
+                "1": "2"
+            }
+        },
+        "Outcomes Comparison": {
+            "Outcome N° 0 compared to Outcome N° 1": {
+                "candidates_excluded": {},
+                "scores_after_exclusion": {
+                    "1": 124,
+                    "2": 62,
+                    "3": 67
+                },
+                "scores_after_surplus": {
+                    "1": 84.333333333,
+                    "2": 82.473118272,
+                    "3": 82.034946231
+                },
+                "outcomes_scores": {
+                    "0": 166.368279564,
+                    "1": 166.806451605
                 }
             }
         }

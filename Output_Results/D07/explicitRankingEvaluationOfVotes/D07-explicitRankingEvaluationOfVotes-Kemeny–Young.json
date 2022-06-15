@@ -1,5 +1,8 @@
 {
     "Ranking": "Sam Hocevar > Steve McIntyre > Raphaël Hertzog > Wouter Verhelst > Anthony Towns > Gustavo Franco > None Of The Above > Simon Richter > Aigars Mahinovs",
     "Number Of Seats": 1,
-    "Stats": null
+    "Stats": {
+        "bestScore": 8122,
+        "rankingInConflicts": 0
+    }
 }

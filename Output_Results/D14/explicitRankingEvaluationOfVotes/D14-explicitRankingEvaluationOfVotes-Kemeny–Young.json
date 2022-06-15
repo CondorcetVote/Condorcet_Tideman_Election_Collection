@@ -3,7 +3,8 @@
     "Number Of Seats": 1,
     "Stats": {
         "bestScore": 755,
-        "rankingScore": {
+        "rankingInConflicts": 0,
+        "rankingScores": {
             "0": {
                 "1": "Lucas Nussbaum",
                 "2": "Neil McGovern",
@@ -11,22 +12,22 @@
                 "score": 755
             },
             "1": {
-                "1": "Lucas Nussbaum",
-                "2": "None Of The Above",
-                "3": "Neil McGovern",
-                "score": 498
-            },
-            "2": {
                 "1": "Neil McGovern",
                 "2": "Lucas Nussbaum",
                 "3": "None Of The Above",
                 "score": 709
             },
-            "3": {
+            "2": {
                 "1": "Neil McGovern",
                 "2": "None Of The Above",
                 "3": "Lucas Nussbaum",
                 "score": 455
+            },
+            "3": {
+                "1": "Lucas Nussbaum",
+                "2": "None Of The Above",
+                "3": "Neil McGovern",
+                "score": 498
             },
             "4": {
                 "1": "None Of The Above",
