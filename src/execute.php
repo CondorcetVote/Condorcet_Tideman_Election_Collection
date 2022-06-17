@@ -46,7 +46,7 @@ ini_set('memory_limit', '12296M');
 
     $methods = Condorcet::getAuthMethods();
     natsort($methods);
-    !$isTest && (KemenyYoung::$MaxCandidates = 10) && (CPO_STV::$MaxOutcomeComparisons = 50_000);
+    !$isTest && (KemenyYoung::$MaxCandidates = 10) && (CPO_STV::$MaxOutcomeComparisons = 100_000);
 
     foreach ($tideman_collection_list as $name => $path) :
         echo 'Execute: '.$name."\n";

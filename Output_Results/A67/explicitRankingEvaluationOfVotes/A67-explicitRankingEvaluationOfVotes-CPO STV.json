@@ -1,5 +1,42 @@
 {
     "Ranking": "7 > 6 > 11 > 9 > 2 > 5 > 10 = 12 > 3 > 14",
     "Number Of Seats": 10,
-    "Stats": null
+    "Stats": {
+        "Votes Needed to Win": 16.636363636,
+        "Initial Score Table": {
+            "1": 1,
+            "2": 7,
+            "3": 4,
+            "4": 1,
+            "5": 6,
+            "6": 50,
+            "7": 57,
+            "8": 3,
+            "9": 10,
+            "10": 5,
+            "11": 26,
+            "12": 5,
+            "13": 2,
+            "14": 3
+        },
+        "Candidates elected from first round": {
+            "0": "6",
+            "1": "7",
+            "2": "11"
+        },
+        "Candidates eliminated from first round": {
+            "0": "1",
+            "1": "2",
+            "2": "3",
+            "3": "4",
+            "4": "5",
+            "5": "8",
+            "6": "9",
+            "7": "10",
+            "8": "12",
+            "9": "13",
+            "10": "14"
+        },
+        "Completion Method": "Schulze Margin"
+    }
 }
