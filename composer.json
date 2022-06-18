@@ -25,7 +25,7 @@
     "require": {
         "php": "^8.1",
         "ext-mbstring": "*",
-        "julien-boudry/condorcet": "dev-master"
+        "julien-boudry/condorcet": "4.0"
     },
     "autoload": {
         "psr-4": {
