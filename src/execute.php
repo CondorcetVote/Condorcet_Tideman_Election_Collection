@@ -131,9 +131,9 @@ ini_set('memory_limit', '12296M');
 
                 echo 'Write Result: '.$name.' - '.$mode.' - '.$methodName."\n";
 
-                if (strlen(\json_encode($oneResult['stats'], \JSON_THROW_ON_ERROR)) > (1048576 * 16)) :
+                if (($methodName === 'Kemeny–Young' && $election['number_of_seats'] > 8) || strlen(\json_encode($oneResult['stats'], \JSON_THROW_ON_ERROR)) > (1048576 * 16)) :
                     if ($methodName === 'Kemeny–Young') :
-                        unset($oneResult['stats']['rankingScores']);
+                        unset($oneResult['stats']['Ranking Scores']);
                     elseif ($methodName === 'CPO STV') :
                         unset($oneResult['stats']['Outcomes']);
                         unset($oneResult['stats']['Condorcet Completion Method Stats']);
