@@ -1,0 +1,37 @@
+{
+    "Ranking": "1",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "1": {
+                    "Quotient": 35,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 13,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 25,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        }
+    }
+}

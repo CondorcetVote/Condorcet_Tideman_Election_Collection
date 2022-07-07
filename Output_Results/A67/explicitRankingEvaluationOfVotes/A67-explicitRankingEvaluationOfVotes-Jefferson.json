@@ -1,0 +1,604 @@
+{
+    "Ranking": "7 > 6 > 7 > 11 > 6 > 7 > 6 > 7 > 11 > 6",
+    "Number Of Seats": 10,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "1": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 50,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "7": {
+                    "Quotient": 57,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "8": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 26,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "12": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "14": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "1": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 50,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "7": {
+                    "Quotient": 28.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "8": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 26,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "12": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "14": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "3": {
+                "1": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "7": {
+                    "Quotient": 28.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "8": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 26,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "12": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "14": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "4": {
+                "1": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "7": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "8": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 26,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "12": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "14": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "5": {
+                "1": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "7": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "8": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 13,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "12": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "14": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "6": {
+                "1": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 16.666666666666668,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "7": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "8": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 13,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "12": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "14": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "7": {
+                "1": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 16.666666666666668,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "7": {
+                    "Quotient": 14.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 3
+                },
+                "8": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 13,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "12": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "14": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "8": {
+                "1": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 12.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 3
+                },
+                "7": {
+                    "Quotient": 14.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 3
+                },
+                "8": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 13,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "12": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "14": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "9": {
+                "1": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 12.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 3
+                },
+                "7": {
+                    "Quotient": 11.4,
+                    "NumberOfSeatsAllocatedBeforeRound": 4
+                },
+                "8": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 13,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "12": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "14": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "10": {
+                "1": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 1,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 12.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 3
+                },
+                "7": {
+                    "Quotient": 11.4,
+                    "NumberOfSeatsAllocatedBeforeRound": 4
+                },
+                "8": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 8.666666666666666,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "12": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "14": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 4,
+            "7": 4,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 2,
+            "12": 0,
+            "13": 0,
+            "14": 0
+        }
+    }
+}

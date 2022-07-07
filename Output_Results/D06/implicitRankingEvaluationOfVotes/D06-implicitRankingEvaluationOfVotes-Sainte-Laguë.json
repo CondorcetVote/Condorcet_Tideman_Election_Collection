@@ -1,0 +1,52 @@
+{
+    "Ranking": "Anthony Towns",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Jeroen van Wolffelaar": {
+                    "Quotient": 43,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Ari Pollak": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Steve McIntyre": {
+                    "Quotient": 93,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Anthony Towns": {
+                    "Quotient": 128,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Andreas Schuldei": {
+                    "Quotient": 50,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Jonathan aka Ted Walther": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Bill Allombert": {
+                    "Quotient": 36,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None of the Above": {
+                    "Quotient": 14,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Jeroen van Wolffelaar": 0,
+            "Ari Pollak": 0,
+            "Steve McIntyre": 0,
+            "Anthony Towns": 1,
+            "Andreas Schuldei": 0,
+            "Jonathan aka Ted Walther": 0,
+            "Bill Allombert": 0,
+            "None of the Above": 0
+        }
+    }
+}

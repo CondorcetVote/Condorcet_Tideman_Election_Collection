@@ -1,0 +1,32 @@
+{
+    "Ranking": "Stefano Zacchiroli",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Wouter Verhelst": {
+                    "NumberOfVotesAllocatedBeforeRound": 30,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Gergely Nagy": {
+                    "NumberOfVotesAllocatedBeforeRound": 26,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Stefano Zacchiroli": {
+                    "NumberOfVotesAllocatedBeforeRound": 325,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Wouter Verhelst": 0,
+            "Gergely Nagy": 0,
+            "Stefano Zacchiroli": 1,
+            "None Of The Above": 0
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "Ranking": "4 > 3",
+    "Number Of Seats": 2,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "1": {
+                    "Quotient": 87,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 105,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 106,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 172,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 55,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "1": {
+                    "Quotient": 87,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 105,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 106,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 86,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "5": {
+                    "Quotient": 55,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 1,
+            "5": 0
+        }
+    }
+}

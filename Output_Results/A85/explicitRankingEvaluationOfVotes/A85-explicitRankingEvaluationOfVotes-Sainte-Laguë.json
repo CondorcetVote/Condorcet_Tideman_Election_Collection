@@ -1,0 +1,68 @@
+{
+    "Ranking": "4 > 1 > 2",
+    "Number Of Seats": 3,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "1": {
+                    "Quotient": 44,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 37,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 20,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 57,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "1": {
+                    "Quotient": 44,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 37,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 20,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "3": {
+                "1": {
+                    "Quotient": 14.666666666666666,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "2": {
+                    "Quotient": 37,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 20,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 1
+        }
+    }
+}

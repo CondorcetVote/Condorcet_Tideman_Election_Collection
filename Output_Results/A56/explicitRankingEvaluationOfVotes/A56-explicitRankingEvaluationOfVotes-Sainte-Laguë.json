@@ -1,0 +1,131 @@
+{
+    "Ranking": "10 > 11",
+    "Number Of Seats": 2,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "1": {
+                    "Quotient": 40,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 23,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 38,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 49,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 42,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 70,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "7": {
+                    "Quotient": 60,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "8": {
+                    "Quotient": 64,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 16,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 115,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "11": {
+                    "Quotient": 80,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "12": {
+                    "Quotient": 21,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 62,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "1": {
+                    "Quotient": 40,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 23,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 38,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 49,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "Quotient": 42,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "Quotient": 70,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "7": {
+                    "Quotient": 60,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "8": {
+                    "Quotient": 64,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "9": {
+                    "Quotient": 16,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "10": {
+                    "Quotient": 38.333333333333336,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "11": {
+                    "Quotient": 80,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "12": {
+                    "Quotient": 21,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "13": {
+                    "Quotient": 62,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 1,
+            "11": 1,
+            "12": 0,
+            "13": 0
+        }
+    }
+}

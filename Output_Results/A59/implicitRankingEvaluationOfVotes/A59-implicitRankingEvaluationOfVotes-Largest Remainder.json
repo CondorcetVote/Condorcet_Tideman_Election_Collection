@@ -1,0 +1,137 @@
+{
+    "Ranking": "6 > 4 > 5 > 7",
+    "Number Of Seats": 4,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "1": {
+                    "NumberOfVotesAllocatedBeforeRound": 33,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "NumberOfVotesAllocatedBeforeRound": 75,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "NumberOfVotesAllocatedBeforeRound": 56,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "NumberOfVotesAllocatedBeforeRound": 140,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "NumberOfVotesAllocatedBeforeRound": 100,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "NumberOfVotesAllocatedBeforeRound": 187,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "7": {
+                    "NumberOfVotesAllocatedBeforeRound": 92,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "1": {
+                    "NumberOfVotesAllocatedBeforeRound": 33,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "NumberOfVotesAllocatedBeforeRound": 75,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "NumberOfVotesAllocatedBeforeRound": 56,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "NumberOfVotesAllocatedBeforeRound": 140,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "5": {
+                    "NumberOfVotesAllocatedBeforeRound": 100,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "NumberOfVotesAllocatedBeforeRound": 13.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "7": {
+                    "NumberOfVotesAllocatedBeforeRound": 92,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "3": {
+                "1": {
+                    "NumberOfVotesAllocatedBeforeRound": 33,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "NumberOfVotesAllocatedBeforeRound": 75,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "NumberOfVotesAllocatedBeforeRound": 56,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "NumberOfVotesAllocatedBeforeRound": -33.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "5": {
+                    "NumberOfVotesAllocatedBeforeRound": 100,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "6": {
+                    "NumberOfVotesAllocatedBeforeRound": 13.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "7": {
+                    "NumberOfVotesAllocatedBeforeRound": 92,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "4": {
+                "1": {
+                    "NumberOfVotesAllocatedBeforeRound": 33,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "NumberOfVotesAllocatedBeforeRound": 75,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "NumberOfVotesAllocatedBeforeRound": 56,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "NumberOfVotesAllocatedBeforeRound": -33.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "5": {
+                    "NumberOfVotesAllocatedBeforeRound": -73.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "6": {
+                    "NumberOfVotesAllocatedBeforeRound": 13.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "7": {
+                    "NumberOfVotesAllocatedBeforeRound": 92,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 1,
+            "6": 1,
+            "7": 1
+        }
+    }
+}

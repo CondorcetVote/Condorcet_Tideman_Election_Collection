@@ -1,0 +1,37 @@
+{
+    "Ranking": "Branden Robinson",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Moshe Zadka": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Bdale Garbee": {
+                    "Quotient": 143,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Branden Robinson": {
+                    "Quotient": 158,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Martin Michlmayr": {
+                    "Quotient": 140,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Moshe Zadka": 0,
+            "Bdale Garbee": 0,
+            "Branden Robinson": 1,
+            "Martin Michlmayr": 0,
+            "None Of The Above": 0
+        }
+    }
+}

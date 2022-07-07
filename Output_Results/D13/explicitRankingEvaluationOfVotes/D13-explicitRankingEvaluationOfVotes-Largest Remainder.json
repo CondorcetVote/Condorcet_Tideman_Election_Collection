@@ -1,0 +1,32 @@
+{
+    "Ranking": "Lucas Nussbaum",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Gergely Nagy": {
+                    "NumberOfVotesAllocatedBeforeRound": 42,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Moray Allan": {
+                    "NumberOfVotesAllocatedBeforeRound": 128,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Lucas Nussbaum": {
+                    "NumberOfVotesAllocatedBeforeRound": 175,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 14,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Gergely Nagy": 0,
+            "Moray Allan": 0,
+            "Lucas Nussbaum": 1,
+            "None Of The Above": 0
+        }
+    }
+}

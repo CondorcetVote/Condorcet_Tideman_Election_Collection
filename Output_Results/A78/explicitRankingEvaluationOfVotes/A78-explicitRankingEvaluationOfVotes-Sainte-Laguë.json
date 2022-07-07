@@ -1,0 +1,68 @@
+{
+    "Ranking": "3 > 4 > 2",
+    "Number Of Seats": 3,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "1": {
+                    "Quotient": 31,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 110,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 196,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "Quotient": 149,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "1": {
+                    "Quotient": 31,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 110,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 65.33333333333333,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "4": {
+                    "Quotient": 149,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "3": {
+                "1": {
+                    "Quotient": 31,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "Quotient": 110,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "Quotient": 65.33333333333333,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "4": {
+                    "Quotient": 49.666666666666664,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "1": 0,
+            "2": 1,
+            "3": 1,
+            "4": 1
+        }
+    }
+}

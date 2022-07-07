@@ -1,0 +1,68 @@
+{
+    "Ranking": "1 > 3 > 1",
+    "Number Of Seats": 3,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "1": {
+                    "NumberOfVotesAllocatedBeforeRound": 23,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "2": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "NumberOfVotesAllocatedBeforeRound": 18,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "1": {
+                    "NumberOfVotesAllocatedBeforeRound": 6.333333333333332,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "2": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "NumberOfVotesAllocatedBeforeRound": 18,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "4": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "3": {
+                "1": {
+                    "NumberOfVotesAllocatedBeforeRound": 6.333333333333332,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "2": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "3": {
+                    "NumberOfVotesAllocatedBeforeRound": 1.3333333333333321,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "4": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "1": 2,
+            "2": 0,
+            "3": 1,
+            "4": 0
+        }
+    }
+}

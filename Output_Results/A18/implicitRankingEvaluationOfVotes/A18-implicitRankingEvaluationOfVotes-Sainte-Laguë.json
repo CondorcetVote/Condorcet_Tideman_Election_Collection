@@ -1,0 +1,120 @@
+{
+    "Ranking": "C > B > F > A",
+    "Number Of Seats": 4,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "A": {
+                    "Quotient": 127,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 214,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "C": {
+                    "Quotient": 249,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "Quotient": 116,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 91,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "F": {
+                    "Quotient": 179,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "A": {
+                    "Quotient": 127,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 214,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "C": {
+                    "Quotient": 83,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "Quotient": 116,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 91,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "F": {
+                    "Quotient": 179,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "3": {
+                "A": {
+                    "Quotient": 127,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 71.33333333333333,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "Quotient": 83,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "Quotient": 116,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 91,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "F": {
+                    "Quotient": 179,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "4": {
+                "A": {
+                    "Quotient": 127,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 71.33333333333333,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "Quotient": 83,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "Quotient": 116,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 91,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "F": {
+                    "Quotient": 59.666666666666664,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "A": 1,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 1
+        }
+    }
+}

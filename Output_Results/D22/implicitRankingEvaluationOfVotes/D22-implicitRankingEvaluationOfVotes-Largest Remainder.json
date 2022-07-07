@@ -1,0 +1,32 @@
+{
+    "Ranking": "Jonathan Carter",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Felix Lechner": {
+                    "NumberOfVotesAllocatedBeforeRound": 37,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Jonathan Carter": {
+                    "NumberOfVotesAllocatedBeforeRound": 239,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Hideki Yamane": {
+                    "NumberOfVotesAllocatedBeforeRound": 51,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None of the above": {
+                    "NumberOfVotesAllocatedBeforeRound": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Felix Lechner": 0,
+            "Jonathan Carter": 1,
+            "Hideki Yamane": 0,
+            "None of the above": 0
+        }
+    }
+}

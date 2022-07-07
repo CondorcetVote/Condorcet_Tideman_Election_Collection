@@ -1,0 +1,720 @@
+{
+    "Ranking": "B > E > J > H > N > B > C > E > J > K > M > A",
+    "Number Of Seats": 12,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 9,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "C": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 8,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 8,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "K": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 4.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 8,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 8,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "K": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "3": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 4.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 8,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "K": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "4": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 4.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "5": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 4.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "6": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 4.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "7": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "C": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "8": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "C": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "9": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "C": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 2.6666666666666665,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "10": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "C": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 2.6666666666666665,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 2.6666666666666665,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "K": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "11": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "C": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 2.6666666666666665,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 2.6666666666666665,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "K": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "12": {
+                "A": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "C": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "Quotient": 2.6666666666666665,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "F": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "Quotient": 2.6666666666666665,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "K": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "L": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "N": {
+                    "Quotient": 2.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "A": 1,
+            "B": 2,
+            "C": 1,
+            "D": 0,
+            "E": 2,
+            "F": 0,
+            "G": 0,
+            "H": 1,
+            "I": 0,
+            "J": 2,
+            "K": 1,
+            "L": 0,
+            "M": 1,
+            "N": 1
+        }
+    }
+}

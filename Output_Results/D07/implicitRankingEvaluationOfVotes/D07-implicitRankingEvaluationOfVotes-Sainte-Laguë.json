@@ -1,0 +1,57 @@
+{
+    "Ranking": "Sam Hocevar",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Wouter Verhelst": {
+                    "Quotient": 45,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Aigars Mahinovs": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Gustavo Franco": {
+                    "Quotient": 17,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Sam Hocevar": {
+                    "Quotient": 135,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Steve McIntyre": {
+                    "Quotient": 83,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Raphaël Hertzog": {
+                    "Quotient": 50,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Anthony Towns": {
+                    "Quotient": 82,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Simon Richter": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Wouter Verhelst": 0,
+            "Aigars Mahinovs": 0,
+            "Gustavo Franco": 0,
+            "Sam Hocevar": 1,
+            "Steve McIntyre": 0,
+            "Raphaël Hertzog": 0,
+            "Anthony Towns": 0,
+            "Simon Richter": 0,
+            "None Of The Above": 0
+        }
+    }
+}

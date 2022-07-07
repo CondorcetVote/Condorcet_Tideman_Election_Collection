@@ -1,0 +1,27 @@
+{
+    "Ranking": "Chris Lamb",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Mehdi Dogguy": {
+                    "NumberOfVotesAllocatedBeforeRound": 132,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Chris Lamb": {
+                    "NumberOfVotesAllocatedBeforeRound": 158,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 6,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Mehdi Dogguy": 0,
+            "Chris Lamb": 1,
+            "None Of The Above": 0
+        }
+    }
+}

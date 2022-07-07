@@ -1,0 +1,47 @@
+{
+    "Ranking": "Branden Robinson",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Jonathan Walther": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Matthew Garrett": {
+                    "Quotient": 118,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Branden Robinson": {
+                    "Quotient": 122,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Anthony Towns": {
+                    "Quotient": 121,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Angus Lees": {
+                    "Quotient": 11,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Andreas Schuldei": {
+                    "Quotient": 75,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None of the Above": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Jonathan Walther": 0,
+            "Matthew Garrett": 0,
+            "Branden Robinson": 1,
+            "Anthony Towns": 0,
+            "Angus Lees": 0,
+            "Andreas Schuldei": 0,
+            "None of the Above": 0
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Ranking": "Ben Collins",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Branden Robinson": {
+                    "Quotient": 92,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Anand Kumria": {
+                    "Quotient": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Ben Collins": {
+                    "Quotient": 115,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Bdale Garbee": {
+                    "Quotient": 94,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "Quotient": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Branden Robinson": 0,
+            "Anand Kumria": 0,
+            "Ben Collins": 1,
+            "Bdale Garbee": 0,
+            "None Of The Above": 0
+        }
+    }
+}

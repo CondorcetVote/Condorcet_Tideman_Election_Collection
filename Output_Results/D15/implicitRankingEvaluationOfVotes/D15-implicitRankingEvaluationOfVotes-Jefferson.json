@@ -1,0 +1,32 @@
+{
+    "Ranking": "Neil McGovern",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Mehdi Dogguy": {
+                    "Quotient": 105,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Gergely Nagy": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Neil McGovern": {
+                    "Quotient": 192,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "Quotient": 7,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Mehdi Dogguy": 0,
+            "Gergely Nagy": 0,
+            "Neil McGovern": 1,
+            "None Of The Above": 0
+        }
+    }
+}

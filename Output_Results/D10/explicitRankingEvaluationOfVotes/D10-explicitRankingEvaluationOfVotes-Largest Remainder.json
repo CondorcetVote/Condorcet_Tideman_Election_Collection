@@ -1,0 +1,37 @@
+{
+    "Ranking": "Stefano Zacchiroli",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Stefano Zacchiroli": {
+                    "NumberOfVotesAllocatedBeforeRound": 228,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Wouter Verhelst": {
+                    "NumberOfVotesAllocatedBeforeRound": 60,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Charles Plessy": {
+                    "NumberOfVotesAllocatedBeforeRound": 11,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Margarita Manterola": {
+                    "NumberOfVotesAllocatedBeforeRound": 97,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Stefano Zacchiroli": 1,
+            "Wouter Verhelst": 0,
+            "Charles Plessy": 0,
+            "Margarita Manterola": 0,
+            "None Of The Above": 0
+        }
+    }
+}

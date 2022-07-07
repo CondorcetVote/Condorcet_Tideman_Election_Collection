@@ -1,0 +1,37 @@
+{
+    "Ranking": "Sam Hartman",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Joerg Jaspert": {
+                    "NumberOfVotesAllocatedBeforeRound": 61,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Jonathan Carter": {
+                    "NumberOfVotesAllocatedBeforeRound": 50,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Sam Hartman": {
+                    "NumberOfVotesAllocatedBeforeRound": 119,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Martin Michlmayr": {
+                    "NumberOfVotesAllocatedBeforeRound": 105,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Joerg Jaspert": 0,
+            "Jonathan Carter": 0,
+            "Sam Hartman": 1,
+            "Martin Michlmayr": 0,
+            "None Of The Above": 0
+        }
+    }
+}

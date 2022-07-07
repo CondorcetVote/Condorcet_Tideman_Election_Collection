@@ -1,0 +1,57 @@
+{
+    "Ranking": "Sam Hocevar",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Wouter Verhelst": {
+                    "NumberOfVotesAllocatedBeforeRound": 45,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Aigars Mahinovs": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Gustavo Franco": {
+                    "NumberOfVotesAllocatedBeforeRound": 17,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Sam Hocevar": {
+                    "NumberOfVotesAllocatedBeforeRound": 135,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Steve McIntyre": {
+                    "NumberOfVotesAllocatedBeforeRound": 83,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Raphaël Hertzog": {
+                    "NumberOfVotesAllocatedBeforeRound": 50,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Anthony Towns": {
+                    "NumberOfVotesAllocatedBeforeRound": 82,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Simon Richter": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Wouter Verhelst": 0,
+            "Aigars Mahinovs": 0,
+            "Gustavo Franco": 0,
+            "Sam Hocevar": 1,
+            "Steve McIntyre": 0,
+            "Raphaël Hertzog": 0,
+            "Anthony Towns": 0,
+            "Simon Richter": 0,
+            "None Of The Above": 0
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Ranking": "Jonathan Carter",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Jonathan Carter": {
+                    "NumberOfVotesAllocatedBeforeRound": 302,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Sruthi Chandran": {
+                    "NumberOfVotesAllocatedBeforeRound": 100,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 23,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Jonathan Carter": 1,
+            "Sruthi Chandran": 0,
+            "None Of The Above": 0
+        }
+    }
+}

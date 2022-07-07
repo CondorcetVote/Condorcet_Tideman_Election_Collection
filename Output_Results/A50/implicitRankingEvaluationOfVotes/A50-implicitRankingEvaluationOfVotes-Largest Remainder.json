@@ -1,0 +1,32 @@
+{
+    "Ranking": "A",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 344,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": 79,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": 79,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 59,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 0
+        }
+    }
+}

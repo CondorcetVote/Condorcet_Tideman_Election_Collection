@@ -1,0 +1,32 @@
+{
+    "Ranking": "Bdale Garbee",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Branden Robinson": {
+                    "Quotient": 143,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Raphael Hertzog": {
+                    "Quotient": 99,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Bdale Garbee": {
+                    "Quotient": 227,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "Quotient": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Branden Robinson": 0,
+            "Raphael Hertzog": 0,
+            "Bdale Garbee": 1,
+            "None Of The Above": 0
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Ranking": "Steve McIntyre",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Steve McIntyre": {
+                    "NumberOfVotesAllocatedBeforeRound": 147,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Raphael Hertzog": {
+                    "NumberOfVotesAllocatedBeforeRound": 124,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Marc Brockschmidt": {
+                    "NumberOfVotesAllocatedBeforeRound": 90,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Steve McIntyre": 1,
+            "Raphael Hertzog": 0,
+            "Marc Brockschmidt": 0,
+            "None Of The Above": 0
+        }
+    }
+}

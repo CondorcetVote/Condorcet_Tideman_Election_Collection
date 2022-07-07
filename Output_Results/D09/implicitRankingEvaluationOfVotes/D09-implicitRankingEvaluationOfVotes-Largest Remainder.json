@@ -1,0 +1,27 @@
+{
+    "Ranking": "Steve McIntyre",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Stefano Zacchiroli": {
+                    "NumberOfVotesAllocatedBeforeRound": 134,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Steve McIntyre": {
+                    "NumberOfVotesAllocatedBeforeRound": 178,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 15,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Stefano Zacchiroli": 0,
+            "Steve McIntyre": 1,
+            "None Of The Above": 0
+        }
+    }
+}

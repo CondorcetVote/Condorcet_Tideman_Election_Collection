@@ -1,0 +1,146 @@
+{
+    "Ranking": "Candidate  1 > Candidate  9 > Candidate  1",
+    "Number Of Seats": 3,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Candidate  1": {
+                    "Quotient": 128,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  2": {
+                    "Quotient": 36,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  3": {
+                    "Quotient": 34,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  4": {
+                    "Quotient": 31,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  5": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  6": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  7": {
+                    "Quotient": 24,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  8": {
+                    "Quotient": 31,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  9": {
+                    "Quotient": 65,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate 10": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "Candidate  1": {
+                    "Quotient": 64,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "Candidate  2": {
+                    "Quotient": 36,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  3": {
+                    "Quotient": 34,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  4": {
+                    "Quotient": 31,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  5": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  6": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  7": {
+                    "Quotient": 24,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  8": {
+                    "Quotient": 31,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  9": {
+                    "Quotient": 65,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate 10": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "3": {
+                "Candidate  1": {
+                    "Quotient": 64,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "Candidate  2": {
+                    "Quotient": 36,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  3": {
+                    "Quotient": 34,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  4": {
+                    "Quotient": 31,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  5": {
+                    "Quotient": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  6": {
+                    "Quotient": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  7": {
+                    "Quotient": 24,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  8": {
+                    "Quotient": 31,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Candidate  9": {
+                    "Quotient": 32.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "Candidate 10": {
+                    "Quotient": 19,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Candidate  1": 2,
+            "Candidate  2": 0,
+            "Candidate  3": 0,
+            "Candidate  4": 0,
+            "Candidate  5": 0,
+            "Candidate  6": 0,
+            "Candidate  7": 0,
+            "Candidate  8": 0,
+            "Candidate  9": 1,
+            "Candidate 10": 0
+        }
+    }
+}

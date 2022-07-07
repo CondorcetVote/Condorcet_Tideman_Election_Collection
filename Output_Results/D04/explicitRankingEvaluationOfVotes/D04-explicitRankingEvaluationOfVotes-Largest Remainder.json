@@ -1,0 +1,32 @@
+{
+    "Ranking": "Martin Michlmayr",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Gergely Nagy": {
+                    "NumberOfVotesAllocatedBeforeRound": 10,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Branden Robinson": {
+                    "NumberOfVotesAllocatedBeforeRound": 177,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Martin Michlmayr": {
+                    "NumberOfVotesAllocatedBeforeRound": 278,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None of the Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Gergely Nagy": 0,
+            "Branden Robinson": 0,
+            "Martin Michlmayr": 1,
+            "None of the Above": 0
+        }
+    }
+}

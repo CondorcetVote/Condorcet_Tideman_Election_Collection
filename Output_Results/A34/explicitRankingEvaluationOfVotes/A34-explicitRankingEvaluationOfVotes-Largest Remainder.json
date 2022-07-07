@@ -1,0 +1,720 @@
+{
+    "Ranking": "B > E > J > H > N > C > K > M > B > A > D > F",
+    "Number Of Seats": 12,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": 9,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 8,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 8,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "2": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": 3.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 8,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 8,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "3": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": 3.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 8,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "4": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": 3.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "5": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": 3.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": 5,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            },
+            "6": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": 3.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "7": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": 3.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "8": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": 3.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": 4,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "9": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": 3.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "10": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "11": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": -2.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            },
+            "12": {
+                "A": {
+                    "NumberOfVotesAllocatedBeforeRound": -2.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "B": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.5,
+                    "NumberOfSeatsAllocatedBeforeRound": 2
+                },
+                "C": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "D": {
+                    "NumberOfVotesAllocatedBeforeRound": -2.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "E": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "F": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "G": {
+                    "NumberOfVotesAllocatedBeforeRound": 3,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "H": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "I": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "J": {
+                    "NumberOfVotesAllocatedBeforeRound": 2.75,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "K": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "L": {
+                    "NumberOfVotesAllocatedBeforeRound": 2,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "M": {
+                    "NumberOfVotesAllocatedBeforeRound": -1.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                },
+                "N": {
+                    "NumberOfVotesAllocatedBeforeRound": -0.25,
+                    "NumberOfSeatsAllocatedBeforeRound": 1
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "A": 1,
+            "B": 2,
+            "C": 1,
+            "D": 1,
+            "E": 1,
+            "F": 1,
+            "G": 0,
+            "H": 1,
+            "I": 0,
+            "J": 1,
+            "K": 1,
+            "L": 0,
+            "M": 1,
+            "N": 1
+        }
+    }
+}

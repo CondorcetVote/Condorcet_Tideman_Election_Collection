@@ -1,0 +1,27 @@
+{
+    "Ranking": "Lucas Nussbaum",
+    "Number Of Seats": 1,
+    "Stats": {
+        "Rounds": {
+            "1": {
+                "Lucas Nussbaum": {
+                    "NumberOfVotesAllocatedBeforeRound": 197,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "Neil McGovern": {
+                    "NumberOfVotesAllocatedBeforeRound": 156,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                },
+                "None Of The Above": {
+                    "NumberOfVotesAllocatedBeforeRound": 14,
+                    "NumberOfSeatsAllocatedBeforeRound": 0
+                }
+            }
+        },
+        "Seats per Candidates": {
+            "Lucas Nussbaum": 1,
+            "Neil McGovern": 0,
+            "None Of The Above": 0
+        }
+    }
+}
