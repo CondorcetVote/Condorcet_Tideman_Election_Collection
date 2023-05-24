@@ -17,6 +17,7 @@ for ($i = 1 ; $i <= 99 ; $i++) :
             $content = file_get_contents('https://rangevoting.org/TiData/A'.$i.'.HIL');
 
             if ($content !== false) :
+                $content = str_replace("\r\n", "\n", $content);
                 file_put_contents($filePath, $content);
             endif;
         endif;
@@ -32,6 +33,7 @@ for ($i = 1 ; $i <= 1 ; $i++) : #Except election 2001, Debian format are now set
         $content = file_get_contents('https://rangevoting.org/TiData/D'.$n.'.HIL');
 
         if ($content !== false) :
+            $content = str_replace("\r\n", "\n", $content);
             file_put_contents($filePath, $content);
         endif;
     endif;
