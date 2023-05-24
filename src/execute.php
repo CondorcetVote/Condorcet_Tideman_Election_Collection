@@ -69,18 +69,18 @@ ini_set('memory_limit', '12296M');
         !$election->getImplicitRankingRule() && $election->setImplicitRanking(false); # Security, default must be true.
         computeResults($election, 'implicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
         $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] = $specifications . $numberOfVotes;
-        $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: true);
+        $results[$name]['condorcetFormatVotes']['implicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::createFromElection(election: $election, aggregateVotes: true, includeTags: false, inContext: true);
 
         // Official conversion to .cvotes
         $results[$name]['condorcetFormatVotes']['officialCvotesConversion'] = $specifications . $numberOfVotes;
-        $results[$name]['condorcetFormatVotes']['officialCvotesConversion'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: !str_starts_with($name, 'D') ? true : false, includeTags: true, inContext: false);
+        $results[$name]['condorcetFormatVotes']['officialCvotesConversion'] .= CondorcetElectionFormat::createFromElection(election: $election, aggregateVotes: !str_starts_with($name, 'D') ? true : false, includeTags: true, inContext: false);
 
         // Explicit Ranking
         $election->setImplicitRanking(false);
         computeResults($election, 'explicitRankingEvaluationOfVotes', $results[$name], $name, $methods);
         $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] = $specifications . $numberOfVotes;
         $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] .= "# For a better readability of the results, the last rank has been interpreted and added when absent from the original ballot. If you are looking for the most faithful conversion to the original, look at the 'Tideman_Collection_Converted_To_CondorcetElectionFormat' folder.\n";
-        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::exportElectionToCondorcetElectionFormat(election: $election, aggregateVotes: true, includeTags: false, inContext: false);
+        $results[$name]['condorcetFormatVotes']['explicitRankingEvaluationOfVotes'] .= CondorcetElectionFormat::createFromElection(election: $election, aggregateVotes: true, includeTags: false, inContext: false);
 
         writeResults($name, $results[$name]);
     endforeach;
