@@ -13,7 +13,7 @@ use CondorcetPHP\Condorcet\Algo\StatsVerbosity;
 use CondorcetPHP\Condorcet\Condorcet;
 use CondorcetPHP\Condorcet\Election;
 use CondorcetPHP\Condorcet\Throwable\CondorcetPublicApiException;
-use CondorcetPHP\Condorcet\Tools\Converters\CondorcetElectionFormat;
+use CondorcetPHP\Condorcet\Tools\Converters\CEF\CondorcetElectionFormat;
 use CondorcetPHP\Condorcet\Tools\Converters\DavidHillFormat;
 use CondorcetPHP\Condorcet\Tools\Converters\DebianFormat;
 
