@@ -96,6 +96,10 @@ ini_set('memory_limit', '12296M');
     function computeResults (Election $election, string $index, array &$results, string $name, array $methods)
     {
         foreach ($methods as $method) :
+            if (!Condorcet::getMethodClass($method)::IS_DETERMINISTIC) {
+                continue;
+            }
+
             try {
                 echo 'Compute method: '.$name.' - '.$index.' - '.$method."\n";
                 $results['methodsResults'][$method][$index] = [
