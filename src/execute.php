@@ -45,7 +45,9 @@ ini_set('memory_limit', '12296M');
     // Compute
 
     $methods = Condorcet::getAuthMethods();
+    $methods = array_filter($methods, fn($v): bool => Condorcet::getMethodClass($v)::IS_DETERMINISTIC);
     natsort($methods);
+
     !$isTest && (KemenyYoung::$MaxCandidates = 10) && (CPO_STV::$MaxOutcomeComparisons = 100_000);
 
     foreach ($tideman_collection_list as $name => $path) :
@@ -96,9 +98,6 @@ ini_set('memory_limit', '12296M');
     function computeResults (Election $election, string $index, array &$results, string $name, array $methods)
     {
         foreach ($methods as $method) :
-            if (!Condorcet::getMethodClass($method)::IS_DETERMINISTIC) {
-                continue;
-            }
 
             try {
                 echo 'Compute method: '.$name.' - '.$index.' - '.$method."\n";
